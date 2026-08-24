@@ -24,7 +24,7 @@ jobs:
   epg-sync:
     name: ⚡ Continuous Non-Stop EPG Sync
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: 📥 Checkout Repository
@@ -32,17 +32,12 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
       - name: 🚀 Run Resilient EPG Engine
         env:
           # Secret URL: completely hides the source link from public view
           EPG_SOURCE_URL: ${{ secrets.EPG_SOURCE_URL }}
         run: |
-          python epg.py
+          python3 epg.py
 
       - name: 💾 Commit & Push EPG Updates
         run: |
