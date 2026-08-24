@@ -3,56 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260820181500 +0000" stop="20260820204500 +0000" channel="73">
-    <title>Notting Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938548?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260820204500 +0000" stop="20260820224500 +0000" channel="73">
-    <title>Salt</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260820224500 +0000" stop="20260821004500 +0000" channel="73">
-    <title>Resident Evil: Afterlife</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821004500 +0000" stop="20260821031500 +0000" channel="73">
-    <title>Unfaithful</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821031500 +0000" stop="20260821054500 +0000" channel="73">
-    <title>The Caine Mutiny</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939284?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821054500 +0000" stop="20260821074500 +0000" channel="73">
-    <title>Salt</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821074500 +0000" stop="20260821094500 +0000" channel="73">
-    <title>Resident Evil: Afterlife</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821094500 +0000" stop="20260821120000 +0000" channel="73">
-    <title>Fist Of Fury</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939523?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821120000 +0000" stop="20260821143000 +0000" channel="73">
-    <title>Sherlock Holmes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940107?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821143000 +0000" stop="20260821170000 +0000" channel="73">
-    <title>The Matrix Revolutions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260821170000 +0000" stop="20260821191500 +0000" channel="73">
     <title>Fist Of Fury</title>
     <desc />
@@ -267,5 +217,55 @@
     <title>Grown Ups</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941152?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260825204500 +0000" stop="20260825224500 +0000" channel="73">
+    <title>Resident Evil: Afterlife</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260825224500 +0000" stop="20260826011500 +0000" channel="73">
+    <title>Apollo 13</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826011500 +0000" stop="20260826031500 +0000" channel="73">
+    <title>Mamma Mia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826031500 +0000" stop="20260826051500 +0000" channel="73">
+    <title>Grown Ups</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941152?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826051500 +0000" stop="20260826071500 +0000" channel="73">
+    <title>Resident Evil: Afterlife</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826071500 +0000" stop="20260826094500 +0000" channel="73">
+    <title>Apollo 13</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826094500 +0000" stop="20260826120000 +0000" channel="73">
+    <title>Rear Window</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826120000 +0000" stop="20260826144500 +0000" channel="73">
+    <title>Contact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826144500 +0000" stop="20260826164500 +0000" channel="73">
+    <title>The Scorpion King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826164500 +0000" stop="20260826193000 +0000" channel="73">
+    <title>Apollo 13</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940865?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
