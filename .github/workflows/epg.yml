@@ -1,10 +1,11 @@
-name: EPG Auto Sync (15 min)
+name: Non-Stop EPG Auto Sync (Every 15 min)
 
 on:
   schedule:
-    # Run every 15 minutes
+    # Run continuously every 15 minutes non-stop
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Manual run trigger
+  workflow_dispatch: # Allows manual trigger at any time
+  repository_dispatch: # Allows webhook / external triggers
   push:
     branches:
       - main
@@ -22,8 +23,9 @@ permissions:
 
 jobs:
   epg-sync:
-    name: Sync DialogTv EPG
+    name: ⚡ Continuous Non-Stop EPG Sync
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: 📥 Checkout Repository
@@ -37,14 +39,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: ⚡ Run EPG Processor
+      - name: 🚀 Run Resilient EPG Engine
         env:
           # Secret URL: completely hides the source link from public view
           EPG_SOURCE_URL: ${{ secrets.EPG_SOURCE_URL }}
         run: |
           python epg.py
 
-      - name: 🚀 Commit & Push Updates
+      - name: 💾 Commit & Push EPG Updates (Non-Stop Retry)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -54,8 +56,21 @@ jobs:
           if ! git diff --staged --quiet; then
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
             git commit -m "Auto-update EPG [$TIMESTAMP] [skip ci]"
-            git push origin HEAD
+            
+            # Non-stop robust push with rebase retries
+            for i in {1..3}; do
+              echo "Pushing changes (Attempt $i)..."
+              git pull --rebase origin main || true
+              git push origin HEAD && break || sleep 3
+            done
             echo "✅ EPG updated and pushed successfully."
           else
-            echo "ℹ️  No changes in EPG data."
+            echo "ℹ️ No changes in EPG data."
           fi
+
+      - name: 🛡️ Keepalive Workflow (Prevents GitHub from stopping scheduled runs)
+        uses: gautamkrishnar/keepalive-workflow@v2
+        with:
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "chore: keepalive scheduled sync [skip ci]"
