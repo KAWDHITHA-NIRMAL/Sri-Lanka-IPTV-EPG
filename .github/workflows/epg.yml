@@ -5,7 +5,6 @@ on:
     # Run continuously every 15 minutes non-stop
     - cron: '*/15 * * * *'
   workflow_dispatch: # Allows manual trigger at any time
-  repository_dispatch: # Allows webhook / external triggers
   push:
     branches:
       - main
@@ -32,7 +31,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -46,7 +44,7 @@ jobs:
         run: |
           python epg.py
 
-      - name: 💾 Commit & Push EPG Updates (Non-Stop Retry)
+      - name: 💾 Commit & Push EPG Updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,10 +65,3 @@ jobs:
           else
             echo "ℹ️ No changes in EPG data."
           fi
-
-      - name: 🛡️ Keepalive Workflow (Prevents GitHub from stopping scheduled runs)
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          committer_username: "github-actions[bot]"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          commit_message: "chore: keepalive scheduled sync [skip ci]"
