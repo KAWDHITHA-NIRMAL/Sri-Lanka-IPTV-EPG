@@ -1,6 +1,6 @@
 # 📺 DialogTv EPG Feeds
 
-> **Last Synced**: `2026-08-24 12:48:12 UTC`  
+> **Last Synced**: `2026-08-24 13:05:48 UTC`  
 > **Date**: `2026-08-24` | **Channels**: `137` | **Programmes**: `21578`
 
 ## ⚡ Quick Links
@@ -152,4 +152,4 @@
 | **Channel 99** | `92` | 41 | [`2026-08-24/92.xml`](2026-08-24/92.xml) |
 
 ---
-*Auto-updated every 15 minutes by GitHub Actions.*
+*Auto-updated continuously every 15 minutes by GitHub Actions.*
