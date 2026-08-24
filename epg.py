@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-Automated DialogTv EPG Grabber & Channel Splitter
-Generates:
-  - DialogTv/Channels/<YYYY-MM-DD>/<channel_id>.xml
-  - DialogTv/Channels/Epg.xml
-  - DialogTv/Channels/Epg.xml.gz
+Automated Non-Stop DialogTv EPG Grabber & Channel Splitter
+Features:
+  - Non-stop 24/7 resilience with auto-retries & exponential backoff
+  - Generates:
+      * DialogTv/Channels/<YYYY-MM-DD>/<channel_id>.xml
+      * DialogTv/Channels/Epg.xml
+      * DialogTv/Channels/Epg.xml.gz
 """
 
 import os
 import re
 import sys
+import time
 import gzip
 import shutil
 import logging
@@ -40,33 +43,56 @@ def make_safe_filename(name: str) -> str:
     return safe if safe else "channel_unknown"
 
 
-def download_epg_data(url: str) -> bytes:
-    """Download EPG data securely with decompression."""
+def download_epg_data(url: str, max_retries: int = 5, retry_delay: int = 5) -> bytes:
+    """
+    Download EPG data securely with automatic retry mechanism and decompression.
+    Ensures non-stop operation even during temporary network glitches.
+    """
     if not url:
-        logger.error("EPG_SOURCE_URL environment variable is missing! Please configure GitHub Secrets.")
-        # Check if local fallback exists
+        logger.error("EPG_SOURCE_URL is missing! Please configure GitHub Secrets.")
         local_fallback = os.path.join(DIALOG_BASE_DIR, "Epg.xml")
         if os.path.exists(local_fallback):
             logger.warning("Using local Epg.xml as fallback.")
             with open(local_fallback, "rb") as f:
                 return f.read()
-        raise ValueError("EPG_SOURCE_URL is not set.")
+        raise ValueError("EPG_SOURCE_URL environment variable is not set.")
 
-    logger.info("Connecting to secure EPG source...")
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "application/xml, text/xml, application/gzip, */*",
         "Accept-Encoding": "gzip, deflate"
     }
-    
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        data = resp.read()
-        if data[:2] == b'\x1f\x8b':
-            logger.info("Decompressing gzipped stream...")
-            data = gzip.decompress(data)
-        logger.info(f"Downloaded {len(data):,} bytes.")
-        return data
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            logger.info(f"Connecting to EPG source (Attempt {attempt}/{max_retries})...")
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=45) as resp:
+                data = resp.read()
+                if data[:2] == b'\x1f\x8b':
+                    logger.info("Decompressing gzipped stream...")
+                    data = gzip.decompress(data)
+                
+                if len(data) < 500:
+                    raise ValueError(f"Downloaded payload too small ({len(data)} bytes). Possible network issue.")
+
+                logger.info(f"Successfully downloaded {len(data):,} bytes of EPG data.")
+                return data
+        except Exception as e:
+            logger.warning(f"Attempt {attempt} failed: {e}")
+            if attempt < max_retries:
+                wait_time = retry_delay * attempt
+                logger.info(f"Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                logger.error("All download attempts exhausted.")
+                # Final local fallback check
+                local_fallback = os.path.join(DIALOG_BASE_DIR, "Epg.xml")
+                if os.path.exists(local_fallback):
+                    logger.warning("Falling back to existing local Epg.xml.")
+                    with open(local_fallback, "rb") as f:
+                        return f.read()
+                raise
 
 
 def process_dialogtv_epg(raw_bytes: bytes):
@@ -149,9 +175,9 @@ def process_dialogtv_epg(raw_bytes: bytes):
     # 3. Generate README index in DialogTv/Channels/
     write_dialogtv_readme(channel_names_map, programmes_map, today_date, total_channels, total_programmes)
 
-    logger.info("✅ Finished processing DialogTv EPG!")
-    logger.info(f"  - Date Directory: DialogTv/Channels/{today_date}/")
-    logger.info(f"  - Full EPG File:  DialogTv/Channels/Epg.xml")
+    logger.info("✅ Non-stop EPG cycle completed successfully!")
+    logger.info(f"  - Date Directory: DialogTv/Channels/{today_date}/ ({total_channels} files)")
+    logger.info(f"  - Full EPG File:  DialogTv/Channels/Epg.xml ({os.path.getsize(full_epg_file)/1024:.1f} KB)")
 
 
 def write_dialogtv_readme(names_map: dict, progs_map: dict, today_date: str, count: int, progs: int):
@@ -185,19 +211,19 @@ def write_dialogtv_readme(names_map: dict, progs_map: dict, today_date: str, cou
 
     lines.append("")
     lines.append("---")
-    lines.append("*Auto-updated every 15 minutes by GitHub Actions.*")
+    lines.append("*Auto-updated continuously every 15 minutes by GitHub Actions.*")
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
 
 def main():
-    logger.info("=== Starting DialogTv EPG Sync ===")
+    logger.info("=== Starting Non-Stop DialogTv EPG Sync ===")
     try:
         raw_xml = download_epg_data(EPG_SOURCE_URL)
         process_dialogtv_epg(raw_xml)
     except Exception as e:
-        logger.error(f"Error: {e}")
+        logger.error(f"Error during EPG sync: {e}")
         sys.exit(1)
 
 
