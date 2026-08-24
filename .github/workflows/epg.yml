@@ -57,5 +57,5 @@ jobs:
             git push origin HEAD
             echo "✅ EPG updated and pushed successfully."
           else
-            echo "ℹ️ No changes in EPG data."
+            echo "ℹ️  No changes in EPG data."
           fi
