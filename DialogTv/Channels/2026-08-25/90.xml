@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260822050000 +0000" stop="20260822083200 +0000" channel="90">
-    <title>Mr. Natwarlal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822083200 +0000" stop="20260822110000 +0000" channel="90">
-    <title>Karishma Kudrat Ka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822110000 +0000" stop="20260822140000 +0000" channel="90">
-    <title>Laila</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822170000 +0000" channel="90">
-    <title>Nazar Ke Samne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822170000 +0000" stop="20260822200000 +0000" channel="90">
     <title>Samurai: The Warrior</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Sweekar Kiya Maine</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941560?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827080000 +0000" stop="20260827110000 +0000" channel="90">
+    <title>Majaal (1987)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827110000 +0000" stop="20260827140000 +0000" channel="90">
+    <title>Ranbanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941562?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827140000 +0000" stop="20260827170000 +0000" channel="90">
+    <title>Insaniyat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827170000 +0000" stop="20260827200000 +0000" channel="90">
+    <title>Yeh Hai Judgement Hanged Till Death</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941564?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

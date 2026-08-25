@@ -3,36 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20260822033000 +0000" stop="20260822073000 +0000" channel="62">
-    <title>Live - Sri Lanka Tennis Nationals 2026 - Final Day</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822073000 +0000" stop="20260822103000 +0000" channel="62">
-    <title>Live - Sri Lanka Tennis Nationals 2026 - Final Day</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941921?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822123000 +0000" channel="62">
-    <title>Live - Sri Lanka Tennis Nationals 2026 - Final Day</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941921?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822123000 +0000" stop="20260822133000 +0000" channel="62">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822133000 +0000" stop="20260822140000 +0000" channel="62">
-    <title>Segement - Youth Plus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822160000 +0000" channel="62">
-    <title>Highlights - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822160000 +0000" stop="20260822180000 +0000" channel="62">
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
@@ -262,5 +232,30 @@
     <title>Live - Sri Lanka Tennis Nationals 2026 - Day 14</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827073000 +0000" stop="20260827103000 +0000" channel="62">
+    <title>Live - Sri Lanka Tennis Nationals 2026 - Day 14</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827103000 +0000" stop="20260827123000 +0000" channel="62">
+    <title>Live - Sri Lanka Tennis Nationals 2026 - Day 14</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827123000 +0000" stop="20260827143000 +0000" channel="62">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827143000 +0000" stop="20260827163000 +0000" channel="62">
+    <title>Highlights - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827183000 +0000" channel="62">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

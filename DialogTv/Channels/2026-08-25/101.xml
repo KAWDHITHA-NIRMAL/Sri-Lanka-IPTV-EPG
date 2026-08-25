@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260822050000 +0000" stop="20260822083000 +0000" channel="101">
-    <title>Mersal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940399?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822083000 +0000" stop="20260822120000 +0000" channel="101">
-    <title>Charlie 777</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822120000 +0000" stop="20260822153000 +0000" channel="101">
-    <title>Pathu Thala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822153000 +0000" stop="20260822180000 +0000" channel="101">
     <title>Madhura Raja</title>
     <desc />
@@ -257,5 +242,25 @@
     <title>Thunder</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827080000 +0000" stop="20260827103000 +0000" channel="101">
+    <title>Super Police</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827103000 +0000" stop="20260827130000 +0000" channel="101">
+    <title>Annapoorani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827130000 +0000" stop="20260827163000 +0000" channel="101">
+    <title>Vantha Rajavathaan Varuven</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827190000 +0000" channel="101">
+    <title>Rajini Murugan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912661?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

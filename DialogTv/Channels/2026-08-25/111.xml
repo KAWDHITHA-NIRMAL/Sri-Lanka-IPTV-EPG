@@ -3,51 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20260822054000 +0000" stop="20260822063500 +0000" channel="111">
-    <title>Doc  S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914904?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822063500 +0000" stop="20260822073000 +0000" channel="111">
-    <title>FBI S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822073000 +0000" stop="20260822100500 +0000" channel="111">
-    <title>Fast X</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822100500 +0000" stop="20260822110000 +0000" channel="111">
-    <title>The Rookie S06</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914912?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822110000 +0000" stop="20260822115500 +0000" channel="111">
-    <title>Doc  S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914904?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822115500 +0000" stop="20260822125000 +0000" channel="111">
-    <title>NCIS: Sydney S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822125000 +0000" stop="20260822134500 +0000" channel="111">
-    <title>FBI S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822134500 +0000" stop="20260822144000 +0000" channel="111">
-    <title>Boston Blue  S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915921?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822144000 +0000" stop="20260822153000 +0000" channel="111">
-    <title>FBI: International  S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822153000 +0000" stop="20260822173500 +0000" channel="111">
     <title>Ghostbusters: Frozen Empire</title>
     <desc />
@@ -662,5 +617,75 @@
     <title>FBI  S07</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/914907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827071000 +0000" stop="20260827080000 +0000" channel="111">
+    <title>S.W.A.T. S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827080000 +0000" stop="20260827085500 +0000" channel="111">
+    <title>Doc  S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827085500 +0000" stop="20260827095000 +0000" channel="111">
+    <title>The Rookie: Feds  S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827095000 +0000" stop="20260827104500 +0000" channel="111">
+    <title>Boston Blue  S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915921?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827104500 +0000" stop="20260827114000 +0000" channel="111">
+    <title>American Ninja Warrior  S15</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914903?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827114000 +0000" stop="20260827123500 +0000" channel="111">
+    <title>FBI  S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827123500 +0000" stop="20260827125000 +0000" channel="111">
+    <title>Axn Ultimate Challenge: Sarawak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827125000 +0000" stop="20260827134500 +0000" channel="111">
+    <title>S.W.A.T. S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827134500 +0000" stop="20260827144000 +0000" channel="111">
+    <title>The Rookie  S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827144000 +0000" stop="20260827151500 +0000" channel="111">
+    <title>Twisted Metal  S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827151500 +0000" stop="20260827155000 +0000" channel="111">
+    <title>Twisted Metal  S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827155000 +0000" stop="20260827164500 +0000" channel="111">
+    <title>The Rookie  S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827164500 +0000" stop="20260827172000 +0000" channel="111">
+    <title>Twisted Metal  S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827172000 +0000" stop="20260827181500 +0000" channel="111">
+    <title>S.W.A.T. S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,61 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20260822063000 +0000" stop="20260822090000 +0000" channel="21">
-    <title>English Film</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822090000 +0000" stop="20260822103000 +0000" channel="21">
-    <title>Sath Samuduru Yata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822113000 +0000" channel="21">
-    <title>Fun &amp; Learning For Kids</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822113000 +0000" stop="20260822123000 +0000" channel="21">
-    <title>Dhaham Paura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/814055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822123000 +0000" stop="20260822130000 +0000" channel="21">
-    <title>Buddha Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822130000 +0000" stop="20260822140000 +0000" channel="21">
-    <title>Sadaham Amadahara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50446?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822143000 +0000" channel="21">
-    <title>Sinhala Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="21">
-    <title>Jana Paura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401998?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="21">
-    <title>Jana Paura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401998?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="21">
-    <title>Sambawana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822163000 +0000" stop="20260822183000 +0000" channel="21">
     <title>Sarwa  Rrathrika Prith Vikashaya</title>
     <desc />
@@ -787,5 +732,60 @@
     <title>Documentry</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/751544?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827073300 +0000" stop="20260827083300 +0000" channel="21">
+    <title>Jathaka Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827083300 +0000" stop="20260827093300 +0000" channel="21">
+    <title>Bawanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827093300 +0000" stop="20260827103300 +0000" channel="21">
+    <title>Documentry</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751544?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827103300 +0000" stop="20260827113300 +0000" channel="21">
+    <title>Sawasa Darma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941987?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827113300 +0000" stop="20260827123300 +0000" channel="21">
+    <title>Buddhist Song</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827123300 +0000" stop="20260827130300 +0000" channel="21">
+    <title>Buddha Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827130300 +0000" stop="20260827143100 +0000" channel="21">
+    <title>Bakthi Geetha Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827143100 +0000" stop="20260827150100 +0000" channel="21">
+    <title>Bakthi Geetha Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827150100 +0000" stop="20260827153100 +0000" channel="21">
+    <title>Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827153100 +0000" stop="20260827165800 +0000" channel="21">
+    <title>Bihidora</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827165800 +0000" stop="20260827183000 +0000" channel="21">
+    <title>Sarwa  Rathrika Prith Vikashaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/814057?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

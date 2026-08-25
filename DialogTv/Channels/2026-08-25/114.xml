@@ -3,31 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260822060500 +0000" stop="20260822080000 +0000" channel="114">
-    <title>American Made</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940163?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822101500 +0000" channel="114">
-    <title>Harry Potter And The Order Of The Phoenix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822101500 +0000" stop="20260822123000 +0000" channel="114">
-    <title>Mickey 17</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914387?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822123000 +0000" stop="20260822140000 +0000" channel="114">
-    <title>The Astronaut</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874488?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822160500 +0000" channel="114">
-    <title>The Bride!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822160500 +0000" stop="20260822184000 +0000" channel="114">
     <title>Superman Returns</title>
     <desc />
@@ -342,5 +317,35 @@
     <title>Regretting You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827072000 +0000" stop="20260827094500 +0000" channel="114">
+    <title>Transformers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827094500 +0000" stop="20260827111500 +0000" channel="114">
+    <title>Dog Man</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911626?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827111500 +0000" stop="20260827130000 +0000" channel="114">
+    <title>Ghost Town</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911610?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827130000 +0000" stop="20260827152500 +0000" channel="114">
+    <title>Transformers: Revenge Of The Fallen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941616?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827152500 +0000" stop="20260827165500 +0000" channel="114">
+    <title>Him</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914676?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827165500 +0000" stop="20260827190000 +0000" channel="114">
+    <title>Weapons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/875074?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

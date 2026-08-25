@@ -3,31 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20260822053000 +0000" stop="20260822073000 +0000" channel="44">
-    <title>Teleshopping</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822073000 +0000" stop="20260822103000 +0000" channel="44">
-    <title>Veere Di Wedding</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941737?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822113000 +0000" channel="44">
-    <title>Pyaar Tune Kya Kiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822113000 +0000" stop="20260822123000 +0000" channel="44">
-    <title>Teleshopping</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822123000 +0000" stop="20260822163000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822163000 +0000" stop="20260822193000 +0000" channel="44">
     <title>Fear Files</title>
     <desc />
@@ -467,5 +442,30 @@
     <title>Teleshopping</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827073000 +0000" stop="20260827113000 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827113000 +0000" stop="20260827123000 +0000" channel="44">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827123000 +0000" stop="20260827143000 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827143000 +0000" stop="20260827163000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827185200 +0000" channel="44">
+    <title>Fear Files</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

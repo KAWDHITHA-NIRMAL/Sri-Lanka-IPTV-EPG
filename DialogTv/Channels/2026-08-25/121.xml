@@ -3,36 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260822050000 +0000" stop="20260822103000 +0000" channel="121">
-    <title>Live BWF World Championships 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940738?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822112000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822112000 +0000" stop="20260822133000 +0000" channel="121">
-    <title>Live PL 2026-27 Hull City v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941757?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822133000 +0000" stop="20260822135000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822135000 +0000" stop="20260822160000 +0000" channel="121">
-    <title>Live PL 2026-27 Everton v Crystal Palace</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941802?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822160000 +0000" stop="20260822162000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822162000 +0000" stop="20260822183000 +0000" channel="121">
     <title>Live PL 2026-27 Brentford v Tottenham Hotspur</title>
     <desc />
@@ -1112,5 +1082,45 @@
     <title>Live BWF World Championships 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940738?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827100000 +0000" stop="20260827150000 +0000" channel="121">
+    <title>Live BWF World Championships 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940738?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="121">
+    <title>PL Highlights Man Utd v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885458?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="121">
+    <title>PL Highlights Crystal Palace v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="121">
+    <title>PL Highlights Arsenal v Aston villa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912784?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="121">
+    <title>PL Highlights Man Utd v Brighton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827170000 +0000" stop="20260827171500 +0000" channel="121">
+    <title>US Open Heroes 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/883586?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827171500 +0000" stop="20260827173000 +0000" channel="121">
+    <title>US Open Heroes 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/883586?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827173000 +0000" stop="20260827193000 +0000" channel="121">
+    <title>PL 25-26 Newcastle v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940741?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

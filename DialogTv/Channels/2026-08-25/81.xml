@@ -3,66 +3,6 @@
   <channel id="81">
     <display-name>Channel 88</display-name>
   </channel>
-  <programme start="20260822063000 +0000" stop="20260822080000 +0000" channel="81">
-    <title>'Disney Spotlight : Zombie 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="81">
-    <title>Wizards Beyond Waverly Place</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="81">
-    <title>Stuck In The Middle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874565?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="81">
-    <title>Stuck In The Middle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874565?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="81">
-    <title>Bunk'd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874566?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822110000 +0000" channel="81">
-    <title>Bunk'd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874566?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822110000 +0000" stop="20260822123000 +0000" channel="81">
-    <title>Girl Meets World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822123000 +0000" stop="20260822140000 +0000" channel="81">
-    <title>Good Luck Charlie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/720203?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822143000 +0000" channel="81">
-    <title>New Show - The Suite Life On Deck</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="81">
-    <title>The Suite Life On Deck</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822150000 +0000" stop="20260822163000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822163000 +0000" stop="20260822173000 +0000" channel="81">
-    <title>Girl Meets World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822173000 +0000" stop="20260822193000 +0000" channel="81">
     <title>Liv And Maddie</title>
     <desc />
@@ -544,6 +484,71 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/914932?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260827063000 +0000" stop="20260827073000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827073000 +0000" stop="20260827080000 +0000" channel="81">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827080000 +0000" stop="20260827083000 +0000" channel="81">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827083000 +0000" stop="20260827090000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874565?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827100000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874565?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827100000 +0000" stop="20260827103000 +0000" channel="81">
+    <title>Bunk'd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874566?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827103000 +0000" stop="20260827110000 +0000" channel="81">
+    <title>Bunk'd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874566?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827110000 +0000" stop="20260827123000 +0000" channel="81">
+    <title>Girl Meets World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827123000 +0000" stop="20260827140000 +0000" channel="81">
+    <title>Good Luck Charlie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/720203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="81">
+    <title>New Show - The Suite Life On Deck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="81">
+    <title>The Suite Life On Deck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827163000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827173000 +0000" channel="81">
+    <title>Girl Meets World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827173000 +0000" stop="20260827193000 +0000" channel="81">
     <title>Liv And Maddie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
