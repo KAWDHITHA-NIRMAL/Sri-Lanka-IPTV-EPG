@@ -3,21 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260822170500 +0000" stop="20260822175000 +0000" channel="42">
-    <title>Talk With Harendra Jayalal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37001?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822175000 +0000" stop="20260822182000 +0000" channel="42">
-    <title>Bollywood Lover</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35014?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822182000 +0000" stop="20260822183000 +0000" channel="42">
-    <title>Fashion Tips</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="42">
     <title>Handunagaththoth Oba Ma</title>
     <desc />
@@ -422,5 +407,10 @@
     <title>Tenors &amp; Divas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33767?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

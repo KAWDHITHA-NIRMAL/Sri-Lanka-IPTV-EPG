@@ -3,16 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20260822160000 +0000" stop="20260822180000 +0000" channel="62">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="62">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822203000 +0000" channel="62">
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
@@ -257,5 +247,10 @@
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827203000 +0000" channel="62">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

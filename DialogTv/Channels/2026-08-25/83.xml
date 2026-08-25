@@ -3,11 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20260822170500 +0000" stop="20260822175500 +0000" channel="83">
-    <title>Africa With Ade Adepitan S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941770?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822175500 +0000" stop="20260822184500 +0000" channel="83">
     <title>Big Cats 24/7 S1</title>
     <desc />
@@ -852,5 +847,15 @@
     <title>Inside The Factory: Coffee S4</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/939461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827174200 +0000" stop="20260827182500 +0000" channel="83">
+    <title>World's Most Dangerous Roads S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827182500 +0000" stop="20260827191100 +0000" channel="83">
+    <title>Rick Stein's Road To Mexico S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

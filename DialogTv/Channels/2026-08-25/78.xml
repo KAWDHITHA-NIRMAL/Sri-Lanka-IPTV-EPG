@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="78">
-    <title>Bewitched S6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="78">
     <title>Homicide: Life On The Street S2</title>
     <desc />
@@ -732,5 +727,10 @@
     <title>Bonnie &amp; Clyde</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="78">
+    <title>CSI S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941548?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

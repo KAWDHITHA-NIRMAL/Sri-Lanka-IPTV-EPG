@@ -3,11 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260822170000 +0000" stop="20260822180000 +0000" channel="9">
-    <title>Weekend Night Movie Cont</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762458?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180000 +0000" stop="20260822235900 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
@@ -697,5 +692,10 @@
     <title>Nenjam Marappathillai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827235900 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

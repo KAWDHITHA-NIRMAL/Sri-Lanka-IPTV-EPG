@@ -3,16 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260822165300 +0000" stop="20260822174100 +0000" channel="59">
-    <title>Air Crash Investigation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174100 +0000" stop="20260822182600 +0000" channel="59">
-    <title>Airport Security Madrid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874890?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822182600 +0000" stop="20260822190800 +0000" channel="59">
     <title>Airport Security Madrid</title>
     <desc />
@@ -834,6 +824,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/874891?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260827173000 +0000" stop="20260827183000 +0000" channel="59">
+    <title>To Catch A Smuggler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="59">
     <title>To Catch A Smuggler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/152761?accessKey=WkVjNWNscFhORDBLCg==" />

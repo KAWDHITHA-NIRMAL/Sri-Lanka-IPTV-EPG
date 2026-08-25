@@ -3,16 +3,6 @@
   <channel id="76">
     <display-name>Channel 83</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="76">
-    <title>Blue Lock S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="76">
-    <title>Two and a Half Men S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="76">
     <title>Two and a Half Men S04</title>
     <desc />
@@ -922,5 +912,15 @@
     <title>Blue Lock S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/815498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="76">
+    <title>Two and a Half Men S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="76">
+    <title>Two and a Half Men S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

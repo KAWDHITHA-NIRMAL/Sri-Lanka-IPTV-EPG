@@ -3,11 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="26">
-    <title>Special Dharmadeshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="26">
     <title>Special Dharmadeshanawa</title>
     <desc />
@@ -687,5 +682,10 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762577?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="26">
+    <title>Sasarin Niwanata By Ven.Thapowanaye Ariyadaja Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698978?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

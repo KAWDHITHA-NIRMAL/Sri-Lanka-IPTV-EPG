@@ -3,11 +3,6 @@
   <channel id="43">
     <display-name>Channel 49</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="43">
-    <title>Gramaphone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/185016?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="43">
     <title>Rajathi Raja</title>
     <desc />
@@ -532,5 +527,10 @@
     <title>Gramaphone</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/185016?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="43">
+    <title>Rajathi Raja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/184999?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="56">
-    <title>Naked And Afraid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/147557?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="56">
     <title>Naked And Afraid Brazil</title>
     <desc />
@@ -647,5 +642,10 @@
     <title>Naked And Afraid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/147557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="56">
+    <title>Naked And Afraid XL</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/766354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

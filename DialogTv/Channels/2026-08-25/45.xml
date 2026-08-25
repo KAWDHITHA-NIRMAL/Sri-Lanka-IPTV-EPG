@@ -3,16 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="45">
-    <title>Ice Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="45">
-    <title>Ice Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822185400 +0000" channel="45">
     <title>Siyaya - Wildest Cape</title>
     <desc />
@@ -2632,5 +2622,15 @@
     <title>Ice Stars</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="45">
+    <title>Ice Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827185400 +0000" channel="45">
+    <title>Siyaya - Wildest Cape</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682665?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20260822165500 +0000" stop="20260822174200 +0000" channel="61">
-    <title>Storage Wars S17</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174200 +0000" stop="20260822180400 +0000" channel="61">
-    <title>Shipping Wars S06</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917025?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180400 +0000" stop="20260822185000 +0000" channel="61">
     <title>Pawn Stars S25</title>
     <desc />
@@ -1027,5 +1017,15 @@
     <title>Storage Wars S16</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/749973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827174200 +0000" stop="20260827180400 +0000" channel="61">
+    <title>Storage Wars S12a</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180400 +0000" stop="20260827185000 +0000" channel="61">
+    <title>Forged In Fire: Beat The Judges S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939295?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

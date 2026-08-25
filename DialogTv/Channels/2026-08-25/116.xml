@@ -3,11 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260822145000 +0000" stop="20260822173500 +0000" channel="116">
-    <title>Pure White</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916038?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822173500 +0000" stop="20260822202000 +0000" channel="116">
     <title>Martinez</title>
     <desc />
@@ -367,5 +362,10 @@
     <title>Run Up</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/914683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827182500 +0000" stop="20260827183500 +0000" channel="116">
+    <title>Amerika Square</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914344?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

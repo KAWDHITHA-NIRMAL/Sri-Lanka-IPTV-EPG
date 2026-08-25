@@ -3,11 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="64">
-    <title>CWG 2026 -Medal of Glory WEIGHTLIFTING</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940693?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="64">
     <title>England-W vs India-W 2026 Only Test Highlights</title>
     <desc />
@@ -752,5 +747,10 @@
     <title>Asia Cup 2016 : PAK v IND Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="64">
+    <title>Women's Rising Stars 2026 : SF2 - Ban A vs Pak A Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/880181?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20260822171000 +0000" stop="20260822180600 +0000" channel="131">
-    <title>Diesel Brothers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180600 +0000" stop="20260822185400 +0000" channel="131">
     <title>All Girls Garage</title>
     <desc />
@@ -792,5 +787,10 @@
     <title>Street Customs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/884587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="131">
+    <title>Faster with Newbern and Cotten</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884342?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

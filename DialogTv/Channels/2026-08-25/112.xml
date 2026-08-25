@@ -3,11 +3,6 @@
   <channel id="112">
     <display-name>Channel 118</display-name>
   </channel>
-  <programme start="20260822171000 +0000" stop="20260822175500 +0000" channel="112">
-    <title>Next Level Chef S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822175500 +0000" stop="20260822184000 +0000" channel="112">
     <title>Next Level Chef S4</title>
     <desc />
@@ -687,5 +682,10 @@
     <title>Late Night With Seth Meyers S13</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827174500 +0000" stop="20260827190000 +0000" channel="112">
+    <title>The Masked Singer U.K. S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815832?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

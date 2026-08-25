@@ -3,11 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20260822171900 +0000" stop="20260822181300 +0000" channel="110">
-    <title>Iberian Vipers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939595?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822181300 +0000" stop="20260822190700 +0000" channel="110">
     <title>Natural Born Monsters</title>
     <desc />
@@ -674,6 +669,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260827172800 +0000" stop="20260827182800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827182800 +0000" stop="20260827192000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />

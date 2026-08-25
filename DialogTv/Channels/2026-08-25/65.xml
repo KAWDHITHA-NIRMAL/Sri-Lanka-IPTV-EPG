@@ -3,16 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="65">
-    <title>Sri Lanka vs India 2024 2nd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187561?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="65">
-    <title>England vs Pakistan 2026 1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822203000 +0000" channel="65">
     <title>Sri Lanka V South Africa 2018 2nd Test Highlights</title>
     <desc />
@@ -642,5 +632,10 @@
     <title>DP World Asia Cup 2025 - Super Four - Sri Lanka vs Bangladesh Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940529?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="65">
+    <title>Sri Lanka vs West Indies 2nd Test Complete Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942238?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

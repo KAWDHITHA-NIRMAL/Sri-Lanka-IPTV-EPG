@@ -3,16 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822181500 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822181500 +0000" stop="20260822190000 +0000" channel="134">
     <title>DocFilm - Delivered! - The Courier Driver Business</title>
     <desc />
@@ -1847,5 +1837,25 @@
     <title>Global Us - What connects us all</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827180200 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760844?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180200 +0000" stop="20260827181500 +0000" channel="134">
+    <title>DW News Focus - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/812582?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827181500 +0000" stop="20260827183000 +0000" channel="134">
+    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/722088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="134">
+    <title>Docfilm - The Kiel Canal - Efficient But Expensive</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911687?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

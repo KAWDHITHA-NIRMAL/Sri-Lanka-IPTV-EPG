@@ -3,16 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="66">
-    <title>CWG 2026 -Medal of Glory NEERAJ CHOPRA Special</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939218?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="66">
-    <title>Durand Cup 2026 - S F 1-Mohun Bagan SG vs North East United FC Highligts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822220000 +0000" channel="66">
     <title>UFC 321 - Aspinall vs Gane</title>
     <desc />
@@ -547,5 +537,10 @@
     <title>DP World Asia Cup 2025 Highlights - Super Four - India vs Pakistan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942269?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="66">
+    <title>UFC - Fight O'Clock ALEX PEIREIRA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942257?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

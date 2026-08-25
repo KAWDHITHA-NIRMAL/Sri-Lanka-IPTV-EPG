@@ -3,11 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260822150000 +0000" stop="20260822180000 +0000" channel="92">
-    <title>Prabhu Donor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939867?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180000 +0000" stop="20260822210000 +0000" channel="92">
     <title>Awarapan</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Trimurti</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827210000 +0000" channel="92">
+    <title>Radhe Shyam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941182?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

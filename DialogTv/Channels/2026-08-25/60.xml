@@ -3,11 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260822172500 +0000" stop="20260822181200 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822181200 +0000" stop="20260822185700 +0000" channel="60">
     <title>Kings Of The Wild</title>
     <desc />
@@ -712,5 +707,10 @@
     <title>Savage Kingdom Compilations:</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="60">
+    <title>Tiger Queen Of Taru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/763018?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

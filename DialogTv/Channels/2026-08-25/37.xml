@@ -3,31 +3,6 @@
   <channel id="37">
     <display-name>Channel 43</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822173800 +0000" channel="37">
-    <title>5 Minutes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822173800 +0000" stop="20260822174800 +0000" channel="37">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/57938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174800 +0000" stop="20260822180000 +0000" channel="37">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/57938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822180500 +0000" channel="37">
-    <title>5 Minutes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180500 +0000" stop="20260822182900 +0000" channel="37">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/57938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822182900 +0000" stop="20260822183400 +0000" channel="37">
     <title>5 Minutes</title>
     <desc />
@@ -2142,5 +2117,20 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/57938?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827175200 +0000" stop="20260827180000 +0000" channel="37">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/57938?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827181400 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827181400 +0000" stop="20260827184400 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20260822160000 +0000" stop="20260822174500 +0000" channel="2">
-    <title>Geethma 2025 - Nalanda College</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174500 +0000" stop="20260822175800 +0000" channel="2">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822175800 +0000" stop="20260823000100 +0000" channel="2">
     <title>End Of Transmission</title>
     <desc />
@@ -952,5 +942,15 @@
     <title>Alakamandawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/773380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827181300 +0000" channel="2">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827181300 +0000" stop="20260828000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

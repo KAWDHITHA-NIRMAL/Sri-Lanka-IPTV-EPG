@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260822171900 +0000" stop="20260822181300 +0000" channel="55">
-    <title>Iberian Vipers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939595?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822181300 +0000" stop="20260822190700 +0000" channel="55">
     <title>Natural Born Monsters</title>
     <desc />
@@ -717,5 +712,15 @@
     <title>Kanga Pan: An African Horror Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/912612?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827181000 +0000" stop="20260827183000 +0000" channel="55">
+    <title>Surviving The Serengeti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827190500 +0000" channel="55">
+    <title>Surviving The Serengeti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939810?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

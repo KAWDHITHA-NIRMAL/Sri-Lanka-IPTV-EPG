@@ -3,11 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="124">
-    <title>DP World Asia Cup 2025 Highlights - Super Four - India vs Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884671?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="124">
     <title>CWG 2026 -Medal of Glory ATHLETICS</title>
     <desc />
@@ -720,5 +715,15 @@
     <title>England vs India 2018-3rd T20I Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="124">
+    <title>England vs India 2022-1st T20I Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915149?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="124">
+    <title>New Zealand Vs India 2019 1st ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940467?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

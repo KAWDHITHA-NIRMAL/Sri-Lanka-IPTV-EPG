@@ -3,16 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/880724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="122">
-    <title>US Open Best of GOATs - Novak Djokovic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822184500 +0000" channel="122">
     <title>FIH Women's World Cup HLs CHI v IND</title>
     <desc />
@@ -1092,5 +1082,15 @@
     <title>Live FIH Hockey Men's WC'26- NED v JPN</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941118?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="122">
+    <title>US Open Best of GOATs - Serena Williams</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914186?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827203000 +0000" channel="122">
+    <title>Live FIH Hockey Women's WC'26 BEL v IRE</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941664?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

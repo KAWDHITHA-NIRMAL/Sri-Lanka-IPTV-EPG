@@ -3,11 +3,6 @@
   <channel id="82">
     <display-name>Channel 89</display-name>
   </channel>
-  <programme start="20260822164300 +0000" stop="20260822182300 +0000" channel="82">
-    <title>Parks &amp; Recreation - Comedy Central</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822182300 +0000" stop="20260822183400 +0000" channel="82">
     <title>73 Questions With Neil Patrick Harris Vogue</title>
     <desc />
@@ -967,5 +962,20 @@
     <title>Timer (2009)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941585?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827173200 +0000" stop="20260827173900 +0000" channel="82">
+    <title>73 Questions With Saoirse Ronan Vogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827173900 +0000" stop="20260827174700 +0000" channel="82">
+    <title>73 Questions With Margot Robbie Vogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916078?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827174700 +0000" stop="20260827193400 +0000" channel="82">
+    <title>Parks &amp; Recreation - Comedy Central</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/802509?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

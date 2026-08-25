@@ -3,11 +3,6 @@
   <channel id="86">
     <display-name>Channel 93</display-name>
   </channel>
-  <programme start="20260822142000 +0000" stop="20260822174400 +0000" channel="86">
-    <title>Taare Zameen Par</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915011?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822174400 +0000" stop="20260822201800 +0000" channel="86">
     <title>We Are Gangers</title>
     <desc />
@@ -219,6 +214,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260827153000 +0000" stop="20260827183000 +0000" channel="86">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827213000 +0000" channel="86">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />

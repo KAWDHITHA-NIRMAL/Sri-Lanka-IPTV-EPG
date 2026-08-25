@@ -3,11 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260822163000 +0000" stop="20260822183000 +0000" channel="15">
-    <title>Siyatha Tharu Piri Rea Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916972?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822213000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -397,5 +392,10 @@
     <title>Ravana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

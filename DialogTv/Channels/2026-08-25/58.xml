@@ -3,11 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="58">
-    <title>Darcey &amp; Stacey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941292?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="58">
     <title>Say Yes To The Dress</title>
     <desc />
@@ -767,5 +762,10 @@
     <title>Darcey &amp; Stacey</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941292?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="58">
+    <title>90 Day Journey: Jenny &amp; Sumit</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939598?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

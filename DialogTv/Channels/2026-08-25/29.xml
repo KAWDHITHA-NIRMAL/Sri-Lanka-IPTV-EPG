@@ -3,11 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822183000 +0000" channel="29">
-    <title>Holy Rosary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939033?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822193000 +0000" channel="29">
     <title>Eucharistic Adoration</title>
     <desc />
@@ -827,5 +822,10 @@
     <title>Holy Hour-Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/800661?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="29">
+    <title>Eucharistic Adoration-English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

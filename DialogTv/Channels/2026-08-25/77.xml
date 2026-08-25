@@ -3,16 +3,6 @@
   <channel id="77">
     <display-name>Channel 84</display-name>
   </channel>
-  <programme start="20260822165000 +0000" stop="20260822174000 +0000" channel="77">
-    <title>Titans S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174000 +0000" stop="20260822183000 +0000" channel="77">
-    <title>Titans S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822185000 +0000" channel="77">
     <title>Friends S8</title>
     <desc />
@@ -952,5 +942,10 @@
     <title>The Notebook</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827181000 +0000" stop="20260827190000 +0000" channel="77">
+    <title>Titans S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="36">
     <display-name>Channel 42</display-name>
   </channel>
-  <programme start="20260822173000 +0000" stop="20260822174300 +0000" channel="36">
-    <title>Bulletin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/69706?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174300 +0000" stop="20260822174500 +0000" channel="36">
-    <title>Introduction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707173?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822174500 +0000" stop="20260822180000 +0000" channel="36">
-    <title>Talking Europe Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709917?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822181500 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50481?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822181500 +0000" stop="20260822181600 +0000" channel="36">
-    <title>Introduction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707173?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822181600 +0000" stop="20260822182200 +0000" channel="36">
-    <title>French Connections</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50972?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822182200 +0000" stop="20260822183000 +0000" channel="36">
-    <title>Focus Week End</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822183000 +0000" stop="20260822184500 +0000" channel="36">
     <title>Bulletin</title>
     <desc />
@@ -3057,5 +3022,25 @@
     <title>The Debate</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/709896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827175300 +0000" stop="20260827180000 +0000" channel="36">
+    <title>Short Cuts</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/56885?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827182000 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827182000 +0000" stop="20260827183000 +0000" channel="36">
+    <title>Sports Prod B</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709895?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827184500 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50481?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

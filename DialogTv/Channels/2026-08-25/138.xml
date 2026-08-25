@@ -3,11 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20260822170700 +0000" stop="20260822180900 +0000" channel="138">
-    <title>Bhojpuri Bawaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822180900 +0000" stop="20260823003000 +0000" channel="138">
     <title>Parineetii</title>
     <desc />
@@ -852,5 +847,10 @@
     <title>Parineetii</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/698946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827173300 +0000" stop="20260827183100 +0000" channel="138">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818003?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
