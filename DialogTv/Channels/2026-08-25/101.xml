@@ -3,41 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="101">
-    <title>House Owner</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940173?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821180000 +0000" stop="20260821193000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821193000 +0000" stop="20260821214600 +0000" channel="101">
-    <title>Irumbu Thirai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938617?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821214600 +0000" stop="20260821220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821220000 +0000" stop="20260822000000 +0000" channel="101">
-    <title>Ten Hours</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822000000 +0000" stop="20260822023000 +0000" channel="101">
-    <title>Bruce Lee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940397?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822050000 +0000" channel="101">
-    <title>My Dear Bootham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940398?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822050000 +0000" stop="20260822083000 +0000" channel="101">
     <title>Mersal</title>
     <desc />
@@ -262,5 +227,35 @@
     <title>Bangalore Naatkal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826190000 +0000" stop="20260826193000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826193000 +0000" stop="20260826220000 +0000" channel="101">
+    <title>Valimai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="101">
+    <title>Dhuruvangal Pathinaaru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827000000 +0000" stop="20260827023000 +0000" channel="101">
+    <title>Vadacurry</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827050000 +0000" channel="101">
+    <title>Oru Pakka Kathai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941641?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827050000 +0000" stop="20260827080000 +0000" channel="101">
+    <title>Thunder</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941642?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

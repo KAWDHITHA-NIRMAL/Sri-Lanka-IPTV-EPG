@@ -3,31 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260821173000 +0000" stop="20260821203000 +0000" channel="19">
-    <title>Sisila Ima</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821203000 +0000" stop="20260821233000 +0000" channel="19">
-    <title>Murugasan warusa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939485?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821233000 +0000" stop="20260822013000 +0000" channel="19">
-    <title>Samanaliyak Iki Binda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822053000 +0000" channel="19">
-    <title>Dhawala Kadulla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822053000 +0000" stop="20260822083000 +0000" channel="19">
     <title>Kekari</title>
     <desc />
@@ -232,5 +207,30 @@
     <title>Ape Kalaye Suba Saha Yasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826203000 +0000" stop="20260826233000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826233000 +0000" stop="20260827013000 +0000" channel="19">
+    <title>Thriweel Malli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941332?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827013000 +0000" stop="20260827023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827053000 +0000" channel="19">
+    <title>Isuru Diya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827083000 +0000" channel="19">
+    <title>Katharaka Sewanali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941519?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

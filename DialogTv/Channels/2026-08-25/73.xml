@@ -3,31 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260821170000 +0000" stop="20260821191500 +0000" channel="73">
-    <title>Fist Of Fury</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939523?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821191500 +0000" stop="20260821214500 +0000" channel="73">
-    <title>Sherlock Holmes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940107?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821214500 +0000" stop="20260822001500 +0000" channel="73">
-    <title>The Matrix Revolutions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822001500 +0000" stop="20260822023000 +0000" channel="73">
-    <title>The Bounty Hunter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939817?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822050000 +0000" channel="73">
-    <title>Sherlock Holmes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940107?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822050000 +0000" stop="20260822073000 +0000" channel="73">
     <title>The Matrix Revolutions</title>
     <desc />
@@ -267,5 +242,30 @@
     <title>Apollo 13</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826193000 +0000" stop="20260826214500 +0000" channel="73">
+    <title>Rear Window</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826214500 +0000" stop="20260827003000 +0000" channel="73">
+    <title>Contact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827003000 +0000" stop="20260827023000 +0000" channel="73">
+    <title>The Scorpion King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827044500 +0000" channel="73">
+    <title>Rear Window</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827044500 +0000" stop="20260827073000 +0000" channel="73">
+    <title>Contact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941721?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

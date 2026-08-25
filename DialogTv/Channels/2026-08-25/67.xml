@@ -3,46 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260821163000 +0000" stop="20260821183000 +0000" channel="67">
-    <title>AEW Dynamite</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/177672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821183000 +0000" stop="20260821203000 +0000" channel="67">
-    <title>FIM Speedway Grand Prix Series</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912381?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821203000 +0000" stop="20260821213000 +0000" channel="67">
-    <title>Dutch League Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917112?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821213000 +0000" stop="20260822010000 +0000" channel="67">
-    <title>Big Cricket League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/870932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="67">
-    <title>Ultimate Cricket Challenge</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816446?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822023000 +0000" channel="67">
-    <title>Impact In 60</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189969?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822043000 +0000" channel="67">
-    <title>TNA Impact</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/154517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822043000 +0000" stop="20260822053000 +0000" channel="67">
-    <title>TNA Epics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822053000 +0000" stop="20260822073000 +0000" channel="67">
     <title>World Pickleball League</title>
     <desc />
@@ -367,5 +327,45 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826183000 +0000" stop="20260826220000 +0000" channel="67">
+    <title>Big Cricket League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/870932?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="67">
+    <title>Speedway Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827000000 +0000" stop="20260827020000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/177672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="67">
+    <title>Ultimate Cricket Challenge</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816446?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827033000 +0000" channel="67">
+    <title>Impact In 60</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827033000 +0000" stop="20260827043000 +0000" channel="67">
+    <title>Professional Fighters League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815609?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827043000 +0000" stop="20260827053000 +0000" channel="67">
+    <title>TNA Epics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827073000 +0000" channel="67">
+    <title>World Pickleball League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/727600?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

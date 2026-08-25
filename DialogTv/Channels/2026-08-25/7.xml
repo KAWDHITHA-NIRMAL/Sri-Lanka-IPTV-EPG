@@ -3,81 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260821173000 +0000" stop="20260821180000 +0000" channel="7">
-    <title>Shree Fm Sindu Sajje</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909121?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821180000 +0000" stop="20260821181500 +0000" channel="7">
-    <title>Shree Fm Sindu Sajje</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909121?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821181500 +0000" stop="20260821183500 +0000" channel="7">
-    <title>News At Night</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821183500 +0000" stop="20260821190000 +0000" channel="7">
-    <title>On Air Promo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909107?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821190000 +0000" stop="20260821230000 +0000" channel="7">
-    <title>Station Closing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909115?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821230000 +0000" stop="20260821233000 +0000" channel="7">
-    <title>Dalada Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909117?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821233000 +0000" stop="20260822000000 +0000" channel="7">
-    <title>Dalada Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909117?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822000000 +0000" stop="20260822003000 +0000" channel="7">
-    <title>Dalada Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822003000 +0000" stop="20260822010000 +0000" channel="7">
-    <title>Ehipassiko</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="7">
-    <title>Mul Pituwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909105?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822020000 +0000" channel="7">
-    <title>Mul Pituwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909105?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="7">
-    <title>Loka Sithiyama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822043000 +0000" channel="7">
-    <title>Punchi Theatre</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/883853?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822043000 +0000" stop="20260822053000 +0000" channel="7">
-    <title>Master Chef</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822053000 +0000" stop="20260822062000 +0000" channel="7">
-    <title>Film Eka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909124?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822062000 +0000" stop="20260822070000 +0000" channel="7">
     <title>Live At Srilanka</title>
     <desc />
@@ -662,5 +587,75 @@
     <title>Asela Perahera  Mangalyaya - Sri Dalada Maligawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826181500 +0000" stop="20260826183500 +0000" channel="7">
+    <title>News At Night</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909099?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826183500 +0000" stop="20260826230000 +0000" channel="7">
+    <title>Station Closing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826230000 +0000" stop="20260826233000 +0000" channel="7">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34327?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826233000 +0000" stop="20260827003000 +0000" channel="7">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34327?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="7">
+    <title>Atasil Ha Buddha Wandhana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942139?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="7">
+    <title>Mul Pituwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909105?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827013000 +0000" stop="20260827020000 +0000" channel="7">
+    <title>Mul Pituwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909105?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="7">
+    <title>Ama Dahara Daham Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="7">
+    <title>Ama Dahara Daham Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827030000 +0000" stop="20260827033000 +0000" channel="7">
+    <title>Pavidi Mini Pahan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827033000 +0000" stop="20260827054500 +0000" channel="7">
+    <title>Ama Dahara Daham Sabhawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827054500 +0000" stop="20260827060000 +0000" channel="7">
+    <title>Maliban Abaya Dhanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827060000 +0000" stop="20260827062000 +0000" channel="7">
+    <title>Maliban Abaya Dhanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827062000 +0000" stop="20260827070000 +0000" channel="7">
+    <title>Live At Srilanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

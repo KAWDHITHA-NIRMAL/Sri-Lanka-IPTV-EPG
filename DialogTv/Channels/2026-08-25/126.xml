@@ -3,29 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260821163000 +0000" stop="20260821183000 +0000" channel="126">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821183000 +0000" stop="20260821203000 +0000" channel="126">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821203000 +0000" stop="20260822013000 +0000" channel="126">
-    <title>Repeat - 111th National Tennis Championship 2025</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941056?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822014500 +0000" channel="126">
-    <title>Highlights - Under 16 Elite Ten-a-Side Rugby Tournament 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260822014500 +0000" stop="20260822053000 +0000" channel="126">
-    <title>Live - SLSRFA Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 02</title>
-    <desc />
-  </programme>
   <programme start="20260822053000 +0000" stop="20260822093000 +0000" channel="126">
     <title>Live - SLSRFA Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 02</title>
     <desc />
@@ -236,5 +213,30 @@
   <programme start="20260826163000 +0000" stop="20260826183000 +0000" channel="126">
     <title>Repeat - Pakistan Women tour of Sri Lanka</title>
     <desc />
+  </programme>
+  <programme start="20260826183000 +0000" stop="20260826203000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826203000 +0000" stop="20260827013000 +0000" channel="126">
+    <title>Repeat - 111th National Tennis Championship 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941056?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827013000 +0000" stop="20260827043000 +0000" channel="126">
+    <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827043000 +0000" stop="20260827063000 +0000" channel="126">
+    <title>Highlights - ICC Women's T20 World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916875?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827063000 +0000" stop="20260827083000 +0000" channel="126">
+    <title>Highlights - Dialog Schools Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816601?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

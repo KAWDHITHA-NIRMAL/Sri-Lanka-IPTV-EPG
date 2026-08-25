@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260821170700 +0000" stop="20260821200000 +0000" channel="90">
-    <title>Biwi.com</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940141?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821200000 +0000" stop="20260821230000 +0000" channel="90">
-    <title>Papi Gudia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940142?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821230000 +0000" stop="20260822020000 +0000" channel="90">
-    <title>Biwi.com</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940141?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822020000 +0000" stop="20260822050000 +0000" channel="90">
-    <title>Haisiyat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884390?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822050000 +0000" stop="20260822083200 +0000" channel="90">
     <title>Mr. Natwarlal</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Katilon Ke Kaatil</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826200000 +0000" stop="20260826230000 +0000" channel="90">
+    <title>Ghatak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915076?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826230000 +0000" stop="20260827020000 +0000" channel="90">
+    <title>Prithipal Singh...A Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938849?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827020000 +0000" stop="20260827050000 +0000" channel="90">
+    <title>Pighalta Aasman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827050000 +0000" stop="20260827080000 +0000" channel="90">
+    <title>Sweekar Kiya Maine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941560?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

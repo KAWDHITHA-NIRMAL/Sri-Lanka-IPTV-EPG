@@ -3,56 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260821163000 +0000" stop="20260821183000 +0000" channel="15">
-    <title>Siyatha Sadde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821183000 +0000" stop="20260821213000 +0000" channel="15">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821213000 +0000" stop="20260821232400 +0000" channel="15">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821232400 +0000" stop="20260822003000 +0000" channel="15">
-    <title>Religious Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/677254?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822003000 +0000" stop="20260822004500 +0000" channel="15">
-    <title>Morning Back To Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822004500 +0000" stop="20260822020000 +0000" channel="15">
-    <title>Siyatha Paththare Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="15">
-    <title>Soba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/188656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822043000 +0000" channel="15">
-    <title>Voice Of Family</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913372?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822043000 +0000" stop="20260822053000 +0000" channel="15">
-    <title>Sonduru Piyasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940257?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822053000 +0000" stop="20260822063000 +0000" channel="15">
-    <title>Studio One Weekend</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940258?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822063000 +0000" stop="20260822070000 +0000" channel="15">
     <title>Siyatha News-Live</title>
     <desc />
@@ -427,5 +377,35 @@
     <title>Threekonaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826183000 +0000" stop="20260826203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826203000 +0000" stop="20260826232400 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826232400 +0000" stop="20260827003000 +0000" channel="15">
+    <title>Religious Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/677254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827003000 +0000" stop="20260827033000 +0000" channel="15">
+    <title>Poya Programs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827033000 +0000" stop="20260827063000 +0000" channel="15">
+    <title>LIVE SL vs IND 2nd Test Day 5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827063000 +0000" stop="20260827070000 +0000" channel="15">
+    <title>Siyatha News-Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752442?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,66 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20260821170000 +0000" stop="20260821190000 +0000" channel="4">
-    <title>Chat &amp; Music</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/814654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821190000 +0000" stop="20260821190600 +0000" channel="4">
-    <title>Mora Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821190600 +0000" stop="20260821233000 +0000" channel="4">
-    <title>Close Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51662?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821233000 +0000" stop="20260821233500 +0000" channel="4">
-    <title>Station Opening Song</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821233500 +0000" stop="20260822003000 +0000" channel="4">
-    <title>Sathipattana Suthraya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812631?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822003000 +0000" stop="20260822023000 +0000" channel="4">
-    <title>Weekend Press</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822032500 +0000" channel="4">
-    <title>Acoustica Unlimited</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822032500 +0000" stop="20260822033000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822033000 +0000" stop="20260822042500 +0000" channel="4">
-    <title>The Hangout- Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812632?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822042500 +0000" stop="20260822043000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822043000 +0000" stop="20260822050000 +0000" channel="4">
-    <title>Ranbimata Aswedduma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812633?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822050000 +0000" stop="20260822063000 +0000" channel="4">
-    <title>Best Of Hits- Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812634?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822063000 +0000" stop="20260822070000 +0000" channel="4">
     <title>Noon News</title>
     <desc />
@@ -892,5 +832,85 @@
     <title>Arasu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/734075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826183000 +0000" stop="20260826183600 +0000" channel="4">
+    <title>Mora Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187520?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826183600 +0000" stop="20260826232500 +0000" channel="4">
+    <title>Close Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51662?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826232500 +0000" stop="20260826233000 +0000" channel="4">
+    <title>Station Opening Song</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826233000 +0000" stop="20260827002200 +0000" channel="4">
+    <title>Itn Manuseth Sajjayanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187538?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827002200 +0000" stop="20260827002500 +0000" channel="4">
+    <title>Poya Warnanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941333?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827002500 +0000" stop="20260827003000 +0000" channel="4">
+    <title>Savanak Res-Live Telecast From Sri Maha Bodhirajarama Viharaya,Army Temple, Panagoda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/734075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="4">
+    <title>Atasil-Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942171?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="4">
+    <title>Buddha Poojawa - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941335?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827013000 +0000" stop="20260827023000 +0000" channel="4">
+    <title>Bhawana Progrramme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827033000 +0000" channel="4">
+    <title>Dharmadeshanawa - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827033000 +0000" stop="20260827043000 +0000" channel="4">
+    <title>Ashirwada Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827043000 +0000" stop="20260827051000 +0000" channel="4">
+    <title>Pela Situweema</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941341?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827051000 +0000" stop="20260827053000 +0000" channel="4">
+    <title>Dharma Sakachchawa- Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827055000 +0000" channel="4">
+    <title>Dahawal Buddha Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827055000 +0000" stop="20260827062500 +0000" channel="4">
+    <title>Dharma Sakachchawa- Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827062500 +0000" stop="20260827070000 +0000" channel="4">
+    <title>Noon News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50837?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

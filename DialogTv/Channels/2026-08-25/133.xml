@@ -3,41 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260821162500 +0000" stop="20260821181500 +0000" channel="133">
-    <title>47 Ronin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821181500 +0000" stop="20260821202000 +0000" channel="133">
-    <title>Jason Bourne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914767?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821202000 +0000" stop="20260821222000 +0000" channel="133">
-    <title>The Chronicles Of Riddick</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821222000 +0000" stop="20260822000500 +0000" channel="133">
-    <title>Pitch Black</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822000500 +0000" stop="20260822014500 +0000" channel="133">
-    <title>Blood On The Crown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914765?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822014500 +0000" stop="20260822031500 +0000" channel="133">
-    <title>American Psycho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914768?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822031500 +0000" stop="20260822052000 +0000" channel="133">
-    <title>Godzilla Minus One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822052000 +0000" stop="20260822072000 +0000" channel="133">
     <title>3:10 To Yuma</title>
     <desc />
@@ -326,5 +291,35 @@
     <title>Get Out</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826185000 +0000" stop="20260826203500 +0000" channel="133">
+    <title>Blood On The Crown</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914765?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826203500 +0000" stop="20260826224000 +0000" channel="133">
+    <title>Godzilla Minus One</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826224000 +0000" stop="20260827004000 +0000" channel="133">
+    <title>Jason Bourne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827004000 +0000" stop="20260827023000 +0000" channel="133">
+    <title>The Huntsman: Winter's War</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827044500 +0000" channel="133">
+    <title>Fast &amp; Furious Presents: Hobbs &amp; Shaw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940421?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827044500 +0000" stop="20260827065500 +0000" channel="133">
+    <title>Fast &amp; Furious 7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940420?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

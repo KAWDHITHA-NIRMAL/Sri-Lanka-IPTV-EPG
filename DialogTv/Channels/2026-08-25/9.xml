@@ -3,61 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260821170000 +0000" stop="20260821180000 +0000" channel="9">
-    <title>Nenjam Marappathillai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916070?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821180000 +0000" stop="20260821235900 +0000" channel="9">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260821235900 +0000" stop="20260822000000 +0000" channel="9">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822000000 +0000" stop="20260822003000 +0000" channel="9">
-    <title>Religious Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685102?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822003000 +0000" stop="20260822004500 +0000" channel="9">
-    <title>Nalla Neram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822004500 +0000" stop="20260822010000 +0000" channel="9">
-    <title>Vaanampaadi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52091?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="9">
-    <title>Ezhumin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822023000 +0000" channel="9">
-    <title>Informal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/54836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822033000 +0000" channel="9">
-    <title>Varnajalam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909131?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822033000 +0000" stop="20260822043000 +0000" channel="9">
-    <title>Ramayanam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260822043000 +0000" stop="20260822053000 +0000" channel="9">
-    <title>Music T10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/54838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260822053000 +0000" stop="20260822083000 +0000" channel="9">
     <title>Weekend Morning Movie</title>
     <desc />
@@ -642,5 +587,85 @@
     <title>Nenjam Marappathillai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826180000 +0000" stop="20260826235900 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260826235900 +0000" stop="20260827000000 +0000" channel="9">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="9">
+    <title>Religious Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/685102?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827003000 +0000" stop="20260827004500 +0000" channel="9">
+    <title>Nalla Neram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827004500 +0000" stop="20260827010000 +0000" channel="9">
+    <title>Vaanampaadi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="9">
+    <title>Nigazhvadhigaram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742578?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827013000 +0000" stop="20260827014500 +0000" channel="9">
+    <title>News 1st Sun Rise</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748862?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827014500 +0000" stop="20260827030000 +0000" channel="9">
+    <title>Good Morning Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827030000 +0000" stop="20260827033000 +0000" channel="9">
+    <title>Nenjam Marappathillai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="9">
+    <title>Mayaththirai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52085?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="9">
+    <title>Anandha Ragam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827043000 +0000" stop="20260827050000 +0000" channel="9">
+    <title>Vinodhini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748327?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827050000 +0000" stop="20260827053000 +0000" channel="9">
+    <title>Marumagal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/171270?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827060000 +0000" channel="9">
+    <title>Puthu Vasantham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827060000 +0000" stop="20260827063000 +0000" channel="9">
+    <title>Manamagale Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260827063000 +0000" stop="20260827073000 +0000" channel="9">
+    <title>Retro Ragangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
