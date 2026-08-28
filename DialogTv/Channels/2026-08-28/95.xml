@@ -3,46 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260824170000 +0000" stop="20260824200000 +0000" channel="95">
-    <title>Saavi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942195?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260824200000 +0000" stop="20260824223000 +0000" channel="95">
-    <title>Thalai Magan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940392?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260824223000 +0000" stop="20260825013000 +0000" channel="95">
-    <title>Pudhiya Mannargal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825013000 +0000" stop="20260825043000 +0000" channel="95">
-    <title>Chinna Jamin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942198?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825043000 +0000" stop="20260825073000 +0000" channel="95">
-    <title>Urimai Geetham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942291?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825073000 +0000" stop="20260825103000 +0000" channel="95">
-    <title>Unnai Saranadainthen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942292?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825103000 +0000" stop="20260825133000 +0000" channel="95">
-    <title>Azhagiya Theeye</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942293?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825133000 +0000" stop="20260825170000 +0000" channel="95">
-    <title>En Aasai Machaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942294?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260825170000 +0000" stop="20260825200000 +0000" channel="95">
     <title>Urimai Geetham</title>
     <desc />
@@ -207,5 +167,45 @@
     <title>Rajathi Raja</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260829200000 +0000" stop="20260829223000 +0000" channel="95">
+    <title>Chithiram Pesuthadi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942304?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260829223000 +0000" stop="20260830013000 +0000" channel="95">
+    <title>Mudhal Idam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942309?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830013000 +0000" stop="20260830043000 +0000" channel="95">
+    <title>Thaai Maman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942310?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830043000 +0000" stop="20260830073000 +0000" channel="95">
+    <title>Yeidhavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942311?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830073000 +0000" stop="20260830103000 +0000" channel="95">
+    <title>Ulavuthurai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942312?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830103000 +0000" stop="20260830133000 +0000" channel="95">
+    <title>Maayavi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942313?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830133000 +0000" stop="20260830170000 +0000" channel="95">
+    <title>Chinna Thambi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830170000 +0000" stop="20260830200000 +0000" channel="95">
+    <title>Yeidhavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942311?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
