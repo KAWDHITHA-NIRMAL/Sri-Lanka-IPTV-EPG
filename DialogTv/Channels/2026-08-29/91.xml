@@ -3,26 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20260826033000 +0000" stop="20260826063000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826063000 +0000" stop="20260826093000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826093000 +0000" stop="20260826123000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826123000 +0000" stop="20260826153000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826153000 +0000" stop="20260826183000 +0000" channel="91">
     <title>Movie</title>
     <desc />
@@ -237,5 +217,20 @@
     <title>Chandni Chowk To China</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831074900 +0000" stop="20260831113100 +0000" channel="91">
+    <title>Beta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943126?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831113100 +0000" stop="20260831142500 +0000" channel="91">
+    <title>Garam Masala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943127?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831142500 +0000" stop="20260831184200 +0000" channel="91">
+    <title>Kabhi Khushi Kabhie Gham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942328?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

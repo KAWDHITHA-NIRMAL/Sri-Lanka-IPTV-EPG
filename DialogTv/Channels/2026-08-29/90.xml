@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260826050000 +0000" stop="20260826080000 +0000" channel="90">
-    <title>Aulad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941398?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826080000 +0000" stop="20260826110000 +0000" channel="90">
-    <title>Lashkar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914229?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826110000 +0000" stop="20260826140000 +0000" channel="90">
-    <title>Saajan Ki Saheli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941399?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826140000 +0000" stop="20260826170000 +0000" channel="90">
-    <title>Krantiveer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917037?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826170000 +0000" stop="20260826200000 +0000" channel="90">
     <title>Katilon Ke Kaatil</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Laila</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940358?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831080000 +0000" stop="20260831110000 +0000" channel="90">
+    <title>Hiraasat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831110000 +0000" stop="20260831140000 +0000" channel="90">
+    <title>Kaise Kahoon Ke... Pyaar Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942697?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831140000 +0000" stop="20260831170000 +0000" channel="90">
+    <title>Barah Aana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940620?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831170000 +0000" stop="20260831200000 +0000" channel="90">
+    <title>Zakhmi Aurat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940619?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

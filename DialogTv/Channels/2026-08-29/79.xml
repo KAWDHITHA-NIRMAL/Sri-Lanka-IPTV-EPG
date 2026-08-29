@@ -3,26 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260826033000 +0000" stop="20260826063000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826063000 +0000" stop="20260826093000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826093000 +0000" stop="20260826123000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826123000 +0000" stop="20260826153000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826153000 +0000" stop="20260826183000 +0000" channel="79">
     <title>Movie</title>
     <desc />
@@ -247,5 +227,20 @@
     <title>Kali Kitaab</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943190?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831073800 +0000" stop="20260831113400 +0000" channel="79">
+    <title>Veera Simha Reddy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943191?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831113400 +0000" stop="20260831150000 +0000" channel="79">
+    <title>Golmaal Again</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831150000 +0000" stop="20260831175700 +0000" channel="79">
+    <title>Darbar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943193?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

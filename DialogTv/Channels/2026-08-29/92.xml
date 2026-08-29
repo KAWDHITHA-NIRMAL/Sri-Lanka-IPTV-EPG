@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260826030000 +0000" stop="20260826060000 +0000" channel="92">
-    <title>Trimurti</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941183?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826060000 +0000" stop="20260826090000 +0000" channel="92">
-    <title>Kanjoos Makhichoos</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941327?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826090000 +0000" stop="20260826120000 +0000" channel="92">
-    <title>Thappad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941328?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826120000 +0000" stop="20260826150000 +0000" channel="92">
-    <title>Bhoot Returns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826150000 +0000" stop="20260826180000 +0000" channel="92">
     <title>The Tashkent Files</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Ghajini</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831060000 +0000" stop="20260831090000 +0000" channel="92">
+    <title>Satyameva Jayate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831090000 +0000" stop="20260831120000 +0000" channel="92">
+    <title>Khuda Haafiz: Chapter 2 - Agni Pariksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942700?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831120000 +0000" stop="20260831150000 +0000" channel="92">
+    <title>Sky Force</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942701?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831150000 +0000" stop="20260831180000 +0000" channel="92">
+    <title>Bawaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942037?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

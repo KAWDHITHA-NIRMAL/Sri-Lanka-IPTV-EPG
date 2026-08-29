@@ -3,26 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20260826033000 +0000" stop="20260826063000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826063000 +0000" stop="20260826093000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826093000 +0000" stop="20260826123000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826123000 +0000" stop="20260826153000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826153000 +0000" stop="20260826190800 +0000" channel="74">
     <title>Movie</title>
     <desc />
@@ -342,5 +322,35 @@
     <title>Hotel Transylvania 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831051900 +0000" stop="20260831064800 +0000" channel="74">
+    <title>Salt</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831064800 +0000" stop="20260831085300 +0000" channel="74">
+    <title>The Equalizer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913042?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831085300 +0000" stop="20260831112200 +0000" channel="74">
+    <title>2012</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915641?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831112200 +0000" stop="20260831133800 +0000" channel="74">
+    <title>Blade Runner 2049</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768361?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831133800 +0000" stop="20260831153000 +0000" channel="74">
+    <title>Venom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909777?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831153000 +0000" stop="20260831173600 +0000" channel="74">
+    <title>Spider-Man: Far From Home</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941047?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
