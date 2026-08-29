@@ -3,46 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260825170000 +0000" stop="20260826005900 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826005900 +0000" stop="20260826010000 +0000" channel="10">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826010000 +0000" stop="20260826013000 +0000" channel="10">
-    <title>English News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826013000 +0000" stop="20260826020000 +0000" channel="10">
-    <title>Abc National News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826023000 +0000" channel="10">
-    <title>Pathikada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/687815?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826023000 +0000" stop="20260826033000 +0000" channel="10">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/733408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826033000 +0000" stop="20260826043000 +0000" channel="10">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826043000 +0000" stop="20260826050000 +0000" channel="10">
-    <title>Australian Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815057?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826050000 +0000" stop="20260826053000 +0000" channel="10">
     <title>The Full Story</title>
     <desc />
@@ -517,5 +477,50 @@
     <title>AFL - Game Of The Week</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940569?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830190000 +0000" stop="20260831005900 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831005900 +0000" stop="20260831010000 +0000" channel="10">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831010000 +0000" stop="20260831013000 +0000" channel="10">
+    <title>English News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831013000 +0000" stop="20260831020000 +0000" channel="10">
+    <title>The World This Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/832573?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831020000 +0000" stop="20260831023000 +0000" channel="10">
+    <title>Pathikada</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/687815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831023000 +0000" stop="20260831033000 +0000" channel="10">
+    <title>Weekend Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63774?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831033000 +0000" stop="20260831040000 +0000" channel="10">
+    <title>That Pacific Sports Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815061?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831050000 +0000" channel="10">
+    <title>A Brief History Of Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940190?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831050000 +0000" stop="20260831053000 +0000" channel="10">
+    <title>Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815064?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

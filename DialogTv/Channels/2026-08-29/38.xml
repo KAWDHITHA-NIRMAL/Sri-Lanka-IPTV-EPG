@@ -3,51 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825180000 +0000" stop="20260825183000 +0000" channel="38">
-    <title>Bloomberg Markets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825183000 +0000" stop="20260825190000 +0000" channel="38">
-    <title>Bloomberg Markets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825213000 +0000" channel="38">
-    <title>Bloomberg Markets: The Close</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825220000 +0000" channel="38">
-    <title>Bloomberg Markets: What'd You Miss?</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761076?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825220000 +0000" stop="20260825230000 +0000" channel="38">
-    <title>Bloomberg Daybreak: Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940581?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260826010000 +0000" channel="38">
-    <title>Bloomberg Daybreak: Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940846?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="38">
-    <title>Bloomberg Markets: China Open</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940847?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826040000 +0000" channel="38">
-    <title>Bloomberg Markets: Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940848?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826040000 +0000" stop="20260826060000 +0000" channel="38">
     <title>Bloomberg Daybreak: Middle East</title>
     <desc />
@@ -717,5 +672,65 @@
     <title>Bloomberg Wall Street Week</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/760067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830180000 +0000" stop="20260830183000 +0000" channel="38">
+    <title>Leaders with Lacqua</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830183000 +0000" stop="20260830190000 +0000" channel="38">
+    <title>Leaders with Lacqua</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830190000 +0000" stop="20260830193000 +0000" channel="38">
+    <title>The David Rubenstein Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760066?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830193000 +0000" stop="20260830200000 +0000" channel="38">
+    <title>Bloomberg Studio 1.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761400?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830200000 +0000" stop="20260830203000 +0000" channel="38">
+    <title>Leaders with Lacqua</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830203000 +0000" stop="20260830210000 +0000" channel="38">
+    <title>Bloomberg Wealth with David Rubenstein</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830210000 +0000" stop="20260830220000 +0000" channel="38">
+    <title>Bloomberg Wall Street Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830220000 +0000" stop="20260830230000 +0000" channel="38">
+    <title>Bloomberg Daybreak: Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830230000 +0000" stop="20260831010000 +0000" channel="38">
+    <title>Bloomberg Daybreak: Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940846?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831010000 +0000" stop="20260831020000 +0000" channel="38">
+    <title>Bloomberg Markets: China Open</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940847?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831020000 +0000" stop="20260831040000 +0000" channel="38">
+    <title>Bloomberg Markets: Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940848?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831060000 +0000" channel="38">
+    <title>Bloomberg Daybreak: Middle East</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940849?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

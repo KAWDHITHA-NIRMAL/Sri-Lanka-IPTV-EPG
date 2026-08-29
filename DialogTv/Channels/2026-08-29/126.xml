@@ -3,27 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260825163000 +0000" stop="20260825183000 +0000" channel="126">
-    <title>Repeat - Pakistan Women tour of Sri Lanka</title>
-    <desc />
-  </programme>
-  <programme start="20260825183000 +0000" stop="20260825203000 +0000" channel="126">
-    <title>Repeat - Pakistan Women tour of Sri Lanka</title>
-    <desc />
-  </programme>
-  <programme start="20260825203000 +0000" stop="20260826023000 +0000" channel="126">
-    <title>Repeat - FIFA world Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260826023000 +0000" stop="20260826033000 +0000" channel="126">
-    <title>Highlights - Australia tour of Bangladesh 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826033000 +0000" stop="20260826040000 +0000" channel="126">
-    <title>Highlights - Major Club Cricket Tournement 2026</title>
-    <desc />
-  </programme>
   <programme start="20260826040000 +0000" stop="20260826073000 +0000" channel="126">
     <title>Live - NCC vs Police SC - Major Clubs 50 Over Tournament  2026</title>
     <desc />
@@ -139,6 +118,7 @@
   <programme start="20260829083000 +0000" stop="20260829093000 +0000" channel="126">
     <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260829093000 +0000" stop="20260829163000 +0000" channel="126">
     <title>Live - Sri Lanka Tennis Premier League 2026 - Day 03 | Court 01</title>
@@ -162,6 +142,7 @@
   <programme start="20260830003000 +0000" stop="20260830023000 +0000" channel="126">
     <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260830023000 +0000" stop="20260830043000 +0000" channel="126">
     <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
@@ -184,5 +165,32 @@
     <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830183000 +0000" stop="20260830203000 +0000" channel="126">
+    <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830203000 +0000" stop="20260831003000 +0000" channel="126">
+    <title>Repeat - FIFA world Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831003000 +0000" stop="20260831023000 +0000" channel="126">
+    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831023000 +0000" stop="20260831033000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260831033000 +0000" stop="20260831040000 +0000" channel="126">
+    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831081500 +0000" channel="126">
+    <title>Live - United Southern SC vs Sebastianite C &amp; AC - QF 1 - Tier B T20 Tournament 2026</title>
+    <desc />
   </programme>
 </tv>

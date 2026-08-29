@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260825170000 +0000" stop="20260825200000 +0000" channel="90">
-    <title>Calling Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825230000 +0000" channel="90">
-    <title>Blackmail</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260826020000 +0000" channel="90">
-    <title>Anari Ishq</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941397?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826050000 +0000" channel="90">
-    <title>Naya Kadam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917038?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826050000 +0000" stop="20260826080000 +0000" channel="90">
     <title>Aulad</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Arundhati (2009)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942289?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830200000 +0000" stop="20260830230000 +0000" channel="90">
+    <title>Market Raja MBBS</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942290?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830230000 +0000" stop="20260831020000 +0000" channel="90">
+    <title>Kahtey Hain Mujhko Raja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831020000 +0000" stop="20260831050000 +0000" channel="90">
+    <title>Aaj Ka Mahaatma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940138?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831050000 +0000" stop="20260831080000 +0000" channel="90">
+    <title>Laila</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940358?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

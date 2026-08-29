@@ -3,26 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260825173000 +0000" stop="20260825203000 +0000" channel="19">
-    <title>Ape Kalaye Suba Saha Yasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941135?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825203000 +0000" stop="20260825233000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940255?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825233000 +0000" stop="20260826013000 +0000" channel="19">
-    <title>Westhattuwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941136?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826013000 +0000" stop="20260826023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826023000 +0000" stop="20260826053000 +0000" channel="19">
     <title>Yaddehi Gedara</title>
     <desc />
@@ -232,5 +212,25 @@
     <title>Adarayata Wes Banda</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830203000 +0000" stop="20260830233000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830233000 +0000" stop="20260831013000 +0000" channel="19">
+    <title>Atha Bootha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831013000 +0000" stop="20260831023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831023000 +0000" stop="20260831053000 +0000" channel="19">
+    <title>Sudu Kiri Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942514?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

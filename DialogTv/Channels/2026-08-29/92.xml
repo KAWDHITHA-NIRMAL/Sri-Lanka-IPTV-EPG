@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260825150000 +0000" stop="20260825180000 +0000" channel="92">
-    <title>Dabangg</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940624?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825180000 +0000" stop="20260825210000 +0000" channel="92">
-    <title>Rustom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826000000 +0000" channel="92">
-    <title>Suraj Pe Mangal Bhari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941181?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826000000 +0000" stop="20260826030000 +0000" channel="92">
-    <title>Radhe Shyam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941182?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826030000 +0000" stop="20260826060000 +0000" channel="92">
     <title>Trimurti</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Tumbbad</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941879?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830180000 +0000" stop="20260830210000 +0000" channel="92">
+    <title>Simmba</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941878?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830210000 +0000" stop="20260831000000 +0000" channel="92">
+    <title>Uunchai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831000000 +0000" stop="20260831030000 +0000" channel="92">
+    <title>Khalnayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942317?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831030000 +0000" stop="20260831060000 +0000" channel="92">
+    <title>Ghajini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

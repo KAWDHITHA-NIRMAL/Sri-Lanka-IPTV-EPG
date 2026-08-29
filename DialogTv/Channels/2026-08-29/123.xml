@@ -3,54 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20260825164500 +0000" stop="20260825184500 +0000" channel="123">
-    <title>Live Sabah vs H. Beer-Sheva : Play-offs Leg 2 UEFA Champions League 2026/27</title>
-    <desc />
-  </programme>
-  <programme start="20260825184500 +0000" stop="20260825190000 +0000" channel="123">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825210000 +0000" channel="123">
-    <title>Live Lask vs Celtic: Play-offs Leg 2 UEFA Champions League 2026/27</title>
-    <desc />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260825213000 +0000" channel="123">
-    <title>Durand Cup 2026 - Final Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825223000 +0000" channel="123">
-    <title>UFC - Fight O'Clock LEON EDWARDS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942259?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825223000 +0000" stop="20260826003000 +0000" channel="123">
-    <title>DURAND CUP 2026 Quarter Final 3- Mohun Bagan SG vs Jamshedpur FC</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940758?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826003000 +0000" stop="20260826013000 +0000" channel="123">
-    <title>UFC Fight Night - Cannonier vs Rodrigues</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826013000 +0000" stop="20260826020000 +0000" channel="123">
-    <title>UEFA Super Cup 2026 Highlights-PSG vs Aston Villa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939428?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826023000 +0000" channel="123">
-    <title>Almaty Open 2025</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942265?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826023000 +0000" stop="20260826033000 +0000" channel="123">
-    <title>UFC - Fight O'Clock ALEX PEIREIRA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942257?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826033000 +0000" stop="20260826053000 +0000" channel="123">
     <title>UEFA Super Cup 2026 PSG vs Aston Villa</title>
     <desc />
@@ -432,6 +384,7 @@
   <programme start="20260829073000 +0000" stop="20260829083000 +0000" channel="123">
     <title>Sail GP 2026 (S6) Highlights Emirates Great Britain Sail Grand Prix Portsmouth</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943145?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260829083000 +0000" stop="20260829093000 +0000" channel="123">
     <title>WWE Evolve</title>
@@ -451,6 +404,7 @@
   <programme start="20260829120000 +0000" stop="20260829123000 +0000" channel="123">
     <title>DP World Women's Asia Cup 2026 Highlights-Thailand vs Hong Kong</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943211?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260829123000 +0000" stop="20260829144500 +0000" channel="123">
     <title>Live England vs Pakistan 2026 2nd Test</title>
@@ -470,6 +424,7 @@
   <programme start="20260829173000 +0000" stop="20260829180000 +0000" channel="123">
     <title>DP World Women's Asia Cup 2026 Highlights-Thailand vs Hong Kong</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943211?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260829180000 +0000" stop="20260829190000 +0000" channel="123">
     <title>UFC - Fight O'Clock ALEX PEIREIRA</title>
@@ -514,6 +469,7 @@
   <programme start="20260830033000 +0000" stop="20260830043000 +0000" channel="123">
     <title>Sail GP 2026 (S6) Highlights Emirates Great Britain Sail Grand Prix Portsmouth</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943145?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260830043000 +0000" stop="20260830050000 +0000" channel="123">
     <title>The FA Community Shield 2026 : Arsenal vs Manchester City Highlights</title>
@@ -566,5 +522,54 @@
   <programme start="20260830173000 +0000" stop="20260830180000 +0000" channel="123">
     <title>DP World Women's Asia Cup 2026 Highlights-Sri Lanka vs UAE</title>
     <desc />
+  </programme>
+  <programme start="20260830180000 +0000" stop="20260830200000 +0000" channel="123">
+    <title>Money in the Bank Ladder Match Anthology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830200000 +0000" stop="20260830210000 +0000" channel="123">
+    <title>UFC Fight Night - Nurmagomedov vs Song</title>
+    <desc />
+  </programme>
+  <programme start="20260830210000 +0000" stop="20260830213000 +0000" channel="123">
+    <title>Durand Cup 2026 - Final Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830213000 +0000" stop="20260830223000 +0000" channel="123">
+    <title>F4 Saudi Arabian Championship 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830223000 +0000" stop="20260831003000 +0000" channel="123">
+    <title>DURAND CUP 2026 Quarter Final 1 -SC Delhi vs FC Raengdai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831003000 +0000" stop="20260831013000 +0000" channel="123">
+    <title>UFC 311 - Makhachev vs Tsarukyan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831013000 +0000" stop="20260831020000 +0000" channel="123">
+    <title>Durand Cup 2026 - Final Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831020000 +0000" stop="20260831023000 +0000" channel="123">
+    <title>UIM XCAT - Beyond Limits Season 2025 Dubai GP</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831023000 +0000" stop="20260831033000 +0000" channel="123">
+    <title>UFC Fight Night - Hernandez vs Rodrigues</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942011?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831033000 +0000" stop="20260831053000 +0000" channel="123">
+    <title>DURAND CUP 2026 Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942256?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="81">
     <display-name>Channel 88</display-name>
   </channel>
-  <programme start="20260825173000 +0000" stop="20260825193000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825193000 +0000" stop="20260825213000 +0000" channel="81">
-    <title>Girl Meets World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825233000 +0000" channel="81">
-    <title>Wizards Beyond Waverly Place</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260825233000 +0000" stop="20260826003000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826003000 +0000" stop="20260826013000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826013000 +0000" stop="20260826030000 +0000" channel="81">
-    <title>Power Packed Mornings - Mickey Mouse Clubhouse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914930?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826040000 +0000" channel="81">
-    <title>Power Packed Mornings - Ducktales</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914931?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826040000 +0000" stop="20260826053000 +0000" channel="81">
     <title>Power Packed Mornings - Miraculous :Tales Of Ladybug &amp; Cat Noir</title>
     <desc />
@@ -366,7 +331,7 @@
   <programme start="20260829063000 +0000" stop="20260829080000 +0000" channel="81">
     <title>'Disney Spotlight : Freaky Friday</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943297?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260829080000 +0000" stop="20260829083000 +0000" channel="81">
     <title>Wizards Beyond Waverly Place</title>
@@ -532,5 +497,40 @@
     <title>Liv And Maddie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830193000 +0000" stop="20260830213000 +0000" channel="81">
+    <title>Girl Meets World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830213000 +0000" stop="20260830233000 +0000" channel="81">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260830233000 +0000" stop="20260831003000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831003000 +0000" stop="20260831013000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831013000 +0000" stop="20260831030000 +0000" channel="81">
+    <title>Power Packed Mornings - Mickey Mouse Clubhouse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914930?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831030000 +0000" stop="20260831040000 +0000" channel="81">
+    <title>Power Packed Mornings - Ducktales</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831053000 +0000" channel="81">
+    <title>Power Packed Mornings - Miraculous :Tales Of Ladybug &amp; Cat Noir</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
