@@ -3,46 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260827030000 +0000" stop="20260827040000 +0000" channel="34">
-    <title>Laura Coates Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709213?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827040000 +0000" stop="20260827060000 +0000" channel="34">
-    <title>The Story Is With Elex Michaelson</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827060000 +0000" stop="20260827070000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827073000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827073000 +0000" stop="20260827090000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827100000 +0000" channel="34">
-    <title>Early Start With Rahel Solomon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827100000 +0000" stop="20260827110000 +0000" channel="34">
-    <title>Cnn This Morning</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827110000 +0000" stop="20260827123000 +0000" channel="34">
-    <title>CNN News Central</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="34">
     <title>World Sport</title>
     <desc />
@@ -562,5 +522,45 @@
     <title>Laura Coates Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/709213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901040000 +0000" stop="20260901060000 +0000" channel="34">
+    <title>The Story Is With Elex Michaelson</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901060000 +0000" stop="20260901070000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901070000 +0000" stop="20260901073000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901073000 +0000" stop="20260901090000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901090000 +0000" stop="20260901100000 +0000" channel="34">
+    <title>Early Start With Rahel Solomon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901100000 +0000" stop="20260901110000 +0000" channel="34">
+    <title>Cnn This Morning</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901110000 +0000" stop="20260901123000 +0000" channel="34">
+    <title>CNN News Central</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901123000 +0000" stop="20260901130000 +0000" channel="34">
+    <title>World Sport</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

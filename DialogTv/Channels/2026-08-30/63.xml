@@ -3,26 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20260827023000 +0000" stop="20260827050000 +0000" channel="63">
-    <title>Highlights - Australia tour of Bangladesh 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827050000 +0000" stop="20260827063000 +0000" channel="63">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827063000 +0000" stop="20260827090000 +0000" channel="63">
-    <title>Repeat - Sri Lanka Tennis Nationals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942796?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827093000 +0000" channel="63">
-    <title>Highlights - Sri Lanka Tennis Premier League - Player Auction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942797?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827093000 +0000" stop="20260827173000 +0000" channel="63">
     <title>Live - Sri Lanka Tennis Premier League 2026 - Day 01 | Court 02</title>
     <desc />
@@ -220,5 +200,29 @@
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901043000 +0000" stop="20260901063000 +0000" channel="63">
+    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901083000 +0000" channel="63">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901083000 +0000" stop="20260901093000 +0000" channel="63">
+    <title>Highlights - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901093000 +0000" stop="20260901123000 +0000" channel="63">
+    <title>Live - New Youngs FC  vs Ratnam SC - Super League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260901123000 +0000" stop="20260901133000 +0000" channel="63">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

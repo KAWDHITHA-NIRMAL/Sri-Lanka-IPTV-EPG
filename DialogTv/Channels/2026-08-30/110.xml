@@ -3,66 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20260827022000 +0000" stop="20260827031500 +0000" channel="110">
-    <title>Crikey! It's the Irwins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827031500 +0000" stop="20260827033900 +0000" channel="110">
-    <title>Jewels Of The Natural World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761474?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827033900 +0000" stop="20260827043500 +0000" channel="110">
-    <title>Into the Wild: India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827043500 +0000" stop="20260827053100 +0000" channel="110">
-    <title>Just Animals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827053100 +0000" stop="20260827062700 +0000" channel="110">
-    <title>The Zoo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827062700 +0000" stop="20260827072300 +0000" channel="110">
-    <title>Crikey! It's the Irwins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827072300 +0000" stop="20260827081900 +0000" channel="110">
-    <title>Into the Wild: India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827081900 +0000" stop="20260827091500 +0000" channel="110">
-    <title>Just Animals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827091500 +0000" stop="20260827094000 +0000" channel="110">
-    <title>Wild By Nature</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761494?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827094000 +0000" stop="20260827103600 +0000" channel="110">
-    <title>The Zoo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827103600 +0000" stop="20260827113200 +0000" channel="110">
-    <title>Crikey! It's the Irwins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827113200 +0000" stop="20260827122800 +0000" channel="110">
-    <title>Into the Wild: India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827122800 +0000" stop="20260827132800 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
@@ -697,5 +637,65 @@
     <title>Crikey! It's the Irwins</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901031500 +0000" stop="20260901033900 +0000" channel="110">
+    <title>Jewels Of The Natural World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901033900 +0000" stop="20260901043500 +0000" channel="110">
+    <title>Into the Wild: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901043500 +0000" stop="20260901053100 +0000" channel="110">
+    <title>Just Animals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901053100 +0000" stop="20260901062700 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901062700 +0000" stop="20260901072300 +0000" channel="110">
+    <title>Crikey! It's the Irwins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901072300 +0000" stop="20260901081900 +0000" channel="110">
+    <title>Into the Wild: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901081900 +0000" stop="20260901091500 +0000" channel="110">
+    <title>Just Animals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901091500 +0000" stop="20260901094000 +0000" channel="110">
+    <title>Wild By Nature</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901094000 +0000" stop="20260901103600 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901103600 +0000" stop="20260901113200 +0000" channel="110">
+    <title>Crikey! It's the Irwins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901113200 +0000" stop="20260901122800 +0000" channel="110">
+    <title>Into the Wild: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901122800 +0000" stop="20260901132800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

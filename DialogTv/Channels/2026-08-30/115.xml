@@ -3,31 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260827003000 +0000" stop="20260827033000 +0000" channel="115">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827033000 +0000" stop="20260827063000 +0000" channel="115">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827063000 +0000" stop="20260827075200 +0000" channel="115">
-    <title>Maze Runner: The Scorch Trials</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942847?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827075200 +0000" stop="20260827093100 +0000" channel="115">
-    <title>Baby's Day Out</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942848?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827093100 +0000" stop="20260827113500 +0000" channel="115">
-    <title>Beauty And The Beast (2017)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942859?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827113500 +0000" stop="20260827131700 +0000" channel="115">
     <title>The Marvels</title>
     <desc />
@@ -332,5 +307,25 @@
     <title>Bravestorm</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901033000 +0000" stop="20260901063000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901093000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901093000 +0000" stop="20260901123000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

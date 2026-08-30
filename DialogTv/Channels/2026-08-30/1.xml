@@ -3,31 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260827003000 +0000" stop="20260827033000 +0000" channel="1">
-    <title>Siri Dalada Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827033000 +0000" stop="20260827063000 +0000" channel="1">
-    <title>Siri Dalada Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827063000 +0000" stop="20260827093000 +0000" channel="1">
-    <title>Siri Dalada Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827093000 +0000" stop="20260827113000 +0000" channel="1">
-    <title>Siri Dalada Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827113000 +0000" stop="20260827123000 +0000" channel="1">
-    <title>Poya Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942504?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827123000 +0000" stop="20260827140000 +0000" channel="1">
     <title>Uthum Saddharma Deshanawa</title>
     <desc />
@@ -592,5 +567,60 @@
     <title>World Wide</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901033000 +0000" stop="20260901043000 +0000" channel="1">
+    <title>On The Way</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815910?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901043000 +0000" stop="20260901053000 +0000" channel="1">
+    <title>Sindu Choice</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901053000 +0000" stop="20260901063000 +0000" channel="1">
+    <title>Ru Naari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901073000 +0000" channel="1">
+    <title>Slow Flow</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901073000 +0000" stop="20260901080000 +0000" channel="1">
+    <title>Rajiniyo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942507?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901080000 +0000" stop="20260901083000 +0000" channel="1">
+    <title>Kutu Kutu Mama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901083000 +0000" stop="20260901093000 +0000" channel="1">
+    <title>World Wide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901093000 +0000" stop="20260901103000 +0000" channel="1">
+    <title>Kandula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901103000 +0000" stop="20260901113000 +0000" channel="1">
+    <title>On The Way</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815910?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901113000 +0000" stop="20260901123000 +0000" channel="1">
+    <title>Sindu Choice</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901123000 +0000" stop="20260901133000 +0000" channel="1">
+    <title>Ru Naari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

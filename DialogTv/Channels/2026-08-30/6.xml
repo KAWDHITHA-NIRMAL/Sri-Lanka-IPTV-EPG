@@ -3,56 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260827023000 +0000" stop="20260827033000 +0000" channel="6">
-    <title>Kollai Ballai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938983?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827033000 +0000" stop="20260827060000 +0000" channel="6">
-    <title>Supiri Raju - Kaala Tharanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938986?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827060000 +0000" stop="20260827063000 +0000" channel="6">
-    <title>Seda Mawatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/175540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827063000 +0000" stop="20260827071000 +0000" channel="6">
-    <title>Mid-Day News Bulletin Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827071000 +0000" stop="20260827103000 +0000" channel="6">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827103000 +0000" stop="20260827105500 +0000" channel="6">
-    <title>Soortin Martin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827105500 +0000" stop="20260827112500 +0000" channel="6">
-    <title>Malory Towers S07</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827112500 +0000" stop="20260827115500 +0000" channel="6">
-    <title>Snoopy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827115500 +0000" stop="20260827122500 +0000" channel="6">
-    <title>Boss Baby</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815068?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827122500 +0000" stop="20260827125500 +0000" channel="6">
-    <title>Kodu Kaari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/159689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827125500 +0000" stop="20260827132500 +0000" channel="6">
     <title>Sitha Nidi Na</title>
     <desc />
@@ -587,5 +537,55 @@
     <title>Kollai Ballai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938983?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901033000 +0000" stop="20260901060000 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901060000 +0000" stop="20260901063000 +0000" channel="6">
+    <title>Seda Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/175540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901071000 +0000" channel="6">
+    <title>Mid-Day News Bulletin Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901071000 +0000" stop="20260901103000 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901103000 +0000" stop="20260901105500 +0000" channel="6">
+    <title>Soortin Martin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35025?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901105500 +0000" stop="20260901112500 +0000" channel="6">
+    <title>Malory Towers S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/745643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901112500 +0000" stop="20260901115500 +0000" channel="6">
+    <title>Snoopy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901115500 +0000" stop="20260901122500 +0000" channel="6">
+    <title>Boss Baby</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901122500 +0000" stop="20260901125500 +0000" channel="6">
+    <title>Kodu Kaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/159689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901125500 +0000" stop="20260901132500 +0000" channel="6">
+    <title>Sitha Nidi Na</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/141526?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

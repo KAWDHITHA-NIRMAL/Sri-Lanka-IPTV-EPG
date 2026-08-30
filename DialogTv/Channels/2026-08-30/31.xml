@@ -3,56 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260827030000 +0000" stop="20260827032500 +0000" channel="31">
-    <title>Bondi Rescue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816053?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827032500 +0000" stop="20260827041000 +0000" channel="31">
-    <title>Ambulance Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827041000 +0000" stop="20260827050500 +0000" channel="31">
-    <title>Annabel Crabb's Civic Duty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/813345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827050500 +0000" stop="20260827053500 +0000" channel="31">
-    <title>Planet America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724861?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827053500 +0000" stop="20260827055500 +0000" channel="31">
-    <title>Media Watch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/725413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827055500 +0000" stop="20260827070000 +0000" channel="31">
-    <title>National Press Club Address</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/726661?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827080000 +0000" channel="31">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827080000 +0000" stop="20260827085000 +0000" channel="31">
-    <title>The Cook Up With Adam Liaw</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817943?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827085000 +0000" stop="20260827091500 +0000" channel="31">
-    <title>Bondi Rescue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816053?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827091500 +0000" stop="20260827121500 +0000" channel="31">
-    <title>AFL Premiership Season</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827121500 +0000" stop="20260827130500 +0000" channel="31">
     <title>Annabel Crabb's Civic Duty</title>
     <desc />
@@ -677,5 +627,75 @@
     <title>Australian Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/701512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901033000 +0000" stop="20260901040000 +0000" channel="31">
+    <title>Back Roads</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754414?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901040000 +0000" stop="20260901050000 +0000" channel="31">
+    <title>Playing on a Prayer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/848815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901050000 +0000" stop="20260901060000 +0000" channel="31">
+    <title>Australia's Wild Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901060000 +0000" stop="20260901063000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/727998?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901070000 +0000" channel="31">
+    <title>Planet America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901070000 +0000" stop="20260901080000 +0000" channel="31">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901080000 +0000" stop="20260901083000 +0000" channel="31">
+    <title>The Cook Up With Adam Liaw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817943?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901083000 +0000" stop="20260901090000 +0000" channel="31">
+    <title>Weird Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/848817?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901090000 +0000" stop="20260901093000 +0000" channel="31">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901093000 +0000" stop="20260901100000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901100000 +0000" stop="20260901110000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901110000 +0000" stop="20260901120000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901120000 +0000" stop="20260901123000 +0000" channel="31">
+    <title>Back Roads</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754414?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901123000 +0000" stop="20260901132000 +0000" channel="31">
+    <title>Australia's Wild Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
