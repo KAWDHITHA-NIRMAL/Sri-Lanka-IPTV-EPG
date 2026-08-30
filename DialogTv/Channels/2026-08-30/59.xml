@@ -3,36 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="59">
-    <title>India's Jungle Heroes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832541?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="59">
-    <title>Primal Survivor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152720?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="59">
-    <title>Lion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="59">
-    <title>India's Megakitchens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="59">
-    <title>Luke Nguyen's Street Food Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/733993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="59">
-    <title>Primal Survivor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152720?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="59">
     <title>Primal Survivor: Over The Andes</title>
     <desc />
@@ -852,5 +822,20 @@
     <title>Tucci In Italy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/723636?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="59">
+    <title>Luke Nguyen's India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="59">
+    <title>India's Megakitchens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="59">
+    <title>Primal Survivor: Mighty Mekong</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/143430?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

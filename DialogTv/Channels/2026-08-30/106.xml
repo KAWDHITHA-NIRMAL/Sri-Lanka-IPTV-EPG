@@ -3,20 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="106">
-    <title>G 10 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="106">
-    <title>G 10 Islam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939942?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="106">
-    <title>G 10 Agriculture</title>
-    <desc />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="106">
     <title>G 11 ICT</title>
     <desc />
@@ -734,6 +720,18 @@
   </programme>
   <programme start="20260901123000 +0000" stop="20260901133000 +0000" channel="106">
     <title>G7Tamil</title>
+    <desc />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="106">
+    <title>G8 Tamil</title>
+    <desc />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="106">
+    <title>G9 Tamil</title>
+    <desc />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="106">
+    <title>G 6 English</title>
     <desc />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827143000 +0000" channel="127">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="127">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827173000 +0000" channel="127">
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
@@ -274,5 +264,15 @@
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="127">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901163000 +0000" channel="127">
+    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

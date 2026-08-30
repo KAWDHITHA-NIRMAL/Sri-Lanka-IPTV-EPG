@@ -3,21 +3,6 @@
   <channel id="81">
     <display-name>Channel 88</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827140000 +0000" channel="81">
-    <title>Good Luck Charlie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/720203?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="81">
-    <title>New Show - The Suite Life On Deck</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="81">
-    <title>The Suite Life On Deck</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827150000 +0000" stop="20260827163000 +0000" channel="81">
     <title>Liv And Maddie</title>
     <desc />
@@ -532,5 +517,20 @@
     <title>Good Luck Charlie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/720203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="81">
+    <title>New Show - The Suite Life On Deck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="81">
+    <title>The Suite Life On Deck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901163000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

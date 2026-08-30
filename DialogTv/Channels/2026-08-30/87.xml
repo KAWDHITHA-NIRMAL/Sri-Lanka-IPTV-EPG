@@ -3,11 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260827115000 +0000" stop="20260827143500 +0000" channel="87">
-    <title>Kalank</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827143500 +0000" stop="20260827170000 +0000" channel="87">
     <title>Queen</title>
     <desc />
@@ -247,5 +242,10 @@
     <title>Hasee Toh Phasee</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901170000 +0000" channel="87">
+    <title>Chak De India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942641?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

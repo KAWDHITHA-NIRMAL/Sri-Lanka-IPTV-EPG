@@ -3,66 +3,6 @@
   <channel id="52">
     <display-name>Channel 58</display-name>
   </channel>
-  <programme start="20260827125000 +0000" stop="20260827131500 +0000" channel="52">
-    <title>The Creature Cases S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/800771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827131500 +0000" stop="20260827134000 +0000" channel="52">
-    <title>Deer Squad S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802576?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827134000 +0000" stop="20260827134500 +0000" channel="52">
-    <title>Peppa Pig S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827134500 +0000" stop="20260827135000 +0000" channel="52">
-    <title>Peppa Pig S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827135000 +0000" stop="20260827135500 +0000" channel="52">
-    <title>Peppa Pig S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827135500 +0000" stop="20260827140000 +0000" channel="52">
-    <title>Peppa Pig S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827142000 +0000" channel="52">
-    <title>Ben &amp; Holly's Little Kingdom S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827142000 +0000" stop="20260827144500 +0000" channel="52">
-    <title>PAW Patrol S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/406682?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827144500 +0000" stop="20260827150000 +0000" channel="52">
-    <title>Paw Patrol S11</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/818570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827152000 +0000" channel="52">
-    <title>Rubble &amp; Crew S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/406148?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827152000 +0000" stop="20260827153000 +0000" channel="52">
-    <title>Rubble &amp; Crew S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827155500 +0000" channel="52">
-    <title>Mr. Crocodile S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/872001?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827155500 +0000" stop="20260827161500 +0000" channel="52">
     <title>Barbapapa - One Big Happy Family! S02</title>
     <desc />
@@ -1767,5 +1707,65 @@
     <title>The Creature Cases S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/800771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901131500 +0000" stop="20260901134000 +0000" channel="52">
+    <title>Deer Squad S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/802576?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901134000 +0000" stop="20260901134500 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901134500 +0000" stop="20260901135000 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135000 +0000" stop="20260901135500 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135500 +0000" stop="20260901140000 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901142000 +0000" channel="52">
+    <title>Ben &amp; Holly's Little Kingdom S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901142000 +0000" stop="20260901144500 +0000" channel="52">
+    <title>PAW Patrol S09</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/406682?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901144500 +0000" stop="20260901150000 +0000" channel="52">
+    <title>Paw Patrol S11</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818570?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901152000 +0000" channel="52">
+    <title>Rubble &amp; Crew S03</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/406148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152000 +0000" stop="20260901153000 +0000" channel="52">
+    <title>Rubble &amp; Crew S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/745689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901155500 +0000" channel="52">
+    <title>Mr. Crocodile S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872001?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901155500 +0000" stop="20260901161500 +0000" channel="52">
+    <title>Barbapapa - One Big Happy Family! S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/745683?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

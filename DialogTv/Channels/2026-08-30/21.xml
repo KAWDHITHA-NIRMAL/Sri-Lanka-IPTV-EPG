@@ -3,26 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20260827123300 +0000" stop="20260827130300 +0000" channel="21">
-    <title>Buddha Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130300 +0000" stop="20260827143100 +0000" channel="21">
-    <title>Bakthi Geetha Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941988?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143100 +0000" stop="20260827150100 +0000" channel="21">
-    <title>Bakthi Geetha Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941988?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150100 +0000" stop="20260827153100 +0000" channel="21">
-    <title>Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/751549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153100 +0000" stop="20260827165800 +0000" channel="21">
     <title>Bihidora</title>
     <desc />
@@ -797,5 +777,25 @@
     <title>Buddha Wandanawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130600 +0000" stop="20260901140600 +0000" channel="21">
+    <title>Sadaham Amadahara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50446?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140600 +0000" stop="20260901143600 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143600 +0000" stop="20260901153600 +0000" channel="21">
+    <title>Daham Paura</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/767136?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153600 +0000" stop="20260901163600 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

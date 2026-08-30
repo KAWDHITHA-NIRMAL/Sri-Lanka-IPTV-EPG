@@ -3,31 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130100 +0000" channel="136">
-    <title>Le Journal De France 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62548?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130100 +0000" stop="20260827142600 +0000" channel="136">
-    <title>A Bicyclette !</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942869?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827142600 +0000" stop="20260827144600 +0000" channel="136">
-    <title>Temps De Chien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827144600 +0000" stop="20260827150600 +0000" channel="136">
-    <title>Les Mains Sales</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150600 +0000" stop="20260827154600 +0000" channel="136">
-    <title>Eaux Turbulentes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939903?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827154600 +0000" stop="20260827162900 +0000" channel="136">
     <title>Eaux Turbulentes</title>
     <desc />
@@ -1172,5 +1147,25 @@
     <title>Le Journal De France 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62548?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901125900 +0000" stop="20260901143600 +0000" channel="136">
+    <title>L'Acrobate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143600 +0000" stop="20260901150000 +0000" channel="136">
+    <title>La Copie De Coralie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942777?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901154900 +0000" channel="136">
+    <title>L'Abime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901154900 +0000" stop="20260901170000 +0000" channel="136">
+    <title>L'Abime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941825?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="80">
-    <title>Most Watched</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="80">
-    <title>Fashion News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="80">
-    <title>Fashion News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="80">
-    <title>Taylor Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941559?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="80">
-    <title>Taylor Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941559?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="80">
-    <title>Fashion Magazines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36581?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="80">
-    <title>Fashion Magazines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36581?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="80">
     <title>Designers</title>
     <desc />
@@ -1207,5 +1172,40 @@
     <title>Most Watched</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="80">
+    <title>Fashion News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33708?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="80">
+    <title>Fashion News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33708?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="80">
+    <title>Chrissy Teigen Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="80">
+    <title>Chrissy Teigen Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="80">
+    <title>Fashion Magazines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="80">
+    <title>Fashion Magazines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="80">
+    <title>Fashion Films</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827140000 +0000" channel="1">
-    <title>Uthum Saddharma Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942505?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="1">
-    <title>Solosmasthana Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="1">
-    <title>Poya Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942504?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="1">
     <title>Adhichiththa Sikka</title>
     <desc />
@@ -622,5 +607,25 @@
     <title>Ru Naari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="1">
+    <title>Kandula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="1">
+    <title>Rajiniyo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942507?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="1">
+    <title>Kutu Kutu Mama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="1">
+    <title>World Wide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260827123100 +0000" stop="20260827150500 +0000" channel="79">
-    <title>Custody</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942609?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827150500 +0000" stop="20260827170600 +0000" channel="79">
     <title>ACP Shiva</title>
     <desc />
@@ -229,6 +224,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />

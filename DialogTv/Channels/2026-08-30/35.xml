@@ -3,41 +3,6 @@
   <channel id="35">
     <display-name>Channel 41</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="35">
-    <title>Sawaal India Ka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="35">
-    <title>Sawaal India Ka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="35">
-    <title>News Headquarter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152807?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="35">
-    <title>News Headquarter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152807?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="35">
-    <title>Mic ON Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692282?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="35">
-    <title>Mic ON Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692282?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="35">
-    <title>Bharat Ki Baat Batata Hoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/395745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="35">
     <title>Bharat Ki Baat Batata Hoon</title>
     <desc />
@@ -1207,5 +1172,40 @@
     <title>Sawaal India Ka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="35">
+    <title>Sawaal India Ka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="35">
+    <title>News Headquarter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152807?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="35">
+    <title>News Headquarter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152807?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="35">
+    <title>Mic ON Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="35">
+    <title>Mic ON Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="35">
+    <title>Bharat Ki Baat Batata Hoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/395745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="35">
+    <title>Bharat Ki Baat Batata Hoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/395745?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260827122500 +0000" stop="20260827140000 +0000" channel="75">
-    <title>Bodyguard Of Lies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827140000 +0000" stop="20260827163500 +0000" channel="75">
     <title>One Battle After Another</title>
     <desc />
@@ -369,6 +364,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="75">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="75">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />

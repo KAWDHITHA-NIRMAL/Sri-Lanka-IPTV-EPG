@@ -3,21 +3,6 @@
   <channel id="47">
     <display-name>Channel 53</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="47">
-    <title>Teen Titans Go</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/70220?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="47">
-    <title>We Bare Bears</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827160000 +0000" channel="47">
-    <title>We Bare Bears</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827164500 +0000" channel="47">
     <title>Mechamato</title>
     <desc />
@@ -627,5 +612,20 @@
     <title>Teen Titans Go</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/70220?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="47">
+    <title>We Bare Bears</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34346?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901160000 +0000" channel="47">
+    <title>We Bare Bears</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34346?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901164500 +0000" channel="47">
+    <title>Mechamato</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939189?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,31 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="103">
-    <title>Ragamadala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="103">
-    <title>Sathipasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="103">
-    <title>Suwa Nenasa-Jpu/OD</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="103">
-    <title>G9 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33678?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827160000 +0000" channel="103">
-    <title>G9 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="103">
     <title>G9 Music</title>
     <desc />
@@ -674,5 +649,30 @@
     <title>Raga Madala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="103">
+    <title>Sathipasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="103">
+    <title>Suwa Nenasa-Jpu/OD</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34893?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="103">
+    <title>G9 Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36959?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901160000 +0000" channel="103">
+    <title>G7 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/37271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901170000 +0000" channel="103">
+    <title>G7 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/37349?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

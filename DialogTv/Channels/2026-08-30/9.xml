@@ -3,41 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="9">
-    <title>Moondru Mudichu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/747721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="9">
-    <title>Kayal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916069?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="9">
-    <title>Ethirneechal Thodargiradhu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/690106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="9">
-    <title>Singapenne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="9">
-    <title>Shakthi News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="9">
-    <title>Chellame Chellame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/730009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="9">
-    <title>Lakshmi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="9">
     <title>Annam</title>
     <desc />
@@ -642,5 +607,40 @@
     <title>Moondru Mudichu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/747721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="9">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/790430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="9">
+    <title>Ethirneechal Thodargiradhu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/690106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="9">
+    <title>Singapenne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="9">
+    <title>Shakthi News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50769?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="9">
+    <title>Chellame Chellame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/730009?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="9">
+    <title>Lakshmi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="9">
+    <title>Annam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692274?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

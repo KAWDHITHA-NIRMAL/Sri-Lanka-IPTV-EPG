@@ -3,21 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20260827125700 +0000" stop="20260827134300 +0000" channel="83">
-    <title>Inside The Factory - Curry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827134300 +0000" stop="20260827143000 +0000" channel="83">
-    <title>Rick Stein's Road To Mexico</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942783?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="83">
-    <title>Scandinavia With Simon Reeve S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942340?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163100 +0000" channel="83">
     <title>Human S1</title>
     <desc />
@@ -757,5 +742,25 @@
     <title>The Ganges With Sue Perkins S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915796?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130200 +0000" stop="20260901135400 +0000" channel="83">
+    <title>World's Most Dangerous Roads S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135400 +0000" stop="20260901144600 +0000" channel="83">
+    <title>World's Most Dangerous Roads S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901144600 +0000" stop="20260901154200 +0000" channel="83">
+    <title>The Secret Genius Of Modern Life S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941199?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901154200 +0000" stop="20260901164100 +0000" channel="83">
+    <title>The Secret Genius Of Modern Life S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941198?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

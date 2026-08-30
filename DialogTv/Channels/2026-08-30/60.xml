@@ -3,21 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="60">
-    <title>Living With Big Cats</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763583?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="60">
-    <title>Superpride</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="60">
     <title>Lawless Jungle</title>
     <desc />
@@ -742,5 +727,20 @@
     <title>Cat Attack-Tics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/754590?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="60">
+    <title>Big Cat Planet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/749722?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="60">
+    <title>House Of Predators</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="60">
+    <title>The Way Of The Cheetah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255016?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

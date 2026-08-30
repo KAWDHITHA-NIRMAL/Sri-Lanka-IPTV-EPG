@@ -3,26 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827150000 +0000" stop="20260827190000 +0000" channel="34">
     <title>One World</title>
     <desc />
@@ -562,5 +542,30 @@
     <title>World Sport</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="34">
+    <title>Connect The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="34">
+    <title>Connect The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="34">
+    <title>Connect The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901160000 +0000" channel="34">
+    <title>One World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901170000 +0000" channel="34">
+    <title>One World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

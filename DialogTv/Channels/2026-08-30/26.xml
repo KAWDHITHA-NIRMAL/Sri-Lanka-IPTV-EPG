@@ -3,26 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="26">
-    <title>Osu Pen 108 Poojawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762576?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827140000 +0000" channel="26">
-    <title>Sadaham Muthu Wela By Ven.Koralayagama Saranatissa Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/397128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="26">
-    <title>Maathara Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35151?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="26">
-    <title>Susandesha -Buddhist News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/161297?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="26">
     <title>Bodhu Sahitha Waruna</title>
     <desc />
@@ -677,5 +657,25 @@
     <title>Osu Pen 108 Poojawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762576?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="26">
+    <title>Sadaham Muthu Wela By Ven.Koralayagama Saranatissa Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/397128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="26">
+    <title>Maathara Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="26">
+    <title>Susandesha -Buddhist News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/161297?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="26">
+    <title>Friday 6.30 Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753654?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

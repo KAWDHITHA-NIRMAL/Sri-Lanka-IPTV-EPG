@@ -3,36 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260827121500 +0000" stop="20260827130500 +0000" channel="31">
-    <title>Annabel Crabb's Civic Duty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/813345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130500 +0000" stop="20260827134000 +0000" channel="31">
-    <title>I Was Actually There</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827134000 +0000" stop="20260827142500 +0000" channel="31">
-    <title>Ambulance Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827142500 +0000" stop="20260827144000 +0000" channel="31">
-    <title>ABC Late News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61340?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827144000 +0000" stop="20260827145500 +0000" channel="31">
-    <title>The Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827145500 +0000" stop="20260827152500 +0000" channel="31">
-    <title>7.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827152500 +0000" stop="20260827162500 +0000" channel="31">
     <title>The World</title>
     <desc />
@@ -697,5 +667,35 @@
     <title>Australia's Wild Moments</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901132000 +0000" stop="20260901140000 +0000" channel="31">
+    <title>Dr Karl'S How Things Work</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901141500 +0000" channel="31">
+    <title>ABC Late News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901141500 +0000" stop="20260901143000 +0000" channel="31">
+    <title>The Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901160000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/727998?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260827121500 +0000" stop="20260827140000 +0000" channel="117">
-    <title>Inkheart</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941609?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827153500 +0000" channel="117">
-    <title>Drop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939340?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153500 +0000" stop="20260827173500 +0000" channel="117">
     <title>No Country For Old Men</title>
     <desc />
@@ -344,6 +334,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="117">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />

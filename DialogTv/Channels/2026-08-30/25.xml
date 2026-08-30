@@ -3,21 +3,6 @@
   <channel id="25">
     <display-name>Channel 31</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="25">
-    <title>Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34365?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="25">
-    <title>Thathagatha Shri Saddarmaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="25">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="25">
     <title>Prathyaweksha</title>
     <desc />
@@ -637,5 +622,20 @@
     <title>Piritha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34365?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="25">
+    <title>Thathagatha Shri Saddarmaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35110?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="25">
+    <title>Dayakathwa Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="25">
+    <title>Prathyaweksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33390?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

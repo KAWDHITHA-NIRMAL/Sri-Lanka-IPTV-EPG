@@ -3,21 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20260827120000 +0000" stop="20260827130000 +0000" channel="113">
-    <title>Celebrity Family Feud S12</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941407?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827150000 +0000" channel="113">
-    <title>America's Got Talent S21</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="113">
-    <title>Entertainment Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915453?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="113">
     <title>The Agency: Central Intelligence S1</title>
     <desc />
@@ -617,5 +602,25 @@
     <title>Matlock S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/874143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="113">
+    <title>Shark Tank S16</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/812727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901151500 +0000" channel="113">
+    <title>Sandokan: The Pirate Prince</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901151500 +0000" stop="20260901154500 +0000" channel="113">
+    <title>Entertainment Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901154500 +0000" stop="20260901164500 +0000" channel="113">
+    <title>Special Forces: World's Toughest Test S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916047?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

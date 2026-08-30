@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260827113000 +0000" stop="20260827143000 +0000" channel="19">
-    <title>Ethuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827143000 +0000" stop="20260827173000 +0000" channel="19">
     <title>Isuru Diya</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Amathithuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942515?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901173000 +0000" channel="19">
+    <title>Sudu Kiri Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942514?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

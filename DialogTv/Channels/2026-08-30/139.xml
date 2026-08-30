@@ -3,46 +3,6 @@
   <channel id="139">
     <display-name>Channel 1835</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="139">
-    <title>Phoenix Financial Daily Report</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827135500 +0000" channel="139">
-    <title>Phoenix Evening Express</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827135500 +0000" stop="20260827140000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="139">
-    <title>Chief Editor's Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="139">
-    <title>News Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742421?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827152700 +0000" channel="139">
-    <title>Phoenix Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827152700 +0000" stop="20260827153000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="139">
-    <title>Chief Editor's Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827165700 +0000" channel="139">
     <title>Phoenix Intercontinental Express</title>
     <desc />
@@ -1602,5 +1562,45 @@
     <title>Phoenix Financial Daily Report</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901135500 +0000" channel="139">
+    <title>Phoenix Evening Express</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135500 +0000" stop="20260901140000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="139">
+    <title>Chief Editor's Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="139">
+    <title>News Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742421?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901152700 +0000" channel="139">
+    <title>Phoenix Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152700 +0000" stop="20260901153000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="139">
+    <title>Chief Editor's Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901165700 +0000" channel="139">
+    <title>Phoenix Intercontinental Express</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/90934?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

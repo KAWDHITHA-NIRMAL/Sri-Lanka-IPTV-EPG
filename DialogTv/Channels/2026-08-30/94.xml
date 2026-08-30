@@ -3,41 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260827120000 +0000" stop="20260827130000 +0000" channel="94">
-    <title>Gamma Gamma Malai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="94">
-    <title>Dheivegam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884563?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="94">
-    <title>Jeyyam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190428?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="94">
-    <title>Ilakkanam Marudho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="94">
-    <title>Kettimelam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760086?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="94">
-    <title>Maya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832467?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="94">
-    <title>Rudhram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/737613?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="94">
     <title>Pesum Padam</title>
     <desc />
@@ -357,5 +322,40 @@
     <title>Gamma Gamma Malai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/190426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="94">
+    <title>Dheivegam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="94">
+    <title>Jeyyam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="94">
+    <title>Ilakkanam Marudho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="94">
+    <title>Kettimelam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="94">
+    <title>Maya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/832467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="94">
+    <title>Rudhram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/737613?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="94">
+    <title>Pesum Padam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20260827121500 +0000" stop="20260827130000 +0000" channel="33">
-    <title>China 24</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34713?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="33">
-    <title>Global Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="33">
-    <title>The Hub With Wang Guan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61981?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33330?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="33">
-    <title>World Insight with Tian Wei</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33330?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="33">
-    <title>The Vibe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34170?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="33">
     <title>Global Business</title>
     <desc />
@@ -1122,5 +1087,40 @@
     <title>China 24</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34713?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="33">
+    <title>The Hub With Wang Guan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33330?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="33">
+    <title>World Insight with Tian Wei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33330?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="33">
+    <title>The Vibe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901170000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

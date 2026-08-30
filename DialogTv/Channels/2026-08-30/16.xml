@@ -3,31 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="16">
-    <title>Forign Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827150000 +0000" channel="16">
-    <title>Dp Education Haritha Taksalawa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35639?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="16">
-    <title>Forign Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="16">
     <title>Ada Cheenaya</title>
     <desc />
@@ -782,5 +757,25 @@
     <title>Foreign Program</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901150000 +0000" channel="16">
+    <title>Dp Education Haritha Taksalawa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="16">
+    <title>A Park</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="16">
+    <title>Jeewithartha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33552?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

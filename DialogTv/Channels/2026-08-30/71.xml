@@ -3,11 +3,6 @@
   <channel id="71">
     <display-name>Channel 78</display-name>
   </channel>
-  <programme start="20260827124000 +0000" stop="20260827141500 +0000" channel="71">
-    <title>The Stepford Wives</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940612?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827141500 +0000" stop="20260827163500 +0000" channel="71">
     <title>King Richard</title>
     <desc />
@@ -1159,6 +1154,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="71">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183500 +0000" channel="71">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />

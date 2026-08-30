@@ -3,11 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260827125500 +0000" stop="20260827143500 +0000" channel="133">
-    <title>Get Out</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916512?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827143500 +0000" stop="20260827165000 +0000" channel="133">
     <title>Widows</title>
     <desc />
@@ -306,5 +301,10 @@
     <title>Godzilla Minus One</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="133">
+    <title>Gods Of Egypt</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914766?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

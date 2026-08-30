@@ -3,46 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="120">
-    <title>ICC Cricket World Cup 2011 Hlts.</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827131500 +0000" channel="120">
-    <title>CPL 2026 HLs Riders Women v King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827131500 +0000" stop="20260827133000 +0000" channel="120">
-    <title>CPL 2026 HLs King v Kingsmen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941709?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="120">
-    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815915?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="120">
-    <title>Cricket Countdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="120">
-    <title>ICC Men's ODI WC 2023 hlts. NZ v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827151500 +0000" channel="120">
-    <title>CPL 2026 HLs Riders Women v King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827151500 +0000" stop="20260827153000 +0000" channel="120">
-    <title>CPL 2026 HLs Falcons v Royals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942523?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="120">
     <title>2nd Test Day 5 HLs AUS v BAN</title>
     <desc />
@@ -1137,5 +1097,40 @@
     <title>ETPL 2026 HLs Flames v Wolves</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901131500 +0000" channel="120">
+    <title>CPL 2026 HLs Riders Women v Kingsmen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901131500 +0000" stop="20260901133000 +0000" channel="120">
+    <title>CPL 2026 HLs Patriots v Falcons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901134500 +0000" channel="120">
+    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901134500 +0000" stop="20260901140000 +0000" channel="120">
+    <title>IND v NZ T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="120">
+    <title>Cricket Countdown</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909982?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="120">
+    <title>SA v IND ODI 2023 - Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941464?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901183000 +0000" channel="120">
+    <title>Live US Open 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

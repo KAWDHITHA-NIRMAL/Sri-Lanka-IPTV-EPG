@@ -3,36 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="4">
-    <title>Bethi Gee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941351?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827140000 +0000" channel="4">
-    <title>News &amp; Current Affairs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="4">
-    <title>Deyyangema Pihitai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812628?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="4">
-    <title>Mal Bingun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909453?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="4">
-    <title>Sihineka Thaniwela</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680423?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="4">
-    <title>Meesha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="4">
     <title>NLB Lottery Draw</title>
     <desc />
@@ -887,5 +857,35 @@
     <title>Paradeese</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="4">
+    <title>News &amp; Current Affairs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="4">
+    <title>Deyyangema Pihitai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/812628?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="4">
+    <title>Mal Bingun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="4">
+    <title>Sihineka Thaniwea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942503?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="4">
+    <title>Meesha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="4">
+    <title>NLB Lottery Draw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187505?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

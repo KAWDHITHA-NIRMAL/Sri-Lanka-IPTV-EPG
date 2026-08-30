@@ -3,26 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="78">
-    <title>I Dream Of Jeannie S5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915755?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827140000 +0000" channel="78">
-    <title>CSI S6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941548?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="78">
-    <title>Bonnie &amp; Clyde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827160000 +0000" channel="78">
-    <title>T. J. Hooker S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941172?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="78">
     <title>The Jeffersons S9</title>
     <desc />
@@ -727,5 +707,25 @@
     <title>Murder, She Wrote S9</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="78">
+    <title>The Jeffersons S9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/883483?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="78">
+    <title>I Dream Of Jeannie S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915755?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="78">
+    <title>Beverly Hills, 90210 S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909094?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="78">
+    <title>Homicide: Life On The Street S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913532?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

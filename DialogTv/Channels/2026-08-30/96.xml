@@ -3,41 +3,6 @@
   <channel id="96">
     <display-name>Channel 103</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="96">
-    <title>Kadhal Kadhal Kadhal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/879800?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="96">
-    <title>Onna Irukka Kaththukkanum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871677?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="96">
-    <title>Thaai Maman - Thaiku Nigaranavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760466?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="96">
-    <title>Azhagae Azhagu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="96">
-    <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="96">
-    <title>Ayyanar Thunai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/106547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="96">
-    <title>Siragadikka Aasai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="96">
     <title>Chinna Marumagal Panirendaam Vaguppu</title>
     <desc />
@@ -837,5 +802,40 @@
     <title>Kadhal Kadhal Kadhal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/879800?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="96">
+    <title>Onna Irukka Kaththukkanum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/871677?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="96">
+    <title>Thaai Maman - Thaiku Nigaranavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760466?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="96">
+    <title>Azhagae Azhagu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="96">
+    <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="96">
+    <title>Ayyanar Thunai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/106547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="96">
+    <title>Siragadikka Aasai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="96">
+    <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/739038?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

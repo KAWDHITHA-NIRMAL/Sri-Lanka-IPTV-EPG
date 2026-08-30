@@ -3,16 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827141500 +0000" channel="135">
-    <title>Fiction: Che Dio Ci Aiuti 7 5a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827141500 +0000" stop="20260827143000 +0000" channel="135">
-    <title>TG1 Ore 16.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940551?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827143000 +0000" stop="20260827170000 +0000" channel="135">
     <title>Vita In Diretta</title>
     <desc />
@@ -712,5 +702,15 @@
     <title>Fiction: Che Dio Ci Aiuti 7 3a Puntata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901141500 +0000" stop="20260901143000 +0000" channel="135">
+    <title>TG1 Ore 16.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901170000 +0000" channel="135">
+    <title>Vita In Diretta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

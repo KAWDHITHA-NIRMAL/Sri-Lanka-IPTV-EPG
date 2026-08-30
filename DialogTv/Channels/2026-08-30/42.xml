@@ -3,16 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260827110000 +0000" stop="20260827150000 +0000" channel="42">
-    <title>Afternoon Overture</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35165?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827160000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36020?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="42">
     <title>Pure Piano</title>
     <desc />
@@ -727,5 +717,15 @@
     <title>Afternoon Overture</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35165?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901160000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36020?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901170000 +0000" channel="42">
+    <title>Pure Piano</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34331?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

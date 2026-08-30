@@ -3,26 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20260827125000 +0000" stop="20260827134500 +0000" channel="111">
-    <title>S.W.A.T. S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827134500 +0000" stop="20260827144000 +0000" channel="111">
-    <title>The Rookie  S07</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914902?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827144000 +0000" stop="20260827151500 +0000" channel="111">
-    <title>Twisted Metal  S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827151500 +0000" stop="20260827155000 +0000" channel="111">
-    <title>Twisted Metal  S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827155000 +0000" stop="20260827164500 +0000" channel="111">
     <title>The Rookie  S07</title>
     <desc />
@@ -574,6 +554,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/914907?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="111">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901191500 +0000" channel="111">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/914907?accessKey=WkVjNWNscFhORDBLCg==" />

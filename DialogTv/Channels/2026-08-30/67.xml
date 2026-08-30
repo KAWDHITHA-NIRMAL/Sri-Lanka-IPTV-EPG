@@ -3,11 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827143000 +0000" channel="67">
-    <title>AEW Dynamite</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/177672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827143000 +0000" stop="20260827163000 +0000" channel="67">
     <title>Eredivisie Soccer</title>
     <desc />
@@ -382,5 +377,15 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="67">
+    <title>Servo - The Power Behind Progress</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938645?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901163000 +0000" channel="67">
+    <title>MLS Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738297?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

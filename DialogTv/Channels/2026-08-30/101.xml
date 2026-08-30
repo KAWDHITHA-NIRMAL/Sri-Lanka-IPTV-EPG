@@ -3,11 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260827103000 +0000" stop="20260827130000 +0000" channel="101">
-    <title>Annapoorani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827130000 +0000" stop="20260827163000 +0000" channel="101">
     <title>Vantha Rajavathaan Varuven</title>
     <desc />
@@ -272,5 +267,10 @@
     <title>iSmart Shankar</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942959?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901163000 +0000" channel="101">
+    <title>The Priest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942960?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

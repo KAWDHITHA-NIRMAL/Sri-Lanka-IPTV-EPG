@@ -3,21 +3,6 @@
   <channel id="40">
     <display-name>Channel 46</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="40">
-    <title>Boom Box</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="40">
-    <title>Boom Box</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="40">
-    <title>Solid Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="40">
     <title>Awaaz De Kahan Hai</title>
     <desc />
@@ -572,5 +557,20 @@
     <title>Boom Box</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/437913?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901143000 +0000" channel="40">
+    <title>Boom Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437913?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="40">
+    <title>Solid Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="40">
+    <title>Awaaz De Kahan Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437910?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

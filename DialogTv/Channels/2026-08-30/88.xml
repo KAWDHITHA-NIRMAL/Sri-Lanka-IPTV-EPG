@@ -3,36 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="88">
-    <title>Bareilly Ki Bacchan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="88">
-    <title>Juhi Mui</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="88">
-    <title>Mahadev &amp; Sons</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="88">
-    <title>Bhojpuri Bawaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="88">
-    <title>Tuu Juliet Jatt Di</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748298?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="88">
     <title>Juhi Mui</title>
     <desc />
@@ -992,5 +962,35 @@
     <title>Seher Hone Ko Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="88">
+    <title>Bareilly Ki Bacchan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="88">
+    <title>Juhi Mui</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/871345?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="88">
+    <title>Mahadev &amp; Sons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="88">
+    <title>Bhojpuri Bawaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916882?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="88">
+    <title>Juhi Mui</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/871345?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="88">
+    <title>Tuu Juliet Jatt Di</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748298?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260827124100 +0000" stop="20260827133600 +0000" channel="55">
-    <title>Surviving The Serengeti</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133600 +0000" stop="20260827143000 +0000" channel="55">
-    <title>Wild Tanzania</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827152500 +0000" channel="55">
-    <title>Brotherhood Of Lions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827152500 +0000" stop="20260827162000 +0000" channel="55">
     <title>Hippos After Dark</title>
     <desc />
@@ -702,5 +687,25 @@
     <title>Big Cat Country</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/800725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901135800 +0000" channel="55">
+    <title>Battle of the Alphas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135800 +0000" stop="20260901142500 +0000" channel="55">
+    <title>Jungle Planet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901142500 +0000" stop="20260901152500 +0000" channel="55">
+    <title>The Lions Rule</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761468?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152500 +0000" stop="20260901163300 +0000" channel="55">
+    <title>A Wolf's Choice - Family or Freedom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941373?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

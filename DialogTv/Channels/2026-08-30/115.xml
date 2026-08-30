@@ -3,16 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260827113500 +0000" stop="20260827131700 +0000" channel="115">
-    <title>The Marvels</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827131700 +0000" stop="20260827151500 +0000" channel="115">
-    <title>Alien: Romulus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942860?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827151500 +0000" stop="20260827164900 +0000" channel="115">
     <title>Resident Evil: Afterlife</title>
     <desc />
@@ -324,6 +314,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />

@@ -3,31 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260827100000 +0000" stop="20260827130000 +0000" channel="10">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871365?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="10">
-    <title>07:30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="10">
-    <title>Jathiak Mehewara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827161500 +0000" channel="10">
     <title>News 1st</title>
     <desc />
@@ -517,5 +492,30 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/871365?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="10">
+    <title>Dawasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/685101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="10">
+    <title>07:30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="10">
+    <title>Jathiak Mehewara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815054?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901161500 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

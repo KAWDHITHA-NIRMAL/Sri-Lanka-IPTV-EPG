@@ -3,46 +3,6 @@
   <channel id="13">
     <display-name>Channel 19</display-name>
   </channel>
-  <programme start="20260827110000 +0000" stop="20260827130000 +0000" channel="13">
-    <title>ART Weekday Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34150?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827132700 +0000" channel="13">
-    <title>Tomorrow Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174254?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827132700 +0000" stop="20260827133000 +0000" channel="13">
-    <title>10 to 10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827141500 +0000" channel="13">
-    <title>Art Top 10 Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827141500 +0000" stop="20260827143000 +0000" channel="13">
-    <title>State Of Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="13">
-    <title>Global Us</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827152700 +0000" channel="13">
-    <title>Discussion Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/767713?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827152700 +0000" stop="20260827153000 +0000" channel="13">
-    <title>10 to 10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827162700 +0000" channel="13">
     <title>Discussion Program</title>
     <desc />
@@ -792,5 +752,45 @@
     <title>ART Weekday Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34150?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901132700 +0000" channel="13">
+    <title>Rev</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174250?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901132700 +0000" stop="20260901133000 +0000" channel="13">
+    <title>10 to 10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901141500 +0000" channel="13">
+    <title>Art Top 10 Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901141500 +0000" stop="20260901143000 +0000" channel="13">
+    <title>State Of Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="13">
+    <title>Art 21</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/174252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901152700 +0000" channel="13">
+    <title>Discussion Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/767713?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152700 +0000" stop="20260901153000 +0000" channel="13">
+    <title>10 to 10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901162700 +0000" channel="13">
+    <title>Discussion Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/767713?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

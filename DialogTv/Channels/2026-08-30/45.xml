@@ -3,56 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="45">
-    <title>Ice Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827130300 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682184?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130300 +0000" stop="20260827132400 +0000" channel="45">
-    <title>Junior Vets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827132400 +0000" stop="20260827133300 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682184?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133300 +0000" stop="20260827140000 +0000" channel="45">
-    <title>The Deep</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="45">
-    <title>Operation Ouch!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/681744?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827143300 +0000" channel="45">
-    <title>mathXplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682671?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143300 +0000" stop="20260827150000 +0000" channel="45">
-    <title>Gym Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="45">
-    <title>Junior Vets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="45">
-    <title>Junior Vets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827162400 +0000" channel="45">
     <title>Xploration Awesome Planet</title>
     <desc />
@@ -2562,5 +2512,60 @@
     <title>Ice Stars</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901130300 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682184?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130300 +0000" stop="20260901133300 +0000" channel="45">
+    <title>Junior Vets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133300 +0000" stop="20260901140000 +0000" channel="45">
+    <title>The Deep</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682666?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="45">
+    <title>Operation Ouch!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/681744?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901143300 +0000" channel="45">
+    <title>mathXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143300 +0000" stop="20260901150000 +0000" channel="45">
+    <title>Gym Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901152100 +0000" channel="45">
+    <title>Junior Vets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152100 +0000" stop="20260901152400 +0000" channel="45">
+    <title>mathXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901152400 +0000" stop="20260901153000 +0000" channel="45">
+    <title>mathXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="45">
+    <title>Junior Vets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901162400 +0000" channel="45">
+    <title>Xploration Awesome Planet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682679?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

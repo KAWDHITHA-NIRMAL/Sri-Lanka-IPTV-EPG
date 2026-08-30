@@ -3,31 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827140000 +0000" channel="93">
-    <title>Biggboss The Common Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940801?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="93">
-    <title>Mahabharatham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="93">
-    <title>Mahabharatham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="93">
-    <title>Kanmani Anbudan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/721943?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="93">
-    <title>Thendrale Mella Pesu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748302?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="93">
     <title>Suttum Vizhi Sudare</title>
     <desc />
@@ -472,5 +447,40 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="93">
+    <title>Mahabharatham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="93">
+    <title>Mahabharatham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="93">
+    <title>Kanmani Anbudan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/721943?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="93">
+    <title>Thendrale Mella Pesu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="93">
+    <title>Suttum Vizhi Sudare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/737901?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

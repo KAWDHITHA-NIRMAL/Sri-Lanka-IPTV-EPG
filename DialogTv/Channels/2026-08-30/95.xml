@@ -3,11 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260827103000 +0000" stop="20260827133000 +0000" channel="95">
-    <title>Kannadi Pookkal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827133000 +0000" stop="20260827170000 +0000" channel="95">
     <title>Kodi Parakkuthu</title>
     <desc />
@@ -209,6 +204,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="95">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />

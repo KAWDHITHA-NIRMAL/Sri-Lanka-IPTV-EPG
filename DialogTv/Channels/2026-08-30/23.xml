@@ -3,31 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20260827124500 +0000" stop="20260827133000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="23">
-    <title>Ven. Thalgamuwe Sudheerananda Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/132734?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="23">
-    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153500 +0000" channel="23">
-    <title>Borella</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36953?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153500 +0000" stop="20260827160000 +0000" channel="23">
-    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163500 +0000" channel="23">
     <title>Borella</title>
     <desc />
@@ -682,5 +657,15 @@
     <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901153000 +0000" channel="23">
+    <title>Ven. Wanduramba Sangananda Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="23">
+    <title>Ven. Aluthgama Pannasara Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/73498?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

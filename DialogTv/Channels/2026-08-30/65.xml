@@ -3,16 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827143000 +0000" channel="65">
-    <title>Live England vs Pakistan 2nd Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827144500 +0000" channel="65">
-    <title>Snippet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827144500 +0000" stop="20260827164500 +0000" channel="65">
     <title>Live England vs Pakistan 2nd Test</title>
     <desc />
@@ -672,5 +662,10 @@
     <title>Live England-W vs Ireland-W 1st ODI</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/776083?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901154500 +0000" stop="20260901161500 +0000" channel="65">
+    <title>DP World Women's Asia Cup 2026 - Sri Lanka vs UAE Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943389?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

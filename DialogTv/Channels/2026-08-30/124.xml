@@ -3,31 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="124">
-    <title>The Ashes 2005 Eng vs Aus 2005 - 4th Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="124">
-    <title>CWG 2026 -Medal of Glory JUDO</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="124">
-    <title>CWG 2026 -Medal of Glory WEIGHTLIFTING</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940693?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="124">
-    <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="124">
-    <title>Sri Lanka vs India 2026 - 2nd Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="124">
     <title>CWG 2026 -Medal of Glory NEERAJ CHOPRA SPL</title>
     <desc />
@@ -643,5 +618,13 @@
     <title>CWG 2026 -Medal of Glory WEIGHTLIFTING</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940693?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="124">
+    <title>ACC Women's Asia Cup 2026 Highlights - Bangladesh vs Indonesia</title>
+    <desc />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901170000 +0000" channel="124">
+    <title>Live Jalandhar Warriors vs Amritsar Soormas: Sher E Punjab League 2026</title>
+    <desc />
   </programme>
 </tv>

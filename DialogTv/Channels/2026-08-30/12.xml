@@ -3,56 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="12">
-    <title>Music Mix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827132000 +0000" channel="12">
-    <title>Sport Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939172?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827132000 +0000" stop="20260827135000 +0000" channel="12">
-    <title>New News | Live | Kelama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827135000 +0000" stop="20260827135500 +0000" channel="12">
-    <title>180 Pulse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817872?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827135500 +0000" stop="20260827140500 +0000" channel="12">
-    <title>Kasu Kusu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912510?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140500 +0000" stop="20260827141500 +0000" channel="12">
-    <title>Parliament Today | World News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827141500 +0000" stop="20260827143000 +0000" channel="12">
-    <title>CNA On TV Supreme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/196984?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="12">
-    <title>Viyana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="12">
-    <title>Space Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="12">
-    <title>Tikak Ridei</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913765?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827180000 +0000" channel="12">
     <title>Movie</title>
     <desc />
@@ -802,5 +752,55 @@
     <title>Music Mix</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/911726?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901132000 +0000" channel="12">
+    <title>Sport Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939172?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901132000 +0000" stop="20260901135000 +0000" channel="12">
+    <title>New News | Live | Kelama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135000 +0000" stop="20260901135500 +0000" channel="12">
+    <title>180 Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817872?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901135500 +0000" stop="20260901140500 +0000" channel="12">
+    <title>Kasu Kusu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912510?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140500 +0000" stop="20260901141500 +0000" channel="12">
+    <title>Parliament Today | World News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901141500 +0000" stop="20260901143000 +0000" channel="12">
+    <title>CNA On TV Supreme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/196984?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="12">
+    <title>Cna On Tv Supreme - Yatagiya Dawasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="12">
+    <title>Space Club - Cross Current</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="12">
+    <title>Music Mix - Cross Current</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939440?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160000 +0000" stop="20260901170000 +0000" channel="12">
+    <title>IF</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912904?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

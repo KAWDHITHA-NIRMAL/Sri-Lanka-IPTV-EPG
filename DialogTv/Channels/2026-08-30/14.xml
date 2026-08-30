@@ -3,36 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20260827124000 +0000" stop="20260827130000 +0000" channel="14">
-    <title>Press Box</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61417?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="14">
-    <title>Siwdesa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61250?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="14">
-    <title>@ Hyde Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63293?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="14">
-    <title>@ Hyde Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63293?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="14">
-    <title>Prime Time News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827153000 +0000" stop="20260827160500 +0000" channel="14">
-    <title>First At 9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827160500 +0000" stop="20260827163000 +0000" channel="14">
     <title>World News - English</title>
     <desc />
@@ -967,5 +937,35 @@
     <title>Press Box</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61417?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901133000 +0000" channel="14">
+    <title>Siwdesa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61250?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="14">
+    <title>The Public Square</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/160849?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="14">
+    <title>The Public Square</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/160849?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901153000 +0000" channel="14">
+    <title>Prime Time News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901160500 +0000" channel="14">
+    <title>First At 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901160500 +0000" stop="20260901163000 +0000" channel="14">
+    <title>World News - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61383?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

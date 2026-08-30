@@ -3,31 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260827123000 +0000" stop="20260827133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="15">
-    <title>Ola Mola Pure</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915903?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="15">
-    <title>Eyath Lassanayi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913331?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="15">
-    <title>Doovili</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915904?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="15">
-    <title>Balaninna - Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915904?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827153000 +0000" stop="20260827163000 +0000" channel="15">
     <title>Siyatha Tv News Live</title>
     <desc />
@@ -472,5 +447,30 @@
     <title>News Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901140000 +0000" channel="15">
+    <title>Ola Mola Pure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915903?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901140000 +0000" stop="20260901143000 +0000" channel="15">
+    <title>Eyath Lassanayi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913331?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901143000 +0000" stop="20260901150000 +0000" channel="15">
+    <title>Doovili</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="15">
+    <title>Balaninna - Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901163000 +0000" channel="15">
+    <title>Siyatha Tv News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/766723?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

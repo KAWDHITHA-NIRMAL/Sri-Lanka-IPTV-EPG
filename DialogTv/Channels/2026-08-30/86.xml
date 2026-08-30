@@ -3,11 +3,6 @@
   <channel id="86">
     <display-name>Channel 93</display-name>
   </channel>
-  <programme start="20260827120700 +0000" stop="20260827142000 +0000" channel="86">
-    <title>MLA Ka Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941579?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827142000 +0000" stop="20260827174200 +0000" channel="86">
     <title>Tere Ishk Mein</title>
     <desc />
@@ -264,6 +259,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260901123000 +0000" stop="20260901153000 +0000" channel="86">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901153000 +0000" stop="20260901183000 +0000" channel="86">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61212?accessKey=WkVjNWNscFhORDBLCg==" />
