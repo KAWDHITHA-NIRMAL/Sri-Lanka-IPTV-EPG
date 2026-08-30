@@ -3,36 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20260826153000 +0000" stop="20260826190800 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826190800 +0000" stop="20260826202900 +0000" channel="74">
-    <title>Bullet Train</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826202900 +0000" stop="20260826214700 +0000" channel="74">
-    <title>The Ugly Truth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826214700 +0000" stop="20260826232100 +0000" channel="74">
-    <title>Never Back Down 2: The Beatdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826232100 +0000" stop="20260827004100 +0000" channel="74">
-    <title>Armored</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827004100 +0000" stop="20260827020300 +0000" channel="74">
-    <title>When A Stranger Calls</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942655?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827020300 +0000" stop="20260827032900 +0000" channel="74">
     <title>Monster House</title>
     <desc />
@@ -352,5 +322,35 @@
     <title>Spider-Man: Far From Home</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941047?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831173600 +0000" stop="20260831192700 +0000" channel="74">
+    <title>Materialists</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940444?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831192700 +0000" stop="20260831205100 +0000" channel="74">
+    <title>Goosebumps 2: Haunted Halloween</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939196?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831205100 +0000" stop="20260831225700 +0000" channel="74">
+    <title>The Da Vinci Code</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941046?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831225700 +0000" stop="20260901011200 +0000" channel="74">
+    <title>Eat Pray Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901011200 +0000" stop="20260901025200 +0000" channel="74">
+    <title>2 Guns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901025200 +0000" stop="20260901045100 +0000" channel="74">
+    <title>The Walk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942674?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260826154000 +0000" stop="20260826181000 +0000" channel="125">
-    <title>AFL Geelong v Richmond</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826181000 +0000" stop="20260826204000 +0000" channel="125">
-    <title>AFL West Coast v Hawthorn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826204000 +0000" stop="20260826214000 +0000" channel="125">
-    <title>5 &amp; 6 Nations Classic Tries</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/885883?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826214000 +0000" stop="20260826234000 +0000" channel="125">
-    <title>AFLW Brisbane v North Melbourne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940662?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826234000 +0000" stop="20260827004000 +0000" channel="125">
-    <title>NRL Try Time NRL Try Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827004000 +0000" stop="20260827023000 +0000" channel="125">
-    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827023000 +0000" stop="20260827042000 +0000" channel="125">
     <title>Rugby's Greatest Rivalry Lions v New Zealand</title>
     <desc />
@@ -532,5 +502,70 @@
     <title>AFLW Highlights Adelaide v West Coast</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831174000 +0000" stop="20260831175500 +0000" channel="125">
+    <title>AFLW Highlights Sydney v St Kilda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831175500 +0000" stop="20260831181000 +0000" channel="125">
+    <title>AFLW Highlights GWS Giants v Port Adelaide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831181000 +0000" stop="20260831182500 +0000" channel="125">
+    <title>AFLW Highlights Melbourne v Brisbane</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942733?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831182500 +0000" stop="20260831184000 +0000" channel="125">
+    <title>AFLW Highlights Collingwood v Hawthorn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942734?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831184000 +0000" stop="20260831185500 +0000" channel="125">
+    <title>AFLW Highlights Gold Coast v Geelong</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831185500 +0000" stop="20260831191000 +0000" channel="125">
+    <title>AFLW Highlights Fremantle v Carlton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831191000 +0000" stop="20260831193000 +0000" channel="125">
+    <title>AFLW Highlights Essendon v Richmond</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942737?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831193000 +0000" stop="20260831212000 +0000" channel="125">
+    <title>Super League Wigan v Hull KR</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831212000 +0000" stop="20260831231000 +0000" channel="125">
+    <title>Super League St Helens v Leeds</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942084?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831231000 +0000" stop="20260831234000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1988 - Wales v Scotland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940182?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831234000 +0000" stop="20260901013000 +0000" channel="125">
+    <title>SANZAAR International Tour Serie Australia v Japan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940423?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901013000 +0000" stop="20260901023000 +0000" channel="125">
+    <title>5 &amp; 6 Nations Classic Tries</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901042000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260826171000 +0000" stop="20260826183000 +0000" channel="6">
-    <title>Aluth Parlimenthuwa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938985?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826213000 +0000" channel="6">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826213000 +0000" stop="20260826230500 +0000" channel="6">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826230500 +0000" stop="20260827005500 +0000" channel="6">
-    <title>Dahami Derana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/175629?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827005500 +0000" stop="20260827020000 +0000" channel="6">
-    <title>Derana Aruna Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="6">
-    <title>Lokaya Saha Lokayo Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827023000 +0000" stop="20260827033000 +0000" channel="6">
     <title>Kollai Ballai</title>
     <desc />
@@ -587,5 +557,35 @@
     <title>3600 - Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/815726?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831213000 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260831230500 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831230500 +0000" stop="20260901005500 +0000" channel="6">
+    <title>Dahami Derana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/175629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901005500 +0000" stop="20260901020000 +0000" channel="6">
+    <title>Derana Aruna Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768119?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901023000 +0000" channel="6">
+    <title>Lokaya Saha Lokaya Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768120?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901033000 +0000" channel="6">
+    <title>Kollai Ballai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938983?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

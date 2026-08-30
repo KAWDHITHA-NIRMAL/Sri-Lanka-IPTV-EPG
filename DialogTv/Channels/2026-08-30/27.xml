@@ -3,41 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20260826173000 +0000" stop="20260826183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826190000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826190000 +0000" stop="20260826193000 +0000" channel="27">
-    <title>Bhawanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/769600?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826193000 +0000" stop="20260826233000 +0000" channel="27">
-    <title>Dharma Sermons</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="27">
-    <title>Supinbara Himidiriya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/693843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827013000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827013000 +0000" stop="20260827033000 +0000" channel="27">
     <title>Dam Siha Nadha</title>
     <desc />
@@ -617,5 +582,40 @@
     <title>Pirith Chanting</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831190000 +0000" stop="20260831193000 +0000" channel="27">
+    <title>Bhawanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/769600?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831193000 +0000" stop="20260831233000 +0000" channel="27">
+    <title>Dharma Sermons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831233000 +0000" stop="20260901000000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901003000 +0000" channel="27">
+    <title>Supinbara Himidiriya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/693843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901013000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901013000 +0000" stop="20260901033000 +0000" channel="27">
+    <title>Dam Siha Nadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34546?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

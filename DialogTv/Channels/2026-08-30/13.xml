@@ -3,36 +3,6 @@
   <channel id="13">
     <display-name>Channel 19</display-name>
   </channel>
-  <programme start="20260826163000 +0000" stop="20260826181500 +0000" channel="13">
-    <title>English Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174251?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826181500 +0000" stop="20260826183000 +0000" channel="13">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260827003000 +0000" channel="13">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827004500 +0000" channel="13">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827004500 +0000" stop="20260827010000 +0000" channel="13">
-    <title>State Of Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827023000 +0000" channel="13">
-    <title>Good Morning Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827023000 +0000" stop="20260827042700 +0000" channel="13">
     <title>Discussion Program</title>
     <desc />
@@ -792,5 +762,35 @@
     <title>Art Cover Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831181500 +0000" channel="13">
+    <title>State Of Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831181500 +0000" stop="20260831183000 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260901003000 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901004500 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34156?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901004500 +0000" stop="20260901023000 +0000" channel="13">
+    <title>Good Morning Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901042700 +0000" channel="13">
+    <title>Discussion Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/767713?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

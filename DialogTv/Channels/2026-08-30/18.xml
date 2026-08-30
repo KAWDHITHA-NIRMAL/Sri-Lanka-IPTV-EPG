@@ -3,46 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20260826173000 +0000" stop="20260826200000 +0000" channel="18">
-    <title>Hero Nero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260826203000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826203000 +0000" stop="20260826210000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826210000 +0000" stop="20260826213000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826213000 +0000" stop="20260827000000 +0000" channel="18">
-    <title>Kabadi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/755021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827013000 +0000" stop="20260827040000 +0000" channel="18">
     <title>Visiata 28</title>
     <desc />
@@ -607,5 +567,45 @@
     <title>Face To Face</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/36231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831203000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831203000 +0000" stop="20260831210000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831210000 +0000" stop="20260831213000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260901000000 +0000" channel="18">
+    <title>Allapu Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901003000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901013000 +0000" stop="20260901040000 +0000" channel="18">
+    <title>Hero Nero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754810?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

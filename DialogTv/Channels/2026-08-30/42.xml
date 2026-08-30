@@ -3,21 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="42">
-    <title>A Classical Christmas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826180000 +0000" stop="20260826190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33767?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826190000 +0000" stop="20260826220000 +0000" channel="42">
-    <title>Evening Encore</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260826220000 +0000" stop="20260827040000 +0000" channel="42">
     <title>Moonlight Melodies</title>
     <desc />
@@ -727,5 +712,20 @@
     <title>A Classical Christmas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831190000 +0000" stop="20260831220000 +0000" channel="42">
+    <title>Evening Encore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831220000 +0000" stop="20260901040000 +0000" channel="42">
+    <title>Moonlight Melodies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/38154?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

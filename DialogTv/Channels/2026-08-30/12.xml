@@ -3,41 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="12">
-    <title>Me Saumya Rathree - Shrungaraya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912910?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826180000 +0000" stop="20260826183000 +0000" channel="12">
-    <title>New News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826233000 +0000" channel="12">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826233000 +0000" stop="20260827003000 +0000" channel="12">
-    <title>Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="12">
-    <title>Saddharmalankaraya - Wellness</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="12">
-    <title>Digital First</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912514?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="12">
-    <title>PJFM</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/101865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827023000 +0000" stop="20260827050000 +0000" channel="12">
     <title>Supreme Life</title>
     <desc />
@@ -752,5 +717,40 @@
     <title>CNA On TV Supreme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/196984?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831183000 +0000" channel="12">
+    <title>New News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831235400 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831235400 +0000" stop="20260901003000 +0000" channel="12">
+    <title>Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="12">
+    <title>Saddharmalankaraya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/157780?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901020000 +0000" channel="12">
+    <title>Digital First</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901023000 +0000" channel="12">
+    <title>PJFM</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/101865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901042700 +0000" channel="12">
+    <title>Supreme Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912515?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

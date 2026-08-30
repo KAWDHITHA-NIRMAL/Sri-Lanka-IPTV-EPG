@@ -3,31 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260826163000 +0000" stop="20260826193000 +0000" channel="94">
-    <title>Unnai Thedi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942124?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826193000 +0000" stop="20260826203000 +0000" channel="94">
-    <title>Hit List</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826203000 +0000" stop="20260827003000 +0000" channel="94">
-    <title>Thayumanavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827013000 +0000" channel="94">
-    <title>Arul Neram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827013000 +0000" stop="20260827030000 +0000" channel="94">
-    <title>Kalakkal Kaalai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884564?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827030000 +0000" stop="20260827033000 +0000" channel="94">
     <title>Pesum Padam</title>
     <desc />
@@ -357,5 +332,30 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831193000 +0000" stop="20260831203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831203000 +0000" stop="20260901003000 +0000" channel="94">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901013000 +0000" channel="94">
+    <title>Arul Neram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190436?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901013000 +0000" stop="20260901030000 +0000" channel="94">
+    <title>Kalakkal Kaalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884564?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901033000 +0000" channel="94">
+    <title>Pesum Padam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

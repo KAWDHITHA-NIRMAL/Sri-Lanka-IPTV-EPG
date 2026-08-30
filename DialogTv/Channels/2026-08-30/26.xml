@@ -3,56 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260826173000 +0000" stop="20260826183000 +0000" channel="26">
-    <title>Soothra Dham Desuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762577?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826193000 +0000" channel="26">
-    <title>Saddharmapprabha- Ven.Balangoda Radha Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762580?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826193000 +0000" stop="20260826203000 +0000" channel="26">
-    <title>Kandy Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826203000 +0000" stop="20260826213000 +0000" channel="26">
-    <title>Colombo Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826213000 +0000" stop="20260826223000 +0000" channel="26">
-    <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762567?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826223000 +0000" stop="20260826233000 +0000" channel="26">
-    <title>Ku'gala / Naranwala Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="26">
-    <title>Seth Pirith Sadjayanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685933?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827010000 +0000" channel="26">
-    <title>Sath Budu Kiri Ahara Poojawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35395?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="26">
-    <title>Vishesha Dharmadeshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/702159?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="26">
-    <title>Pinbara Udesana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/753059?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827023000 +0000" stop="20260827033000 +0000" channel="26">
     <title>Sasarin Niwanata By Ven.Thapowanaye Ariyadaja Thero</title>
     <desc />
@@ -677,5 +627,55 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762577?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831193000 +0000" channel="26">
+    <title>Dhammanupassana - By Ven.Thalalle Chandakiththi Thero &amp; Mirahawatte Pngasiri Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762578?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831193000 +0000" stop="20260831203000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33753?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831203000 +0000" stop="20260831213000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260831223000 +0000" channel="26">
+    <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762567?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831223000 +0000" stop="20260831233000 +0000" channel="26">
+    <title>Ku'gala / Naranwala Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831233000 +0000" stop="20260901000000 +0000" channel="26">
+    <title>Seth Pirith Sadjayanawa - Damsak Pewathum Soothraya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762568?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901010000 +0000" channel="26">
+    <title>Sath Budu Kiri Ahara Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901020000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33753?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901023000 +0000" channel="26">
+    <title>Pinbara Udesana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753059?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901033000 +0000" channel="26">
+    <title>Saddharma Sagaraya - By Ven.Doloswala Udithadeera Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762579?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

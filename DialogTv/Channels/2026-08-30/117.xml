@@ -3,36 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260826154500 +0000" stop="20260826183000 +0000" channel="117">
-    <title>It Chapter Two</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941218?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826200000 +0000" channel="117">
-    <title>Arcadian</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="117">
-    <title>No Country For Old Men</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941414?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826220000 +0000" stop="20260827001000 +0000" channel="117">
-    <title>Bury My Heart At Wounded Knee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941607?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827001000 +0000" stop="20260827015500 +0000" channel="117">
-    <title>Collateral Damage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827015500 +0000" stop="20260827022500 +0000" channel="117">
-    <title>Hollywood On Set S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/873566?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827022500 +0000" stop="20260827045000 +0000" channel="117">
     <title>The Matrix Resurrections</title>
     <desc />
@@ -362,5 +332,25 @@
     <title>The Legend Of Tarzan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831173500 +0000" stop="20260831183000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831213000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260901003000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901033000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

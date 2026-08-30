@@ -3,16 +3,6 @@
   <channel id="41">
     <display-name>Channel 47</display-name>
   </channel>
-  <programme start="20260826160000 +0000" stop="20260826200000 +0000" channel="41">
-    <title>Speechless Love</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708862?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260827000000 +0000" channel="41">
-    <title>Romantico Memories</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827000000 +0000" stop="20260827040000 +0000" channel="41">
     <title>Timeless Love</title>
     <desc />
@@ -157,5 +147,15 @@
     <title>Speechless Love</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/708862?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260901000000 +0000" channel="41">
+    <title>Romantico Memories</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901040000 +0000" channel="41">
+    <title>Timeless Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708853?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

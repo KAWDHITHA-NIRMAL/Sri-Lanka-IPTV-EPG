@@ -3,31 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260826153000 +0000" stop="20260826183000 +0000" channel="115">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826190200 +0000" channel="115">
-    <title>Home Alone 2 - Lost In Newyork</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826190200 +0000" stop="20260826205400 +0000" channel="115">
-    <title>Prometheus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942722?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826205400 +0000" stop="20260826205900 +0000" channel="115">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/154547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826205900 +0000" stop="20260827003000 +0000" channel="115">
-    <title>Catch The Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827003000 +0000" stop="20260827033000 +0000" channel="115">
     <title>Movie</title>
     <desc />
@@ -347,5 +322,15 @@
     <title>Thor: Love And Thunder</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831190200 +0000" stop="20260831202800 +0000" channel="115">
+    <title>Hitman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831202800 +0000" stop="20260901033000 +0000" channel="115">
+    <title>Bravestorm</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943350?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

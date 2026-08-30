@@ -3,36 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260826150000 +0000" stop="20260826193000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826193000 +0000" stop="20260826221500 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826221500 +0000" stop="20260826223000 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826223000 +0000" stop="20260826224500 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826224500 +0000" stop="20260826230000 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826230000 +0000" stop="20260827013000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827013000 +0000" stop="20260827040000 +0000" channel="121">
     <title>Live US Open 2026</title>
     <desc />
@@ -1172,5 +1142,30 @@
     <title>Live US Open 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831185000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831185000 +0000" stop="20260831210000 +0000" channel="121">
+    <title>Live PL 2026-27 Aston villa v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831210000 +0000" stop="20260831213000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260901030000 +0000" channel="121">
+    <title>Live US Open 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901031500 +0000" channel="121">
+    <title>PL Highlights Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

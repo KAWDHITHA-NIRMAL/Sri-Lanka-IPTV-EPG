@@ -3,36 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="31">
-    <title>Australia's Wild Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826210000 +0000" stop="20260826230000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826230000 +0000" stop="20260827020000 +0000" channel="31">
-    <title>ABC News Mornings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827030000 +0000" channel="31">
-    <title>ABC News at Noon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827030000 +0000" stop="20260827032500 +0000" channel="31">
     <title>Bondi Rescue</title>
     <desc />
@@ -672,5 +642,40 @@
     <title>Planet America</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/724861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831190000 +0000" channel="31">
+    <title>Yakka: Australia At Work</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/802625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831190000 +0000" stop="20260831200000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831210000 +0000" stop="20260831230000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831230000 +0000" stop="20260901020000 +0000" channel="31">
+    <title>ABC News Mornings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901030000 +0000" channel="31">
+    <title>ABC News at Noon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61301?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901033000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701512?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,46 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20260826160000 +0000" stop="20260826183000 +0000" channel="5">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826213000 +0000" channel="5">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34814?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826213000 +0000" stop="20260827003000 +0000" channel="5">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34814?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827003300 +0000" channel="5">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003300 +0000" stop="20260827010000 +0000" channel="5">
-    <title>Aaradanai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="5">
-    <title>Suyatheena Seithiparvai Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939727?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="5">
-    <title>N.L.B. Lottery</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62802?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="5">
-    <title>Then Sindhum Ragangal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939965?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827030000 +0000" stop="20260827040000 +0000" channel="5">
     <title>Thalai Vasal Live</title>
     <desc />
@@ -582,5 +542,45 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831190000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260831190000 +0000" stop="20260831200000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831210000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260831210000 +0000" stop="20260831220000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260831220000 +0000" stop="20260831230000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260831230000 +0000" stop="20260901000000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901010000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901020000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901030000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901040000 +0000" channel="5">
+    <title>Program</title>
+    <desc />
   </programme>
 </tv>

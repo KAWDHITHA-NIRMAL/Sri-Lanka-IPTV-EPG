@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260826170000 +0000" stop="20260826200000 +0000" channel="90">
-    <title>Katilon Ke Kaatil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260826230000 +0000" channel="90">
-    <title>Ghatak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915076?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826230000 +0000" stop="20260827020000 +0000" channel="90">
-    <title>Prithipal Singh...A Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827020000 +0000" stop="20260827050000 +0000" channel="90">
     <title>Pighalta Aasman</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Zakhmi Aurat</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940619?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831230000 +0000" channel="90">
+    <title>Biwi.com</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831230000 +0000" stop="20260901003000 +0000" channel="90">
+    <title>Zindagi Gulzar Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909492?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901033000 +0000" channel="90">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

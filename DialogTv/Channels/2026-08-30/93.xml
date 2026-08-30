@@ -3,51 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20260826173000 +0000" stop="20260826203000 +0000" channel="93">
-    <title>Muthukalai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941366?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826203000 +0000" stop="20260826233000 +0000" channel="93">
-    <title>Nitham Oru Vaanam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941367?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/66856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/66856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827013000 +0000" stop="20260827020000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="93">
-    <title>Adhe Kangal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748315?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260827030000 +0000" stop="20260827060000 +0000" channel="93">
     <title>Dharma Chakra</title>
     <desc />
@@ -467,5 +422,55 @@
     <title>Maanbhumigu Marumagan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831183000 +0000" stop="20260831200000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831233000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260831233000 +0000" stop="20260901000000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901000000 +0000" stop="20260901003000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/66856?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/66856?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901013000 +0000" stop="20260901020000 +0000" channel="93">
+    <title>Ortho Veda 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901023000 +0000" channel="93">
+    <title>Ortho Veda 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901030000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901033000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941906?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
