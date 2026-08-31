@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260828073000 +0000" stop="20260828103000 +0000" channel="95">
-    <title>Chithiram Pesuthadi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942304?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828103000 +0000" stop="20260828133000 +0000" channel="95">
-    <title>Jai India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942305?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828133000 +0000" stop="20260828170000 +0000" channel="95">
-    <title>Parasuram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828170000 +0000" stop="20260828200000 +0000" channel="95">
     <title>Vanaja Girija</title>
     <desc />
@@ -212,5 +197,20 @@
     <title>Aanazhagan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943637?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902133000 +0000" channel="95">
+    <title>Jithan-2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902133000 +0000" stop="20260902170000 +0000" channel="95">
+    <title>Pandinattu Thangam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902200000 +0000" channel="95">
+    <title>Annan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943636?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

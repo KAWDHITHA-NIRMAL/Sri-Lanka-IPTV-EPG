@@ -3,16 +3,6 @@
   <channel id="41">
     <display-name>Channel 47</display-name>
   </channel>
-  <programme start="20260828080000 +0000" stop="20260828120000 +0000" channel="41">
-    <title>The Heaven Inside You</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708833?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828120000 +0000" stop="20260828160000 +0000" channel="41">
-    <title>Promice Of Trust</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828160000 +0000" stop="20260828200000 +0000" channel="41">
     <title>Speechless Love</title>
     <desc />
@@ -157,5 +147,15 @@
     <title>The Heaven Inside You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/708833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902120000 +0000" stop="20260902160000 +0000" channel="41">
+    <title>Promice Of Trust</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902160000 +0000" stop="20260902200000 +0000" channel="41">
+    <title>Speechless Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708862?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

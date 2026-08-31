@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260828090000 +0000" stop="20260828120000 +0000" channel="92">
-    <title>Simmba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941878?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828120000 +0000" stop="20260828150000 +0000" channel="92">
-    <title>Tumbbad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941879?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828180000 +0000" channel="92">
-    <title>Bhoot Returns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828180000 +0000" stop="20260828210000 +0000" channel="92">
     <title>Thappad</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Kismat Konnection</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902120000 +0000" stop="20260902150000 +0000" channel="92">
+    <title>Khiladiyon Ka Khiladi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942851?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902180000 +0000" channel="92">
+    <title>Sky Force</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942701?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902180000 +0000" stop="20260902210000 +0000" channel="92">
+    <title>Khuda Haafiz: Chapter 2 - Agni Pariksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942700?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

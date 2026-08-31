@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260828083000 +0000" stop="20260828113500 +0000" channel="87">
-    <title>Kabhi Alvida Naa Kehna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941883?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828113500 +0000" stop="20260828141500 +0000" channel="87">
-    <title>Mere Yaar Ki Shaadi Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828141500 +0000" stop="20260828170000 +0000" channel="87">
-    <title>Rab Ne Bana Di Jodi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941885?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828170000 +0000" stop="20260828200500 +0000" channel="87">
     <title>Bhaag Milkha Bhaag</title>
     <desc />
@@ -252,5 +237,20 @@
     <title>Jhoom Barabar Jhoom</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902121000 +0000" stop="20260902143500 +0000" channel="87">
+    <title>No Problem</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942819?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902143500 +0000" stop="20260902170000 +0000" channel="87">
+    <title>Teri Baaton Mein Aisa Uljha Jiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942820?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902185500 +0000" channel="87">
+    <title>Mardaani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942821?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,61 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="26">
-    <title>Ruwandora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/202824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828103000 +0000" stop="20260828113000 +0000" channel="26">
-    <title>Soothra Daham Desuma - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707679?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828113000 +0000" stop="20260828123000 +0000" channel="26">
-    <title>Colombo / Anu'pura Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828123000 +0000" stop="20260828130000 +0000" channel="26">
-    <title>Osu Pen 108 Poojawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762576?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828130000 +0000" stop="20260828140000 +0000" channel="26">
-    <title>Sadaham Muthu Wela By Ven.Koralayagama Saranatissa Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/397128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828140000 +0000" stop="20260828150000 +0000" channel="26">
-    <title>Maathara Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35151?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828151500 +0000" channel="26">
-    <title>Susandesha -Buddhist News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/161297?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828151500 +0000" stop="20260828153000 +0000" channel="26">
-    <title>Magadhi -Pali Thakshalawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/161301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828153000 +0000" stop="20260828163000 +0000" channel="26">
-    <title>Pattana Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828163000 +0000" stop="20260828173000 +0000" channel="26">
-    <title>Kandy Daayaka Bana -2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/753062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828173000 +0000" stop="20260828183000 +0000" channel="26">
-    <title>Soothra Dham Desuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762577?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828183000 +0000" stop="20260828193000 +0000" channel="26">
     <title>Sadaham Arana</title>
     <desc />
@@ -677,5 +622,55 @@
     <title>Thribodhi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/687204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902113000 +0000" channel="26">
+    <title>Soothra Daham Desuma - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902113000 +0000" stop="20260902123000 +0000" channel="26">
+    <title>Colombo / Anu'pura Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902123000 +0000" stop="20260902130000 +0000" channel="26">
+    <title>Osu Pen 108 Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762576?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902140000 +0000" channel="26">
+    <title>Sadaham Muthu Wela By Ven.Koralayagama Saranatissa Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/397128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902140000 +0000" stop="20260902150000 +0000" channel="26">
+    <title>Maathara Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="26">
+    <title>Susandesha -Buddhist News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/161297?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902153000 +0000" stop="20260902163000 +0000" channel="26">
+    <title>Vibhajja Wadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/687205?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902163000 +0000" stop="20260902173000 +0000" channel="26">
+    <title>Kandy Daayaka Bana -2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902173000 +0000" stop="20260902183000 +0000" channel="26">
+    <title>Soothra Dham Desuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762577?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902183000 +0000" stop="20260902193000 +0000" channel="26">
+    <title>Saddharmapprabha- Ven.Balangoda Radha Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762580?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

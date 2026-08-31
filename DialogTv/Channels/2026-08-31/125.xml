@@ -3,36 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260828095500 +0000" stop="20260828120000 +0000" channel="125">
-    <title>LIVE NRL Panthers v Bulldogs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828120000 +0000" stop="20260828123000 +0000" channel="125">
-    <title>Top 14 Highlights Season Preview</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828123000 +0000" stop="20260828130000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2007 - Scotland v Italy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828130000 +0000" stop="20260828145000 +0000" channel="125">
-    <title>Rugby's Greatest Rivalry Lions v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942695?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828145000 +0000" stop="20260828164000 +0000" channel="125">
-    <title>Super League Wigan v Hull KR</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828164000 +0000" stop="20260828183000 +0000" channel="125">
-    <title>NRL Panthers v Bulldogs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941819?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828183000 +0000" stop="20260828211500 +0000" channel="125">
     <title>LIVE Super League St Helens v Leeds</title>
     <desc />
@@ -567,5 +537,30 @@
     <title>Rugby's Greatest Rivalry Bulls v New Zealand</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902113000 +0000" stop="20260902132000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902132000 +0000" stop="20260902151000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902151000 +0000" stop="20260902161000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902161000 +0000" stop="20260902181000 +0000" channel="125">
+    <title>AFLW Melbourne v Brisbane</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943742?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902181000 +0000" stop="20260902200000 +0000" channel="125">
+    <title>NRL Panthers v Bulldogs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941819?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

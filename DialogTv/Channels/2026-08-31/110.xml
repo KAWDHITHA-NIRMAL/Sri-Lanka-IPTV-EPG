@@ -3,51 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20260828100600 +0000" stop="20260828105900 +0000" channel="110">
-    <title>Survival Of The Beast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828105900 +0000" stop="20260828114900 +0000" channel="110">
-    <title>Animal Attack Rate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828114900 +0000" stop="20260828124200 +0000" channel="110">
-    <title>Wild Sky</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828124200 +0000" stop="20260828133500 +0000" channel="110">
-    <title>Wild Sky</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828133500 +0000" stop="20260828143300 +0000" channel="110">
-    <title>Epic Animal Migrations Patagonia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943011?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828143300 +0000" stop="20260828153000 +0000" channel="110">
-    <title>Sibella: The Miracle Cheetah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942997?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828153000 +0000" stop="20260828162800 +0000" channel="110">
-    <title>Force of Nature</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828162800 +0000" stop="20260828172500 +0000" channel="110">
-    <title>Pride Rules</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942996?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828172500 +0000" stop="20260828182200 +0000" channel="110">
-    <title>Pride Rules</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942996?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828182200 +0000" stop="20260828191500 +0000" channel="110">
     <title>Wild Sky</title>
     <desc />
@@ -598,7 +553,17 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260901182800 +0000" stop="20260902003000 +0000" channel="110">
+  <programme start="20260901182800 +0000" stop="20260901183000 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901183000 +0000" stop="20260901213000 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901213000 +0000" stop="20260902003000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -659,6 +624,51 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761494?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260902094000 +0000" stop="20260902103600 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103600 +0000" stop="20260902113200 +0000" channel="110">
+    <title>Crikey! It's the Irwins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902113200 +0000" stop="20260902122800 +0000" channel="110">
+    <title>Into the Wild: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761491?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902122800 +0000" stop="20260902132800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902132800 +0000" stop="20260902142800 +0000" channel="110">
+    <title>Caught In Motion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941416?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902142800 +0000" stop="20260902152800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902152800 +0000" stop="20260902162800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902162800 +0000" stop="20260902172800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902172800 +0000" stop="20260902182800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902182800 +0000" stop="20260902192000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761242?accessKey=WkVjNWNscFhORDBLCg==" />

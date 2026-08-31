@@ -3,36 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20260828100000 +0000" stop="20260828120000 +0000" channel="123">
-    <title>Live England vs Pakistan 2026 2nd Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828120000 +0000" stop="20260828123000 +0000" channel="123">
-    <title>DP World Asia Cup 2025 Highlights - Super Four - India vs Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828123000 +0000" stop="20260828144500 +0000" channel="123">
-    <title>Live England vs Pakistan 2026 2nd Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828144500 +0000" stop="20260828150000 +0000" channel="123">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828173000 +0000" channel="123">
-    <title>Live England vs Pakistan 2026 2nd Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828173000 +0000" stop="20260828180000 +0000" channel="123">
-    <title>DP World Asia Cup 2025 Highlights - Final India vs Pakistan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828180000 +0000" stop="20260828190000 +0000" channel="123">
     <title>UFC - Fight O'Clock ALEX PEIREIRA</title>
     <desc />
@@ -565,5 +535,29 @@
     <title>UFC 330- Makhachev vs Machado Garry</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940431?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902133000 +0000" stop="20260902143000 +0000" channel="123">
+    <title>UFC Fight Night - Nurmagomedov vs Song</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943390?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="123">
+    <title>Money in the Bank Ladder Match Anthology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902163000 +0000" stop="20260902173000 +0000" channel="123">
+    <title>England vs Pakistan 2026- 2nd Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902173000 +0000" stop="20260902183000 +0000" channel="123">
+    <title>UFC FIGHT O'CLOCK 2.0 - FEATHERWEIGHT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943520?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902183000 +0000" stop="20260902190000 +0000" channel="123">
+    <title>England-W vs Ireland-W 2026 - 1st ODI Highlights</title>
+    <desc />
   </programme>
 </tv>

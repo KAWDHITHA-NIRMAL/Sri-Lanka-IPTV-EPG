@@ -3,61 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20260828080000 +0000" stop="20260828110000 +0000" channel="23">
-    <title>Youtube Link</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61635?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828110000 +0000" stop="20260828113000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828113000 +0000" stop="20260828120000 +0000" channel="23">
-    <title>Ven. Malimbada Pannasara Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36911?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828120000 +0000" stop="20260828133000 +0000" channel="23">
-    <title>Homagama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="23">
-    <title>Ven. Wanduramba Sangananada Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/133234?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828140000 +0000" stop="20260828144500 +0000" channel="23">
-    <title>Homagama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828144500 +0000" stop="20260828150000 +0000" channel="23">
-    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828170000 +0000" channel="23">
-    <title>Borella</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36953?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828170000 +0000" stop="20260828173000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828173000 +0000" stop="20260828180000 +0000" channel="23">
-    <title>Ven. Angangoda Pannawansa Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36709?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828180000 +0000" stop="20260828183000 +0000" channel="23">
-    <title>Ven. Angangoda Pannawansa Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36709?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828183000 +0000" stop="20260828190000 +0000" channel="23">
     <title>Ven. Angangoda Pannawansa Thero - Dharma Deshanaya</title>
     <desc />
@@ -652,5 +597,50 @@
     <title>Ven. Alawwe Anomadassi Thero - Dharma Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/127644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902110000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902110000 +0000" stop="20260902113000 +0000" channel="23">
+    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902113000 +0000" stop="20260902123000 +0000" channel="23">
+    <title>Youtube Link</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61635?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902123000 +0000" stop="20260902140000 +0000" channel="23">
+    <title>Ven. Malimbada Pannasara Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902140000 +0000" stop="20260902143000 +0000" channel="23">
+    <title>Ven. Delgoda Gnanasumana Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/130013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902143000 +0000" stop="20260902155000 +0000" channel="23">
+    <title>Kelaniya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/132433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902155000 +0000" stop="20260902165000 +0000" channel="23">
+    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902165000 +0000" stop="20260902183000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902183000 +0000" stop="20260902193500 +0000" channel="23">
+    <title>Ven. Kiriwattuduwe Ariyadassana Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61633?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

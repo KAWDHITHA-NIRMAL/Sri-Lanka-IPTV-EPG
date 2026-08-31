@@ -3,56 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20260828083000 +0000" stop="20260828113000 +0000" channel="5">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828113000 +0000" stop="20260828123000 +0000" channel="5">
-    <title>Music X Press Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828123000 +0000" stop="20260828130000 +0000" channel="5">
-    <title>Kollywood Bits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61782?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="5">
-    <title>Engeyum Eppothum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="5">
-    <title>Super Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828140000 +0000" stop="20260828143000 +0000" channel="5">
-    <title>Iniya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939970?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828143000 +0000" stop="20260828150000 +0000" channel="5">
-    <title>Main News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61915?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="5">
-    <title>Chandraleka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="5">
-    <title>Ilakkiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939971?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828160000 +0000" stop="20260828183000 +0000" channel="5">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828183000 +0000" stop="20260828213000 +0000" channel="5">
     <title>Filler</title>
     <desc />
@@ -587,5 +537,55 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902113000 +0000" stop="20260902123000 +0000" channel="5">
+    <title>Music X Press Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902123000 +0000" stop="20260902130000 +0000" channel="5">
+    <title>Kollywood Bits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61782?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902133000 +0000" channel="5">
+    <title>Engeyum Eppothum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902133000 +0000" stop="20260902140000 +0000" channel="5">
+    <title>Super Scene</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62804?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902140000 +0000" stop="20260902143000 +0000" channel="5">
+    <title>Iniya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902143000 +0000" stop="20260902150000 +0000" channel="5">
+    <title>Main News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="5">
+    <title>Chandraleka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902153000 +0000" stop="20260902160000 +0000" channel="5">
+    <title>Ilakkiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902160000 +0000" stop="20260902183000 +0000" channel="5">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902183000 +0000" stop="20260902213000 +0000" channel="5">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

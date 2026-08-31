@@ -3,31 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260828080000 +0000" stop="20260828103000 +0000" channel="101">
-    <title>Yaagavarayinum Naa Kaaka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941852?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828103000 +0000" stop="20260828130000 +0000" channel="101">
-    <title>Rajamahal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941854?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828130000 +0000" stop="20260828160000 +0000" channel="101">
-    <title>Rekka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828160000 +0000" stop="20260828181500 +0000" channel="101">
-    <title>Enna Solla Pogirai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939879?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828181500 +0000" stop="20260828183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828183000 +0000" stop="20260828192800 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -272,5 +247,20 @@
     <title>Chiyaangal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942964?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902130000 +0000" channel="101">
+    <title>Marma Bhoomi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942965?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902163000 +0000" channel="101">
+    <title>The Warrior</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942966?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902163000 +0000" stop="20260902190000 +0000" channel="101">
+    <title>Irandam Ulagaporin Kadaisi Gundu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941851?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

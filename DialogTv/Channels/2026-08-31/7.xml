@@ -3,61 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260828070000 +0000" stop="20260828103000 +0000" channel="7">
-    <title>Tele Dahawala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828103000 +0000" stop="20260828122500 +0000" channel="7">
-    <title>Handewa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939173?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828122500 +0000" stop="20260828123000 +0000" channel="7">
-    <title>Theruwan Namadimu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828123000 +0000" stop="20260828132000 +0000" channel="7">
-    <title>Rata Pawula</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828132000 +0000" stop="20260828140000 +0000" channel="7">
-    <title>Live At Srilanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828140000 +0000" stop="20260828143000 +0000" channel="7">
-    <title>Bolt Anayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909112?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828143000 +0000" stop="20260828150000 +0000" channel="7">
-    <title>Hiri Poda Wessa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="7">
-    <title>Amuthu Kalliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/883493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="7">
-    <title>Aluth Sir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828160000 +0000" stop="20260828163000 +0000" channel="7">
-    <title>Jahuta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909114?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828163000 +0000" stop="20260828181500 +0000" channel="7">
-    <title>Shree Fm Sindu Sajje</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909121?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828181500 +0000" stop="20260828183500 +0000" channel="7">
     <title>News At Night</title>
     <desc />
@@ -727,5 +672,75 @@
     <title>Tele Dahawala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909132?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902122500 +0000" channel="7">
+    <title>PM Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902122500 +0000" stop="20260902123000 +0000" channel="7">
+    <title>Theruwan Namadimu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909126?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902123000 +0000" stop="20260902132000 +0000" channel="7">
+    <title>Rata Pawula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902132000 +0000" stop="20260902140000 +0000" channel="7">
+    <title>Live At Srilanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902140000 +0000" stop="20260902143000 +0000" channel="7">
+    <title>Bolt Anayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902143000 +0000" stop="20260902150000 +0000" channel="7">
+    <title>Hiri Poda Wessa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909119?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="7">
+    <title>Amuthu Kalliya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/883493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902153000 +0000" stop="20260902160000 +0000" channel="7">
+    <title>Aluth Sir</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="7">
+    <title>Jahuta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902163000 +0000" stop="20260902170000 +0000" channel="7">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902173000 +0000" channel="7">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902173000 +0000" stop="20260902180000 +0000" channel="7">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902180000 +0000" stop="20260902181500 +0000" channel="7">
+    <title>News At Night</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909099?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902181500 +0000" stop="20260902183500 +0000" channel="7">
+    <title>Station Closing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909115?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
