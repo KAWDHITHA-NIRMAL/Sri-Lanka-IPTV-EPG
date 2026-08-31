@@ -3,31 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20260827093000 +0000" stop="20260827163000 +0000" channel="62">
-    <title>Live - Sri Lanka Tennis Premier League 2026 - Day 01 | Court 01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942867?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827163000 +0000" stop="20260827183000 +0000" channel="62">
-    <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827183000 +0000" stop="20260827203000 +0000" channel="62">
-    <title>Repeat - Pakistan Women tour of Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942452?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827203000 +0000" stop="20260828003000 +0000" channel="62">
-    <title>Repeat - FIFA world Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942453?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828003000 +0000" stop="20260828023000 +0000" channel="62">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828023000 +0000" stop="20260828083000 +0000" channel="62">
     <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
@@ -217,5 +192,40 @@
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901163000 +0000" stop="20260901183000 +0000" channel="62">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901183000 +0000" stop="20260901203000 +0000" channel="62">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901203000 +0000" stop="20260902003000 +0000" channel="62">
+    <title>Repeat - FIFA world Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="62">
+    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902023000 +0000" stop="20260902033000 +0000" channel="62">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902033000 +0000" stop="20260902043000 +0000" channel="62">
+    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915431?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902043000 +0000" stop="20260902083000 +0000" channel="62">
+    <title>Repeat - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915431?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

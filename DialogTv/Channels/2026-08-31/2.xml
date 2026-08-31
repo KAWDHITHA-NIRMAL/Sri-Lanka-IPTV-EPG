@@ -3,86 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20260827160000 +0000" stop="20260827180000 +0000" channel="2">
-    <title>Alakamandawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/773380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827180000 +0000" stop="20260827181300 +0000" channel="2">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827181300 +0000" stop="20260828000100 +0000" channel="2">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828000100 +0000" stop="20260828000400 +0000" channel="2">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34423?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828000400 +0000" stop="20260828003000 +0000" channel="2">
-    <title>Manudam Prarthana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50815?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828003000 +0000" stop="20260828010000 +0000" channel="2">
-    <title>Sivudesa - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/57903?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828010000 +0000" stop="20260828013000 +0000" channel="2">
-    <title>Paththara Sirasthala - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34970?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828013000 +0000" stop="20260828023000 +0000" channel="2">
-    <title>Aluth Dinak - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939155?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828023000 +0000" stop="20260828023300 +0000" channel="2">
-    <title>Song - Nuga Sevana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828023300 +0000" stop="20260828033000 +0000" channel="2">
-    <title>Nuga Sevana - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36390?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828033000 +0000" stop="20260828035000 +0000" channel="2">
-    <title>Nuga Sevana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828035000 +0000" stop="20260828041000 +0000" channel="2">
-    <title>Nuga Sevana - Nawaloka Hospital</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828041000 +0000" stop="20260828042500 +0000" channel="2">
-    <title>Nuga Sevana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828042500 +0000" stop="20260828043000 +0000" channel="2">
-    <title>News - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828043000 +0000" stop="20260828045000 +0000" channel="2">
-    <title>Nuga Sevana - Ancient Nutrical</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828045000 +0000" stop="20260828051000 +0000" channel="2">
-    <title>Nuga Sevana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828051000 +0000" stop="20260828052500 +0000" channel="2">
     <title>Nuga Sevana</title>
     <desc />
@@ -927,5 +847,85 @@
     <title>Fresh X</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901170000 +0000" stop="20260901175800 +0000" channel="2">
+    <title>Musical Programme - Filler Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/685996?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901175800 +0000" stop="20260902000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902000100 +0000" stop="20260902000300 +0000" channel="2">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34423?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902000300 +0000" stop="20260902003000 +0000" channel="2">
+    <title>Manudam Prarthana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902003000 +0000" stop="20260902010000 +0000" channel="2">
+    <title>Sividesa - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902010000 +0000" stop="20260902013000 +0000" channel="2">
+    <title>Paththra Sirasthala - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941129?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902013000 +0000" stop="20260902023000 +0000" channel="2">
+    <title>Aluth Dinak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902023000 +0000" stop="20260902023300 +0000" channel="2">
+    <title>Song - Nuga Sevana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902023300 +0000" stop="20260902033000 +0000" channel="2">
+    <title>Nuga Sevana - Magazine - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902033000 +0000" stop="20260902035000 +0000" channel="2">
+    <title>Nuga Sevana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902035000 +0000" stop="20260902040500 +0000" channel="2">
+    <title>Nuga Sevana - Ceylon Hospital</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902040500 +0000" stop="20260902042500 +0000" channel="2">
+    <title>Nuga Sevana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902042500 +0000" stop="20260902043000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902043000 +0000" stop="20260902044500 +0000" channel="2">
+    <title>Nuga Sevana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902044500 +0000" stop="20260902051000 +0000" channel="2">
+    <title>Nuga Sevana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902051000 +0000" stop="20260902052500 +0000" channel="2">
+    <title>Nuga Sevana - The Chanri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

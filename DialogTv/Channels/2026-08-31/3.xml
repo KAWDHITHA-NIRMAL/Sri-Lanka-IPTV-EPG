@@ -3,51 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20260827160000 +0000" stop="20260827163300 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827163300 +0000" stop="20260827173600 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260827173600 +0000" stop="20260828002900 +0000" channel="3">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828002900 +0000" stop="20260828003000 +0000" channel="3">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828003000 +0000" stop="20260828010000 +0000" channel="3">
-    <title>Iraiyillam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/677261?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828010000 +0000" stop="20260828013000 +0000" channel="3">
-    <title>News Paper Review</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828013000 +0000" stop="20260828020000 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828020000 +0000" stop="20260828030000 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828030000 +0000" stop="20260828050000 +0000" channel="3">
-    <title>Vanakkam Nethra Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64609?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="3">
     <title>Comedy Club</title>
     <desc />
@@ -687,5 +642,50 @@
     <title>Dlb Lottery Show</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901163300 +0000" stop="20260901173600 +0000" channel="3">
+    <title>Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260901173600 +0000" stop="20260902002900 +0000" channel="3">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902002900 +0000" stop="20260902003000 +0000" channel="3">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902003000 +0000" stop="20260902010000 +0000" channel="3">
+    <title>Iraiyillam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/677261?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902010000 +0000" stop="20260902013000 +0000" channel="3">
+    <title>News Paper Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/745506?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902013000 +0000" stop="20260902020000 +0000" channel="3">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902020000 +0000" stop="20260902030000 +0000" channel="3">
+    <title>Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902030000 +0000" stop="20260902050000 +0000" channel="3">
+    <title>Vanakkam Nethra Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64609?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902050000 +0000" stop="20260902053000 +0000" channel="3">
+    <title>Comedy Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50781?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
