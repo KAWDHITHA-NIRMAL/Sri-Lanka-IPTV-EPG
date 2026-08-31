@@ -3,31 +3,6 @@
   <channel id="40">
     <display-name>Channel 46</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828053000 +0000" channel="40">
-    <title>Morning Masala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437909?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="40">
-    <title>Morning Masala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437909?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="40">
-    <title>Bajao</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437911?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="40">
-    <title>Bajao</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437911?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="40">
-    <title>Solid Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828103000 +0000" channel="40">
     <title>Solid Hits</title>
     <desc />
@@ -572,5 +547,30 @@
     <title>Morning Masala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/437909?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="40">
+    <title>Morning Masala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437909?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="40">
+    <title>Bajao</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="40">
+    <title>Bajao</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="40">
+    <title>Solid Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="40">
+    <title>Solid Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437914?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

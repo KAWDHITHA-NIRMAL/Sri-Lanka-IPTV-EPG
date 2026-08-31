@@ -3,21 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260828025500 +0000" stop="20260828052000 +0000" channel="114">
-    <title>Into The Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828052000 +0000" stop="20260828072000 +0000" channel="114">
-    <title>M3Gan 2.0</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828072000 +0000" stop="20260828090000 +0000" channel="114">
-    <title>Ghost Town</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911610?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828090000 +0000" stop="20260828103000 +0000" channel="114">
     <title>Gravity</title>
     <desc />
@@ -334,6 +319,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260902033000 +0000" stop="20260902063000 +0000" channel="114">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902093000 +0000" channel="114">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902123000 +0000" channel="114">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />

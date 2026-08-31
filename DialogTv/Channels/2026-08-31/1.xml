@@ -3,36 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828053000 +0000" channel="1">
-    <title>Sindu Choice</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="1">
-    <title>Ru Nari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="1">
-    <title>Slow Flow</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="1">
-    <title>Me Wasantha Kalayai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="1">
-    <title>Api Api Wage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="1">
-    <title>World Wide</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828103000 +0000" channel="1">
     <title>Kandula</title>
     <desc />
@@ -627,5 +597,35 @@
     <title>Sindu Choice</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="1">
+    <title>Ru Naari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="1">
+    <title>Slow Flow</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="1">
+    <title>Me Wasantha Kalayai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939158?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="1">
+    <title>Api Api Wage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="1">
+    <title>World Wide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="1">
+    <title>Kandula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

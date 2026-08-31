@@ -3,51 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20260828044500 +0000" stop="20260828052000 +0000" channel="4">
-    <title>Pini Viyana - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763591?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828052000 +0000" stop="20260828053000 +0000" channel="4">
-    <title>Soopa Yathra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="4">
-    <title>Music @ 11-Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187578?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="4">
-    <title>Noon News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50837?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828082500 +0000" channel="4">
-    <title>Nethu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828082500 +0000" stop="20260828083000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828092500 +0000" channel="4">
-    <title>Nethu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828092500 +0000" stop="20260828093000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828102500 +0000" channel="4">
-    <title>Rhythem Of India Rhy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916059?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828102500 +0000" stop="20260828103000 +0000" channel="4">
     <title>News Update</title>
     <desc />
@@ -892,5 +847,50 @@
     <title>Dharma Sakachchawa- Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="4">
+    <title>Dahawal Buddha Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902062500 +0000" channel="4">
+    <title>Dharma Sakachchawa- Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902062500 +0000" stop="20260902070000 +0000" channel="4">
+    <title>Noon News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="4">
+    <title>Lande Gedara Weda Piyasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="4">
+    <title>Poya Documentary- Viharayaka Puranaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941345?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902090000 +0000" channel="4">
+    <title>Bopathnilla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="4">
+    <title>Poya Documentary - Heladiwa Jeevakayano</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942791?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="4">
+    <title>Harda Roga Nivaranaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="4">
+    <title>Savanak Res - Dharmadeshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941334?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

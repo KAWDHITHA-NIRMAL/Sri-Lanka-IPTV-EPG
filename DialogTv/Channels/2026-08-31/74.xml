@@ -3,21 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20260828034300 +0000" stop="20260828055300 +0000" channel="74">
-    <title>Godzilla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828055300 +0000" stop="20260828074300 +0000" channel="74">
-    <title>Uncharted</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/790451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828074300 +0000" stop="20260828093600 +0000" channel="74">
-    <title>Battle Los Angeles</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093600 +0000" stop="20260828113700 +0000" channel="74">
     <title>Jumanji: The Next Level</title>
     <desc />
@@ -339,6 +324,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260902033000 +0000" stop="20260902063000 +0000" channel="74">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902093000 +0000" channel="74">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902123000 +0000" channel="74">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768893?accessKey=WkVjNWNscFhORDBLCg==" />

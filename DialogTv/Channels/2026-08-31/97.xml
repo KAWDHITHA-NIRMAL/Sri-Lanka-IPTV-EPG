@@ -3,21 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="97">
-    <title>Thendral</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152768?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828073000 +0000" channel="97">
-    <title>Naachiyar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941691?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828080000 +0000" stop="20260828113000 +0000" channel="97">
     <title>Uyire</title>
     <desc />
@@ -517,5 +502,20 @@
     <title>Thendral</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/152768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902073000 +0000" channel="97">
+    <title>Goripalayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902113000 +0000" channel="97">
+    <title>Jail</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943453?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

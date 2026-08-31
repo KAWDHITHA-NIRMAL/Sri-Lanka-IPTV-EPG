@@ -3,31 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="9">
-    <title>Marumagal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/171270?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="9">
-    <title>Puthu Vasantham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52089?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="9">
-    <title>Manamagale Vaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255144?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="9">
-    <title>Retro Ragangal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828074500 +0000" channel="9">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828074500 +0000" stop="20260828110000 +0000" channel="9">
     <title>Weekday Afternoon Movie</title>
     <desc />
@@ -642,5 +617,30 @@
     <title>Marumagal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/171270?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="9">
+    <title>Puthu Vasantham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="9">
+    <title>Manamagale Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="9">
+    <title>Retro Ragangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902074500 +0000" channel="9">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35026?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902074500 +0000" stop="20260902110000 +0000" channel="9">
+    <title>Weekday Afternoon Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762451?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

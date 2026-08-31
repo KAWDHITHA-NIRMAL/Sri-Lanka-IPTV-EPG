@@ -3,31 +3,6 @@
   <channel id="102">
     <display-name>Channel 109</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="102">
-    <title>Asirimath Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/145482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="102">
-    <title>G 13 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/145483?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="102">
-    <title>G 13 Political Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/145484?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="102">
-    <title>G 13 Geography</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/145485?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="102">
-    <title>Mihimadala / Arunalu / Bhashawak Uganimu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/145486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828103000 +0000" channel="102">
     <title>G 12 Sinhala</title>
     <desc />
@@ -687,5 +662,30 @@
     <title>Asirimath Lanka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/145482?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="102">
+    <title>G 13 Engineering Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146033?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="102">
+    <title>G 13 Bio System Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="102">
+    <title>G 13 Science for Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="102">
+    <title>TharuMithuro/ Arunalu / Bhashawak Uganimu(Korean)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941132?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="102">
+    <title>G 12 Engineering Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146030?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

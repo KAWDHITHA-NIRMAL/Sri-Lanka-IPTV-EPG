@@ -3,36 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260828040000 +0000" stop="20260828053000 +0000" channel="34">
-    <title>The Story Is With Elex Michaelson</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828070000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828073000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828090000 +0000" channel="34">
-    <title>Amanpour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709212?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828100000 +0000" channel="34">
-    <title>Early Start With Rahel Solomon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="34">
     <title>Cnn This Morning</title>
     <desc />
@@ -577,5 +547,30 @@
     <title>The Story Is With Elex Michaelson</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902070000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902090000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902100000 +0000" channel="34">
+    <title>Early Start With Rahel Solomon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="34">
+    <title>Cnn This Morning</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61906?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

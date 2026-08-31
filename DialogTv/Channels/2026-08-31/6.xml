@@ -3,21 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260828033000 +0000" stop="20260828060000 +0000" channel="6">
-    <title>The Formula For Water</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940089?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="6">
-    <title>Seda Mawatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/175540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828071000 +0000" channel="6">
-    <title>Mid-Day News Bulletin Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828071000 +0000" stop="20260828103000 +0000" channel="6">
     <title>Movie</title>
     <desc />
@@ -587,5 +572,20 @@
     <title>Supiri Raju - Alaska Gamana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/939154?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="6">
+    <title>Seda Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/175540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902071000 +0000" channel="6">
+    <title>Mid-Day News Bulletin Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902071000 +0000" stop="20260902103000 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

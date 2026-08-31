@@ -3,16 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260828020000 +0000" stop="20260828051500 +0000" channel="87">
-    <title>Deewangee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828051500 +0000" stop="20260828083000 +0000" channel="87">
-    <title>Brahmastra: Part One Shiva</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940336?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828083000 +0000" stop="20260828113500 +0000" channel="87">
     <title>Kabhi Alvida Naa Kehna</title>
     <desc />
@@ -252,5 +242,15 @@
     <title>Lajja</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942817?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902071500 +0000" stop="20260902095500 +0000" channel="87">
+    <title>Fun2Ssh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902095500 +0000" stop="20260902121000 +0000" channel="87">
+    <title>Jhoom Barabar Jhoom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942818?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

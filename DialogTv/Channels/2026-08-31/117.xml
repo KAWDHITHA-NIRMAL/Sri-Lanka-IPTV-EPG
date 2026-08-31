@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260828044500 +0000" stop="20260828062500 +0000" channel="117">
-    <title>Wifelike</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828062500 +0000" stop="20260828080000 +0000" channel="117">
-    <title>Last Breath</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871080?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828100000 +0000" channel="117">
-    <title>Boycott</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763230?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="117">
     <title>Hollywood On Set S01</title>
     <desc />
@@ -319,6 +304,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260902033000 +0000" stop="20260902063000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902093000 +0000" channel="117">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902123000 +0000" channel="117">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941614?accessKey=WkVjNWNscFhORDBLCg==" />

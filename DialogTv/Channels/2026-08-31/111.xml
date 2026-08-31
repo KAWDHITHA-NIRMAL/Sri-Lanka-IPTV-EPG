@@ -3,36 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20260828044500 +0000" stop="20260828054000 +0000" channel="111">
-    <title>The Rookie: Feds  S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828054000 +0000" stop="20260828063500 +0000" channel="111">
-    <title>NCIS: Origins  S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063500 +0000" stop="20260828072500 +0000" channel="111">
-    <title>FBI  S07</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828072500 +0000" stop="20260828081500 +0000" channel="111">
-    <title>S.W.A.T. S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828081500 +0000" stop="20260828091000 +0000" channel="111">
-    <title>FBI S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828091000 +0000" stop="20260828100500 +0000" channel="111">
-    <title>The Rookie: Feds  S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100500 +0000" stop="20260828110000 +0000" channel="111">
     <title>The Rookie  S07</title>
     <desc />
@@ -547,5 +517,35 @@
     <title>The Rookie: Feds  S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902054000 +0000" stop="20260902063500 +0000" channel="111">
+    <title>NCIS: Origins  S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063500 +0000" stop="20260902072500 +0000" channel="111">
+    <title>FBI  S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902072500 +0000" stop="20260902082000 +0000" channel="111">
+    <title>S.W.A.T. S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902082000 +0000" stop="20260902091000 +0000" channel="111">
+    <title>S.W.A.T.  S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914908?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902091000 +0000" stop="20260902100500 +0000" channel="111">
+    <title>The Rookie: Feds  S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100500 +0000" stop="20260902110000 +0000" channel="111">
+    <title>FBI S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

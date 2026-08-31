@@ -3,16 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828073000 +0000" channel="94">
-    <title>Thamizh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="94">
-    <title>Kaimanam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/721726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828080000 +0000" stop="20260828113000 +0000" channel="94">
     <title>Azhagar Sami</title>
     <desc />
@@ -407,5 +397,15 @@
     <title>Veetula Viseshanga</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943658?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="94">
+    <title>Arusuvai Neram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190456?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902113000 +0000" channel="94">
+    <title>Pulan Visaranai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943659?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,56 +3,6 @@
   <channel id="98">
     <display-name>Channel 105</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="98">
-    <title>Chinnan Siru Kiliye</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/704029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="98">
-    <title>Vaagai Sooda Vaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916944?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="98">
-    <title>Sandhya Raagam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760100?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="98">
-    <title>Ayali</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828073000 +0000" channel="98">
-    <title>Samanthi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="98">
-    <title>Karthigai Deepam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="98">
-    <title>Varisu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="98">
-    <title>Idhayam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695877?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="98">
-    <title>Annamalai Kudumbam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="98">
-    <title>Salangai Oli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760103?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="98">
     <title>Salangai Oli</title>
     <desc />
@@ -1117,5 +1067,55 @@
     <title>Chinnan Siru Kiliye</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/704029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="98">
+    <title>Vaagai Sooda Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916944?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="98">
+    <title>Sandhya Raagam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760100?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="98">
+    <title>Ayali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="98">
+    <title>Samanthi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="98">
+    <title>Karthigai Deepam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="98">
+    <title>Varisu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="98">
+    <title>Idhayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695877?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="98">
+    <title>Annamalai Kudumbam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="98">
+    <title>Salangai Oli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="98">
+    <title>Aval Varuvala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760104?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

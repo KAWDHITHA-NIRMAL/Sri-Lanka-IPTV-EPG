@@ -3,46 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="14">
-    <title>Card News Nightly Business Report - English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="14">
-    <title>Card News (V Catoon) Big Focus Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/148875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="14">
-    <title>Mid Day News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62225?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828073000 +0000" channel="14">
-    <title>Sunday Night Documentary Special</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/195506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="14">
-    <title>Crd News - Sunday Night Documentary Special</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/729598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="14">
-    <title>Card NewsGlobal Angle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/149337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="14">
     <title>Siwdesa Card News(V+Catoon</title>
     <desc />
@@ -967,5 +927,45 @@
     <title>Card News Nightly Business Report - English</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/146811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="14">
+    <title>Card News (V Catoon) Big Focus Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/148875?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="14">
+    <title>Mid Day News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62225?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="14">
+    <title>Wanitha Waruna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63210?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="14">
+    <title>Card NewsSenehasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728966?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="14">
+    <title>Card NewsGlobal Angle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/149337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="14">
+    <title>Siwdesa Card News(V+Catoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

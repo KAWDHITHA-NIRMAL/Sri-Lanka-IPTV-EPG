@@ -3,41 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828053000 +0000" channel="60">
-    <title>Shadow Cats</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="60">
-    <title>Creative Killers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/885589?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="60">
-    <title>Death At The River</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828081200 +0000" channel="60">
-    <title>Eye Of The Leopard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255011?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828081200 +0000" stop="20260828085800 +0000" channel="60">
-    <title>The Way Of The Cheetah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255016?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828085800 +0000" stop="20260828094300 +0000" channel="60">
-    <title>Moody Beasts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/908735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828094300 +0000" stop="20260828102900 +0000" channel="60">
-    <title>Africa's Wild Geniuses</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/791188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828102900 +0000" stop="20260828111400 +0000" channel="60">
     <title>Africa's Deadliest</title>
     <desc />
@@ -742,5 +707,30 @@
     <title>Lion Dynasty</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916705?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="60">
+    <title>Cobra Mafia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="60">
+    <title>Return of the Lion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/721142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="60">
+    <title>Malika - Leopard Huntress</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912234?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="60">
+    <title>Killer Safari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

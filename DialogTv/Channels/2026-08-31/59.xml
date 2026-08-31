@@ -3,41 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828053000 +0000" channel="59">
-    <title>Destruction Decoded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="59">
-    <title>Primal Survivor: Extreme African Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912923?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="59">
-    <title>Dirty Rotten Survival</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/393199?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="59">
-    <title>Last Of The Giants: Wild Fish</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/719572?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="59">
-    <title>Luke Nguyen's India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828091700 +0000" channel="59">
-    <title>Destruction Decoded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828091700 +0000" stop="20260828100300 +0000" channel="59">
-    <title>India's Jungle Heroes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832541?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100300 +0000" stop="20260828104800 +0000" channel="59">
     <title>Airport Security Brazil</title>
     <desc />
@@ -842,5 +807,40 @@
     <title>Last Of The Giants: Wild Fish</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/719572?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="59">
+    <title>Primal Survivor Cutdown</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943333?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="59">
+    <title>Dirty Rotten Survival</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/393199?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="59">
+    <title>Luke Nguyen's India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="59">
+    <title>Airport Security Madrid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874890?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="59">
+    <title>India's Megakitchens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="59">
+    <title>Last Of The Giants: Wild Fish</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/719572?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="59">
+    <title>India's Megafestivals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152823?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,51 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20260828051000 +0000" stop="20260828052500 +0000" channel="2">
-    <title>Nuga Sevana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828052500 +0000" stop="20260828063000 +0000" channel="2">
-    <title>Sanhinda - Live Discussion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941667?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="2">
-    <title>News - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828082500 +0000" channel="2">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799606?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828082500 +0000" stop="20260828083000 +0000" channel="2">
-    <title>News - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828084300 +0000" channel="2">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799606?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828084300 +0000" stop="20260828093000 +0000" channel="2">
-    <title>NHK Documentary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/751971?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="2">
-    <title>Round The Twist S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828100000 +0000" stop="20260828102500 +0000" channel="2">
-    <title>Gigirum Danavuwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828102500 +0000" stop="20260828103000 +0000" channel="2">
     <title>News - Live</title>
     <desc />
@@ -927,5 +882,45 @@
     <title>Nuga Sevana - The Chanri</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/758739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902052500 +0000" stop="20260902063000 +0000" channel="2">
+    <title>Ruu Tunes - Musical - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902082500 +0000" channel="2">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/799606?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902082500 +0000" stop="20260902083000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="2">
+    <title>NHK Documentary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="2">
+    <title>Round The Twist S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940769?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902102500 +0000" channel="2">
+    <title>Gigirum Danavuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939174?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902102500 +0000" stop="20260902103000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

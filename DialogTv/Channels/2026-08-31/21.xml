@@ -3,26 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20260828043500 +0000" stop="20260828053500 +0000" channel="21">
-    <title>Sinhala Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053500 +0000" stop="20260828063500 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063500 +0000" stop="20260828085500 +0000" channel="21">
-    <title>English Film</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828085500 +0000" stop="20260828094500 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828094500 +0000" stop="20260828103200 +0000" channel="21">
     <title>Mihikathage Daruwo</title>
     <desc />
@@ -787,5 +767,40 @@
     <title>Darma Sakachchawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/751543?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902051200 +0000" stop="20260902053200 +0000" channel="21">
+    <title>Documentry</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751544?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053200 +0000" stop="20260902060200 +0000" channel="21">
+    <title>Dahawal Buddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060200 +0000" stop="20260902063200 +0000" channel="21">
+    <title>Dammapadayen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/751546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063200 +0000" stop="20260902081200 +0000" channel="21">
+    <title>Buddhist Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902081200 +0000" stop="20260902083200 +0000" channel="21">
+    <title>Buddhist Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083200 +0000" stop="20260902093200 +0000" channel="21">
+    <title>Buddhist Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093200 +0000" stop="20260902103200 +0000" channel="21">
+    <title>Buddhist Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913949?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

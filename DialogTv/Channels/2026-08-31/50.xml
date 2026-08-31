@@ -3,56 +3,6 @@
   <channel id="50">
     <display-name>Channel 56</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="50">
-    <title>Exploring with Mice Builders NEW</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="50">
-    <title>Songs &amp; Rhymes And Other Stories</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/400912?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="50">
-    <title>Bug'N'Play To The Rescue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683184?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="50">
-    <title>Art, Activity &amp; Music Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828073000 +0000" channel="50">
-    <title>Magical First Discoveries</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="50">
-    <title>Imagination Playground</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="50">
-    <title>Exploring With Oliver</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="50">
-    <title>Discovering With Charlie &amp; The Numbers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/680602?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="50">
-    <title>Play &amp; Learn With Songs &amp; Rhymes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/201689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="50">
-    <title>Guessing Games with Charlie &amp; the Shapes &amp; Friends</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/747733?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="50">
     <title>Family Fun Time &amp; Rhymes</title>
     <desc />
@@ -1182,5 +1132,55 @@
     <title>Exploring With Songs &amp; Rhymes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/147344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="50">
+    <title>Songs &amp; Rhymes And Other Stories</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/400912?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="50">
+    <title>Olly</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748440?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="50">
+    <title>Art, Activity &amp; Music Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="50">
+    <title>Magical First Discoveries</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="50">
+    <title>Imagination Playground</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146828?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="50">
+    <title>Exploring With Oliver</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="50">
+    <title>Discovering With Charlie &amp; The Numbers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/680602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="50">
+    <title>Play &amp; Learn With Songs &amp; Rhymes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/201689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="50">
+    <title>Guessing Games with Charlie &amp; the Shapes &amp; Friends</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/747733?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="50">
+    <title>Family Fun Time &amp; Rhymes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146834?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

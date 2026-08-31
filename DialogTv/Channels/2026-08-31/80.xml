@@ -3,56 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="80">
-    <title>Paris Fashion Week</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64214?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="80">
-    <title>Paris Fashion Week</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64214?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828073000 +0000" channel="80">
-    <title>Bridal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34044?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="80">
-    <title>Bridal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34044?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="80">
-    <title>Top Photoshoots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35613?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="80">
-    <title>Top Photoshoots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35613?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="80">
-    <title>Fashion Teens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="80">
-    <title>Fashion Teens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="80">
     <title>Designers</title>
     <desc />
@@ -1207,5 +1157,55 @@
     <title>Milan Fashion Week</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="80">
+    <title>Milan Fashion Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="80">
+    <title>Bridal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="80">
+    <title>Bridal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="80">
+    <title>Top Models</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34221?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="80">
+    <title>Top Models</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34221?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="80">
+    <title>Fashion Teens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="80">
+    <title>Fashion Teens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="80">
+    <title>Fashion Films</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

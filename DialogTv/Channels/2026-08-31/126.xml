@@ -3,15 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260828023000 +0000" stop="20260828083000 +0000" channel="126">
-    <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="126">
-    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
-    <desc />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828143000 +0000" channel="126">
     <title>Live - Sri Lanka Tennis Premier League 2026 - Day 02 | Court 01</title>
     <desc />
@@ -213,5 +204,14 @@
   <programme start="20260902043000 +0000" stop="20260902083000 +0000" channel="126">
     <title>Repeat - Major Club T20 Cricket Tournement 2026</title>
     <desc />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="126">
+    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

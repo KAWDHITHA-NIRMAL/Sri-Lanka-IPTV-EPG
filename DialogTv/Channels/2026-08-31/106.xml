@@ -3,31 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="106">
-    <title>Agriculture</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36116?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="106">
-    <title>G 11 Design &amp; Mechanical Tech</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="106">
-    <title>G 11 Entrepreneurship</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35700?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="106">
-    <title>Vision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="106">
-    <title>G 10 Geography</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939937?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828103000 +0000" channel="106">
     <title>G 10 Dancing</title>
     <desc />
@@ -732,5 +707,30 @@
     <title>Agriculture</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/36116?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="106">
+    <title>G 11 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="106">
+    <title>G 11 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939941?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902083000 +0000" channel="106">
+    <title>G 10 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="106">
+    <title>G 10 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902103000 +0000" channel="106">
+    <title>G 11 Entrepreneurship</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35700?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

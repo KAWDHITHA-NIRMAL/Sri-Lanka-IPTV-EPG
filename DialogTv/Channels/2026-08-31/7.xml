@@ -3,26 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="7">
-    <title>Aluth Sir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="7">
-    <title>Hada Rendi Peya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828062000 +0000" channel="7">
-    <title>Hada Rendi Peya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828062000 +0000" stop="20260828070000 +0000" channel="7">
-    <title>Live At Srilanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828070000 +0000" stop="20260828103000 +0000" channel="7">
     <title>Tele Dahawala</title>
     <desc />
@@ -732,5 +712,20 @@
     <title>Aluth Sir</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="7">
+    <title>Hada Rendi Peya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902062000 +0000" channel="7">
+    <title>Hada Rendi Peya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902062000 +0000" stop="20260902103000 +0000" channel="7">
+    <title>Tele Dahawala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909132?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

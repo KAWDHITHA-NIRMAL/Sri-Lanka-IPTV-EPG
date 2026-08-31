@@ -3,41 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="16">
-    <title>Waga Perahuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="16">
-    <title>Foreign Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="16">
-    <title>Sashrika</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828083000 +0000" channel="16">
-    <title>Let'S Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37202?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="16">
-    <title>Waga Perahuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="16">
     <title>Peni Rasa Janapada</title>
     <desc />
@@ -782,5 +747,40 @@
     <title>Waga Perahuru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="16">
+    <title>Let'S Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/37202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="16">
+    <title>Sashrika</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34325?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="16">
+    <title>Haritha Thaksalawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63982?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="16">
+    <title>Peni Rasa Janapada</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="16">
+    <title>Waga Perahuru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="16">
+    <title>Jeewithartha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33552?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

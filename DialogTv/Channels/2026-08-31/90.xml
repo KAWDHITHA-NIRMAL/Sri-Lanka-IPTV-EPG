@@ -3,11 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828080000 +0000" channel="90">
-    <title>Hatya: The Murder</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941889?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828080000 +0000" stop="20260828110000 +0000" channel="90">
     <title>Sikka</title>
     <desc />
@@ -204,6 +199,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260902033000 +0000" stop="20260902063000 +0000" channel="90">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902093000 +0000" channel="90">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902123000 +0000" channel="90">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />

@@ -3,26 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828054000 +0000" channel="31">
-    <title>That Pacific Sports Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/107158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828054000 +0000" stop="20260828070000 +0000" channel="31">
-    <title>EXPOSED: The Ghost Train Fire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815738?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828080000 +0000" channel="31">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828091500 +0000" channel="31">
-    <title>The Great Australian Bake Off</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/818564?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828091500 +0000" stop="20260828121500 +0000" channel="31">
     <title>AFL Premiership Season</title>
     <desc />
@@ -702,5 +682,45 @@
     <title>Australia's Wild Moments</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/727998?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="31">
+    <title>Planet America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902080000 +0000" channel="31">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="31">
+    <title>The Cook Up With Adam Liaw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817943?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="31">
+    <title>Weird Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/848817?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="31">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701512?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

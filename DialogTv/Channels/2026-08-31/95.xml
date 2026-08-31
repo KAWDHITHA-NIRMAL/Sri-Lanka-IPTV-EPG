@@ -3,11 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260828043000 +0000" stop="20260828073000 +0000" channel="95">
-    <title>Vanaja Girija</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828073000 +0000" stop="20260828103000 +0000" channel="95">
     <title>Chithiram Pesuthadi</title>
     <desc />
@@ -212,5 +207,10 @@
     <title>Annan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943636?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902103000 +0000" channel="95">
+    <title>Aanazhagan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943637?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

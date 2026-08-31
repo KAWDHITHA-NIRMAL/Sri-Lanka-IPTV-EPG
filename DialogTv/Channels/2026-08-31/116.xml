@@ -3,21 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260828031500 +0000" stop="20260828053500 +0000" channel="116">
-    <title>15 Years</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939885?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053500 +0000" stop="20260828073000 +0000" channel="116">
-    <title>With Or Without You</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828090500 +0000" channel="116">
-    <title>Murder in the Finistere</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939579?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828090500 +0000" stop="20260828104000 +0000" channel="116">
     <title>Suso's Tower</title>
     <desc />
@@ -367,5 +352,20 @@
     <title>Helen Dorn: Breathless</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943752?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902080500 +0000" channel="116">
+    <title>Behind the Mountains</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943748?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080500 +0000" stop="20260902093500 +0000" channel="116">
+    <title>The Cave Of The Yellow Dog</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943753?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093500 +0000" stop="20260902110000 +0000" channel="116">
+    <title>Brother's Keeper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943749?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

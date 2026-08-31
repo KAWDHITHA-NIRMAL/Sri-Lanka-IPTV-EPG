@@ -3,21 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260828040000 +0000" stop="20260828080000 +0000" channel="42">
-    <title>Dawn Chorus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33645?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828090000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36020?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828100000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="42">
     <title>Hall Of Fame</title>
     <desc />
@@ -727,5 +712,20 @@
     <title>Dawn Chorus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33645?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902090000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36020?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902100000 +0000" channel="42">
+    <title>Tenors &amp; Divas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33767?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828080000 +0000" channel="101">
-    <title>Irandam Ulagaporin Kadaisi Gundu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941851?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828080000 +0000" stop="20260828103000 +0000" channel="101">
     <title>Yaagavarayinum Naa Kaaka</title>
     <desc />
@@ -272,5 +267,10 @@
     <title>Madhura Raja</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940402?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902103000 +0000" channel="101">
+    <title>Chiyaangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942964?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

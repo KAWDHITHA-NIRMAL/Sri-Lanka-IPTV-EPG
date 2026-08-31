@@ -3,16 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260828023000 +0000" stop="20260828053000 +0000" channel="19">
-    <title>Wiman Dora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828083000 +0000" channel="19">
-    <title>Diya Sewanali</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828083000 +0000" stop="20260828113000 +0000" channel="19">
     <title>Angana</title>
     <desc />
@@ -232,5 +222,15 @@
     <title>Yaddehi Gedara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941331?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902083000 +0000" channel="19">
+    <title>Ape Kalaye Suba Saha Yasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902113000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940255?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

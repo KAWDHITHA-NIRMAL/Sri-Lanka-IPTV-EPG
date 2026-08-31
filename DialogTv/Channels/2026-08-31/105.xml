@@ -3,36 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="105">
-    <title>Asirimath Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828063000 +0000" channel="105">
-    <title>G 11 Buddhism</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828063000 +0000" stop="20260828073000 +0000" channel="105">
-    <title>G 11 Health &amp; Physical Education</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="105">
-    <title>Vision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828090000 +0000" channel="105">
-    <title>G 10 Buddhism</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828100000 +0000" channel="105">
-    <title>G 10 Health &amp; Physical Education</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940178?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="105">
     <title>G 11 Drama</title>
     <desc />
@@ -707,5 +677,35 @@
     <title>Asirimath Lanka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902063000 +0000" channel="105">
+    <title>G 11 Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902063000 +0000" stop="20260902073000 +0000" channel="105">
+    <title>G 11 Entrepreneurship</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35700?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="105">
+    <title>Nena Muthu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62119?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902090000 +0000" channel="105">
+    <title>G 10 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902100000 +0000" channel="105">
+    <title>G 10 Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="105">
+    <title>G 11 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36098?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

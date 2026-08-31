@@ -3,26 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260828051000 +0000" stop="20260828052000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828052000 +0000" stop="20260828071000 +0000" channel="125">
-    <title>SANZAAR International Tour Serie Australia v Japan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940423?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828071000 +0000" stop="20260828090000 +0000" channel="125">
-    <title>Super League Wigan v Hull KR</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828095500 +0000" channel="125">
-    <title>NRL Try Time NRL Try Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828095500 +0000" stop="20260828120000 +0000" channel="125">
     <title>LIVE NRL Panthers v Bulldogs</title>
     <desc />
@@ -572,5 +552,20 @@
     <title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902065000 +0000" stop="20260902084000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939181?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902084000 +0000" stop="20260902094000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902094000 +0000" stop="20260902113000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry Bulls v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940424?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

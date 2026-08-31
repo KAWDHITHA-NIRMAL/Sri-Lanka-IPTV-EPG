@@ -3,36 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20260828041800 +0000" stop="20260828051800 +0000" channel="56">
-    <title>Man, Woman, Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/757050?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828051800 +0000" stop="20260828061500 +0000" channel="56">
-    <title>Marooned With Ed Stafford</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828061500 +0000" stop="20260828071000 +0000" channel="56">
-    <title>Man Vs. Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152712?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828071000 +0000" stop="20260828074000 +0000" channel="56">
-    <title>Storage Wars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828074000 +0000" stop="20260828083500 +0000" channel="56">
-    <title>Dual Survival</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083500 +0000" stop="20260828093500 +0000" channel="56">
-    <title>18 Wheels Across Vietnam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093500 +0000" stop="20260828103000 +0000" channel="56">
     <title>Man Vs. Wild</title>
     <desc />
@@ -727,5 +697,40 @@
     <title>Man, Woman, Wild</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/757050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902051700 +0000" stop="20260902060900 +0000" channel="56">
+    <title>Ed Stafford's Rite of Passage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060900 +0000" stop="20260902070400 +0000" channel="56">
+    <title>Man Vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152712?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070400 +0000" stop="20260902075100 +0000" channel="56">
+    <title>Man Vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152712?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902075100 +0000" stop="20260902084500 +0000" channel="56">
+    <title>Dual Survival Mexico</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902084500 +0000" stop="20260902093400 +0000" channel="56">
+    <title>Ed Stafford's Rite of Passage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093400 +0000" stop="20260902102300 +0000" channel="56">
+    <title>Man Vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152712?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902102300 +0000" stop="20260902111000 +0000" channel="56">
+    <title>18 Wheels Across Vietnam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817805?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

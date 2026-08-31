@@ -3,46 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260828044500 +0000" stop="20260828051500 +0000" channel="135">
-    <title>Cartoni Animati</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/157793?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828051500 +0000" stop="20260828053000 +0000" channel="135">
-    <title>TG1 Ore 7.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/198739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828061500 +0000" channel="135">
-    <title>Linea Verde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940553?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828061500 +0000" stop="20260828064500 +0000" channel="135">
-    <title>TG1 Ore 8.00 + TG1 Dialogo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401737?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828064500 +0000" stop="20260828071500 +0000" channel="135">
-    <title>La Seconda Vita 8a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828071500 +0000" stop="20260828080000 +0000" channel="135">
-    <title>In Cammino 5a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941600?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="135">
-    <title>Linea Verde Discovery - Fatto In Italia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940554?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828093000 +0000" channel="135">
-    <title>L'Eredita Summer Crawl</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940555?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828093000 +0000" stop="20260828111500 +0000" channel="135">
     <title>Kilimangiaro Estate 2025 4a Puntata Riedizione</title>
     <desc />
@@ -712,5 +672,45 @@
     <title>I Mestieri Di Mirko 3a Stag. 19a Puntata Sot.</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902051500 +0000" stop="20260902053000 +0000" channel="135">
+    <title>TG1 Ore 7.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/198739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902061500 +0000" channel="135">
+    <title>1Mattina News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872233?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902061500 +0000" stop="20260902064500 +0000" channel="135">
+    <title>Tg1 Ore 8.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135372?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902064500 +0000" stop="20260902074500 +0000" channel="135">
+    <title>Elisir 2025/26 59a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902074500 +0000" stop="20260902080000 +0000" channel="135">
+    <title>Cartoni Animati</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/157793?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="135">
+    <title>Fiction 1atv: Nathan K 1a Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941025?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902083000 +0000" stop="20260902093000 +0000" channel="135">
+    <title>L'Eredita Summer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902111500 +0000" channel="135">
+    <title>Intrattenimento: Il Collegio 2025 2a Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941133?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

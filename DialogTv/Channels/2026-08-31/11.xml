@@ -3,51 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20260828050000 +0000" stop="20260828053000 +0000" channel="11">
-    <title>Paata Kurullo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190222?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828053000 +0000" stop="20260828060000 +0000" channel="11">
-    <title>Ron Soya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190134?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828060000 +0000" stop="20260828062500 +0000" channel="11">
-    <title>Hiru Tv News 11.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190214?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828062500 +0000" stop="20260828070000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828070000 +0000" stop="20260828080000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828080000 +0000" stop="20260828083000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828083000 +0000" stop="20260828090000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828093000 +0000" stop="20260828100000 +0000" channel="11">
-    <title>Copy Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260828100000 +0000" stop="20260828103000 +0000" channel="11">
     <title>Siri Bara Pura</title>
     <desc />
@@ -807,5 +762,25 @@
     <title>Wanamalee</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="11">
+    <title>Paata Kurullo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190222?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902060000 +0000" stop="20260902062500 +0000" channel="11">
+    <title>Ron Soya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190134?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902062500 +0000" stop="20260902070000 +0000" channel="11">
+    <title>Hiru Tv News 11.55- Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190214?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902103000 +0000" channel="11">
+    <title>Maara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943372?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
