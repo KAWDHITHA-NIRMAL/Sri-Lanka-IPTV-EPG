@@ -3,46 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260828170000 +0000" stop="20260828200000 +0000" channel="95">
-    <title>Vanaja Girija</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828200000 +0000" stop="20260828223000 +0000" channel="95">
-    <title>Chinna Kannamma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942300?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260828223000 +0000" stop="20260829013000 +0000" channel="95">
-    <title>Jai India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942305?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260829013000 +0000" stop="20260829043000 +0000" channel="95">
-    <title>Parasuram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260829043000 +0000" stop="20260829073000 +0000" channel="95">
-    <title>Rajathi Raja</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260829073000 +0000" stop="20260829103000 +0000" channel="95">
-    <title>Kaaval</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942308?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260829103000 +0000" stop="20260829133000 +0000" channel="95">
-    <title>Mudhal Idam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942309?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260829133000 +0000" stop="20260829170000 +0000" channel="95">
-    <title>Thaai Maman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942310?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260829170000 +0000" stop="20260829200000 +0000" channel="95">
     <title>Rajathi Raja</title>
     <desc />
@@ -212,5 +172,45 @@
     <title>Annan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943636?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902200000 +0000" stop="20260902223000 +0000" channel="95">
+    <title>Chinna Thayee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943626?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260902223000 +0000" stop="20260903013000 +0000" channel="95">
+    <title>Jithan-2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903013000 +0000" stop="20260903043000 +0000" channel="95">
+    <title>Pandinattu Thangam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903043000 +0000" stop="20260903073000 +0000" channel="95">
+    <title>Kadal Pookal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903073000 +0000" stop="20260903103000 +0000" channel="95">
+    <title>Jaisurya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943641?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903103000 +0000" stop="20260903133000 +0000" channel="95">
+    <title>Kadhal Dot Com</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903133000 +0000" stop="20260903170000 +0000" channel="95">
+    <title>Priyasagi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903170000 +0000" stop="20260903200000 +0000" channel="95">
+    <title>Kadal Pookal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943640?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
