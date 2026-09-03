@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260830150000 +0000" stop="20260830180000 +0000" channel="92">
-    <title>Tumbbad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941879?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830180000 +0000" stop="20260830210000 +0000" channel="92">
-    <title>Simmba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941878?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830210000 +0000" stop="20260831000000 +0000" channel="92">
-    <title>Uunchai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831000000 +0000" stop="20260831030000 +0000" channel="92">
-    <title>Khalnayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831030000 +0000" stop="20260831060000 +0000" channel="92">
     <title>Ghajini</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Khiladiyon Ka Khiladi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942851?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904180000 +0000" stop="20260904210000 +0000" channel="92">
+    <title>Kismat Konnection</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904210000 +0000" stop="20260905000000 +0000" channel="92">
+    <title>I Want To Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905000000 +0000" stop="20260905030000 +0000" channel="92">
+    <title>Ek Deewane Ki Deewaniyat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905030000 +0000" stop="20260905060000 +0000" channel="92">
+    <title>Gangaajal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943468?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

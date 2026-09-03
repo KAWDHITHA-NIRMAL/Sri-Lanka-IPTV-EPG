@@ -3,41 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260830162000 +0000" stop="20260830181000 +0000" channel="125">
-    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830181000 +0000" stop="20260830184000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2009 - Italy v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830184000 +0000" stop="20260830203000 +0000" channel="125">
-    <title>NRL Eels v Sharks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830203000 +0000" stop="20260830222000 +0000" channel="125">
-    <title>Super League Wigan v Hull KR</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830222000 +0000" stop="20260831001000 +0000" channel="125">
-    <title>Super League St Helens v Leeds</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942084?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831001000 +0000" stop="20260831024000 +0000" channel="125">
-    <title>AFL Bulldogs v Collingwood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831024000 +0000" stop="20260831051000 +0000" channel="125">
-    <title>AFL Melbourne v Carlton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942729?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831051000 +0000" stop="20260831054000 +0000" channel="125">
     <title>5 and 6 Nations Classics 2007 - Ireland v France</title>
     <desc />
@@ -607,5 +572,40 @@
     <title>NRL Rabbitohs v Roosters</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904183000 +0000" stop="20260904211500 +0000" channel="125">
+    <title>LIVE Super League Leigh v St Helens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904211500 +0000" stop="20260904213000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904213000 +0000" stop="20260904223000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904223000 +0000" stop="20260905010000 +0000" channel="125">
+    <title>AFL Fremantle v Hawthorn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905010000 +0000" stop="20260905025000 +0000" channel="125">
+    <title>NRL Rabbitohs v Roosters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905025000 +0000" stop="20260905035000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905035000 +0000" stop="20260905054000 +0000" channel="125">
+    <title>Super League Leigh v St Helens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943491?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

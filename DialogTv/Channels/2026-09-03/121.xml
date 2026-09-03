@@ -3,71 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260830173000 +0000" stop="20260830180000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830180000 +0000" stop="20260830183000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830183000 +0000" stop="20260831030000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831030000 +0000" stop="20260831031500 +0000" channel="121">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831031500 +0000" stop="20260831033000 +0000" channel="121">
-    <title>PL Highlights Crystal Palace v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831033000 +0000" stop="20260831034500 +0000" channel="121">
-    <title>PL Highlights Chelsea v Brighton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942971?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831034500 +0000" stop="20260831040000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Ipswich</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831040000 +0000" stop="20260831041500 +0000" channel="121">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831041500 +0000" stop="20260831043000 +0000" channel="121">
-    <title>PL Highlights Crystal Palace v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831043000 +0000" stop="20260831044500 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831044500 +0000" stop="20260831050000 +0000" channel="121">
-    <title>US Open Heroes 2026 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831050000 +0000" stop="20260831051500 +0000" channel="121">
-    <title>PL Highlights Chelsea v Brighton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942971?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831051500 +0000" stop="20260831053000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Ipswich</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943632?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831053000 +0000" stop="20260831054500 +0000" channel="121">
     <title>PL Highlights Chelsea v Brighton</title>
     <desc />
@@ -589,9 +524,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943632?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260903060000 +0000" stop="20260903061500 +0000" channel="121">
-    <title>CPL 2026 HLs Patriots v Royals</title>
+    <title>CPL 2026 HLs Patriots v Tridents</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944167?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260903061500 +0000" stop="20260903063000 +0000" channel="121">
     <title>PL Highlights Arsenal v Coventry City</title>
@@ -616,7 +551,7 @@
   <programme start="20260903073000 +0000" stop="20260903074500 +0000" channel="121">
     <title>CPL 2026 HLs Riders v Falcons</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944534?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260903074500 +0000" stop="20260903080000 +0000" channel="121">
     <title>PL Highlights Newcastle v Liverpool</title>
@@ -728,17 +663,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260903183000 +0000" stop="20260903213000 +0000" channel="121">
+  <programme start="20260903183000 +0000" stop="20260903230000 +0000" channel="121">
     <title>Live US Open 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260903213000 +0000" stop="20260904003000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904030000 +0000" channel="121">
+  <programme start="20260903230000 +0000" stop="20260904030000 +0000" channel="121">
     <title>Live US Open 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -799,9 +729,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941478?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260904060000 +0000" stop="20260904061500 +0000" channel="121">
-    <title>CPL 2026 HLs Riders v Kingsmen</title>
+    <title>CPL 2026 HLs Riders v Warriors</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944166?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260904061500 +0000" stop="20260904063000 +0000" channel="121">
     <title>PL Highlights Man City v Bournemouth</title>
@@ -932,5 +862,70 @@
     <title>Live US Open 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904183000 +0000" stop="20260904185000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904185000 +0000" stop="20260904210000 +0000" channel="121">
+    <title>Live PL 2026-27 Ipswich v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904210000 +0000" stop="20260904213000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904213000 +0000" stop="20260905030000 +0000" channel="121">
+    <title>Live US Open 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905030000 +0000" stop="20260905033000 +0000" channel="121">
+    <title>PL Classic Chelsea v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942974?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="121">
+    <title>PL Preview</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905040000 +0000" stop="20260905041500 +0000" channel="121">
+    <title>PL Highlights Ipswich v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905041500 +0000" stop="20260905043000 +0000" channel="121">
+    <title>PL Highlights Aston villa v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905043000 +0000" stop="20260905044500 +0000" channel="121">
+    <title>US Open Heroes 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905044500 +0000" stop="20260905050000 +0000" channel="121">
+    <title>US Open Heroes 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905050000 +0000" stop="20260905051500 +0000" channel="121">
+    <title>PL Highlights Ipswich v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905051500 +0000" stop="20260905053000 +0000" channel="121">
+    <title>PL Highlights Aston villa v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905053000 +0000" stop="20260905054500 +0000" channel="121">
+    <title>PL Highlights Ipswich v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

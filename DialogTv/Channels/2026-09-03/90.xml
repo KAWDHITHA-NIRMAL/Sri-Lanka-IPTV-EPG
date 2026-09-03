@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260830170000 +0000" stop="20260830200000 +0000" channel="90">
-    <title>Arundhati (2009)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942289?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830200000 +0000" stop="20260830230000 +0000" channel="90">
-    <title>Market Raja MBBS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942290?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830230000 +0000" stop="20260831020000 +0000" channel="90">
-    <title>Kahtey Hain Mujhko Raja</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942688?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831020000 +0000" stop="20260831050000 +0000" channel="90">
-    <title>Aaj Ka Mahaatma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940138?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831050000 +0000" stop="20260831080000 +0000" channel="90">
     <title>Laila</title>
     <desc />
@@ -212,5 +192,25 @@
     <title>Race (2019)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944117?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904200000 +0000" stop="20260904230000 +0000" channel="90">
+    <title>Jadugar Ki Kahar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944118?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904230000 +0000" stop="20260905020000 +0000" channel="90">
+    <title>Jagan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885607?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905020000 +0000" stop="20260905050000 +0000" channel="90">
+    <title>Johny I Love You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944119?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905050000 +0000" stop="20260905080000 +0000" channel="90">
+    <title>International Crook</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944120?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

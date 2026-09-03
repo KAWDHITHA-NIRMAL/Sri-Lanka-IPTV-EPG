@@ -3,56 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20260830163000 +0000" stop="20260830193000 +0000" channel="44">
-    <title>Fear Files</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830193000 +0000" stop="20260830213000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830213000 +0000" stop="20260830223000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830223000 +0000" stop="20260830233000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260830233000 +0000" stop="20260831003000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831003000 +0000" stop="20260831013000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831013000 +0000" stop="20260831020000 +0000" channel="44">
-    <title>Bhakti Suman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/800004?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831020000 +0000" stop="20260831023000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831023000 +0000" stop="20260831050000 +0000" channel="44">
-    <title>Teleshopping</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831050000 +0000" stop="20260831053000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831053000 +0000" stop="20260831073000 +0000" channel="44">
     <title>Teleshopping</title>
     <desc />
@@ -368,7 +318,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260903123000 +0000" stop="20260903143000 +0000" channel="44">
+  <programme start="20260903123000 +0000" stop="20260903133000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260903133000 +0000" stop="20260903143000 +0000" channel="44">
     <title>Pyaar Tune Kya Kiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62411?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -378,12 +333,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260903163000 +0000" stop="20260903185200 +0000" channel="44">
+  <programme start="20260903163000 +0000" stop="20260903185100 +0000" channel="44">
     <title>Fear Files</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260903185200 +0000" stop="20260903192600 +0000" channel="44">
+  <programme start="20260903185100 +0000" stop="20260903192600 +0000" channel="44">
     <title>Yolo Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -457,5 +412,60 @@
     <title>Fear Files</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904185500 +0000" stop="20260904203000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904203000 +0000" stop="20260904213000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904213000 +0000" stop="20260904223000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904223000 +0000" stop="20260904233000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904233000 +0000" stop="20260905003000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905003000 +0000" stop="20260905010000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905010000 +0000" stop="20260905013000 +0000" channel="44">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905013000 +0000" stop="20260905023000 +0000" channel="44">
+    <title>Bhakti Suman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/800004?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905023000 +0000" stop="20260905050000 +0000" channel="44">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905050000 +0000" stop="20260905053000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905053000 +0000" stop="20260905073000 +0000" channel="44">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698892?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
