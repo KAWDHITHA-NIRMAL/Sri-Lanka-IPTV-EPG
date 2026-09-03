@@ -3,36 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260831053000 +0000" stop="20260831073000 +0000" channel="67">
-    <title>Trail World Series</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831073000 +0000" stop="20260831104500 +0000" channel="67">
-    <title>TNA Genesis</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831104500 +0000" stop="20260831120000 +0000" channel="67">
-    <title>WTT Grand Smash</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/904029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831120000 +0000" stop="20260831130000 +0000" channel="67">
-    <title>WWE LFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/203487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831130000 +0000" stop="20260831133000 +0000" channel="67">
-    <title>WWE's Greatest Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/203426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831133000 +0000" stop="20260831143000 +0000" channel="67">
-    <title>MotoGP Racing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942576?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831143000 +0000" stop="20260831183000 +0000" channel="67">
     <title>AEW: All In</title>
     <desc />
@@ -362,5 +332,40 @@
     <title>Eredivisie Soccer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905073000 +0000" stop="20260905103000 +0000" channel="67">
+    <title>TNA Slammiversary 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943784?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905103000 +0000" stop="20260905123000 +0000" channel="67">
+    <title>MLS Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738297?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905123000 +0000" stop="20260905133000 +0000" channel="67">
+    <title>TNA Xplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61367?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905133000 +0000" stop="20260905143000 +0000" channel="67">
+    <title>WWE LFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/203487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905143000 +0000" stop="20260905151500 +0000" channel="67">
+    <title>Playing With Purpose</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939966?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905151500 +0000" stop="20260905154500 +0000" channel="67">
+    <title>Ultimate Cricket Challenge</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816446?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905154500 +0000" stop="20260905174500 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

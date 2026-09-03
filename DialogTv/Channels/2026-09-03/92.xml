@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260831030000 +0000" stop="20260831060000 +0000" channel="92">
-    <title>Ghajini</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831060000 +0000" stop="20260831090000 +0000" channel="92">
-    <title>Satyameva Jayate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831090000 +0000" stop="20260831120000 +0000" channel="92">
-    <title>Khuda Haafiz: Chapter 2 - Agni Pariksha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942700?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831120000 +0000" stop="20260831150000 +0000" channel="92">
-    <title>Sky Force</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831150000 +0000" stop="20260831180000 +0000" channel="92">
     <title>Bawaal</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Gangaajal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943468?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905060000 +0000" stop="20260905090000 +0000" channel="92">
+    <title>Race</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943469?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905090000 +0000" stop="20260905120000 +0000" channel="92">
+    <title>Krrish 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905120000 +0000" stop="20260905150000 +0000" channel="92">
+    <title>Kho Gaye Hum Kahan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905150000 +0000" stop="20260905180000 +0000" channel="92">
+    <title>Bimbisaara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943072?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

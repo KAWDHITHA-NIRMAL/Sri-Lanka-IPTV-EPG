@@ -3,31 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260831050000 +0000" stop="20260831080000 +0000" channel="101">
-    <title>Republic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831080000 +0000" stop="20260831103000 +0000" channel="101">
-    <title>Kallan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942951?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831103000 +0000" stop="20260831130000 +0000" channel="101">
-    <title>Guna 369</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831130000 +0000" stop="20260831161400 +0000" channel="101">
-    <title>Iru Mugan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942952?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831161400 +0000" stop="20260831163000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831163000 +0000" stop="20260831184500 +0000" channel="101">
     <title>Podhuvaaga En Manasu Thangam</title>
     <desc />
@@ -287,5 +262,25 @@
     <title>Madha Yaanai Koottam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943484?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905080000 +0000" stop="20260905113000 +0000" channel="101">
+    <title>Nerkonda Paarvai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943485?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905113000 +0000" stop="20260905143000 +0000" channel="101">
+    <title>Krack</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905143000 +0000" stop="20260905163000 +0000" channel="101">
+    <title>Kuttrame Thandanai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905183000 +0000" channel="101">
+    <title>Annapoorani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941643?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

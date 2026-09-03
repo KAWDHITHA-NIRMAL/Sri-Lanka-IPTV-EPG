@@ -3,81 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260831053000 +0000" stop="20260831060000 +0000" channel="7">
-    <title>Hada Rendi Peya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831060000 +0000" stop="20260831062000 +0000" channel="7">
-    <title>Hada Rendi Peya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909111?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831062000 +0000" stop="20260831070000 +0000" channel="7">
-    <title>Live At Srilanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831070000 +0000" stop="20260831103000 +0000" channel="7">
-    <title>Tele Dahawala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831103000 +0000" stop="20260831122500 +0000" channel="7">
-    <title>PM Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831122500 +0000" stop="20260831123000 +0000" channel="7">
-    <title>Theruwan Namadimu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831123000 +0000" stop="20260831132000 +0000" channel="7">
-    <title>Rata Pawula</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831132000 +0000" stop="20260831140000 +0000" channel="7">
-    <title>Live At Srilanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831140000 +0000" stop="20260831143000 +0000" channel="7">
-    <title>Bolt Anayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909112?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831143000 +0000" stop="20260831150000 +0000" channel="7">
-    <title>Hiri Poda Wessa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831150000 +0000" stop="20260831153000 +0000" channel="7">
-    <title>Amuthu Kalliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/883493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831153000 +0000" stop="20260831160000 +0000" channel="7">
-    <title>Aluth Sir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831160000 +0000" stop="20260831163000 +0000" channel="7">
-    <title>Jahuta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909114?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831163000 +0000" stop="20260831170000 +0000" channel="7">
-    <title>Naadiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831170000 +0000" stop="20260831173000 +0000" channel="7">
-    <title>Naadiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260831173000 +0000" stop="20260831180000 +0000" channel="7">
     <title>Naadiya</title>
     <desc />
@@ -822,5 +747,65 @@
     <title>Film Eka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905060000 +0000" stop="20260905062000 +0000" channel="7">
+    <title>Film Eka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905062000 +0000" stop="20260905070000 +0000" channel="7">
+    <title>Live At Srilanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905070000 +0000" stop="20260905100000 +0000" channel="7">
+    <title>Imorich Movie Festival</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905122500 +0000" channel="7">
+    <title>Hitha Illana Tharu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905122500 +0000" stop="20260905123000 +0000" channel="7">
+    <title>Theruwan Namadimu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909126?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905123000 +0000" stop="20260905132000 +0000" channel="7">
+    <title>Travel Idea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909127?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905132000 +0000" stop="20260905140000 +0000" channel="7">
+    <title>Live At Srilanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905140000 +0000" stop="20260905150000 +0000" channel="7">
+    <title>Jeewitheta Kotiyak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="7">
+    <title>Jaffnadaraya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909100?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="7">
+    <title>Natath Ayek Sura Mathin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909129?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905163000 +0000" channel="7">
+    <title>Sith Athara Histhen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905183500 +0000" channel="7">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
