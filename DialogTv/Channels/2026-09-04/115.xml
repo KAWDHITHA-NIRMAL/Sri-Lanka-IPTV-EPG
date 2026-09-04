@@ -3,56 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260831170900 +0000" stop="20260831190200 +0000" channel="115">
-    <title>Thor: Love And Thunder</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943348?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831190200 +0000" stop="20260831202800 +0000" channel="115">
-    <title>Hitman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943349?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831202800 +0000" stop="20260901033000 +0000" channel="115">
-    <title>Bravestorm</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943350?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901033000 +0000" stop="20260901050200 +0000" channel="115">
-    <title>Ford V Ferrari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943864?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901050200 +0000" stop="20260901071000 +0000" channel="115">
-    <title>Jungle Cruise</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901071000 +0000" stop="20260901085800 +0000" channel="115">
-    <title>The Marvels</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901085800 +0000" stop="20260901103100 +0000" channel="115">
-    <title>Turning Red</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901103100 +0000" stop="20260901124200 +0000" channel="115">
-    <title>Pirates Of The Caribbean: On Stranger Tides</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943867?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901124200 +0000" stop="20260901151500 +0000" channel="115">
-    <title>Eternals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943868?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901151500 +0000" stop="20260901170600 +0000" channel="115">
-    <title>The Lion King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943869?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260901170600 +0000" stop="20260901182900 +0000" channel="115">
     <title>Zombieland</title>
     <desc />
@@ -243,37 +193,97 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/154547?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260904205400 +0000" stop="20260905003000 +0000" channel="115">
+  <programme start="20260904205400 +0000" stop="20260904231100 +0000" channel="115">
     <title>Emergency Declaration</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/767617?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905003000 +0000" stop="20260905033000 +0000" channel="115">
+  <programme start="20260904231100 +0000" stop="20260905003400 +0000" channel="115">
+    <title>Tarzan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945022?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905003400 +0000" stop="20260905020500 +0000" channel="115">
+    <title>The Croods</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905020500 +0000" stop="20260905043600 +0000" channel="115">
+    <title>Maze Runner: The Death Cure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943055?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905043600 +0000" stop="20260905062100 +0000" channel="115">
+    <title>Predator (1987)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945024?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905062100 +0000" stop="20260905075800 +0000" channel="115">
+    <title>Turning Red</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905075800 +0000" stop="20260905102400 +0000" channel="115">
+    <title>Avengers: Infinity War</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945026?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905102400 +0000" stop="20260905131500 +0000" channel="115">
+    <title>Avengers: End Game</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945027?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905131500 +0000" stop="20260905151500 +0000" channel="115">
+    <title>The A-Team</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905151500 +0000" stop="20260905165900 +0000" channel="115">
+    <title>Baby's Day Out</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905165900 +0000" stop="20260905183600 +0000" channel="115">
+    <title>Big Hero 6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905183600 +0000" stop="20260905204200 +0000" channel="115">
+    <title>Die Hard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945031?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905204200 +0000" stop="20260906003000 +0000" channel="115">
+    <title>Detective Di Skeleton General</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906003000 +0000" stop="20260906033000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905063000 +0000" channel="115">
+  <programme start="20260906033000 +0000" stop="20260906063000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905063000 +0000" stop="20260905093000 +0000" channel="115">
+  <programme start="20260906063000 +0000" stop="20260906093000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905093000 +0000" stop="20260905123000 +0000" channel="115">
+  <programme start="20260906093000 +0000" stop="20260906123000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905123000 +0000" stop="20260905153000 +0000" channel="115">
+  <programme start="20260906123000 +0000" stop="20260906153000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905153000 +0000" stop="20260905183000 +0000" channel="115">
+  <programme start="20260906153000 +0000" stop="20260906183000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />

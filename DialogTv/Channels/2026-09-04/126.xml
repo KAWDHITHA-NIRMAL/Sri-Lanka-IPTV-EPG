@@ -3,54 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260831163000 +0000" stop="20260831183000 +0000" channel="126">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831183000 +0000" stop="20260831203000 +0000" channel="126">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260831203000 +0000" stop="20260901003000 +0000" channel="126">
-    <title>Repeat - ICC Women's T20 World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913578?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901003000 +0000" stop="20260901023000 +0000" channel="126">
-    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901023000 +0000" stop="20260901033000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901033000 +0000" stop="20260901040000 +0000" channel="126">
-    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943829?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901040000 +0000" stop="20260901081500 +0000" channel="126">
-    <title>Live - Pandura SC vs SSC - Major Clubs T20 Tournament 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260901081500 +0000" stop="20260901123000 +0000" channel="126">
-    <title>Live - Police SC vs CCC - Major Clubs T20 Tournament 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260901123000 +0000" stop="20260901143000 +0000" channel="126">
-    <title>Highlights - Sri Lanka Tennis Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943151?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260901143000 +0000" stop="20260901163000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260901163000 +0000" stop="20260901183000 +0000" channel="126">
     <title>Repeat - Super League 2026</title>
     <desc />
@@ -175,70 +127,65 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941056?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260904013000 +0000" stop="20260904014500 +0000" channel="126">
-    <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904014500 +0000" stop="20260904053000 +0000" channel="126">
-    <title>Live - Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904053000 +0000" stop="20260904093000 +0000" channel="126">
-    <title>Live - Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904093000 +0000" stop="20260904123000 +0000" channel="126">
-    <title>Live - Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904123000 +0000" stop="20260904143000 +0000" channel="126">
+  <programme start="20260904013000 +0000" stop="20260904023000 +0000" channel="126">
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904023000 +0000" stop="20260904073000 +0000" channel="126">
+    <title>Live - Triumvirate - Annual Rowing Encounter 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260904073000 +0000" stop="20260904123000 +0000" channel="126">
+    <title>Live - Triumvirate - Annual Rowing Encounter 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260904123000 +0000" stop="20260904140000 +0000" channel="126">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260904140000 +0000" stop="20260904143000 +0000" channel="126">
+    <title>Segment - Sports Bulletin</title>
+    <desc />
   </programme>
   <programme start="20260904143000 +0000" stop="20260904163000 +0000" channel="126">
-    <title>Highlights - Super League 2026</title>
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940518?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260904163000 +0000" stop="20260904183000 +0000" channel="126">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <title>Repeat - Super League 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260904183000 +0000" stop="20260904203000 +0000" channel="126">
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260904203000 +0000" stop="20260905013000 +0000" channel="126">
-    <title>Repeat - 111th National Tennis Championship 2025</title>
+  <programme start="20260904203000 +0000" stop="20260905003000 +0000" channel="126">
+    <title>Repeat - FIFA world Cup 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941056?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942453?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905013000 +0000" stop="20260905014500 +0000" channel="126">
-    <title>Highlights - Under 16 Elite Ten-a-Side Rugby Tournament 2026</title>
+  <programme start="20260905003000 +0000" stop="20260905023000 +0000" channel="126">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943410?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905014500 +0000" stop="20260905053000 +0000" channel="126">
-    <title>Live - SLSRFA Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 02</title>
+  <programme start="20260905023000 +0000" stop="20260905033000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905053000 +0000" stop="20260905093000 +0000" channel="126">
-    <title>Live - SLSRFA Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 02</title>
+  <programme start="20260905033000 +0000" stop="20260905081500 +0000" channel="126">
+    <title>Live - Kurunegala YCC vs CCC - Major Clubs T20 Tournament 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905093000 +0000" stop="20260905123000 +0000" channel="126">
-    <title>Live - SLSRFA Under 14 Elite Ten-a-Side Rugby Tournament 2026- Day 02</title>
+  <programme start="20260905081500 +0000" stop="20260905123000 +0000" channel="126">
+    <title>Live - Police SC vs Pandura SC - Major Clubs T20 Tournament 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260905123000 +0000" stop="20260905133000 +0000" channel="126">
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
@@ -246,18 +193,84 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260905133000 +0000" stop="20260905140000 +0000" channel="126">
-    <title>Segement - Youth Plus</title>
+    <title>Segment - Youth Plus</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943412?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944758?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260905140000 +0000" stop="20260905160000 +0000" channel="126">
-    <title>Highlights - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="126">
+  <programme start="20260905140000 +0000" stop="20260905143000 +0000" channel="126">
     <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905143000 +0000" stop="20260905150000 +0000" channel="126">
+    <title>Documentary - St. Joseph's College Swimming</title>
+    <desc />
+  </programme>
+  <programme start="20260905150000 +0000" stop="20260905163000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905183000 +0000" channel="126">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905183000 +0000" stop="20260905203000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260905203000 +0000" stop="20260906003000 +0000" channel="126">
+    <title>Repeat - Pakistan Women Tour of Sri Lanka 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260906003000 +0000" stop="20260906023000 +0000" channel="126">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906023000 +0000" stop="20260906033000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906033000 +0000" stop="20260906043000 +0000" channel="126">
+    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943829?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906043000 +0000" stop="20260906083000 +0000" channel="126">
+    <title>Repeat - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906083000 +0000" stop="20260906093000 +0000" channel="126">
+    <title>Highlights - SLC Tier B T20 Tournemet 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943829?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906093000 +0000" stop="20260906103000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906103000 +0000" stop="20260906143000 +0000" channel="126">
+    <title>Live - Gateway College vs D.S. Senanayake College - Founders Cup - Annual Basketball Encounter 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260906143000 +0000" stop="20260906150000 +0000" channel="126">
+    <title>Documentary - St. Joseph's College Swimming</title>
+    <desc />
+  </programme>
+  <programme start="20260906150000 +0000" stop="20260906163000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260906163000 +0000" stop="20260906183000 +0000" channel="126">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
