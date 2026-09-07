@@ -3,31 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260904091500 +0000" stop="20260904105000 +0000" channel="117">
-    <title>Hostile Waters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904105000 +0000" stop="20260904122500 +0000" channel="117">
-    <title>Nacho Libre</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943925?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904122500 +0000" stop="20260904140000 +0000" channel="117">
-    <title>Aeonflux</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943927?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904140000 +0000" stop="20260904155500 +0000" channel="117">
-    <title>London Calling</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904155500 +0000" stop="20260904174500 +0000" channel="117">
-    <title>Death Of A Unicorn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/917086?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904174500 +0000" stop="20260904193000 +0000" channel="117">
     <title>Pet Sematary</title>
     <desc />
@@ -337,5 +312,30 @@
     <title>Path To War</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944653?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909102000 +0000" stop="20260909115500 +0000" channel="117">
+    <title>Journey To The Center Of The Earth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942074?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909115500 +0000" stop="20260909140000 +0000" channel="117">
+    <title>42</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="117">
+    <title>Baywatch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944655?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909160000 +0000" stop="20260909180000 +0000" channel="117">
+    <title>Depravity</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944440?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909180000 +0000" stop="20260909201000 +0000" channel="117">
+    <title>Jurassic World: Fallen Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943926?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260904080000 +0000" stop="20260904103000 +0000" channel="101">
-    <title>Mishan Impossible</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943269?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904103000 +0000" stop="20260904130000 +0000" channel="101">
-    <title>Kaari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943270?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904130000 +0000" stop="20260904163000 +0000" channel="101">
-    <title>Kavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943271?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904163000 +0000" stop="20260904184400 +0000" channel="101">
     <title>Rekka</title>
     <desc />
@@ -287,5 +272,25 @@
     <title>Malaysia To Amnesia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944845?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909103000 +0000" stop="20260909130000 +0000" channel="101">
+    <title>Danny</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909130000 +0000" stop="20260909153000 +0000" channel="101">
+    <title>Dhilluku Dhuddu 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944846?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909153000 +0000" stop="20260909180000 +0000" channel="101">
+    <title>Pongaluku Varugirom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943064?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,30 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20260904093000 +0000" stop="20260904123000 +0000" channel="20">
-    <title>Live - Blue Eagles SC  vs Renown SC - Super League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260904123000 +0000" stop="20260904133000 +0000" channel="20">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904133000 +0000" stop="20260904143000 +0000" channel="20">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904143000 +0000" stop="20260904163000 +0000" channel="20">
-    <title>Highlights - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904163000 +0000" stop="20260904183000 +0000" channel="20">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904183000 +0000" stop="20260904203000 +0000" channel="20">
     <title>Repeat - Super League 2026</title>
     <desc />
@@ -284,5 +260,35 @@
     <title>Highlights - Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909103000 +0000" stop="20260909123000 +0000" channel="20">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909123000 +0000" stop="20260909133000 +0000" channel="20">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909133000 +0000" stop="20260909143000 +0000" channel="20">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909143000 +0000" stop="20260909163000 +0000" channel="20">
+    <title>Highlights - Dialog Schools Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909163000 +0000" stop="20260909183000 +0000" channel="20">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909183000 +0000" stop="20260909203000 +0000" channel="20">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

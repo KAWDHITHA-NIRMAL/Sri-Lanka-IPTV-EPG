@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260904080000 +0000" stop="20260904110000 +0000" channel="90">
-    <title>Taqdeer Ka Tamasha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944114?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904110000 +0000" stop="20260904140000 +0000" channel="90">
-    <title>Ek Se Bure Do</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944115?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904140000 +0000" stop="20260904170000 +0000" channel="90">
-    <title>Shehzaade</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944116?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904170000 +0000" stop="20260904200000 +0000" channel="90">
     <title>Race (2019)</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Khel Khilari Ka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944630?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909110000 +0000" stop="20260909140000 +0000" channel="90">
+    <title>Devta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815787?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909170000 +0000" channel="90">
+    <title>Koyelaanchal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944631?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909170000 +0000" stop="20260909200000 +0000" channel="90">
+    <title>Lashkar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944632?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

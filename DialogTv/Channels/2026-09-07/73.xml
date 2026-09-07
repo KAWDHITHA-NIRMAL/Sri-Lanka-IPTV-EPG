@@ -3,21 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260904090000 +0000" stop="20260904120000 +0000" channel="73">
-    <title>Anatomy Of A Murder</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944233?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904120000 +0000" stop="20260904141500 +0000" channel="73">
-    <title>E.T. The Extra-Terrestrial</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944235?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904141500 +0000" stop="20260904161500 +0000" channel="73">
-    <title>Rush Hour 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944236?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904161500 +0000" stop="20260904184500 +0000" channel="73">
     <title>You Cant Take It With You</title>
     <desc />
@@ -282,5 +267,25 @@
     <title>Out Of Time</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944622?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="73">
+    <title>Meet The Parents</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945226?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909161500 +0000" channel="73">
+    <title>Witness</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944623?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909161500 +0000" stop="20260909180000 +0000" channel="73">
+    <title>Kung Fu Panda 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944402?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909180000 +0000" stop="20260909194500 +0000" channel="73">
+    <title>Walking Tall</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

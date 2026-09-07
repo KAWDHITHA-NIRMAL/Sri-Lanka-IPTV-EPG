@@ -3,41 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260904095500 +0000" stop="20260904120000 +0000" channel="125">
-    <title>LIVE NRL Rabbitohs v Roosters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943286?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904120000 +0000" stop="20260904123000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2003 - Ireland v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904123000 +0000" stop="20260904150000 +0000" channel="125">
-    <title>AFL Fremantle v Hawthorn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943090?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904150000 +0000" stop="20260904153000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2001 - Wales v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/766806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904153000 +0000" stop="20260904154000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904154000 +0000" stop="20260904164000 +0000" channel="125">
-    <title>NRL Try Time NRL Try Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904164000 +0000" stop="20260904183000 +0000" channel="125">
-    <title>NRL Rabbitohs v Roosters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904183000 +0000" stop="20260904211500 +0000" channel="125">
     <title>LIVE Super League Leigh v St Helens</title>
     <desc />
@@ -557,5 +522,30 @@
     <title>AFL Highlights AFL Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909102000 +0000" stop="20260909121000 +0000" channel="125">
+    <title>SANZAAR International Tour Serie Argentina v Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943697?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909121000 +0000" stop="20260909140000 +0000" channel="125">
+    <title>SANZAAR International Tour Serie Argentina v Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943697?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909150000 +0000" stop="20260909173000 +0000" channel="125">
+    <title>AFL AFL</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909173000 +0000" stop="20260909200000 +0000" channel="125">
+    <title>AFL AFL</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943699?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

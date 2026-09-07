@@ -3,66 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20260904100000 +0000" stop="20260904103000 +0000" channel="29">
-    <title>Divine Mercy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943847?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904103000 +0000" stop="20260904113000 +0000" channel="29">
-    <title>Holy Mass</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904113000 +0000" stop="20260904120000 +0000" channel="29">
-    <title>Illangalil Iraiyatchi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/755823?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904120000 +0000" stop="20260904130000 +0000" channel="29">
-    <title>Holy Mass</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904130000 +0000" stop="20260904133000 +0000" channel="29">
-    <title>Holy Rosary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943846?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904133000 +0000" stop="20260904140000 +0000" channel="29">
-    <title>Gayamin Pasasamu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904140000 +0000" stop="20260904150000 +0000" channel="29">
-    <title>Iridaa Dewa Wachanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943854?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904150000 +0000" stop="20260904153000 +0000" channel="29">
-    <title>Jesu Wethata Piyawarak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904153000 +0000" stop="20260904160000 +0000" channel="29">
-    <title>Vishvasa Lakshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/753938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="29">
-    <title>Yauwanayata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943856?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904163000 +0000" stop="20260904173000 +0000" channel="29">
-    <title>Holy Mass</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904173000 +0000" stop="20260904183000 +0000" channel="29">
-    <title>Holy Rosary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943846?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904183000 +0000" stop="20260904193000 +0000" channel="29">
     <title>Eucharistic Adoration</title>
     <desc />
@@ -837,5 +777,65 @@
     <title>Divine Mercy -Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/755026?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909103000 +0000" stop="20260909113000 +0000" channel="29">
+    <title>Holy Mass - Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755027?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909113000 +0000" stop="20260909120000 +0000" channel="29">
+    <title>Pesum Padal - Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753154?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909120000 +0000" stop="20260909130000 +0000" channel="29">
+    <title>Holy Mass - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909130000 +0000" stop="20260909133000 +0000" channel="29">
+    <title>Holy Rosary - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909133000 +0000" stop="20260909140000 +0000" channel="29">
+    <title>Gayamin Pasasamu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="29">
+    <title>Yadum Hamuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706441?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909150000 +0000" stop="20260909153000 +0000" channel="29">
+    <title>Vilokanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944597?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909153000 +0000" stop="20260909160000 +0000" channel="29">
+    <title>Chatharika Charitha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909160000 +0000" stop="20260909163000 +0000" channel="29">
+    <title>Sathyalokaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944599?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909163000 +0000" stop="20260909173000 +0000" channel="29">
+    <title>Holy Mass - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909173000 +0000" stop="20260909183000 +0000" channel="29">
+    <title>Holy Rosary - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909183000 +0000" stop="20260909193000 +0000" channel="29">
+    <title>Eucharistic Adoration-English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

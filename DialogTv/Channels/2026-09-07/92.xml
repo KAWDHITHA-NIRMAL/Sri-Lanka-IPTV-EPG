@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260904090000 +0000" stop="20260904120000 +0000" channel="92">
-    <title>I Want To Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904120000 +0000" stop="20260904150000 +0000" channel="92">
-    <title>Ek Deewane Ki Deewaniyat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943254?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904150000 +0000" stop="20260904180000 +0000" channel="92">
-    <title>Om Jai Jagdish</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904180000 +0000" stop="20260904210000 +0000" channel="92">
     <title>Hum Saath Saath Hain</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Aitraaz</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909120000 +0000" stop="20260909150000 +0000" channel="92">
+    <title>2.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909150000 +0000" stop="20260909180000 +0000" channel="92">
+    <title>Veere Di Wedding</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909180000 +0000" stop="20260909210000 +0000" channel="92">
+    <title>Shubh Mangal Saavdhan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944828?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
