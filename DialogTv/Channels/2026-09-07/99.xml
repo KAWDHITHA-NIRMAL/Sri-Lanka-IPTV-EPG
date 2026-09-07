@@ -3,76 +3,6 @@
   <channel id="99">
     <display-name>Channel 106</display-name>
   </channel>
-  <programme start="20260903173000 +0000" stop="20260903183000 +0000" channel="99">
-    <title>Nagaichuvai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260903183000 +0000" stop="20260904003000 +0000" channel="99">
-    <title>Vidiyum Varai Siringal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187599?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="99">
-    <title>Happy Birthday Kutty Boss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916881?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="99">
-    <title>Yogibabu Break Free Comedy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="99">
-    <title>Double Tucker Comedy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187524?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904033000 +0000" channel="99">
-    <title>Good Morning Sirippoli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904043000 +0000" channel="99">
-    <title>Eppavumae Santhosam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="99">
-    <title>Vadivelu Break Free Comedy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="99">
-    <title>Orupada Comedy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904053000 +0000" stop="20260904060000 +0000" channel="99">
-    <title>Comedy Connections</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904060000 +0000" stop="20260904063000 +0000" channel="99">
-    <title>Aaniyae Pudunga Venam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904063000 +0000" stop="20260904073000 +0000" channel="99">
-    <title>All In All Azhaguraja Goundamani Special</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/68125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904073000 +0000" stop="20260904083000 +0000" channel="99">
-    <title>Vadivelu Vibes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187514?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904083000 +0000" stop="20260904093000 +0000" channel="99">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/66838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904093000 +0000" stop="20260904103000 +0000" channel="99">
     <title>Sirippu Pattasu</title>
     <desc />
@@ -527,5 +457,75 @@
     <title>Night Show Nagaichuvai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260908183000 +0000" stop="20260909003000 +0000" channel="99">
+    <title>Vidiyum Varai Siringal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187599?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909003000 +0000" stop="20260909013000 +0000" channel="99">
+    <title>Happy Birthday Kutty Boss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916881?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909013000 +0000" stop="20260909020000 +0000" channel="99">
+    <title>Vivek Break Free Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815568?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909020000 +0000" stop="20260909023000 +0000" channel="99">
+    <title>Double Tucker Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187524?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909023000 +0000" stop="20260909033000 +0000" channel="99">
+    <title>Good Morning Sirippoli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909033000 +0000" stop="20260909043000 +0000" channel="99">
+    <title>Eppavumae Santhosam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909043000 +0000" stop="20260909050000 +0000" channel="99">
+    <title>Break Free Vadivelu Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909050000 +0000" stop="20260909053000 +0000" channel="99">
+    <title>Orupada Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909053000 +0000" stop="20260909060000 +0000" channel="99">
+    <title>Comedy Connections</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909060000 +0000" stop="20260909063000 +0000" channel="99">
+    <title>Aaniyae Pudunga Venam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36431?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909063000 +0000" stop="20260909073000 +0000" channel="99">
+    <title>All In All Azhaguraja Goundamani Special</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/68125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909073000 +0000" stop="20260909083000 +0000" channel="99">
+    <title>Vadivelu Vibes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909083000 +0000" stop="20260909093000 +0000" channel="99">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/66838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909093000 +0000" stop="20260909103000 +0000" channel="99">
+    <title>Sirippu Pattasu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/69277?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

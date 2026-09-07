@@ -3,36 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260903173000 +0000" stop="20260903203000 +0000" channel="19">
-    <title>Suwadai Panadara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260903203000 +0000" stop="20260903233000 +0000" channel="19">
-    <title>Arunalu Kirana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904013000 +0000" channel="19">
-    <title>Ira Paya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943837?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904053000 +0000" channel="19">
-    <title>Hadapana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260904053000 +0000" stop="20260904083000 +0000" channel="19">
-    <title>Suwadai Panadara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260904083000 +0000" stop="20260904113000 +0000" channel="19">
     <title>Arunalu Kirana</title>
     <desc />
@@ -232,5 +202,35 @@
     <title>Sadawatha Seya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944373?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260908203000 +0000" stop="20260908233000 +0000" channel="19">
+    <title>Nurya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260908233000 +0000" stop="20260909013000 +0000" channel="19">
+    <title>Mada Obama Wiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909013000 +0000" stop="20260909023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909023000 +0000" stop="20260909053000 +0000" channel="19">
+    <title>Hadapana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909053000 +0000" stop="20260909083000 +0000" channel="19">
+    <title>Sadawatha Seya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944373?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260909083000 +0000" stop="20260909113000 +0000" channel="19">
+    <title>Nurya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944374?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
