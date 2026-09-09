@@ -3,36 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260905223000 +0000" stop="20260906013000 +0000" channel="95">
-    <title>Sena</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260906013000 +0000" stop="20260906043000 +0000" channel="95">
-    <title>Thamizhchelvan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260906043000 +0000" stop="20260906073000 +0000" channel="95">
-    <title>Avvai Shanmugi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260906073000 +0000" stop="20260906103000 +0000" channel="95">
-    <title>Kalamellam Kathiruppen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260906103000 +0000" stop="20260906133000 +0000" channel="95">
-    <title>Makkal Aatchi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260906133000 +0000" stop="20260906170000 +0000" channel="95">
-    <title>Namma Ooru Rasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943655?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260906170000 +0000" stop="20260906200000 +0000" channel="95">
     <title>Avvai Shanmugi</title>
     <desc />
@@ -212,5 +182,35 @@
     <title>Sukran</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945558?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911013000 +0000" stop="20260911043000 +0000" channel="95">
+    <title>Bharathan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945559?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911043000 +0000" stop="20260911073000 +0000" channel="95">
+    <title>Shree Bannari Amman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945560?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911073000 +0000" stop="20260911103000 +0000" channel="95">
+    <title>Udhiri Pookal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911103000 +0000" stop="20260911133000 +0000" channel="95">
+    <title>Girivalam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945562?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911133000 +0000" stop="20260911170000 +0000" channel="95">
+    <title>Parambarai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260911170000 +0000" stop="20260911200000 +0000" channel="95">
+    <title>Shree Bannari Amman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945560?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
