@@ -3,51 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260907163000 +0000" stop="20260907183000 +0000" channel="73">
-    <title>Puss In Boots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944231?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260907183000 +0000" stop="20260907203000 +0000" channel="73">
-    <title>Ultraviolet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944240?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260907203000 +0000" stop="20260907230000 +0000" channel="73">
-    <title>The Perfect Storm</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944241?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260907230000 +0000" stop="20260908010000 +0000" channel="73">
-    <title>Casablanca</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908010000 +0000" stop="20260908031500 +0000" channel="73">
-    <title>Mamma Mia!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940602?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908031500 +0000" stop="20260908051500 +0000" channel="73">
-    <title>Ultraviolet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944240?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908051500 +0000" stop="20260908074500 +0000" channel="73">
-    <title>The Perfect Storm</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944241?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908074500 +0000" stop="20260908094500 +0000" channel="73">
-    <title>Casablanca</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908094500 +0000" stop="20260908120000 +0000" channel="73">
-    <title>Beowulf</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="73">
     <title>Kung Fu Panda 3</title>
     <desc />
@@ -287,5 +242,50 @@
     <title>I Am Legend</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945308?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260912181500 +0000" stop="20260912203000 +0000" channel="73">
+    <title>The Specialist</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945309?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260912203000 +0000" stop="20260912224500 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945310?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260912224500 +0000" stop="20260913004500 +0000" channel="73">
+    <title>Teenage Mutant Ninja Turtles</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913004500 +0000" stop="20260913033000 +0000" channel="73">
+    <title>The Negotiator</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945647?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913033000 +0000" stop="20260913053000 +0000" channel="73">
+    <title>I Am Legend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945308?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913053000 +0000" stop="20260913074500 +0000" channel="73">
+    <title>The Specialist</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945309?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913074500 +0000" stop="20260913100000 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945310?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913100000 +0000" stop="20260913120000 +0000" channel="73">
+    <title>Teenage Mutant Ninja Turtles</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913120000 +0000" stop="20260913143000 +0000" channel="73">
+    <title>The Blind Side</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945648?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

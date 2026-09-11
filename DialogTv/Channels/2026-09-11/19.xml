@@ -3,41 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260907173000 +0000" stop="20260907203000 +0000" channel="19">
-    <title>Katu Kurullo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943840?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260907203000 +0000" stop="20260907233000 +0000" channel="19">
-    <title>Sithaka Mahima</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943841?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260907233000 +0000" stop="20260908013000 +0000" channel="19">
-    <title>Mada Obama Wiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908013000 +0000" stop="20260908023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908023000 +0000" stop="20260908053000 +0000" channel="19">
-    <title>Hadapana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908053000 +0000" stop="20260908083000 +0000" channel="19">
-    <title>Sadawatha Seya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944373?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908083000 +0000" stop="20260908113000 +0000" channel="19">
-    <title>Nurya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908113000 +0000" stop="20260908143000 +0000" channel="19">
     <title>Mada Obama Wiya</title>
     <desc />
@@ -232,5 +197,40 @@
     <title>Yakada Doli</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945385?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260912203000 +0000" stop="20260912233000 +0000" channel="19">
+    <title>Nirbeethai Api</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944864?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260912233000 +0000" stop="20260913013000 +0000" channel="19">
+    <title>Liyanagala Mal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945154?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913013000 +0000" stop="20260913023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913023000 +0000" stop="20260913053000 +0000" channel="19">
+    <title>Sada Ahasata Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945384?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913053000 +0000" stop="20260913083000 +0000" channel="19">
+    <title>Yakada Doli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945385?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913083000 +0000" stop="20260913113000 +0000" channel="19">
+    <title>Nirbeethai Api</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944864?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913113000 +0000" stop="20260913143000 +0000" channel="19">
+    <title>Gini pupuru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945613?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
