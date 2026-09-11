@@ -3,21 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260908121000 +0000" stop="20260908140000 +0000" channel="125">
-    <title>NRL Panthers v Tigers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945485?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908143000 +0000" channel="125">
-    <title>Top 14 Highlights Round 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908162000 +0000" channel="125">
-    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908162000 +0000" stop="20260908185000 +0000" channel="125">
     <title>AFL Fremantle v Hawthorn</title>
     <desc />
@@ -531,5 +516,20 @@
     <title>AFL Brisbane v Adelaide</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913144000 +0000" stop="20260913163000 +0000" channel="125">
+    <title>NRL Rabbitohs v Knights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913164000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913164000 +0000" stop="20260913183000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

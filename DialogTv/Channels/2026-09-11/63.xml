@@ -3,26 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20260908093000 +0000" stop="20260908123000 +0000" channel="63">
-    <title>Live - Colombo FC vs Upcountry Lions - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908133000 +0000" channel="63">
-    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908143000 +0000" channel="63">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908163000 +0000" channel="63">
-    <title>Highlights - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908163000 +0000" stop="20260908183000 +0000" channel="63">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
@@ -299,5 +279,19 @@
     <title>Live - Ratnam SC vs Red Star FC - Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946389?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913131500 +0000" channel="63">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913131500 +0000" stop="20260913163000 +0000" channel="63">
+    <title>Live - SSC vs NCC - SF 2 - Major Clubs T20 Tournament 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913183000 +0000" channel="63">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

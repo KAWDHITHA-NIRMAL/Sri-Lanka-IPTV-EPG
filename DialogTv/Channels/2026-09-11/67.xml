@@ -3,26 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260908103000 +0000" stop="20260908123000 +0000" channel="67">
-    <title>WTT Champions Table Tennis</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908143000 +0000" channel="67">
-    <title>AEW Collision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908163000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908173000 +0000" channel="67">
-    <title>WWE LFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/203487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="67">
     <title>WWE's Greatest Moments</title>
     <desc />
@@ -377,5 +357,25 @@
     <title>MotoGP Racing</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945955?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913131500 +0000" stop="20260913140000 +0000" channel="67">
+    <title>TNA Xplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61367?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="67">
+    <title>WWE's Greatest Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/203426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913163000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913183000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260908101500 +0000" stop="20260908123000 +0000" channel="87">
-    <title>Son Of Sardaar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908144500 +0000" channel="87">
-    <title>Humpty Sharma Ki Dulhania</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908144500 +0000" stop="20260908170000 +0000" channel="87">
-    <title>Jolly LLB 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942046?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170000 +0000" stop="20260908192500 +0000" channel="87">
     <title>Dostana</title>
     <desc />
@@ -287,5 +272,20 @@
     <title>Chillar Party</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913122500 +0000" stop="20260913143000 +0000" channel="87">
+    <title>Badhaai Ho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913170000 +0000" channel="87">
+    <title>Bhool Bhulaiyaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913195500 +0000" channel="87">
+    <title>War 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945645?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

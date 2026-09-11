@@ -3,31 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260908093000 +0000" stop="20260908130000 +0000" channel="10">
-    <title>Womens Asia Cup</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908153000 +0000" channel="10">
-    <title>Filler Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908161500 +0000" stop="20260908180000 +0000" channel="10">
     <title>Filler Program</title>
     <desc />
@@ -472,5 +447,35 @@
     <title>Womens Asia Cup</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945980?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913133000 +0000" channel="10">
+    <title>Face To Face</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913140000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="10">
+    <title>Culture by Design</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945908?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913153000 +0000" channel="10">
+    <title>Filler Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153000 +0000" stop="20260913161500 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913161500 +0000" stop="20260913190000 +0000" channel="10">
+    <title>AFL - Game Of The Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

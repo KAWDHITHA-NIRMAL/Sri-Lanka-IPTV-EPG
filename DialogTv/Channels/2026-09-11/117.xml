@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260908102500 +0000" stop="20260908122000 +0000" channel="117">
-    <title>Recount</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742494?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908122000 +0000" stop="20260908140000 +0000" channel="117">
-    <title>Changing Lanes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908165000 +0000" channel="117">
-    <title>The Godfather</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943998?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908165000 +0000" stop="20260908200500 +0000" channel="117">
     <title>The Godfather Part Ii</title>
     <desc />
@@ -350,5 +335,20 @@
     <title>The Gathering Storm</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/884648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913122000 +0000" stop="20260913140000 +0000" channel="117">
+    <title>Playing With Fire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943924?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913160500 +0000" channel="117">
+    <title>Jurassic World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944276?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913160500 +0000" stop="20260913181000 +0000" channel="117">
+    <title>Jurassic World: Fallen Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943926?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

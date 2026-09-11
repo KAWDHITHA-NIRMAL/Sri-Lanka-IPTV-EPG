@@ -3,16 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908143000 +0000" channel="19">
-    <title>Mada Obama Wiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908173000 +0000" channel="19">
-    <title>Hadapana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908203000 +0000" channel="19">
     <title>Sadawatha Seya</title>
     <desc />
@@ -232,5 +222,15 @@
     <title>Gini pupuru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945613?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913173000 +0000" channel="19">
+    <title>Sada Ahasata Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945384?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913203000 +0000" channel="19">
+    <title>Yakada Doli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945385?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

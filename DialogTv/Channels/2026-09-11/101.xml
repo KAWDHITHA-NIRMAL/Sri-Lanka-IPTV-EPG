@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260908103000 +0000" stop="20260908130000 +0000" channel="101">
-    <title>Sisters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944840?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908160100 +0000" channel="101">
-    <title>Pattathu Yaanai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942348?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908160100 +0000" stop="20260908181500 +0000" channel="101">
     <title>Madhura Raja</title>
     <desc />
@@ -292,5 +282,15 @@
     <title>Veerame Vaagai Soodum</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945697?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913163000 +0000" channel="101">
+    <title>Oru Kidayin Karunai Manu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945698?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913183000 +0000" channel="101">
+    <title>Savarakathi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943267?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

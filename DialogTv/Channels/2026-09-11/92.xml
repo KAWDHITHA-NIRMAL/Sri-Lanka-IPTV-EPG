@@ -3,11 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260908120000 +0000" stop="20260908150000 +0000" channel="92">
-    <title>Bhabiji Ghar Par Hai!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908150000 +0000" stop="20260908180000 +0000" channel="92">
     <title>Gadar: Ek Prem Katha</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Wanted</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913180000 +0000" channel="92">
+    <title>RRR</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945674?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

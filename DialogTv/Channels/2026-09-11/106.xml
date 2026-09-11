@@ -3,36 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908123000 +0000" channel="106">
-    <title>G6 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908133000 +0000" channel="106">
-    <title>G7Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944432?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908143000 +0000" channel="106">
-    <title>G8 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908153000 +0000" channel="106">
-    <title>G9 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908163000 +0000" channel="106">
-    <title>G 6 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944435?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908173000 +0000" channel="106">
-    <title>G6-Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="106">
     <title>G6 Tamil</title>
     <desc />
@@ -621,5 +591,35 @@
     <title>G 11 Catholicism</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/941604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913133000 +0000" channel="106">
+    <title>G 10 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913143000 +0000" channel="106">
+    <title>G 10 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913153000 +0000" channel="106">
+    <title>G 11 Entrepreneurship</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35700?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153000 +0000" stop="20260913163000 +0000" channel="106">
+    <title>G 11 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913173000 +0000" channel="106">
+    <title>G 11 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939941?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913183000 +0000" channel="106">
+    <title>G 10  ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

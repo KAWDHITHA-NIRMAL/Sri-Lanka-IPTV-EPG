@@ -3,26 +3,6 @@
   <channel id="77">
     <display-name>Channel 84</display-name>
   </channel>
-  <programme start="20260908121000 +0000" stop="20260908123500 +0000" channel="77">
-    <title>Storage Hunters S5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123500 +0000" stop="20260908130000 +0000" channel="77">
-    <title>Impractical Jokers S5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914989?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908135000 +0000" channel="77">
-    <title>Titans S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908135000 +0000" stop="20260908163000 +0000" channel="77">
-    <title>In The Heights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914600?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908163000 +0000" stop="20260908185000 +0000" channel="77">
     <title>The Island</title>
     <desc />
@@ -817,5 +797,25 @@
     <title>Firewall</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942623?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913152000 +0000" channel="77">
+    <title>Shazam!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945661?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913152000 +0000" stop="20260913170500 +0000" channel="77">
+    <title>The Invasion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945662?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170500 +0000" stop="20260913173000 +0000" channel="77">
+    <title>Friends S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944740?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913175500 +0000" channel="77">
+    <title>Friends S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944740?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

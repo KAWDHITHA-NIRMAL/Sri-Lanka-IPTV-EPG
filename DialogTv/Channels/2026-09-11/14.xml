@@ -3,61 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20260908120000 +0000" stop="20260908123000 +0000" channel="14">
-    <title>Card News - Big Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/149338?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908124000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908124000 +0000" stop="20260908130000 +0000" channel="14">
-    <title>Press Box</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61417?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="14">
-    <title>Siwdesa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61250?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="14">
-    <title>The Public Square</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/160849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908143000 +0000" channel="14">
-    <title>The Public Square</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/160849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908153000 +0000" channel="14">
-    <title>Prime Time News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908160500 +0000" channel="14">
-    <title>First At 9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908160500 +0000" stop="20260908163000 +0000" channel="14">
-    <title>World News - English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908171000 +0000" channel="14">
-    <title>Ada Derana @ 10.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189829?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908171000 +0000" stop="20260908173000 +0000" channel="14">
-    <title>Nightly Business Report - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="14">
     <title>Late Night News</title>
     <desc />
@@ -952,5 +897,55 @@
     <title>Big Focus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913123500 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123500 +0000" stop="20260913130000 +0000" channel="14">
+    <title>Travel With Chathura</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61416?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913133000 +0000" channel="14">
+    <title>Vehicle Hub</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913140000 +0000" channel="14">
+    <title>State Of The Nation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="14">
+    <title>State Of The Nation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913153000 +0000" channel="14">
+    <title>Prime Time News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153000 +0000" stop="20260913160500 +0000" channel="14">
+    <title>First At 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913160500 +0000" stop="20260913163000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/730167?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913173000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/730167?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913180000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/730167?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

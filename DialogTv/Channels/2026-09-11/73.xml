@@ -3,16 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="73">
-    <title>Kung Fu Panda 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944402?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908163000 +0000" channel="73">
-    <title>The Matrix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908163000 +0000" stop="20260908184500 +0000" channel="73">
     <title>Mamma Mia!</title>
     <desc />
@@ -287,5 +277,15 @@
     <title>The Blind Side</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913163000 +0000" channel="73">
+    <title>Meet The Parents</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945226?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913183000 +0000" channel="73">
+    <title>Kung Fu Panda 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

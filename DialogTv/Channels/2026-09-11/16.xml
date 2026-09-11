@@ -3,46 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908123000 +0000" channel="16">
-    <title>Amayuru Budu Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908130000 +0000" channel="16">
-    <title>Foreign Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908150000 +0000" channel="16">
-    <title>Dp Education Haritha Taksalawa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35639?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908153000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908163000 +0000" channel="16">
-    <title>Jeewithartha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33552?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908170000 +0000" channel="16">
-    <title>Madara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64624?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908170000 +0000" stop="20260908173000 +0000" channel="16">
-    <title>Sashrika</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="16">
     <title>Foreign Program</title>
     <desc />
@@ -767,5 +727,50 @@
     <title>Amayuru Budu Bana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913130000 +0000" channel="16">
+    <title>Forign Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51061?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913133000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913150000 +0000" channel="16">
+    <title>Dp Education Haritha Taksalawa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913153000 +0000" channel="16">
+    <title>A Park</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153000 +0000" stop="20260913160000 +0000" channel="16">
+    <title>Waga Perahuru S4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913160000 +0000" stop="20260913163000 +0000" channel="16">
+    <title>Forign Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51061?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913170000 +0000" channel="16">
+    <title>Medi Tips</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913173000 +0000" channel="16">
+    <title>Sashrika</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34325?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913180000 +0000" channel="16">
+    <title>Waga Perahuru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

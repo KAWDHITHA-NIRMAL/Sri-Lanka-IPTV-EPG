@@ -3,41 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20260908120000 +0000" stop="20260908123000 +0000" channel="123">
-    <title>UCL 2026-27  :Play-Offs, 2nd leg  - MN Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908130000 +0000" channel="123">
-    <title>UEFA Super Cup 2026 Highlights-PSG vs Aston Villa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939428?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="123">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943563?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908143000 +0000" channel="123">
-    <title>Sunday Night Main Event</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945458?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908150000 +0000" channel="123">
-    <title>The FA Community Shield 2026 : Arsenal  vs Manchester City Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940762?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908160000 +0000" channel="123">
-    <title>UFC Fight Night - Hooker vs Parnasse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945243?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908160000 +0000" stop="20260908164500 +0000" channel="123">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943563?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908164500 +0000" stop="20260908184500 +0000" channel="123">
     <title>Live UEFA Champions League 2026/27 Club Brugge vs Aston Villa</title>
     <desc />
@@ -571,6 +536,24 @@
   </programme>
   <programme start="20260913120000 +0000" stop="20260913123000 +0000" channel="123">
     <title>ACC Women's Asia Cup 2026 Highlights - India vs Pakistan</title>
+    <desc />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913130000 +0000" channel="123">
+    <title>UCL 2026-27 Highlights-MD 1-Barcelona vs Feyenoord</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946149?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913163000 +0000" channel="123">
+    <title>Live Punjab T20 League 2026 Final</title>
+    <desc />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913170000 +0000" channel="123">
+    <title>WWE Evolve</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942218?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="123">
+    <title>NOCHE UFC - Rodriguez vs Silva</title>
     <desc />
   </programme>
 </tv>

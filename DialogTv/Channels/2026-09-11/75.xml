@@ -3,16 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260908120500 +0000" stop="20260908140000 +0000" channel="75">
-    <title>Hustle &amp; Flow</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944414?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908165500 +0000" channel="75">
-    <title>Lanterns S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944199?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908165500 +0000" stop="20260908185000 +0000" channel="75">
     <title>Rocketman</title>
     <desc />
@@ -372,5 +362,20 @@
     <title>Regretting You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="75">
+    <title>Lanterns S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940755?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913164500 +0000" channel="75">
+    <title>Law &amp; Order ('21) S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944560?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913164500 +0000" stop="20260913181500 +0000" channel="75">
+    <title>Final Destination 5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945664?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

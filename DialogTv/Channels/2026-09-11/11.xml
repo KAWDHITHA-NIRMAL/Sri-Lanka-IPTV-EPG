@@ -3,61 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20260908120000 +0000" stop="20260908123000 +0000" channel="11">
-    <title>Nesha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/752687?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908130000 +0000" channel="11">
-    <title>Hadata Hathakmai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942647?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908132500 +0000" channel="11">
-    <title>Siri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/887489?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908132500 +0000" stop="20260908140000 +0000" channel="11">
-    <title>Hiru Tv News 6.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190207?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908143000 +0000" channel="11">
-    <title>Akurata Yana Welawe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190296?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908150000 +0000" channel="11">
-    <title>Paata Kurullo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190222?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908153000 +0000" channel="11">
-    <title>Ron Soya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190134?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908155500 +0000" channel="11">
-    <title>Aththamai Man Oyata Adarei</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908155500 +0000" stop="20260908162500 +0000" channel="11">
-    <title>Baddegama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908162500 +0000" stop="20260908170000 +0000" channel="11">
-    <title>Hiru Tv News 9.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190203?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908170000 +0000" stop="20260908173000 +0000" channel="11">
-    <title>Sewanali Season 02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="11">
     <title>Sewanali Season 02</title>
     <desc />
@@ -946,5 +891,60 @@
     <title>Giri Kulaki Nuba Mata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945619?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913130000 +0000" channel="11">
+    <title>Sonu Mandara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913132500 +0000" channel="11">
+    <title>Sonu Mandara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913132500 +0000" stop="20260913140000 +0000" channel="11">
+    <title>Hiru Tv News 6.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190207?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="11">
+    <title>Hiru Star Season 05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913150000 +0000" channel="11">
+    <title>Hiru Star Season 05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913153000 +0000" channel="11">
+    <title>Hiru Star Season 05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153000 +0000" stop="20260913160000 +0000" channel="11">
+    <title>Oba Enna Awith Yanna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190221?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913160000 +0000" stop="20260913162500 +0000" channel="11">
+    <title>Oba Enna Awith Yanna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190221?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913162500 +0000" stop="20260913170000 +0000" channel="11">
+    <title>Hiru Tv News 9.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913173000 +0000" channel="11">
+    <title>Copy Chat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913180000 +0000" channel="11">
+    <title>Copy Chat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190186?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

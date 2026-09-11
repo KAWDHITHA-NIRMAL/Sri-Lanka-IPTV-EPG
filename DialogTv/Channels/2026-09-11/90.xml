@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260908110000 +0000" stop="20260908140000 +0000" channel="90">
-    <title>Hiraasat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942696?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908170000 +0000" channel="90">
-    <title>Juaari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170000 +0000" stop="20260908200000 +0000" channel="90">
     <title>Biwi.com</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Jaan Se Pyaara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913170000 +0000" channel="90">
+    <title>China Gate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945684?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913200000 +0000" channel="90">
+    <title>Arundhati (2009)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945685?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

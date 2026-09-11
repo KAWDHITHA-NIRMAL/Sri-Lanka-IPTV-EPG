@@ -3,26 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260908121500 +0000" stop="20260908123000 +0000" channel="135">
-    <title>Tg Sport Giorno</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187151?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908141500 +0000" channel="135">
-    <title>Fiction: Che Dio Ci Aiuti 7 3a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908141500 +0000" stop="20260908143000 +0000" channel="135">
-    <title>TG1 Ore 16.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940551?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908170000 +0000" channel="135">
-    <title>Vita In Diretta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170000 +0000" stop="20260908181500 +0000" channel="135">
     <title>Reazione A Catena</title>
     <desc />
@@ -717,5 +697,25 @@
     <title>TG1 Ore 13.30</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/187624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913141500 +0000" channel="135">
+    <title>Fiction: Che Dio Ci Aiuti 7 1a Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941108?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913141500 +0000" stop="20260913143000 +0000" channel="135">
+    <title>TG1 Ore 16.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913170000 +0000" channel="135">
+    <title>Vita In Diretta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913181500 +0000" channel="135">
+    <title>Reazione A Catena</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816608?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

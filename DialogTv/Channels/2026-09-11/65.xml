@@ -3,26 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908123000 +0000" channel="65">
-    <title>Sri Lanka vs Pakistan 2026 3rd T20i Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940791?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908133000 +0000" channel="65">
-    <title>Sri Lanka vs England 2018 5th ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="65">
-    <title>Sri Lanka vs India 2024 3rd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187561?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908143000 +0000" channel="65">
-    <title>DP World Women's Asia Cup 2026 - Pakistan vs Hong Kong Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945808?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908143000 +0000" stop="20260908181500 +0000" channel="65">
     <title>Live Bangladesh vs UAE DP World Women's Asia Cup</title>
     <desc />
@@ -692,5 +672,15 @@
     <title>England vs Pakistan 2026 3rd Test Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913143000 +0000" channel="65">
+    <title>Live England vs Pakistan 3rd Test</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913181500 +0000" channel="65">
+    <title>Live DP World Women's Asia Cup Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/776083?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

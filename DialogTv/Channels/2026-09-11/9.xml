@@ -3,56 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908123000 +0000" channel="9">
-    <title>Shakthi Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37096?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908130000 +0000" channel="9">
-    <title>Moondru Mudichu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/747721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="9">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/790430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="9">
-    <title>Ethirneechal Thodargiradhu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/690106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908143000 +0000" channel="9">
-    <title>Singapenne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908150000 +0000" channel="9">
-    <title>Shakthi News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908153000 +0000" channel="9">
-    <title>Chellame Chellame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/730009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153000 +0000" stop="20260908160000 +0000" channel="9">
-    <title>Lakshmi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908160000 +0000" stop="20260908163000 +0000" channel="9">
-    <title>Annam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692274?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163000 +0000" stop="20260908170000 +0000" channel="9">
-    <title>News 1st Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="9">
     <title>Movie</title>
     <desc />
@@ -662,5 +612,35 @@
     <title>The Game</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/734348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123000 +0000" stop="20260913133000 +0000" channel="9">
+    <title>Minnal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748864?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913143000 +0000" channel="9">
+    <title>Special Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/199190?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913143000 +0000" stop="20260913150000 +0000" channel="9">
+    <title>News 1st Weekend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913163000 +0000" channel="9">
+    <title>Weekend Night Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913170000 +0000" channel="9">
+    <title>News 1st Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="9">
+    <title>Weekend Night Movie Cont</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762458?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

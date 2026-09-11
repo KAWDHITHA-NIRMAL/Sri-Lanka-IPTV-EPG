@@ -3,41 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20260908120600 +0000" stop="20260908123600 +0000" channel="21">
-    <title>Sith Yaya Programme Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/767135?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123600 +0000" stop="20260908130600 +0000" channel="21">
-    <title>Buddha Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130600 +0000" stop="20260908140600 +0000" channel="21">
-    <title>Sadaham Amadahara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50446?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140600 +0000" stop="20260908143600 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143600 +0000" stop="20260908153600 +0000" channel="21">
-    <title>Daham Paura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/767136?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908153600 +0000" stop="20260908163600 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908163600 +0000" stop="20260908170600 +0000" channel="21">
-    <title>Gramerfone Song</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61705?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170600 +0000" stop="20260908183000 +0000" channel="21">
     <title>Sarwa  Rathrika Prith Vikashaya</title>
     <desc />
@@ -782,5 +747,40 @@
     <title>Sasuna</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/172600?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913123100 +0000" stop="20260913130100 +0000" channel="21">
+    <title>Buddha Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130100 +0000" stop="20260913140100 +0000" channel="21">
+    <title>Sadaham Amadahara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50446?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140100 +0000" stop="20260913150100 +0000" channel="21">
+    <title>Dharma Sakachchawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/729271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150100 +0000" stop="20260913153800 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913153800 +0000" stop="20260913161500 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913161500 +0000" stop="20260913165500 +0000" channel="21">
+    <title>Gramerfone Song</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61705?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913165500 +0000" stop="20260913183000 +0000" channel="21">
+    <title>Sarwa  Rathrika Prith Vikashaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/814057?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

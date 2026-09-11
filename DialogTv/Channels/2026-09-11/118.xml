@@ -3,21 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20260908102500 +0000" stop="20260908125500 +0000" channel="118">
-    <title>Harry Potter And The Sorcerer's Stone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908125500 +0000" stop="20260908150000 +0000" channel="118">
-    <title>Jurassic Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908162000 +0000" channel="118">
-    <title>Love Hurts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944309?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908162000 +0000" stop="20260908181000 +0000" channel="118">
     <title>Turtles All The Way Down</title>
     <desc />
@@ -331,5 +316,20 @@
     <title>The Wizard Of Lies</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913131000 +0000" stop="20260913150000 +0000" channel="118">
+    <title>London Calling</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944937?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913171000 +0000" channel="118">
+    <title>Wuthering Heights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946562?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913171000 +0000" stop="20260913193500 +0000" channel="118">
+    <title>Eddington</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

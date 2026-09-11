@@ -3,26 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260908113000 +0000" stop="20260908123000 +0000" channel="124">
-    <title>Coca-Cola Cup 1998 Highlights-Final-Aus vs Ind</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908130000 +0000" channel="124">
-    <title>England(W) vs India(W) 2025 2nd T20i Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908170000 +0000" channel="124">
-    <title>Live Punjab T20 League 2026 Ludhiana Lions vs Jalandhar Warriors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908170000 +0000" stop="20260908173000 +0000" channel="124">
-    <title>ACC Women's Asia Cup 2026 Highlights - Pakistan vs Hong Kong</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945463?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="124">
     <title>Sri Lanka vs India 2026 2nd Test Highlights</title>
     <desc />
@@ -533,5 +513,19 @@
     <title>DP World Asia Cup 2025 Highlights - Final India vs Pakistan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/884671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="124">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913140000 +0000" stop="20260913173000 +0000" channel="124">
+    <title>Live Afghanistan vs India 2026 1st T20</title>
+    <desc />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913183000 +0000" channel="124">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942764?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

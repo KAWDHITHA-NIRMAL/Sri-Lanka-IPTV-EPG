@@ -3,51 +3,6 @@
   <channel id="130">
     <display-name>Channel 2382</display-name>
   </channel>
-  <programme start="20260908121500 +0000" stop="20260908123000 +0000" channel="130">
-    <title>CPL 2026 HLs Tridents v Riders</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908124500 +0000" channel="130">
-    <title>ETPL 2026 HLs Flames v Dockers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945484?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908124500 +0000" stop="20260908130000 +0000" channel="130">
-    <title>ETPL 2026 HLs Dockers v Rockers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945225?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="130">
-    <title>Cricket Countdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="130">
-    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815915?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908140000 +0000" stop="20260908141500 +0000" channel="130">
-    <title>IDFC FIRST Bank 1st T20I HLTS IND v ENG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908141500 +0000" stop="20260908143000 +0000" channel="130">
-    <title>TATA IPL 2023 HIGHLIGHTS RCB v GT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908144500 +0000" channel="130">
-    <title>CPL 2026 HLs Warriors v Patriots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908144500 +0000" stop="20260908150000 +0000" channel="130">
-    <title>CPL 2026 HLs Tridents v Riders</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908150000 +0000" stop="20260908183000 +0000" channel="130">
     <title>Live US Open 2026</title>
     <desc />
@@ -1081,5 +1036,35 @@
     <title>Live ETPL 2026 Rockers v Flames</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909368?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913124500 +0000" stop="20260913150000 +0000" channel="130">
+    <title>Live ETPL 2026 Wolves v Cosmic</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946475?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913163000 +0000" channel="130">
+    <title>Live ETPL 2026 Wolves v Cosmic</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946475?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913163000 +0000" stop="20260913164500 +0000" channel="130">
+    <title>CPL 2026 HLs Tridents v Kingsmen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909368?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913164500 +0000" stop="20260913170000 +0000" channel="130">
+    <title>CPL 2026 HLs Warriors v Riders</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909368?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913173000 +0000" channel="130">
+    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913180000 +0000" channel="130">
+    <title>ICC CWC Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/880525?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

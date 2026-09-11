@@ -3,21 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260908083000 +0000" stop="20260908123000 +0000" channel="126">
-    <title>Live - Inter School U13 Basketball Championship 2026 - Finals - Day 02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908123000 +0000" stop="20260908143000 +0000" channel="126">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908143000 +0000" stop="20260908163000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908163000 +0000" stop="20260908183000 +0000" channel="126">
     <title>Repeat - Super League 2026</title>
     <desc />
@@ -307,5 +292,14 @@
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913131500 +0000" stop="20260913173000 +0000" channel="126">
+    <title>Live - Tamil Union C &amp; AC vs CCC - SF 1 - Major Clubs T20 Tournament 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260913173000 +0000" stop="20260913183000 +0000" channel="126">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

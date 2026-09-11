@@ -3,16 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260908103000 +0000" stop="20260908133000 +0000" channel="95">
-    <title>Adhu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908133000 +0000" stop="20260908170000 +0000" channel="95">
-    <title>Thalattu Padava</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908170000 +0000" stop="20260908200000 +0000" channel="95">
     <title>Aavarampoo</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Urumi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945678?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913133000 +0000" stop="20260913170000 +0000" channel="95">
+    <title>Thotti Jaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913200000 +0000" channel="95">
+    <title>Jee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945676?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

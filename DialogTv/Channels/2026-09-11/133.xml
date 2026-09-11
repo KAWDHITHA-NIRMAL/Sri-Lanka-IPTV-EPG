@@ -3,21 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260908110000 +0000" stop="20260908125500 +0000" channel="133">
-    <title>Back To The Future III</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944319?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908125500 +0000" stop="20260908150000 +0000" channel="133">
-    <title>Battleship</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908150000 +0000" stop="20260908163000 +0000" channel="133">
-    <title>Rambo: First Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908163000 +0000" stop="20260908183500 +0000" channel="133">
     <title>Cape Fear</title>
     <desc />
@@ -326,5 +311,19 @@
     <title>The Librarian: The Curse Of The Judas Chalice</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945386?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913125500 +0000" stop="20260913144000 +0000" channel="133">
+    <title>Assassin's Creed</title>
+    <desc />
+  </programme>
+  <programme start="20260913144000 +0000" stop="20260913164500 +0000" channel="133">
+    <title>Cape Fear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944324?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913164500 +0000" stop="20260913182000 +0000" channel="133">
+    <title>The Librarian: The Return To King Solomon's Mines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944947?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
