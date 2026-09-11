@@ -3,11 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="31">
-    <title>Australia's Wild Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/848816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="31">
     <title>Dr Karl'S How Things Work</title>
     <desc />
@@ -667,5 +662,10 @@
     <title>Landline</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/727998?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913193000 +0000" channel="31">
+    <title>Insiders</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724856?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="67">
-    <title>WWE's Greatest Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/203426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="67">
-    <title>AEW Revolution</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/746198?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908213000 +0000" channel="67">
     <title>Big Cricket League</title>
     <desc />
@@ -377,5 +367,10 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913203000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

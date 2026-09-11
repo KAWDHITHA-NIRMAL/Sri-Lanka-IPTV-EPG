@@ -3,21 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="70">
-    <title>IDFC FIRST Bank 1st ODI HLTS IND v ENG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/870804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908181500 +0000" channel="70">
-    <title>CPL 2026 HLs Warriors v Patriots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908181500 +0000" stop="20260908183000 +0000" channel="70">
-    <title>CPL 2026 HLs Tridents v Riders</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="70">
     <title>Australia v India T20I Series 2012 HLTS</title>
     <desc />
@@ -1483,5 +1468,20 @@
     <title>IDFC FIRST Bank IND v SA ODI 2025 HLs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/880071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913174500 +0000" stop="20260913180000 +0000" channel="70">
+    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="70">
+    <title>ICC CT 2025 Final Hlts IND v NZ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/904104?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="70">
+    <title>ICC World Cup Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946511?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="82">
     <display-name>Channel 89</display-name>
   </channel>
-  <programme start="20260908165400 +0000" stop="20260908182300 +0000" channel="82">
-    <title>Parks &amp; Recreation - Comedy Central</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908182300 +0000" stop="20260908183000 +0000" channel="82">
-    <title>73 Questions With Margot Robbie Vogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916078?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908183700 +0000" channel="82">
     <title>73 Questions With Michael Kors Vogue</title>
     <desc />
@@ -955,5 +945,15 @@
     <title>73 Questions With Liam Gallagher Vogue</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916110?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913174000 +0000" stop="20260913174900 +0000" channel="82">
+    <title>73 Questions With Phoebe Waller-Bridge Vogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913174900 +0000" stop="20260913193300 +0000" channel="82">
+    <title>All Is Bright (2013)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945669?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

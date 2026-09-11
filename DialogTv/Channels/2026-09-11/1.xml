@@ -3,11 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="1">
-    <title>Ru Naari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908193000 +0000" channel="1">
     <title>Channel One Highway</title>
     <desc />
@@ -652,5 +647,10 @@
     <title>Api Api Wage - Back To Back</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913193000 +0000" channel="1">
+    <title>Channel One Highway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

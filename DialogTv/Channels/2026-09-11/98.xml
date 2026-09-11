@@ -3,16 +3,6 @@
   <channel id="98">
     <display-name>Channel 105</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="98">
-    <title>Annamalai Kudumbam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="98">
-    <title>Idhayam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695877?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="98">
     <title>Vaagai Sooda Vaa</title>
     <desc />
@@ -1152,5 +1142,10 @@
     <title>Mahanadigai - Finale</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="98">
+    <title>Tamizha Tamizha S05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940290?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

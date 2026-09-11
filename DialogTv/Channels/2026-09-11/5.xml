@@ -3,11 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908183000 +0000" channel="5">
-    <title>Super Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908213000 +0000" channel="5">
     <title>Filler</title>
     <desc />
@@ -582,5 +577,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913213000 +0000" channel="5">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

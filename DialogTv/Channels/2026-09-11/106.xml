@@ -3,11 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="106">
-    <title>G6 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="106">
     <title>Program</title>
     <desc />
@@ -621,5 +616,10 @@
     <title>G 10  ICT</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913193000 +0000" channel="106">
+    <title>G 10 Islarm</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943685?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

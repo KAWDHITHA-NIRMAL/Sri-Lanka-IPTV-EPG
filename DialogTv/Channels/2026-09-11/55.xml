@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260908172800 +0000" stop="20260908182200 +0000" channel="55">
-    <title>Zambia Untamed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912917?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908182200 +0000" stop="20260908190800 +0000" channel="55">
     <title>Life Among Lions</title>
     <desc />
@@ -727,5 +722,10 @@
     <title>Wild Africa: Rivers Of Life</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/916003?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913182000 +0000" stop="20260913191200 +0000" channel="55">
+    <title>Survive The Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944787?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

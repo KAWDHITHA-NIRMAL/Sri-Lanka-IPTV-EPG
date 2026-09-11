@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="78">
-    <title>Knight Rider S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908190000 +0000" channel="78">
     <title>CSI S6</title>
     <desc />
@@ -732,5 +727,10 @@
     <title>Knight Rider S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="78">
+    <title>CSI S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943048?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

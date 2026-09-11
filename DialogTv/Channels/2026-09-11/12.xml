@@ -3,16 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="12">
-    <title>Me Saumya Rathree</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912910?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="12">
-    <title>New News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908235400 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -858,5 +848,15 @@
     <title>CNA On TV Supreme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/196984?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="12">
+    <title>New News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913235400 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

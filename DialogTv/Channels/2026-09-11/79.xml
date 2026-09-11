@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260908150600 +0000" stop="20260908180900 +0000" channel="79">
-    <title>Rajini The Jailer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945760?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180900 +0000" stop="20260908202400 +0000" channel="79">
     <title>Kabali</title>
     <desc />
@@ -237,6 +232,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260913153000 +0000" stop="20260913183000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913213000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />

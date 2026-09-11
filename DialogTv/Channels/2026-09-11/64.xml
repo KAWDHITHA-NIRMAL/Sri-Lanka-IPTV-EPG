@@ -3,11 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20260908143000 +0000" stop="20260908181500 +0000" channel="64">
-    <title>Live Bangladesh vs UAE: DP World Women's Asia Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908181500 +0000" stop="20260908190000 +0000" channel="64">
     <title>DP World Asia Cup 2025: Super 4 India vs Sri Lanka Highlights</title>
     <desc />
@@ -794,5 +789,10 @@
     <title>Live DP World Women's Asia Cup 2026 Final</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/880181?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913181500 +0000" stop="20260913191500 +0000" channel="64">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938498?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="28">
     <display-name>Channel 34</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="28">
-    <title>The Revival Train - Angus Buchan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62255?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="28">
-    <title>Courts of Heaven - Robert Henderson</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="28">
     <title>Therefore Go</title>
     <desc />
@@ -1127,5 +1117,10 @@
     <title>Gateway Conference - Robert Morris</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/63255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="28">
+    <title>Documentary - I Am Mark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63226?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

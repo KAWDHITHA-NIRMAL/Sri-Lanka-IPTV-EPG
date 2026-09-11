@@ -3,21 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="137">
-    <title>Inside America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768868?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908181500 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/84368?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908181500 +0000" stop="20260908183000 +0000" channel="137">
-    <title>Newsfeed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61687?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="137">
     <title>Strait Talk</title>
     <desc />
@@ -1177,5 +1162,15 @@
     <title>Money Talks</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/750589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="137">
+    <title>Across The Balkans</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/161776?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

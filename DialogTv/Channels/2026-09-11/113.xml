@@ -3,11 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20260908164500 +0000" stop="20260908174500 +0000" channel="113">
-    <title>Matlock S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908174500 +0000" stop="20260908184500 +0000" channel="113">
     <title>Shark Tank S16</title>
     <desc />
@@ -642,5 +637,10 @@
     <title>Matlock S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/874143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="113">
+    <title>The Killer Nanny: Did She Do It?</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943265?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

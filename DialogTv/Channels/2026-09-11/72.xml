@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20260908160000 +0000" stop="20260908180000 +0000" channel="72">
-    <title>Mulan Legend</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908200000 +0000" channel="72">
     <title>2036 Origin Unknown</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Atomic Blonde</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945322?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913200000 +0000" channel="72">
+    <title>Escape Of Shark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945323?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

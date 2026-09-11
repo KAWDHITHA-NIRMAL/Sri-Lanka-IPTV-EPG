@@ -3,11 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="131">
-    <title>Street Customs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884587?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908193000 +0000" channel="131">
     <title>Faster with Newbern and Cotten</title>
     <desc />
@@ -787,5 +782,10 @@
     <title>Street Customs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/884587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913193000 +0000" channel="131">
+    <title>Faster with Newbern and Cotten</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884342?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

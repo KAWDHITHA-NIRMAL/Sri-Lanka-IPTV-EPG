@@ -3,11 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908183000 +0000" channel="8">
-    <title>Satana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/848814?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908213000 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -697,5 +692,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913213000 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

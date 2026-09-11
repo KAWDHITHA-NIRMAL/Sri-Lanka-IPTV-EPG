@@ -3,11 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260908150000 +0000" stop="20260908183000 +0000" channel="121">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260909030000 +0000" channel="121">
     <title>Live US Open 2026</title>
     <desc />
@@ -1099,5 +1094,10 @@
     <title>Premier League Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946440?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913210000 +0000" channel="121">
+    <title>Live US Open 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

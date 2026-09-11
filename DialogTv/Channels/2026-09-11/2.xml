@@ -3,11 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908175800 +0000" channel="2">
-    <title>Musical Programme - Filler Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685996?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908175800 +0000" stop="20260909000100 +0000" channel="2">
     <title>End Of Transmission</title>
     <desc />
@@ -937,5 +932,15 @@
     <title>Piyum Neela Wila</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/802366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913181300 +0000" channel="2">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913181300 +0000" stop="20260914000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

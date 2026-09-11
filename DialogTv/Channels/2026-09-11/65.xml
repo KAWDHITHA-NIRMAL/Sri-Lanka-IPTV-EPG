@@ -3,16 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20260908143000 +0000" stop="20260908181500 +0000" channel="65">
-    <title>Live Bangladesh vs UAE DP World Women's Asia Cup</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908181500 +0000" stop="20260908183000 +0000" channel="65">
-    <title>Snippet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="65">
     <title>DP World Women's Asia Cup 2026 - India vs Hong Kong Highlights</title>
     <desc />
@@ -682,5 +672,15 @@
     <title>Live DP World Women's Asia Cup Final</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/776083?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913181500 +0000" stop="20260913183000 +0000" channel="65">
+    <title>Snippet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="65">
+    <title>DP World Women's Asia Cup 2026 -India vs Pakistan Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943876?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

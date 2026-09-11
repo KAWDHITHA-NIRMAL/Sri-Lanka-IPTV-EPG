@@ -3,16 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="32">
     <title>The World Today With Maryam Moshiri</title>
     <desc />
@@ -1257,5 +1247,15 @@
     <title>Talking Business</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/76074?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/56839?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="32">
+    <title>The Climate Question</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884451?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

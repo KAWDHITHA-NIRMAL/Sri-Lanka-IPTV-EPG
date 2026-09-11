@@ -3,16 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260908170900 +0000" stop="20260908175400 +0000" channel="59">
-    <title>Lost Treasures Of Egypt</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945257?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908175400 +0000" stop="20260908183000 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="59">
     <title>Destruction Decoded</title>
     <desc />
@@ -837,5 +827,10 @@
     <title>Titanic Special: 25 Years Later With James Cameron</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946605?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913174700 +0000" stop="20260913184400 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/680430?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

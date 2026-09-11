@@ -3,11 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260908163000 +0000" stop="20260908183000 +0000" channel="15">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908203000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -537,5 +532,10 @@
     <title>Old Is Gold</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/776184?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

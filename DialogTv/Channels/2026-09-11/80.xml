@@ -3,16 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="80">
-    <title>Lingerie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908180000 +0000" stop="20260908183000 +0000" channel="80">
-    <title>Swimwear</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34089?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="80">
     <title>Swimwear</title>
     <desc />
@@ -1207,5 +1197,15 @@
     <title>Lingerie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="80">
+    <title>Swimwear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="80">
+    <title>Swimwear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34089?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

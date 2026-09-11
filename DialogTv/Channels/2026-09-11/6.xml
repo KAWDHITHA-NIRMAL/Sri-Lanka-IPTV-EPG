@@ -3,11 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260908171000 +0000" stop="20260908183000 +0000" channel="6">
-    <title>Vaada Pitiya Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908213000 +0000" channel="6">
     <title>Filler</title>
     <desc />
@@ -567,5 +562,10 @@
     <title>Teen Star S01 Grand Finale Final Event</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942184?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913203000 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

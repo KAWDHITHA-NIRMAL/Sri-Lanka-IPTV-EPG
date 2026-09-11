@@ -3,11 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908190000 +0000" channel="38">
     <title>Bloomberg Businessweek Daily</title>
     <desc />
@@ -697,5 +692,15 @@
     <title>Bloomberg Wall Street Week</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/760067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="38">
+    <title>Leaders with Lacqua</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="38">
+    <title>Leaders with Lacqua</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761398?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

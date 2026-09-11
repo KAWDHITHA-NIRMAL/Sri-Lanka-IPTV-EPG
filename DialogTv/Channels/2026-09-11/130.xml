@@ -3,11 +3,6 @@
   <channel id="130">
     <display-name>Channel 2382</display-name>
   </channel>
-  <programme start="20260908150000 +0000" stop="20260908183000 +0000" channel="130">
-    <title>Live US Open 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908223000 +0000" channel="130">
     <title>Live US Open 2026</title>
     <desc />
@@ -1066,5 +1061,15 @@
     <title>ICC CWC Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/880525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="130">
+    <title>ICC Cricket World Cup 2011 Hlts.</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874126?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913204500 +0000" channel="130">
+    <title>Live Ligue1 2026-27 BRE v PSG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909368?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

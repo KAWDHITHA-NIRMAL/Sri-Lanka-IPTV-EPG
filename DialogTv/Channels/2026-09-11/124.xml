@@ -3,11 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908183000 +0000" channel="124">
-    <title>Sri Lanka vs India 2026 2nd Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908190000 +0000" channel="124">
     <title>England(W) vs India(W) 2025 3rd ODI Highlights</title>
     <desc />
@@ -527,5 +522,9 @@
     <title>Live Extraaa Innings</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="124">
+    <title>ACC Women's Asia Cup 2026 Highlights - Semi-Final 2</title>
+    <desc />
   </programme>
 </tv>

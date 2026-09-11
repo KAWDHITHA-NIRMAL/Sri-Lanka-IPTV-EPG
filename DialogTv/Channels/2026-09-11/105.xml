@@ -3,11 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="105">
-    <title>G 10 Entrepreneurship</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908190000 +0000" channel="105">
     <title>G 11 Science</title>
     <desc />
@@ -702,5 +697,10 @@
     <title>G 11 English</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/36098?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="105">
+    <title>G 11 Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33933?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

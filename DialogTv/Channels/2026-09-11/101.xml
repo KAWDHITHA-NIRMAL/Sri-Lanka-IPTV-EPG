@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260908160100 +0000" stop="20260908181500 +0000" channel="101">
-    <title>Madhura Raja</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940402?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260908181500 +0000" stop="20260908183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908183000 +0000" stop="20260908185900 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -292,5 +282,10 @@
     <title>Savarakathi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943267?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913183000 +0000" stop="20260913190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

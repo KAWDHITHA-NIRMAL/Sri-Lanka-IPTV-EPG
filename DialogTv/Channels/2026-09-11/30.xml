@@ -3,11 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20260908173000 +0000" stop="20260908180000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61952?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908190000 +0000" channel="30">
     <title>Newshour</title>
     <desc />
@@ -957,5 +952,10 @@
     <title>Inside Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61952?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61957?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

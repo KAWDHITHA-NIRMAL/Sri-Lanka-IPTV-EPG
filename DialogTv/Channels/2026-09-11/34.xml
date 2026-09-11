@@ -3,11 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260908170000 +0000" stop="20260908180000 +0000" channel="34">
-    <title>Amanpour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709212?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260908180000 +0000" stop="20260908190000 +0000" channel="34">
     <title>Isa Soares Tonight</title>
     <desc />
@@ -567,5 +562,10 @@
     <title>World Sport</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="34">
+    <title>Cnn Newsroom Sunday</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
