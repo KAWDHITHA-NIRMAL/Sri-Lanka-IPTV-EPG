@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260911090000 +0000" stop="20260911120000 +0000" channel="92">
-    <title>Judaai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945124?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911120000 +0000" stop="20260911150000 +0000" channel="92">
-    <title>Jawan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911150000 +0000" stop="20260911180000 +0000" channel="92">
-    <title>Singh Is King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911180000 +0000" stop="20260911210000 +0000" channel="92">
     <title>Hum Aapke Hain Koun</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Karan Arjun</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916120000 +0000" stop="20260916150000 +0000" channel="92">
+    <title>Bheed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946259?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916150000 +0000" stop="20260916180000 +0000" channel="92">
+    <title>Aatma Feel it Around You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916180000 +0000" stop="20260916210000 +0000" channel="92">
+    <title>Kites</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945860?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

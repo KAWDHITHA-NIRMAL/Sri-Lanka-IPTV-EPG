@@ -3,26 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260911103000 +0000" stop="20260911130000 +0000" channel="101">
-    <title>Cold Case</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945118?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911160600 +0000" channel="101">
-    <title>Bhagavanth Kesari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911160600 +0000" stop="20260911181800 +0000" channel="101">
-    <title>Madha Yaanai Koottam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943484?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911181800 +0000" stop="20260911183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911183000 +0000" stop="20260911190000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -281,5 +261,20 @@
     <title>Bimbisara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916130000 +0000" stop="20260916160000 +0000" channel="101">
+    <title>Virupaksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916160000 +0000" stop="20260916183000 +0000" channel="101">
+    <title>Bhola Shankar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944844?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916183000 +0000" stop="20260916190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

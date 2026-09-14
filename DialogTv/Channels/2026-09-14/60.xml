@@ -3,51 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260911103100 +0000" stop="20260911111600 +0000" channel="60">
-    <title>Cobra Mafia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911111600 +0000" stop="20260911120200 +0000" channel="60">
-    <title>Africa's Deadliest S6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911120200 +0000" stop="20260911124500 +0000" channel="60">
-    <title>Sri Lanka: Leopard Dynasty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911124500 +0000" stop="20260911133100 +0000" channel="60">
-    <title>Relentless Enemies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748324?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911133100 +0000" stop="20260911142900 +0000" channel="60">
-    <title>Wild Botswana: Lion Brotherhood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/729608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911142900 +0000" stop="20260911152500 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911152500 +0000" stop="20260911161100 +0000" channel="60">
-    <title>Lawless Jungle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911161100 +0000" stop="20260911165800 +0000" channel="60">
-    <title>Lion Battle Zone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761038?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911165800 +0000" stop="20260911174900 +0000" channel="60">
-    <title>Braveheart: The Leopardess</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/763449?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911174900 +0000" stop="20260911183500 +0000" channel="60">
     <title>Thailand's Wild Cats</title>
     <desc />
@@ -797,5 +752,55 @@
     <title>The Pack</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916112000 +0000" stop="20260916120500 +0000" channel="60">
+    <title>Eye Of The Leopard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255011?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916120500 +0000" stop="20260916125200 +0000" channel="60">
+    <title>Leopard Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916125200 +0000" stop="20260916133900 +0000" channel="60">
+    <title>Big Cat Odyssey</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916133900 +0000" stop="20260916143000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916143000 +0000" stop="20260916151600 +0000" channel="60">
+    <title>House Of Predators</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916151600 +0000" stop="20260916160000 +0000" channel="60">
+    <title>Lion Brothers: Cubs To Kings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916160000 +0000" stop="20260916164800 +0000" channel="60">
+    <title>Leopard &amp; Hyena: Strange Alliance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916164800 +0000" stop="20260916173400 +0000" channel="60">
+    <title>King Of The Mountain Baboon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738822?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916173400 +0000" stop="20260916181900 +0000" channel="60">
+    <title>Predator V Prey</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/746463?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916181900 +0000" stop="20260916185300 +0000" channel="60">
+    <title>Braveheart: The Leopardess</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/763449?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

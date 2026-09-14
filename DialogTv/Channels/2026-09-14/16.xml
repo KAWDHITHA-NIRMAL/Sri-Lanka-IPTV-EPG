@@ -3,66 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="16">
-    <title>Peni Rasa Janapada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50448?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911110000 +0000" stop="20260911113000 +0000" channel="16">
-    <title>Waga Perahuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911113000 +0000" stop="20260911123000 +0000" channel="16">
-    <title>Amayuru Budu Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911123000 +0000" stop="20260911130000 +0000" channel="16">
-    <title>Dp Kids</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911133000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911133000 +0000" stop="20260911150000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911150000 +0000" stop="20260911153000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911153000 +0000" stop="20260911163000 +0000" channel="16">
-    <title>Jeewithartha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33552?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911163000 +0000" stop="20260911170000 +0000" channel="16">
-    <title>Wewaka Mahima</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52141?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911170000 +0000" stop="20260911173000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911173000 +0000" stop="20260911180000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911180000 +0000" stop="20260911183000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911183000 +0000" stop="20260911233000 +0000" channel="16">
     <title>Pirith</title>
     <desc />
@@ -782,5 +722,65 @@
     <title>Jeewithartha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916110000 +0000" stop="20260916113000 +0000" channel="16">
+    <title>Dp Kids</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916113000 +0000" stop="20260916123000 +0000" channel="16">
+    <title>Amayuru Budu Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916123000 +0000" stop="20260916130000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916130000 +0000" stop="20260916133000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916133000 +0000" stop="20260916150000 +0000" channel="16">
+    <title>Dp Education Haritha Taksalawa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916150000 +0000" stop="20260916153000 +0000" channel="16">
+    <title>A Park</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916153000 +0000" stop="20260916160000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916160000 +0000" stop="20260916163000 +0000" channel="16">
+    <title>Kingdom of Animal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50878?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916163000 +0000" stop="20260916173000 +0000" channel="16">
+    <title>A Park</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916173000 +0000" stop="20260916180000 +0000" channel="16">
+    <title>Hela Wedaduru Watha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916180000 +0000" stop="20260916183000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916183000 +0000" stop="20260916233000 +0000" channel="16">
+    <title>Lions Quest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34638?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

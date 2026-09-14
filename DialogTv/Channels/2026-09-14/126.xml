@@ -3,26 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260911083000 +0000" stop="20260911123000 +0000" channel="126">
-    <title>Live - Royal College vs S. Thoms' College - Final- Under17 Division1CricketTournament2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946561?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911123000 +0000" stop="20260911143000 +0000" channel="126">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911143000 +0000" stop="20260911163000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911163000 +0000" stop="20260911183000 +0000" channel="126">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911183000 +0000" stop="20260911203000 +0000" channel="126">
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
@@ -287,5 +267,30 @@
     <title>Repeat - Davis cup Asia/Oceania Group IV 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916113000 +0000" stop="20260916123000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916123000 +0000" stop="20260916143000 +0000" channel="126">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916143000 +0000" stop="20260916163000 +0000" channel="126">
+    <title>Highlights - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916163000 +0000" stop="20260916183000 +0000" channel="126">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916183000 +0000" stop="20260916203000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

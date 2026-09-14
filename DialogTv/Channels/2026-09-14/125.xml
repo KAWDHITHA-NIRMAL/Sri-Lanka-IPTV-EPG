@@ -3,51 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260911094500 +0000" stop="20260911120000 +0000" channel="125">
-    <title>LIVE NRL Rabbitohs v Knights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946349?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911120000 +0000" stop="20260911123000 +0000" channel="125">
-    <title>Top 14 Highlights Round 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911123000 +0000" stop="20260911142000 +0000" channel="125">
-    <title>Super League Leigh v St Helens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943491?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911142000 +0000" stop="20260911144000 +0000" channel="125">
-    <title>AFL Highlights Fremantle v Hawthorn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946347?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911144000 +0000" stop="20260911150000 +0000" channel="125">
-    <title>AFL Highlights Geelong v Carlton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946348?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911150000 +0000" stop="20260911152000 +0000" channel="125">
-    <title>AFL Highlights Sydney v Brisbane</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911152000 +0000" stop="20260911154000 +0000" channel="125">
-    <title>AFL Highlights Adelaide v Bulldogs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911154000 +0000" stop="20260911173000 +0000" channel="125">
-    <title>NRL Rabbitohs v Knights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946350?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911173000 +0000" stop="20260911183000 +0000" channel="125">
-    <title>NRL Try Time NRL Try Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911183000 +0000" stop="20260911211500 +0000" channel="125">
     <title>LIVE Super League Leeds v Hull FC</title>
     <desc />
@@ -587,5 +542,30 @@
     <title>NRL Sharks v Cowboys</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916105000 +0000" stop="20260916124000 +0000" channel="125">
+    <title>NRL Panthers v Roosters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946356?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916124000 +0000" stop="20260916143000 +0000" channel="125">
+    <title>Rugby's Greatest Rivalry South Africa v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916143000 +0000" stop="20260916153000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916153000 +0000" stop="20260916172000 +0000" channel="125">
+    <title>Super League Leeds v Hull FC</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946358?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916172000 +0000" stop="20260916191000 +0000" channel="125">
+    <title>Super League Wigan v Catalans</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

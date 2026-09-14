@@ -3,26 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260911094000 +0000" stop="20260911112000 +0000" channel="133">
-    <title>The Big Boss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945244?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911112000 +0000" stop="20260911125500 +0000" channel="133">
-    <title>Kill Cruise</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911125500 +0000" stop="20260911152000 +0000" channel="133">
-    <title>A Time To Kill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944289?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911152000 +0000" stop="20260911171000 +0000" channel="133">
-    <title>Kindergarten Cop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911171000 +0000" stop="20260911190000 +0000" channel="133">
     <title>The Librarian: The Quest For The Spear</title>
     <desc />
@@ -334,5 +314,25 @@
     <title>The Curse Of King Tut's Tomb Part 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916112000 +0000" stop="20260916125500 +0000" channel="133">
+    <title>The Librarian: The Return To King Solomon's Mines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916125500 +0000" stop="20260916144500 +0000" channel="133">
+    <title>The Librarian: The Quest For The Spear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916144500 +0000" stop="20260916162500 +0000" channel="133">
+    <title>Doomsday</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916162500 +0000" stop="20260916190000 +0000" channel="133">
+    <title>Shout At The Devil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944459?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

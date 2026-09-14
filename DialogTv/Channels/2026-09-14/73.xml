@@ -3,26 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260911100000 +0000" stop="20260911120000 +0000" channel="73">
-    <title>The Secret Of NIMH</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911120000 +0000" stop="20260911143000 +0000" channel="73">
-    <title>Sherlock Holmes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945178?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911143000 +0000" stop="20260911163000 +0000" channel="73">
-    <title>Practical Magic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944256?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260911163000 +0000" stop="20260911183000 +0000" channel="73">
-    <title>The Secret Of NIMH</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260911183000 +0000" stop="20260911210000 +0000" channel="73">
     <title>Sherlock Holmes</title>
     <desc />
@@ -279,5 +259,20 @@
     <title>The Matrix Reloaded</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946016?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916120000 +0000" stop="20260916141500 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946954?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916141500 +0000" stop="20260916164500 +0000" channel="73">
+    <title>Terms Of Endearment</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260916164500 +0000" stop="20260916184500 +0000" channel="73">
+    <title>The Scorpion King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941380?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
