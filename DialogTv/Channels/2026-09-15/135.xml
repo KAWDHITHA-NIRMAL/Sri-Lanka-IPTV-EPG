@@ -3,16 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912173000 +0000" channel="135">
-    <title>In Mezz'Ora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="135">
-    <title>Il Settimanale</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/441503?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912184500 +0000" channel="135">
     <title>L'Eredita Speciale Airc</title>
     <desc />
@@ -697,5 +687,15 @@
     <title>Vita In Diretta</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917181500 +0000" channel="135">
+    <title>Reazione A Catena</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816608?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181500 +0000" stop="20260917184500 +0000" channel="135">
+    <title>TG1 Ore 20.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

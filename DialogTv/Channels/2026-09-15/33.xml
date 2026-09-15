@@ -3,36 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="33">
-    <title>Inheritors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34251?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33330?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="33">
-    <title>The Agenda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37677?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="33">
-    <title>Talk Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36283?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="33">
-    <title>Sports Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="33">
     <title>Biz Talk</title>
     <desc />
@@ -1137,5 +1107,20 @@
     <title>The Vibe</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917180000 +0000" channel="33">
+    <title>Africa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35622?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917190000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

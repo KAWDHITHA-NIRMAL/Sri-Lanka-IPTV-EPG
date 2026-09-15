@@ -3,16 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912163000 +0000" channel="1">
-    <title>Abhidharmaye Mulika Siddhantha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912183000 +0000" channel="1">
-    <title>Me Wasantha Kalayai - Back To Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943364?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912193000 +0000" channel="1">
     <title>Channel One Highway</title>
     <desc />
@@ -662,5 +652,25 @@
     <title>Adhichiththa Sikka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/939159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="1">
+    <title>Suwa Arana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/107123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="1">
+    <title>Hitha Langa Doc 990</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/684777?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="1">
+    <title>World Wide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917193000 +0000" channel="1">
+    <title>Channel One Highway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

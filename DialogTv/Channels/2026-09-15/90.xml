@@ -3,11 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260912140000 +0000" stop="20260912170000 +0000" channel="90">
-    <title>Laila</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912200000 +0000" channel="90">
     <title>Market Raja MBBS</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Krishna Arjun</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946530?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917200000 +0000" channel="90">
+    <title>Ranbanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946531?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

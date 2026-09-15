@@ -3,26 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260912144500 +0000" stop="20260912160000 +0000" channel="31">
-    <title>The World This Week</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/716683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="31">
-    <title>Asia News Week</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/716550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912171500 +0000" channel="31">
-    <title>Ambulance Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912171500 +0000" stop="20260912180500 +0000" channel="31">
-    <title>End Game with Tony Armstrong</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180500 +0000" stop="20260912190000 +0000" channel="31">
     <title>Annabel Crabb's Civic Duty</title>
     <desc />
@@ -767,5 +747,15 @@
     <title>The World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917162500 +0000" stop="20260917173000 +0000" channel="31">
+    <title>Cross Border Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183500 +0000" channel="31">
+    <title>National Press Club Address</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/726661?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

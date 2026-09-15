@@ -3,11 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260912153500 +0000" stop="20260912170500 +0000" channel="117">
-    <title>Fist Fight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945368?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170500 +0000" stop="20260912184500 +0000" channel="117">
     <title>Horrible Bosses</title>
     <desc />
@@ -367,5 +362,15 @@
     <title>Downsizing</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946293?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161500 +0000" stop="20260917175000 +0000" channel="117">
+    <title>Drop</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917175000 +0000" stop="20260917201000 +0000" channel="117">
+    <title>Shutter Island</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941408?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="4">
-    <title>Sanwaraya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871734?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="4">
-    <title>NLB Lottery Draw</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187505?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="4">
-    <title>News &amp; Current Affairs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="4">
     <title>The Conjuring</title>
     <desc />
@@ -954,5 +939,25 @@
     <title>Meesha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="4">
+    <title>NLB Lottery Draw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="4">
+    <title>News &amp; Current Affairs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917183000 +0000" channel="4">
+    <title>Karaliya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942977?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917183600 +0000" channel="4">
+    <title>Jaya Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187559?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

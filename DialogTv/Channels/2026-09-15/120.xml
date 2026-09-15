@@ -3,11 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="120">
-    <title>IDFC FIRST Bank IND v AFG 3rd T20I HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942936?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="120">
     <title>Live US Open 2026</title>
     <desc />
@@ -1435,5 +1430,20 @@
     <title>Live IDFC FIRST Bank IND v AFG 3rd T20I</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917181500 +0000" channel="120">
+    <title>ETPL 2026 HLs Cosmic v Flames</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181500 +0000" stop="20260917183000 +0000" channel="120">
+    <title>ETPL 2026 HLs Wolves v Cosmic</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="120">
+    <title>2013 ICC Champions Trophy - Hlts</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874128?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

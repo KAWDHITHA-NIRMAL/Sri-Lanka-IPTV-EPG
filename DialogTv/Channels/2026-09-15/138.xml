@@ -3,26 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20260912145400 +0000" stop="20260912165400 +0000" channel="138">
-    <title>Meri Aashuiqi Tumse Hi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912165400 +0000" stop="20260912172000 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912172000 +0000" stop="20260912174500 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912174500 +0000" stop="20260912181300 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912181300 +0000" stop="20260912195100 +0000" channel="138">
     <title>Meri Aashuiqi Tumse Hi</title>
     <desc />
@@ -906,5 +886,10 @@
     <title>Parineetii</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/698946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173300 +0000" stop="20260917183100 +0000" channel="138">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818003?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

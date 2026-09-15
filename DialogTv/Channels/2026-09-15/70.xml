@@ -3,21 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20260912134500 +0000" stop="20260912160000 +0000" channel="70">
-    <title>Live PL 2026-27 Liverpool v Fulham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946597?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912161500 +0000" channel="70">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943200?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912161500 +0000" stop="20260912183000 +0000" channel="70">
-    <title>Live PL 2026-27 Tottenham Hotspur v Everton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912194500 +0000" channel="70">
     <title>Live WCPL 2026 Trinbago Women v Empress Women</title>
     <desc />
@@ -1344,5 +1329,19 @@
     <title>PL Stories</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/190344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="70">
+    <title>CPL 2026 HLs Tridents v Warriors</title>
+    <desc />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="70">
+    <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874594?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917214500 +0000" channel="70">
+    <title>ICC Men's ODI WC 2023 hlts. SA v AUS</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940799?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

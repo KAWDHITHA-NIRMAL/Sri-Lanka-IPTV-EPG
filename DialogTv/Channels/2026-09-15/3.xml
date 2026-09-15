@@ -3,31 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20260912140000 +0000" stop="20260912160000 +0000" channel="3">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912163300 +0000" channel="3">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163300 +0000" stop="20260912173600 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173600 +0000" stop="20260912183000 +0000" channel="3">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260913002900 +0000" channel="3">
     <title>End Of Transmission</title>
     <desc />
@@ -722,5 +697,20 @@
     <title>Sugamana Ragangal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/739617?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163300 +0000" channel="3">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163300 +0000" stop="20260917173600 +0000" channel="3">
+    <title>Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173600 +0000" stop="20260918002900 +0000" channel="3">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

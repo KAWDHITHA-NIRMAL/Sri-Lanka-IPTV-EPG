@@ -3,21 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912163000 +0000" channel="9">
-    <title>Weekend Night Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762457?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="9">
-    <title>News 1st Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="9">
-    <title>Weekend Night Movie Cont</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762458?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912235900 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
@@ -692,5 +677,25 @@
     <title>Lakshmi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/52099?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="9">
+    <title>Annam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="9">
+    <title>News 1st Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/708843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917180000 +0000" channel="9">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/790430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917235900 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

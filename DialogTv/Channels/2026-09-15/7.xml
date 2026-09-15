@@ -3,21 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="7">
-    <title>Natath Ayek Sura Mathin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909129?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="7">
-    <title>Sith Athara Histhen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909130?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912183000 +0000" channel="7">
-    <title>Saga Xii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912191000 +0000" channel="7">
     <title>Swarnavahini News</title>
     <desc />
@@ -807,5 +792,35 @@
     <title>Aluth Sir</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="7">
+    <title>Jahuta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="7">
+    <title>Rathu Ira</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="7">
+    <title>Rathu Ira</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="7">
+    <title>Rathu Ira</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="7">
+    <title>Rathu Ira</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945953?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

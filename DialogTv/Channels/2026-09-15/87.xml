@@ -3,11 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260912142000 +0000" stop="20260912170000 +0000" channel="87">
-    <title>Bhagam Bhag</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912194500 +0000" channel="87">
     <title>Rab Ne Bana Di Jodi</title>
     <desc />
@@ -267,5 +262,10 @@
     <title>Yamla Pagla Deewana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917200000 +0000" channel="87">
+    <title>Rocky Aur Rani Kii Prem Kahaani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

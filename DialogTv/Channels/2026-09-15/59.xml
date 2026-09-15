@@ -3,21 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260912152600 +0000" stop="20260912161400 +0000" channel="59">
-    <title>Primal Survivor: Mighty Mekong</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/143430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912161400 +0000" stop="20260912170200 +0000" channel="59">
-    <title>Destruction Decoded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170200 +0000" stop="20260912174700 +0000" channel="59">
-    <title>Titanic Special: 25 Years Later With James Cameron</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912174700 +0000" stop="20260912183300 +0000" channel="59">
     <title>Air Crash Investigation</title>
     <desc />
@@ -851,5 +836,25 @@
     <title>Primal Survivor</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/152720?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="59">
+    <title>Primal Survivor: Over The Andes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="59">
+    <title>Airport Security Madrid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874890?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="59">
+    <title>To Catch A Smuggler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="59">
+    <title>To Catch A Smuggler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152761?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

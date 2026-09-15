@@ -3,11 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20260912134500 +0000" stop="20260912160000 +0000" channel="122">
-    <title>Live PL 2026-27 Chelsea v Hull City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946757?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="122">
     <title>Live US Open 2026</title>
     <desc />
@@ -1183,5 +1178,39 @@
     <title>Live ETPL 2026 Dockers v Guardians</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="122">
+    <title>PL Classic Man City v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917171500 +0000" channel="122">
+    <title>PL Highlights Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917171500 +0000" stop="20260917173000 +0000" channel="122">
+    <title>PL Highlights Man City v Coventry City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945232?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/880724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917181500 +0000" channel="122">
+    <title>CPL 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181500 +0000" stop="20260917183000 +0000" channel="122">
+    <title>PL Highlights Arsenal v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="122">
+    <title>Program</title>
+    <desc />
   </programme>
 </tv>

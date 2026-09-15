@@ -3,26 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="39">
-    <title>American Greed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/694888?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="39">
-    <title>Late Night with Seth Meyers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="39">
-    <title>Late Night with Seth Meyers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="39">
-    <title>The Tech Download</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="39">
     <title>CNBC Sport: On The Record</title>
     <desc />
@@ -1092,5 +1072,35 @@
     <title>Squawk on the Street</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="39">
+    <title>Halftime Report</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="39">
+    <title>Halftime Report</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="39">
+    <title>The Exchange</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="39">
+    <title>The Exchange</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

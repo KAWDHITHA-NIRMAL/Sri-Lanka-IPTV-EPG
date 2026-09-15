@@ -3,16 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912161500 +0000" stop="20260912170000 +0000" channel="10">
-    <title>Legends Of Music</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34304?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260913005900 +0000" channel="10">
     <title>End Of Transmission</title>
     <desc />
@@ -547,5 +537,15 @@
     <title>News 1st</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161500 +0000" stop="20260917170000 +0000" channel="10">
+    <title>Legends Of Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34304?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260918005900 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

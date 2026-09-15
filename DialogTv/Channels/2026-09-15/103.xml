@@ -3,21 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="103">
-    <title>G6 Hpe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942612?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="103">
-    <title>G6 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="103">
-    <title>G7 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="103">
     <title>G8 Mathematics</title>
     <desc />
@@ -687,5 +672,20 @@
     <title>G9 English</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62780?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="103">
+    <title>G9 Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917180000 +0000" channel="103">
+    <title>G6 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917190000 +0000" channel="103">
+    <title>G7 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33509?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

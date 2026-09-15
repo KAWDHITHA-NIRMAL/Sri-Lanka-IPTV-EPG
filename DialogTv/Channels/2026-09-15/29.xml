@@ -3,26 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="29">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802016?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="29">
-    <title>Gayamin Pasasamu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912173000 +0000" channel="29">
-    <title>Holy Mass - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/755030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912183000 +0000" channel="29">
-    <title>Holy Rosary - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912193000 +0000" channel="29">
     <title>Eucharistic Adoration-English</title>
     <desc />
@@ -862,5 +842,25 @@
     <title>Piyasatahan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946881?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="29">
+    <title>Balaporoththuwe Arunalla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946882?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="29">
+    <title>Holy Mass - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="29">
+    <title>Holy Hour - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917193000 +0000" channel="29">
+    <title>Eucharistic Adoration-English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

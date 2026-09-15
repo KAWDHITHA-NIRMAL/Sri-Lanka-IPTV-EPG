@@ -3,11 +3,6 @@
   <channel id="51">
     <display-name>Channel 57</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912173000 +0000" channel="51">
-    <title>The Lion Guard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/697389?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912173000 +0000" stop="20260912213000 +0000" channel="51">
     <title>Lion Guard</title>
     <desc />
@@ -312,5 +307,10 @@
     <title>The Lion Guard</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/697389?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917213000 +0000" channel="51">
+    <title>Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/157816?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

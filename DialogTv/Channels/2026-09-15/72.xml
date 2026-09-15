@@ -3,16 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20260912140000 +0000" stop="20260912160000 +0000" channel="72">
-    <title>Escape Of Shark</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945323?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912180000 +0000" channel="72">
-    <title>Black Knight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945160?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912200000 +0000" channel="72">
     <title>47 Meters Down Uncaged</title>
     <desc />
@@ -307,5 +297,15 @@
     <title>Noah</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946504?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917180000 +0000" channel="72">
+    <title>Unconscious Aka Amnesiac</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946212?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917200000 +0000" channel="72">
+    <title>Crocodile Island</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946213?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912170000 +0000" channel="27">
-    <title>Special Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="27">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/769599?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="27">
     <title>Sathyakriyawa</title>
     <desc />
@@ -612,5 +597,20 @@
     <title>Milinda Prashnaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/780329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917173000 +0000" channel="27">
+    <title>Special Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33666?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34424?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

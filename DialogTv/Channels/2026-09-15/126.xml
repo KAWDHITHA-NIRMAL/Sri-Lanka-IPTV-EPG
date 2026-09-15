@@ -3,16 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912163000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912183000 +0000" channel="126">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912203000 +0000" channel="126">
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
@@ -280,5 +270,19 @@
   <programme start="20260917153000 +0000" stop="20260917170000 +0000" channel="126">
     <title>Repeat - Lemonade Sixes 2026</title>
     <desc />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917180000 +0000" channel="126">
+    <title>Highlights -  Inter School U13 Basketball Championship 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917203000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

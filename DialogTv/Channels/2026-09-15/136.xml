@@ -3,20 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912163000 +0000" channel="136">
-    <title>Betes De Flic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945722?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912165600 +0000" channel="136">
-    <title>A L'Ecole Des Vetos</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/879701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912165600 +0000" stop="20260912182300 +0000" channel="136">
-    <title>Colombine</title>
-    <desc />
-  </programme>
   <programme start="20260912182300 +0000" stop="20260912184000 +0000" channel="136">
     <title>Vous, Les Vivants</title>
     <desc />
@@ -1122,5 +1108,15 @@
     <title>Pieges</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944556?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917162500 +0000" stop="20260917170100 +0000" channel="136">
+    <title>Betes De Film</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170100 +0000" stop="20260917185100 +0000" channel="136">
+    <title>Ugolin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

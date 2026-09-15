@@ -3,21 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="34">
-    <title>The Amanpour Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/739563?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="34">
-    <title>Cnn Newsroom Saturday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="34">
     <title>Cnn Newsroom Saturday</title>
     <desc />
@@ -587,5 +572,9 @@
     <title>One World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="34">
+    <title>Program</title>
+    <desc />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20260912154500 +0000" stop="20260912160000 +0000" channel="23">
-    <title>Ven. Neethiyagama Chandima Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35033?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912180000 +0000" channel="23">
-    <title>Homagama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34403?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912213000 +0000" channel="23">
     <title>Dayakathawa Anumodana</title>
     <desc />
@@ -622,5 +607,20 @@
     <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163500 +0000" channel="23">
+    <title>Borella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163500 +0000" stop="20260917173000 +0000" channel="23">
+    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917184000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34913?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

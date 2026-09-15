@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260912143000 +0000" stop="20260912173000 +0000" channel="19">
-    <title>Sada Ahasata Adarei</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945384?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912173000 +0000" stop="20260912203000 +0000" channel="19">
     <title>Yakada Doli</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Sada Ahasata Adarei</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945384?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917203000 +0000" channel="19">
+    <title>Yaya 04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946204?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260912154900 +0000" stop="20260912163700 +0000" channel="60">
-    <title>Secrets Of The Penguins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163700 +0000" stop="20260912172400 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/187494?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912172400 +0000" stop="20260912181000 +0000" channel="60">
-    <title>Lion Brothers: Cubs To Kings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709258?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912181000 +0000" stop="20260912185500 +0000" channel="60">
     <title>Thailand's Wild Cats</title>
     <desc />
@@ -787,5 +772,25 @@
     <title>Lawless Jungle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915880?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161200 +0000" stop="20260917165800 +0000" channel="60">
+    <title>Jade Eyed Leopard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916693?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917165800 +0000" stop="20260917174300 +0000" channel="60">
+    <title>Africa's Deadliest S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946898?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917174300 +0000" stop="20260917183000 +0000" channel="60">
+    <title>The Way Of The Cheetah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255016?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917191400 +0000" channel="60">
+    <title>Katavi: Africa's Fallen Paradise</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683195?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

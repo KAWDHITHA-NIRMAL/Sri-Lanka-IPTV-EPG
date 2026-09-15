@@ -3,26 +3,6 @@
   <channel id="143">
     <display-name>Channel 2380</display-name>
   </channel>
-  <programme start="20260912144500 +0000" stop="20260912164500 +0000" channel="143">
-    <title>Live England vs Pakistan 3rd Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912164500 +0000" stop="20260912170000 +0000" channel="143">
-    <title>Snippet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="143">
-    <title>New Zealand vs England 2025 2nd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912183000 +0000" channel="143">
-    <title>England vs Pakistan 2026 2nd Test - Complete Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="143">
     <title>DP World Women's Asia Cup 2026 - Sri Lanka vs Bangladesh Highlights</title>
     <desc />
@@ -746,5 +726,20 @@
     <title>Sri Lanka vs Bangladesh 2019 2nd ODI Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="143">
+    <title>New Zealand vs Sri Lanka 2024 - 3rd T20i Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="143">
+    <title>England vs Sri Lanka 2026 1st T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/776083?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917211500 +0000" channel="143">
+    <title>Live England vs Sri Lanka 2nd T20i</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/776083?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

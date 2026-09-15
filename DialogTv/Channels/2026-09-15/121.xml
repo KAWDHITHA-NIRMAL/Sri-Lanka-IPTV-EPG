@@ -3,21 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260912135000 +0000" stop="20260912160000 +0000" channel="121">
-    <title>Live PL 2026-27 Liverpool v Fulham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946597?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912162000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946440?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912162000 +0000" stop="20260912183000 +0000" channel="121">
-    <title>Live PL 2026-27 Tottenham Hotspur v Everton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912185000 +0000" channel="121">
     <title>Premier League Live</title>
     <desc />
@@ -1355,5 +1340,39 @@
     <title>PL Highlights Liverpool v Fulham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Everton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917164500 +0000" channel="121">
+    <title>PL Highlights Man City v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917164500 +0000" stop="20260917170000 +0000" channel="121">
+    <title>PL Highlights Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917171500 +0000" channel="121">
+    <title>US Open Heroes 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917171500 +0000" stop="20260917173000 +0000" channel="121">
+    <title>US Open Heroes 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="121">
+    <title>PL 2026-27 Arsenal v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/885434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="121">
+    <title>Program</title>
+    <desc />
   </programme>
 </tv>

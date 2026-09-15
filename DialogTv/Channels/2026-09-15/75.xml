@@ -3,16 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260912155000 +0000" stop="20260912164500 +0000" channel="75">
-    <title>Euphoria S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945181?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912164500 +0000" stop="20260912174000 +0000" channel="75">
-    <title>Euphoria S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945181?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912174000 +0000" stop="20260912185000 +0000" channel="75">
     <title>Euphoria S3</title>
     <desc />
@@ -366,5 +356,10 @@
     <title>Song Sung Blue</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161000 +0000" stop="20260917185000 +0000" channel="75">
+    <title>Law &amp; Order ('21) S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944560?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

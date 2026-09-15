@@ -3,21 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912163000 +0000" channel="8">
-    <title>Voice Teens S iii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/181083?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912183000 +0000" channel="8">
-    <title>Auto Vision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/801997?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912213000 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -742,5 +727,25 @@
     <title>Ahankara Adare</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/759788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="8">
+    <title>Prema Dadayama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/181083?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917183000 +0000" channel="8">
+    <title>Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917213000 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

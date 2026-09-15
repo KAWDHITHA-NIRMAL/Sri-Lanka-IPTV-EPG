@@ -3,26 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20260912133000 +0000" stop="20260912160000 +0000" channel="18">
-    <title>Love 2002</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="18">
-    <title>Sithala Gini Dal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="18">
-    <title>Sithala Gini Dal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="18">
-    <title>Sithala Gini Dal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912173000 +0000" stop="20260912200000 +0000" channel="18">
     <title>Rabha saha Madhu</title>
     <desc />
@@ -607,5 +587,25 @@
     <title>Aladin Saha Puduma Pahana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/755659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917200000 +0000" channel="18">
+    <title>Kabadi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

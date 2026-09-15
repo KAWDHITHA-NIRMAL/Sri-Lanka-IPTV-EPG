@@ -3,16 +3,6 @@
   <channel id="77">
     <display-name>Channel 84</display-name>
   </channel>
-  <programme start="20260912154000 +0000" stop="20260912174000 +0000" channel="77">
-    <title>Jack The Giant Slayer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945313?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912174000 +0000" stop="20260912183000 +0000" channel="77">
-    <title>Titans S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912192000 +0000" channel="77">
     <title>Titans S2</title>
     <desc />
@@ -927,5 +917,15 @@
     <title>Cellular</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917165500 +0000" stop="20260917174500 +0000" channel="77">
+    <title>Titans S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917174500 +0000" stop="20260917183500 +0000" channel="77">
+    <title>Titans S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939157?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

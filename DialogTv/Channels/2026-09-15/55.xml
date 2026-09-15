@@ -3,21 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912163000 +0000" channel="55">
-    <title>Epic Animal Migrations Patagonia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912173000 +0000" channel="55">
-    <title>Secret Ways</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943163?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912181500 +0000" channel="55">
-    <title>Wild Africa: Rivers Of Life</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912181500 +0000" stop="20260912190900 +0000" channel="55">
     <title>Survive The Wild</title>
     <desc />
@@ -702,5 +687,25 @@
     <title>Hippos After Dark</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/754041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917162000 +0000" stop="20260917171400 +0000" channel="55">
+    <title>The Animal Within</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917171400 +0000" stop="20260917181000 +0000" channel="55">
+    <title>Kanga Pan: An African Horror Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946480?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181000 +0000" stop="20260917183000 +0000" channel="55">
+    <title>Surviving The Serengeti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190500 +0000" channel="55">
+    <title>Surviving The Serengeti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946478?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

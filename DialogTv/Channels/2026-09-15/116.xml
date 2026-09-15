@@ -3,16 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260912145000 +0000" stop="20260912164500 +0000" channel="116">
-    <title>La La La at Rock Bottom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912164500 +0000" stop="20260912182500 +0000" channel="116">
-    <title>American Skin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912182500 +0000" stop="20260912201500 +0000" channel="116">
     <title>Mr. K</title>
     <desc />
@@ -368,5 +358,15 @@
     <title>Shadow Of Fire</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945607?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917162500 +0000" stop="20260917181000 +0000" channel="116">
+    <title>Hui Buh The Goofy Ghost</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181000 +0000" stop="20260917201000 +0000" channel="116">
+    <title>Suro</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946542?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

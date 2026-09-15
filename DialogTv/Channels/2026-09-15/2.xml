@@ -3,21 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="2">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36671?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912174500 +0000" channel="2">
-    <title>Geethma 2025 - Nalanda College</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912174500 +0000" stop="20260912175800 +0000" channel="2">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912175800 +0000" stop="20260913000100 +0000" channel="2">
     <title>End Of Transmission</title>
     <desc />
@@ -952,5 +937,20 @@
     <title>Dlb Lottery Show</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/36671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917180000 +0000" channel="2">
+    <title>Alakamandawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/773380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917181300 +0000" channel="2">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917181300 +0000" stop="20260918000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

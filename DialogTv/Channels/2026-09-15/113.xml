@@ -3,21 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="113">
-    <title>Family Feud</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939580?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="113">
-    <title>Sheriff Country S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832236?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="113">
-    <title>Fire Country S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="113">
     <title>Matlock S1</title>
     <desc />
@@ -588,5 +573,15 @@
     <title>The Guest</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944169?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917164500 +0000" stop="20260917180000 +0000" channel="113">
+    <title>The Guest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944169?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917190000 +0000" channel="113">
+    <title>Celebrity Family Feud S12</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941407?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

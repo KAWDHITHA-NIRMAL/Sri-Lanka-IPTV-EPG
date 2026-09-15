@@ -3,21 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260912130000 +0000" stop="20260912170000 +0000" channel="124">
-    <title>Live Punjab T20 League 2026 Semi Final 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="124">
-    <title>ACC Women's Asia Cup 2026 Highlights - Semi-Final 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946533?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="124">
-    <title>UCL 2026-27 Highlights-MD 1-Barcelona vs Feyenoord</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946149?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="124">
     <title>England v India - 2nd ODI, Bristol (2007) - Highlights</title>
     <desc />
@@ -627,6 +612,15 @@
   </programme>
   <programme start="20260917140000 +0000" stop="20260917173000 +0000" channel="124">
     <title>Live Afghanistan vs India 2026 3rd T20</title>
+    <desc />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="124">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026 (W)- QF 2 - Pakistan vs Thailand Highlights</title>
     <desc />
   </programme>
 </tv>

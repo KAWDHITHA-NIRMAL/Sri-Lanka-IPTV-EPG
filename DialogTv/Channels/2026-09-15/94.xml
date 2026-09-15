@@ -3,21 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260912130000 +0000" stop="20260912160000 +0000" channel="94">
-    <title>24 Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945581?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="94">
-    <title>Palayathu Amman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/817813?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="94">
-    <title>Chai With Celebirty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912200000 +0000" channel="94">
     <title>Unnidathil Ennai Koduthen</title>
     <desc />
@@ -425,5 +410,10 @@
     <title>Jackpot</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945690?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917200000 +0000" channel="94">
+    <title>Vaimaiye Vellum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947044?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

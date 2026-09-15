@@ -3,21 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912163000 +0000" channel="106">
-    <title>G 10 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912173000 +0000" channel="106">
-    <title>G 10 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912183000 +0000" channel="106">
-    <title>G 10 Business &amp; Accounting Studies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912193000 +0000" channel="106">
     <title>G 11 Maths</title>
     <desc />
@@ -747,5 +732,20 @@
     <title>G 11 ICT</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="106">
+    <title>G 11 Catholicism</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="106">
+    <title>G 10 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917193000 +0000" channel="106">
+    <title>G 10 Islam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939942?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

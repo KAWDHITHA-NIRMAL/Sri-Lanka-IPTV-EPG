@@ -3,31 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="32">
-    <title>The Climate Question</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/56839?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/56839?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="32">
-    <title>Focus on Africa: The Conversation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/56839?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="32">
     <title>Tech Now</title>
     <desc />
@@ -1282,5 +1257,35 @@
     <title>Verified Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/99204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="32">
+    <title>Verified Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/99204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="32">
+    <title>Focus on Africa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76081?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/99205?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

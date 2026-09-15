@@ -3,21 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260912143000 +0000" stop="20260912163000 +0000" channel="125">
-    <title>LIVE Top 14 Clermont v Stade Francais</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912164000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912164000 +0000" stop="20260912183000 +0000" channel="125">
-    <title>NRL Warriors v Dolphins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="125">
     <title>5 and 6 Nations Classics 2009 - Wales v Ireland</title>
     <desc />
@@ -531,5 +516,14 @@
     <title>NRL Rabbitohs v Knights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917182000 +0000" channel="125">
+    <title>NRL Warriors v Dolphins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917182000 +0000" stop="20260917185000 +0000" channel="125">
+    <title>Top 14 Highlights Round 2</title>
+    <desc />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="67">
-    <title>WWE LFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/203487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912174500 +0000" channel="67">
-    <title>TNA Impact</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/154517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912174500 +0000" stop="20260912183000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912194500 +0000" channel="67">
     <title>Eredivisie Soccer</title>
     <desc />
@@ -402,5 +387,15 @@
     <title>WWE LFG</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/203487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917183000 +0000" channel="67">
+    <title>TNA Impact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917203000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

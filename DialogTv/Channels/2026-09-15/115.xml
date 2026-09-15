@@ -3,11 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260912151500 +0000" stop="20260912170600 +0000" channel="115">
-    <title>X-Men Origins: Wolverine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946738?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170600 +0000" stop="20260912184300 +0000" channel="115">
     <title>A Quiet Place: Day One</title>
     <desc />
@@ -293,6 +288,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260917153000 +0000" stop="20260917183000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917213000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61242?accessKey=WkVjNWNscFhORDBLCg==" />

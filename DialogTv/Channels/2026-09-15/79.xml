@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260912150500 +0000" stop="20260912173100 +0000" channel="79">
-    <title>Gatta Kusthi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944795?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912173100 +0000" stop="20260912193800 +0000" channel="79">
     <title>Gopichand Chanakya</title>
     <desc />
@@ -234,6 +229,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260917153000 +0000" stop="20260917183000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917213000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />

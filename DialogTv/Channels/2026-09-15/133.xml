@@ -3,16 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260912143500 +0000" stop="20260912161000 +0000" channel="133">
-    <title>The Deal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912161000 +0000" stop="20260912175000 +0000" channel="133">
-    <title>The Big Boss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945244?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912175000 +0000" stop="20260912192500 +0000" channel="133">
     <title>Kill Cruise</title>
     <desc />
@@ -339,5 +329,15 @@
   <programme start="20260917143000 +0000" stop="20260917161500 +0000" channel="133">
     <title>Assassin's Creed</title>
     <desc />
+  </programme>
+  <programme start="20260917161500 +0000" stop="20260917180000 +0000" channel="133">
+    <title>Doomsday</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917192500 +0000" channel="133">
+    <title>The Curse Of King Tut's Tomb Part 1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944323?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

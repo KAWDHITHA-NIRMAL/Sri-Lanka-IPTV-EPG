@@ -3,21 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20260912152900 +0000" stop="20260912162000 +0000" channel="83">
-    <title>Kingdom S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912162000 +0000" stop="20260912170600 +0000" channel="83">
-    <title>Where The Wild Men Are With Ben Fogle S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945050?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170600 +0000" stop="20260912175100 +0000" channel="83">
-    <title>Chasing Monsters S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945044?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912175100 +0000" stop="20260912183600 +0000" channel="83">
     <title>Spy In The Wild S1</title>
     <desc />
@@ -907,5 +892,20 @@
     <title>Life S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943244?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163100 +0000" stop="20260917171900 +0000" channel="83">
+    <title>Joanna Lumley's Britain S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946173?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917171900 +0000" stop="20260917180800 +0000" channel="83">
+    <title>Inside The Factory: Yoghurt S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946174?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180800 +0000" stop="20260917190700 +0000" channel="83">
+    <title>Scandinavia With Simon Reeve S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942340?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

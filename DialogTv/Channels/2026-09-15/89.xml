@@ -3,36 +3,6 @@
   <channel id="89">
     <display-name>Channel 96</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="89">
-    <title>Udne Ki Aasha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="89">
-    <title>Yeh Rishta Kya Kehlata Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255035?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="89">
-    <title>Anupamaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/255085?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="89">
-    <title>Kyunki Saas Bhi Kabhi Bahu Thi - 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/200526?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="89">
-    <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909134?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="89">
-    <title>Sairaab</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/801462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="89">
     <title>Yeh Rishta Kya Kehlata Hai</title>
     <desc />
@@ -1207,5 +1177,35 @@
     <title>Udne Ki Aasha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/255071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="89">
+    <title>Yeh Rishta Kya Kehlata Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255035?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="89">
+    <title>Anupamaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255085?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="89">
+    <title>Kyunki Saas Bhi Kabhi Bahu Thi - 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/200526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="89">
+    <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/909134?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="89">
+    <title>Sairaab</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/801462?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="89">
+    <title>Yeh Rishta Kya Kehlata Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255035?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

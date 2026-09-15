@@ -3,11 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260912140900 +0000" stop="20260912163500 +0000" channel="101">
-    <title>Pyaar Prema Kadhal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945348?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912163500 +0000" stop="20260912183100 +0000" channel="101">
     <title>Shivanagam</title>
     <desc />
@@ -276,5 +271,15 @@
     <title>Kodiveeran</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917183000 +0000" channel="101">
+    <title>India Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944924?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

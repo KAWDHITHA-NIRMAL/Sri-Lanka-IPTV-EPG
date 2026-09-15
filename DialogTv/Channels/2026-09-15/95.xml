@@ -3,11 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260912133000 +0000" stop="20260912170000 +0000" channel="95">
-    <title>Thalainagaram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945567?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912200000 +0000" channel="95">
     <title>Thaayillamal Naanillai</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Gandhi Pirantha Mann</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947120?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917200000 +0000" channel="95">
+    <title>Nizhal Nijamagiradhu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947117?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

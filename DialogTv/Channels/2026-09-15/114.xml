@@ -3,11 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260912150000 +0000" stop="20260912165000 +0000" channel="114">
-    <title>Mortal Kombat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944095?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912165000 +0000" stop="20260912183500 +0000" channel="114">
     <title>Five Nights At Freddy'S 2</title>
     <desc />
@@ -347,5 +342,15 @@
     <title>Sully</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945360?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917161000 +0000" stop="20260917174000 +0000" channel="114">
+    <title>Trust</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944444?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917174000 +0000" stop="20260917194500 +0000" channel="114">
+    <title>The Bride!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941736?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

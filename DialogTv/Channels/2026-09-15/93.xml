@@ -3,11 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20260912140000 +0000" stop="20260912173000 +0000" channel="93">
-    <title>Bachelor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946418?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912173000 +0000" stop="20260912210000 +0000" channel="93">
     <title>Ivan Pattalathaan</title>
     <desc />
@@ -457,5 +452,25 @@
     <title>Thendrale Mella Pesu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/748302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="93">
+    <title>Suttum Vizhi Sudare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/737901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="93">
+    <title>Mahabharatham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="93">
+    <title>Mahabharatham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917200000 +0000" channel="93">
+    <title>Mumbaikar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944698?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

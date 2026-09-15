@@ -3,21 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="11">
-    <title>Oba Enna Awith Yanna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190221?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912162500 +0000" channel="11">
-    <title>Oba Enna Awith Yanna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190221?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912162500 +0000" stop="20260912170000 +0000" channel="11">
-    <title>Hiru Tv News 9.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190203?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="11">
     <title>Suhada Koka</title>
     <desc />
@@ -876,5 +861,30 @@
     <title>Baddegama</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/909339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917162500 +0000" stop="20260917170000 +0000" channel="11">
+    <title>Hiru Tv News 9.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917170000 +0000" stop="20260917173000 +0000" channel="11">
+    <title>Balaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="11">
+    <title>Balaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="11">
+    <title>Balaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917190000 +0000" channel="11">
+    <title>Balaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943375?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

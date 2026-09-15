@@ -3,26 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260912143000 +0000" stop="20260912163000 +0000" channel="12">
-    <title>Itin Itin Kohomada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759170?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="12">
-    <title>CNA On TV Supreme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/196984?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="12">
-    <title>Itin Itin Kohomada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759170?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="12">
-    <title>New News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260912183000 +0000" stop="20260912235400 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -858,5 +838,20 @@
     <title>Tikak Ridei</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/913765?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917160000 +0000" stop="20260917180000 +0000" channel="12">
+    <title>Maara - Republica</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917180000 +0000" stop="20260917183000 +0000" channel="12">
+    <title>New News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260917183000 +0000" stop="20260917235400 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
