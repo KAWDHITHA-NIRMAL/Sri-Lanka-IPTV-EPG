@@ -3,61 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260914171200 +0000" stop="20260914190300 +0000" channel="101">
-    <title>Wild Dog</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944926?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260914190300 +0000" stop="20260914193300 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260914193300 +0000" stop="20260914214600 +0000" channel="101">
-    <title>Vantha Rajavathaan Varuven</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260914214600 +0000" stop="20260914220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260914220000 +0000" stop="20260915000000 +0000" channel="101">
-    <title>Kuttram 23</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946707?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915000000 +0000" stop="20260915023000 +0000" channel="101">
-    <title>Thirunaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915023000 +0000" stop="20260915050400 +0000" channel="101">
-    <title>House Mates</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946485?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915050400 +0000" stop="20260915080700 +0000" channel="101">
-    <title>Karumegangal Kalaigindrana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946709?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915080700 +0000" stop="20260915104100 +0000" channel="101">
-    <title>Kamali From Nadukaveri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915104100 +0000" stop="20260915131300 +0000" channel="101">
-    <title>Deiva Machan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915131300 +0000" stop="20260915161800 +0000" channel="101">
-    <title>Identity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946712?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260915161800 +0000" stop="20260915183200 +0000" channel="101">
     <title>Anandham Vilayadum Veedu</title>
     <desc />
@@ -203,45 +148,50 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946728?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918050000 +0000" stop="20260918080000 +0000" channel="101">
+  <programme start="20260918050000 +0000" stop="20260918074900 +0000" channel="101">
     <title>Vetrivel</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946729?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918080000 +0000" stop="20260918103000 +0000" channel="101">
-    <title>Khiladi Mrumagan</title>
+  <programme start="20260918074900 +0000" stop="20260918080300 +0000" channel="101">
+    <title>Fillers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946716?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260918080300 +0000" stop="20260918103000 +0000" channel="101">
+    <title>Balle Vellaiyathevaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948045?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260918103000 +0000" stop="20260918130000 +0000" channel="101">
     <title>Ainthu Ainthu Ainthu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946730?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918130000 +0000" stop="20260918160000 +0000" channel="101">
+  <programme start="20260918130000 +0000" stop="20260918160200 +0000" channel="101">
     <title>Regai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946731?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918160000 +0000" stop="20260918183000 +0000" channel="101">
+  <programme start="20260918160200 +0000" stop="20260918183000 +0000" channel="101">
     <title>Brother</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945346?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="101">
+  <programme start="20260918183000 +0000" stop="20260918193000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20260918190000 +0000" stop="20260918193000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260918193000 +0000" stop="20260918220000 +0000" channel="101">
+  <programme start="20260918193000 +0000" stop="20260918214200 +0000" channel="101">
     <title>Kappal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945695?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260918214200 +0000" stop="20260918220000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260918220000 +0000" stop="20260919000000 +0000" channel="101">
     <title>Bow Bow</title>
@@ -282,5 +232,50 @@
     <title>Irumbu Thirai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260919190000 +0000" stop="20260919193000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260919193000 +0000" stop="20260919220000 +0000" channel="101">
+    <title>India Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944924?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260919220000 +0000" stop="20260920013000 +0000" channel="101">
+    <title>Yaman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947236?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920013000 +0000" stop="20260920050000 +0000" channel="101">
+    <title>Nerkonda Paarvai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943485?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920050000 +0000" stop="20260920080000 +0000" channel="101">
+    <title>Love Insurance Kompany</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920080000 +0000" stop="20260920103000 +0000" channel="101">
+    <title>Maragadha Naanayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947237?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920103000 +0000" stop="20260920133000 +0000" channel="101">
+    <title>Rekka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941855?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920133000 +0000" stop="20260920160000 +0000" channel="101">
+    <title>Salim</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920160000 +0000" stop="20260920183000 +0000" channel="101">
+    <title>Bhagavanth Kesari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945119?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
