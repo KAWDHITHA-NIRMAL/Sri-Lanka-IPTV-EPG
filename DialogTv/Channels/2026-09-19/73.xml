@@ -3,61 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260915164500 +0000" stop="20260915191500 +0000" channel="73">
-    <title>Notting Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915191500 +0000" stop="20260915210000 +0000" channel="73">
-    <title>Tremors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946014?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915210000 +0000" stop="20260915230000 +0000" channel="73">
-    <title>Legally Blonde 2: Red, White &amp; Blonde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946015?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260915230000 +0000" stop="20260916010000 +0000" channel="73">
-    <title>Practical Magic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944256?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916010000 +0000" stop="20260916034500 +0000" channel="73">
-    <title>The Matrix Reloaded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946016?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916034500 +0000" stop="20260916051500 +0000" channel="73">
-    <title>Creature From The Black Lagoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946248?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916051500 +0000" stop="20260916071500 +0000" channel="73">
-    <title>Legally Blonde 2: Red, White &amp; Blonde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946015?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916071500 +0000" stop="20260916091500 +0000" channel="73">
-    <title>Practical Magic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944256?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916091500 +0000" stop="20260916120000 +0000" channel="73">
-    <title>The Matrix Reloaded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946016?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916120000 +0000" stop="20260916141500 +0000" channel="73">
-    <title>Meet The Fockers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946954?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260916141500 +0000" stop="20260916164500 +0000" channel="73">
-    <title>Terms Of Endearment</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260916164500 +0000" stop="20260916184500 +0000" channel="73">
     <title>The Scorpion King</title>
     <desc />
@@ -210,7 +155,6 @@
   <programme start="20260919120000 +0000" stop="20260919140000 +0000" channel="73">
     <title>Little Fockers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946955?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260919140000 +0000" stop="20260919160000 +0000" channel="73">
     <title>Teenage Mutant Ninja Turtles Ii: The Secret Of The Ooze</title>
@@ -230,7 +174,6 @@
   <programme start="20260919200000 +0000" stop="20260919220000 +0000" channel="73">
     <title>Little Fockers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946955?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260919220000 +0000" stop="20260920000000 +0000" channel="73">
     <title>Teenage Mutant Ninja Turtles Ii: The Secret Of The Ooze</title>
@@ -250,7 +193,6 @@
   <programme start="20260920040000 +0000" stop="20260920060000 +0000" channel="73">
     <title>Little Fockers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946955?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260920060000 +0000" stop="20260920080000 +0000" channel="73">
     <title>Teenage Mutant Ninja Turtles Ii: The Secret Of The Ooze</title>
@@ -281,5 +223,60 @@
     <title>Robocop 3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920184500 +0000" stop="20260920204500 +0000" channel="73">
+    <title>Baby Boom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920204500 +0000" stop="20260920231500 +0000" channel="73">
+    <title>Coach Carter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260920231500 +0000" stop="20260921013000 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946954?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921013000 +0000" stop="20260921031500 +0000" channel="73">
+    <title>Xanadu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946957?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921031500 +0000" stop="20260921051500 +0000" channel="73">
+    <title>Robocop 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921051500 +0000" stop="20260921071500 +0000" channel="73">
+    <title>Baby Boom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921071500 +0000" stop="20260921094500 +0000" channel="73">
+    <title>Coach Carter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921094500 +0000" stop="20260921120000 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946954?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="73">
+    <title>Passenger 57</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947356?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921140000 +0000" stop="20260921164500 +0000" channel="73">
+    <title>Anchors Aweigh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260921164500 +0000" stop="20260921184500 +0000" channel="73">
+    <title>The Fast And The Furious</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947198?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
