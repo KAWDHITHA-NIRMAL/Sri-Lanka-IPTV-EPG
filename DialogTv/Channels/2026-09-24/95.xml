@@ -3,51 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260920170000 +0000" stop="20260920200000 +0000" channel="95">
-    <title>Kochadaiyaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947229?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260920200000 +0000" stop="20260920213000 +0000" channel="95">
-    <title>Oru Thalai Ragam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260920213000 +0000" stop="20260921003000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921003000 +0000" stop="20260921033000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/909487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921033000 +0000" stop="20260921043000 +0000" channel="95">
-    <title>Uthama Rasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947232?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921043000 +0000" stop="20260921073000 +0000" channel="95">
-    <title>Thulasi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948620?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921073000 +0000" stop="20260921103000 +0000" channel="95">
-    <title>Seevalaperi Pandi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921103000 +0000" stop="20260921133000 +0000" channel="95">
-    <title>Asogavanam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260921133000 +0000" stop="20260921170000 +0000" channel="95">
-    <title>Thamizh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260921170000 +0000" stop="20260921200000 +0000" channel="95">
     <title>Thulasi</title>
     <desc />
@@ -212,5 +167,45 @@
     <title>Kungumachimizh</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948636?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925223000 +0000" channel="95">
+    <title>Karuthamma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948633?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260926013000 +0000" channel="95">
+    <title>Kaveri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926013000 +0000" stop="20260926043000 +0000" channel="95">
+    <title>Dharma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926043000 +0000" stop="20260926073000 +0000" channel="95">
+    <title>Engeyo Ketta Kural</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926073000 +0000" stop="20260926103000 +0000" channel="95">
+    <title>Palakattu Madhavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948641?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926103000 +0000" stop="20260926133000 +0000" channel="95">
+    <title>Kaivantha Kalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926170000 +0000" channel="95">
+    <title>Doss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926200000 +0000" channel="95">
+    <title>Engeyo Ketta Kural</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948640?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
