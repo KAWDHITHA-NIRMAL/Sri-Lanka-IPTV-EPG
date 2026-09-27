@@ -3,11 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260924160000 +0000" stop="20260924180000 +0000" channel="12">
-    <title>Kaatru Veliyidai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924180000 +0000" stop="20260924235400 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -754,5 +749,14 @@
     <title>Me Saumya Rathree</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/912910?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929235400 +0000" channel="12">
+    <title>Fillers</title>
+    <desc />
   </programme>
 </tv>

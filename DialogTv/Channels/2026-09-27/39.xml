@@ -3,16 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924183000 +0000" channel="39">
-    <title>Power Lunch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924190000 +0000" channel="39">
     <title>Power Lunch</title>
     <desc />
@@ -1032,5 +1022,15 @@
     <title>The Exchange</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

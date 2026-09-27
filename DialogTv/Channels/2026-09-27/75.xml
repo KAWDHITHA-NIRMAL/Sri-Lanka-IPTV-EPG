@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260924160000 +0000" stop="20260924174500 +0000" channel="75">
-    <title>The Phoenician Scheme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924174500 +0000" stop="20260924192000 +0000" channel="75">
     <title>Final Destination 3</title>
     <desc />
@@ -415,5 +410,10 @@
   <programme start="20260929165500 +0000" stop="20260929182500 +0000" channel="75">
     <title>Him</title>
     <desc />
+  </programme>
+  <programme start="20260929182500 +0000" stop="20260929192500 +0000" channel="75">
+    <title>Industry S4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948370?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

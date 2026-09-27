@@ -3,11 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20260924163300 +0000" stop="20260924173600 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924173600 +0000" stop="20260925002900 +0000" channel="3">
     <title>End Of Transmission</title>
     <desc />
@@ -687,5 +682,10 @@
     <title>Kalakalappu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/734278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929173600 +0000" stop="20260930002900 +0000" channel="3">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20260924170300 +0000" stop="20260924173100 +0000" channel="53">
-    <title>Calm Songs &amp; Sweet Dreams!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/766346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924173100 +0000" stop="20260924175900 +0000" channel="53">
-    <title>A Magical Sky Adventure!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924175900 +0000" stop="20260924182900 +0000" channel="53">
-    <title>Underwater Learning Adventures!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714159?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924182900 +0000" stop="20260924190000 +0000" channel="53">
     <title>A Big Ocean Clean Up Day!</title>
     <desc />
@@ -1172,5 +1157,20 @@
     <title>Super Creative Day Of Play</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/766142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929173300 +0000" stop="20260929180100 +0000" channel="53">
+    <title>A Magical Sky Adventure!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714658?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180100 +0000" stop="20260929182900 +0000" channel="53">
+    <title>A Super Fun Underwater Sing-Along!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/746182?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929182900 +0000" stop="20260929190000 +0000" channel="53">
+    <title>A Big Ocean Clean Up Day!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714159?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

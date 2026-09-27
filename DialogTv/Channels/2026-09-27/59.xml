@@ -3,15 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924181700 +0000" channel="59">
-    <title>Inside The Cia: Secrets &amp; Spies</title>
-    <desc />
-  </programme>
-  <programme start="20260924181700 +0000" stop="20260924183000 +0000" channel="59">
-    <title>To Catch A Smuggler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152761?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924190200 +0000" channel="59">
     <title>To Catch A Smuggler</title>
     <desc />
@@ -820,5 +811,15 @@
   <programme start="20260929170200 +0000" stop="20260929174800 +0000" channel="59">
     <title>Lost Treasures Of Egypt</title>
     <desc />
+  </programme>
+  <programme start="20260929174800 +0000" stop="20260929183000 +0000" channel="59">
+    <title>Airport Security Rome</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="59">
+    <title>Destruction Decoded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/255018?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

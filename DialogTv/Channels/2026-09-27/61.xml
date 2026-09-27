@@ -3,11 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924175300 +0000" channel="61">
-    <title>Kings Of Restoration S07</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924175300 +0000" stop="20260924183700 +0000" channel="61">
     <title>History's Greatest Mysteries S07 - The Theft Of The Mona Lisa: Case Cl</title>
     <desc />
@@ -1042,5 +1037,10 @@
     <title>Counting Cars S06</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/748299?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929175300 +0000" stop="20260929183700 +0000" channel="61">
+    <title>Forged In Fire S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748287?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

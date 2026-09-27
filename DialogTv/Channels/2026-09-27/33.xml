@@ -3,11 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20260924170000 +0000" stop="20260924180000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924180000 +0000" stop="20260924190000 +0000" channel="33">
     <title>Global Business</title>
     <desc />
@@ -1122,5 +1117,10 @@
     <title>Africa Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35622?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33332?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

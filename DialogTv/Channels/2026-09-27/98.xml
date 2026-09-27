@@ -3,21 +3,6 @@
   <channel id="98">
     <display-name>Channel 105</display-name>
   </channel>
-  <programme start="20260924170000 +0000" stop="20260924173200 +0000" channel="98">
-    <title>Varisu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924173200 +0000" stop="20260924180000 +0000" channel="98">
-    <title>Annamalai Kutumbam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948073?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924183000 +0000" channel="98">
-    <title>Idhayam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695877?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924190000 +0000" channel="98">
     <title>Vaagai Sooda Vaa</title>
     <desc />
@@ -968,5 +953,15 @@
     <title>Annamalai Kudumbam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="98">
+    <title>Idhayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695877?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="98">
+    <title>Vaagai Sooda Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916944?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

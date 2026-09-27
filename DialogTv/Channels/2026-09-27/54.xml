@@ -3,16 +3,6 @@
   <channel id="54">
     <display-name>Channel 2086</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="54">
-    <title>Chhota Bheem</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/814315?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924183000 +0000" channel="54">
-    <title>Chhota Bheem</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/814315?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924193000 +0000" channel="54">
     <title>Smashing Simmba S01</title>
     <desc />
@@ -1148,5 +1138,15 @@
     <title>Chhota Bheem</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/814315?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="54">
+    <title>Chhota Bheem</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/814315?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929193000 +0000" channel="54">
+    <title>Smashing Simmba S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/91492?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

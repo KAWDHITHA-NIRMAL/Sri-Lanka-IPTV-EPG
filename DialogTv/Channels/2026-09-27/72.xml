@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20260924160000 +0000" stop="20260924180000 +0000" channel="72">
-    <title>Coma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944077?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924180000 +0000" stop="20260924200000 +0000" channel="72">
     <title>Uncaged</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Taxi 5</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947362?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929200000 +0000" channel="72">
+    <title>Gunpowder Milkshake</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948964?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

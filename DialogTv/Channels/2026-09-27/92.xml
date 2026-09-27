@@ -3,11 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260924150000 +0000" stop="20260924180000 +0000" channel="92">
-    <title>Welcome 2 Karachi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924180000 +0000" stop="20260924210000 +0000" channel="92">
     <title>Aakhree Raasta</title>
     <desc />
@@ -205,5 +200,10 @@
     <title>Don 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948737?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929210000 +0000" channel="92">
+    <title>Race 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948736?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

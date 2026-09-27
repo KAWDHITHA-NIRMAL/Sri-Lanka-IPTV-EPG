@@ -3,20 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="70">
-    <title>FTB Exclusive</title>
-    <desc />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924181500 +0000" channel="70">
-    <title>IND v NZ T20I HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924181500 +0000" stop="20260924183000 +0000" channel="70">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943200?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924190000 +0000" channel="70">
     <title>ICC CWC Highlights</title>
     <desc />
@@ -1640,5 +1626,20 @@
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="70">
     <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
     <desc />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929181500 +0000" channel="70">
+    <title>Game Plan - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929181500 +0000" stop="20260929183000 +0000" channel="70">
+    <title>PL Highlights Aston villa v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="70">
+    <title>ICC Men's ODI WC 2023 hlts. NZ v PAK</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946170?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

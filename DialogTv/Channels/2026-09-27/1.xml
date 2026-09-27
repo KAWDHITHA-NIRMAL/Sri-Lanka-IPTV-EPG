@@ -3,11 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924183000 +0000" channel="1">
-    <title>World Wide</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924193000 +0000" channel="1">
     <title>Channel One Highway</title>
     <desc />
@@ -630,5 +625,10 @@
     <title>Ru Naari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929193000 +0000" channel="1">
+    <title>Channel One Highway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

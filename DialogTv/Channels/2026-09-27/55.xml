@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260924172200 +0000" stop="20260924182200 +0000" channel="55">
-    <title>Wild Dynasties</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/739736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924182200 +0000" stop="20260924191300 +0000" channel="55">
     <title>Wild Dynasties</title>
     <desc />
@@ -546,5 +541,10 @@
   <programme start="20260929173000 +0000" stop="20260929181900 +0000" channel="55">
     <title>The Great Rhino Robbery</title>
     <desc />
+  </programme>
+  <programme start="20260929181900 +0000" stop="20260929191500 +0000" channel="55">
+    <title>Sexy Beasts: The Need To Breed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947093?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

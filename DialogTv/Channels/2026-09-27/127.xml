@@ -3,11 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20260924163000 +0000" stop="20260924183000 +0000" channel="127">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924203000 +0000" channel="127">
     <title>Repeat - Dialog Schools Rugby League 2026</title>
     <desc />
@@ -287,5 +282,10 @@
     <title>Highlights - ICC Men's T20 World Cup 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949079?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929203000 +0000" channel="127">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

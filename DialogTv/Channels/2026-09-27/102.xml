@@ -3,11 +3,6 @@
   <channel id="102">
     <display-name>Channel 109</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924183000 +0000" channel="102">
-    <title>G 12 Combine Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924193000 +0000" channel="102">
     <title>G 12 Information Technology</title>
     <desc />
@@ -687,5 +682,10 @@
     <title>G 13 Physics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/145795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929193000 +0000" channel="102">
+    <title>G 13 Chemistry</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/145805?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

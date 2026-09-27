@@ -3,16 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="7">
-    <title>Rathu Ira</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924183000 +0000" channel="7">
-    <title>Rathu Ira</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942976?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924191000 +0000" channel="7">
     <title>Swarnavahini News</title>
     <desc />
@@ -887,5 +877,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945953?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260924150500 +0000" stop="20260924180800 +0000" channel="79">
-    <title>Devara: Part 1</title>
-    <desc />
-  </programme>
   <programme start="20260924180800 +0000" stop="20260924201000 +0000" channel="79">
     <title>Satyabhama</title>
     <desc />
@@ -215,6 +211,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260929153000 +0000" stop="20260929183000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929213000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/738874?accessKey=WkVjNWNscFhORDBLCg==" />

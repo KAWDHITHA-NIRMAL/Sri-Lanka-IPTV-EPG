@@ -3,21 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/880724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924181500 +0000" channel="122">
-    <title>PL Highlights Everton v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944669?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924181500 +0000" stop="20260924183000 +0000" channel="122">
-    <title>PL Highlights Man City v Coventry City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945232?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924183000 +0000" stop="20260924203000 +0000" channel="122">
     <title>PL 2026-27 Newcastle v Bournemouth</title>
     <desc />
@@ -1326,5 +1311,20 @@
     <title>ONE : Championship Classics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/880724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929180000 +0000" stop="20260929181500 +0000" channel="122">
+    <title>PL Highlights Bournemouth v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929181500 +0000" stop="20260929183000 +0000" channel="122">
+    <title>PL Highlights Man City v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929203000 +0000" channel="122">
+    <title>PL 2026-27 Nottm Forest v Tottenham Hotspur</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915336?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

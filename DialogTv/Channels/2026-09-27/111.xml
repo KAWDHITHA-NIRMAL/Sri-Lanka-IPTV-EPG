@@ -3,11 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20260924172500 +0000" stop="20260924182000 +0000" channel="111">
-    <title>Elsbeth S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944939?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260924182000 +0000" stop="20260924191500 +0000" channel="111">
     <title>Ncis: Origins S2</title>
     <desc />
@@ -614,5 +609,10 @@
     <title>Fbi S8</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929182000 +0000" stop="20260929191500 +0000" channel="111">
+    <title>Ncis: Origins S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946287?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
