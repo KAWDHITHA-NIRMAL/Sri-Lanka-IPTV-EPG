@@ -3,71 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260924150000 +0000" stop="20260924190000 +0000" channel="34">
-    <title>One World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924200000 +0000" channel="34">
-    <title>What We Know With Max Foster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/163828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924200000 +0000" stop="20260924213000 +0000" channel="34">
-    <title>Quest Means Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62022?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924213000 +0000" stop="20260924220000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="34">
-    <title>The Brief With Jim Sciutto</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/678311?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="34">
-    <title>Erin Burnett OutFront</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61992?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925000000 +0000" stop="20260925010000 +0000" channel="34">
-    <title>Anderson Cooper 360</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925020000 +0000" channel="34">
-    <title>The Source with Kaitlan Collins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437494?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925030000 +0000" channel="34">
-    <title>Cnn Newsnight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925030000 +0000" stop="20260925040000 +0000" channel="34">
-    <title>Laura Coates Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709213?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925040000 +0000" stop="20260925053000 +0000" channel="34">
-    <title>The Story Is With Elex Michaelson</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925070000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925070000 +0000" stop="20260925073000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="34">
     <title>CNN Newsroom (CNNI)</title>
     <desc />
@@ -577,5 +512,70 @@
     <title>Isa Soares Tonight</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61990?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="34">
+    <title>What We Know With Max Foster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/163828?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929200000 +0000" stop="20260929213000 +0000" channel="34">
+    <title>Quest Means Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62022?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260929220000 +0000" channel="34">
+    <title>World Sport</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62003?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="34">
+    <title>The Brief With Jim Sciutto</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/678311?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="34">
+    <title>Erin Burnett OutFront</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="34">
+    <title>Anderson Cooper 360</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="34">
+    <title>The Source with Kaitlan Collins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/437494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930020000 +0000" stop="20260930030000 +0000" channel="34">
+    <title>Cnn Newsnight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930030000 +0000" stop="20260930040000 +0000" channel="34">
+    <title>Laura Coates Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930040000 +0000" stop="20260930060000 +0000" channel="34">
+    <title>The Story Is With Elex Michaelson</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930073000 +0000" stop="20260930090000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724339?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

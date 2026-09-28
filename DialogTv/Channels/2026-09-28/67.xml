@@ -3,41 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260924183000 +0000" stop="20260924203000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924203000 +0000" stop="20260924233000 +0000" channel="67">
-    <title>Big Cricket League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/870932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924233000 +0000" stop="20260925010000 +0000" channel="67">
-    <title>Table Tennis</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946465?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="67">
-    <title>TNA Impact</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/154517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="67">
-    <title>Golden Trail World Series</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925053000 +0000" channel="67">
-    <title>AEW Collision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925073000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925073000 +0000" stop="20260925103000 +0000" channel="67">
     <title>TNA: Final Resolution</title>
     <desc />
@@ -249,7 +214,6 @@
   <programme start="20260928073000 +0000" stop="20260928103000 +0000" channel="67">
     <title>TNA Wrestling: No Surrender</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948780?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260928103000 +0000" stop="20260928123000 +0000" channel="67">
     <title>FIM Speedway Grand Prix Series</title>
@@ -365,5 +329,40 @@
     <title>FIM Speedway Grand Prix Series</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/912381?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929203000 +0000" stop="20260929223000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929223000 +0000" stop="20260930013000 +0000" channel="67">
+    <title>Big Cricket League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/870932?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930023000 +0000" channel="67">
+    <title>Impact In 60</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930023000 +0000" stop="20260930043000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/177672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930043000 +0000" stop="20260930053000 +0000" channel="67">
+    <title>TNA Unfinished Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946469?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930053000 +0000" stop="20260930073000 +0000" channel="67">
+    <title>MLS Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/738297?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="67">
+    <title>One-Day International Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948251?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

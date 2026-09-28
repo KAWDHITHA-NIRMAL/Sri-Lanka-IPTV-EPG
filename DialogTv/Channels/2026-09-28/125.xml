@@ -3,48 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260924172000 +0000" stop="20260924191000 +0000" channel="125">
-    <title>Super League Warrington v Hull KR</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924191000 +0000" stop="20260924210000 +0000" channel="125">
-    <title>Top 14 Castres v Toulon</title>
-    <desc />
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924225000 +0000" channel="125">
-    <title>Top 14 La Rochelle v Racing</title>
-    <desc />
-  </programme>
-  <programme start="20260924225000 +0000" stop="20260925004000 +0000" channel="125">
-    <title>Top 14 Bordeaux Begles v Stade Francais</title>
-    <desc />
-  </programme>
-  <programme start="20260925004000 +0000" stop="20260925010000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925020000 +0000" channel="125">
-    <title>5 &amp; 6 Nations Legends</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925035000 +0000" channel="125">
-    <title>SANZAAR International Tour Serie Argentina v Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925035000 +0000" stop="20260925054000 +0000" channel="125">
-    <title>Super League Wakefield v Leigh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925054000 +0000" stop="20260925061000 +0000" channel="125">
-    <title>NRL Try Time NRL Try Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925061000 +0000" stop="20260925080000 +0000" channel="125">
     <title>NRL Roosters v Sharks</title>
     <desc />
@@ -293,17 +251,14 @@
   <programme start="20260928065000 +0000" stop="20260928084000 +0000" channel="125">
     <title>NRL Panthers v Knights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260928084000 +0000" stop="20260928103000 +0000" channel="125">
     <title>Gallagher Premiership Leicester v Saracens</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260928103000 +0000" stop="20260928122000 +0000" channel="125">
     <title>United Rugby Championship Sharks v Ospreys</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260928122000 +0000" stop="20260928123500 +0000" channel="125">
     <title>AFLW Highlights Geelong v Hawthorn</title>
@@ -448,7 +403,6 @@
   <programme start="20260929021000 +0000" stop="20260929040000 +0000" channel="125">
     <title>Top 14 Stade Francais v Lyon</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="125">
     <title>5 &amp; 6 Nations Legends</title>
@@ -497,7 +451,6 @@
   <programme start="20260929144000 +0000" stop="20260929163000 +0000" channel="125">
     <title>NRL Panthers v Knights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260929163000 +0000" stop="20260929165000 +0000" channel="125">
     <title>AFLW Highlights Essendon v West Coast</title>
@@ -518,5 +471,37 @@
     <title>Top 14 Pau v La Rochelle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929194000 +0000" stop="20260929213000 +0000" channel="125">
+    <title>Top 14 Toulouse v Montpellier</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260929220000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260929235000 +0000" channel="125">
+    <title>Gallagher Premiership Sale v Bristol</title>
+    <desc />
+  </programme>
+  <programme start="20260929235000 +0000" stop="20260930014000 +0000" channel="125">
+    <title>Gallagher Premiership Leicester v Saracens</title>
+    <desc />
+  </programme>
+  <programme start="20260930014000 +0000" stop="20260930041000 +0000" channel="125">
+    <title>AFL Hawthorn v Brisbane</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930041000 +0000" stop="20260930060000 +0000" channel="125">
+    <title>United Rugby Championship Lions v Leinster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930060000 +0000" stop="20260930075000 +0000" channel="125">
+    <title>United Rugby Championship Zebre Parma v Bulls</title>
+    <desc />
   </programme>
 </tv>

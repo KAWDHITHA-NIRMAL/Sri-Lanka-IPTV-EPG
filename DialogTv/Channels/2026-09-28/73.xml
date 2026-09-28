@@ -3,35 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260924180000 +0000" stop="20260924200000 +0000" channel="73">
-    <title>Along Came Polly</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947199?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924200000 +0000" stop="20260924220000 +0000" channel="73">
-    <title>Yes Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924220000 +0000" stop="20260925000000 +0000" channel="73">
-    <title>The Mask</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948100?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="73">
-    <title>Bell, Book And Candle</title>
-    <desc />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925040000 +0000" channel="73">
-    <title>Resident Evil: Retribution</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925040000 +0000" stop="20260925060000 +0000" channel="73">
-    <title>Yes Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="73">
     <title>The Mask</title>
     <desc />
@@ -259,5 +230,31 @@
     <title>Thoroughly Modern Millie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929193000 +0000" stop="20260929214500 +0000" channel="73">
+    <title>Copycat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929214500 +0000" stop="20260930001500 +0000" channel="73">
+    <title>Coach Carter</title>
+    <desc />
+  </programme>
+  <programme start="20260930001500 +0000" stop="20260930023000 +0000" channel="73">
+    <title>Constantine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930023000 +0000" stop="20260930050000 +0000" channel="73">
+    <title>Vertigo</title>
+    <desc />
+  </programme>
+  <programme start="20260930050000 +0000" stop="20260930071500 +0000" channel="73">
+    <title>Rear Window</title>
+    <desc />
+  </programme>
+  <programme start="20260930071500 +0000" stop="20260930094500 +0000" channel="73">
+    <title>Coach Carter</title>
+    <desc />
   </programme>
 </tv>

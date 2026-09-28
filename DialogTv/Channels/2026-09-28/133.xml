@@ -3,46 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260924170500 +0000" stop="20260924185500 +0000" channel="133">
-    <title>Daylight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944660?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924185500 +0000" stop="20260924203500 +0000" channel="133">
-    <title>The Legend</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946137?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924203500 +0000" stop="20260924220500 +0000" channel="133">
-    <title>Rambo: First Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924220500 +0000" stop="20260924235500 +0000" channel="133">
-    <title>Kindergarten Cop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924235500 +0000" stop="20260925013000 +0000" channel="133">
-    <title>The Bodyguard From Beijing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925030000 +0000" channel="133">
-    <title>Exploding Sun Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925030000 +0000" stop="20260925043000 +0000" channel="133">
-    <title>Exploding Sun Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925043000 +0000" stop="20260925061500 +0000" channel="133">
-    <title>Fist Of Fury</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946887?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925061500 +0000" stop="20260925074000 +0000" channel="133">
     <title>The Curse Of King Tut's Tomb Part 1</title>
     <desc />
@@ -317,5 +277,39 @@
     <title>Cape Fear</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929195500 +0000" stop="20260929223500 +0000" channel="133">
+    <title>The Hateful Eight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949197?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929223500 +0000" stop="20260930001000 +0000" channel="133">
+    <title>The Deal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930001000 +0000" stop="20260930015000 +0000" channel="133">
+    <title>Corner Office</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930015000 +0000" stop="20260930034500 +0000" channel="133">
+    <title>Back To The Future III</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944319?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930034500 +0000" stop="20260930053500 +0000" channel="133">
+    <title>Kindergarten Cop</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930053500 +0000" stop="20260930071500 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+  </programme>
+  <programme start="20260930071500 +0000" stop="20260930091500 +0000" channel="133">
+    <title>Jason Bourne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944946?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

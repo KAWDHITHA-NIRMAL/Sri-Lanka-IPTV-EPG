@@ -3,71 +3,6 @@
   <channel id="24">
     <display-name>Channel 30</display-name>
   </channel>
-  <programme start="20260924183000 +0000" stop="20260924213000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924213000 +0000" stop="20260924233000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924233000 +0000" stop="20260925003200 +0000" channel="24">
-    <title>Transmission Open</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51928?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925003200 +0000" stop="20260925011000 +0000" channel="24">
-    <title>Sathara Kamatahan Bawana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33410?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925011000 +0000" stop="20260925013000 +0000" channel="24">
-    <title>Udasana Sambuddha Pujawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50406?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925020000 +0000" channel="24">
-    <title>Udasana Sambuddha Pujawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50406?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925023000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925023000 +0000" stop="20260925033000 +0000" channel="24">
-    <title>Dayakathva Dharma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925043000 +0000" channel="24">
-    <title>Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925043000 +0000" stop="20260925053000 +0000" channel="24">
-    <title>Documentary Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925060000 +0000" channel="24">
-    <title>Dahawala Buddha Pujawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925060000 +0000" stop="20260925070000 +0000" channel="24">
-    <title>Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925070000 +0000" stop="20260925073000 +0000" channel="24">
-    <title>Documentary Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925073000 +0000" stop="20260925083000 +0000" channel="24">
     <title>Dharma Deshanaya</title>
     <desc />
@@ -702,5 +637,75 @@
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260929231500 +0000" channel="24">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929231500 +0000" stop="20260929233000 +0000" channel="24">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929233000 +0000" stop="20260930003200 +0000" channel="24">
+    <title>Transmission Open</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930003200 +0000" stop="20260930011000 +0000" channel="24">
+    <title>Sathara Kamatahan Bawana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930011000 +0000" stop="20260930013000 +0000" channel="24">
+    <title>Udasana Sambuddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50406?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="24">
+    <title>Udasana Sambuddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50406?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930020000 +0000" stop="20260930023000 +0000" channel="24">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930023000 +0000" stop="20260930033000 +0000" channel="24">
+    <title>Dayakathva Dharma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930033000 +0000" stop="20260930043000 +0000" channel="24">
+    <title>Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930043000 +0000" stop="20260930053000 +0000" channel="24">
+    <title>Documentary Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50409?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930053000 +0000" stop="20260930060000 +0000" channel="24">
+    <title>Dahawala Buddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="24">
+    <title>Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="24">
+    <title>Documentary Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50409?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930073000 +0000" stop="20260930083000 +0000" channel="24">
+    <title>Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50408?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

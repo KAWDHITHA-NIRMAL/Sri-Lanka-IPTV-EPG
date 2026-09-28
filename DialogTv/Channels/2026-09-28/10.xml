@@ -3,61 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260924170000 +0000" stop="20260925005900 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925005900 +0000" stop="20260925010000 +0000" channel="10">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925013000 +0000" channel="10">
-    <title>English News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925020000 +0000" channel="10">
-    <title>07:30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925023000 +0000" channel="10">
-    <title>Pathikada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/687815?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925023000 +0000" stop="20260925033000 +0000" channel="10">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925043000 +0000" channel="10">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925043000 +0000" stop="20260925050000 +0000" channel="10">
-    <title>Bondi Rescue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816053?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="10">
-    <title>Ilakkaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815058?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925063000 +0000" channel="10">
-    <title>Jathiak Mehewara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925063000 +0000" stop="20260925070000 +0000" channel="10">
-    <title>Lunch Time News (SIN</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925070000 +0000" stop="20260925080000 +0000" channel="10">
     <title>Abc News At Noon</title>
     <desc />
@@ -515,5 +460,60 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930005900 +0000" stop="20260930010000 +0000" channel="10">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="10">
+    <title>English News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="10">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930020000 +0000" stop="20260930023000 +0000" channel="10">
+    <title>Pathikada</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/687815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930023000 +0000" stop="20260930033000 +0000" channel="10">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/733408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930033000 +0000" stop="20260930043000 +0000" channel="10">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724860?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930043000 +0000" stop="20260930050000 +0000" channel="10">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930050000 +0000" stop="20260930053000 +0000" channel="10">
+    <title>The Full Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815056?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930053000 +0000" stop="20260930063000 +0000" channel="10">
+    <title>Jathiak Mehewara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815054?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930063000 +0000" stop="20260930070000 +0000" channel="10">
+    <title>Lunch Time News (SIN</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930070000 +0000" stop="20260930080000 +0000" channel="10">
+    <title>Abc News At Noon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945907?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

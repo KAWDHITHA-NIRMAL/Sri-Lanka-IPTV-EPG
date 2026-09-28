@@ -3,56 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20260924173000 +0000" stop="20260924200000 +0000" channel="18">
-    <title>Wishmaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949059?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924200000 +0000" stop="20260924203000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260924203000 +0000" stop="20260924210000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924213000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260924213000 +0000" stop="20260925000000 +0000" channel="18">
-    <title>Seeye Nottuwa</title>
-    <desc />
-  </programme>
-  <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260925003000 +0000" stop="20260925010000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925013000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925040000 +0000" channel="18">
-    <title>Sudu Sade Kalu Wala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949058?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925040000 +0000" stop="20260925043000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260925043000 +0000" stop="20260925050000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
-  <programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="18">
-    <title>Samanala Wasanthaya</title>
-    <desc />
-  </programme>
   <programme start="20260925053000 +0000" stop="20260925080000 +0000" channel="18">
     <title>Sudu Sade Kalu Wala</title>
     <desc />
@@ -359,7 +309,6 @@
   <programme start="20260928053000 +0000" stop="20260928080000 +0000" channel="18">
     <title>Chandi Rajina</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949058?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20260928080000 +0000" stop="20260928083000 +0000" channel="18">
     <title>Samanala Wasanthaya</title>
@@ -528,5 +477,65 @@
     <title>Allapu Gedara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/754525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260930000000 +0000" channel="18">
+    <title>Hero Nero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930003000 +0000" stop="20260930010000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930040000 +0000" channel="18">
+    <title>Kabadi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930040000 +0000" stop="20260930043000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930043000 +0000" stop="20260930050000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930050000 +0000" stop="20260930053000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/752830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930053000 +0000" stop="20260930080000 +0000" channel="18">
+    <title>Kabadi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/755021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

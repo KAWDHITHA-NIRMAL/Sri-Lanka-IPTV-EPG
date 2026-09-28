@@ -3,34 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20260924183000 +0000" stop="20260924203000 +0000" channel="63">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924203000 +0000" stop="20260925003000 +0000" channel="63">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925003000 +0000" stop="20260925013000 +0000" channel="63">
-    <title>Highlights - Triumvirate - Annual Rowing Encounter 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925033000 +0000" channel="63">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925053000 +0000" channel="63">
-    <title>Highlights - SLSRFA Elite U20 Sevens</title>
-    <desc />
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925073000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925073000 +0000" stop="20260925093000 +0000" channel="63">
     <title>Repeat - Dialog Schools Rugby League 2026</title>
     <desc />
@@ -295,5 +267,36 @@
     <title>Repeat - Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929203000 +0000" stop="20260930003000 +0000" channel="63">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930003000 +0000" stop="20260930013000 +0000" channel="63">
+    <title>Highlights -  NEXT XV Rugby League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930033000 +0000" channel="63">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930033000 +0000" stop="20260930053000 +0000" channel="63">
+    <title>Highlights - SLSRFA Elite U20 Sevens</title>
+    <desc />
+  </programme>
+  <programme start="20260930053000 +0000" stop="20260930070000 +0000" channel="63">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="63">
+    <title>Highlights - India Tour of South Africa 2024</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949082?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
   </programme>
 </tv>

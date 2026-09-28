@@ -3,46 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260924183000 +0000" stop="20260924184500 +0000" channel="124">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924184500 +0000" stop="20260924204500 +0000" channel="124">
-    <title>Live UEFA Nations League 2026/27 Portugal vs Wales</title>
-    <desc />
-  </programme>
-  <programme start="20260924204500 +0000" stop="20260924210000 +0000" channel="124">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924213000 +0000" channel="124">
-    <title>England vs India 2022-3rd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947167?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924213000 +0000" stop="20260924223000 +0000" channel="124">
-    <title>New Zealand Vs India 2020 4th T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948605?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260924223000 +0000" stop="20260924230000 +0000" channel="124">
-    <title>England vs Sri Lanka 2026 - 2nd T20 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026- Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260925000000 +0000" stop="20260925033000 +0000" channel="124">
-    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925063000 +0000" channel="124">
-    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
-    <desc />
-  </programme>
   <programme start="20260925063000 +0000" stop="20260925093000 +0000" channel="124">
     <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
@@ -220,20 +180,28 @@
     <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
-  <programme start="20260928060000 +0000" stop="20260928123000 +0000" channel="124">
+  <programme start="20260928060000 +0000" stop="20260928070000 +0000" channel="124">
     <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
-  <programme start="20260928123000 +0000" stop="20260928133000 +0000" channel="124">
-    <title>Live Sports Extraaa</title>
+  <programme start="20260928070000 +0000" stop="20260928100000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260928100000 +0000" stop="20260928113000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026 MEN'S HOCKEY INDIA v BANGLADESH</title>
+    <desc />
+  </programme>
+  <programme start="20260928113000 +0000" stop="20260928133000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
   <programme start="20260928133000 +0000" stop="20260928143000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <title>Live Sports Extraaa</title>
     <desc />
   </programme>
   <programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="124">
-    <title>UNL 2026-27 MD2 MN1 Matchnight Highlights</title>
+    <title>20th Asian Games-Aichi-Nagoya 2026- Highlights</title>
     <desc />
   </programme>
   <programme start="20260928153000 +0000" stop="20260928160000 +0000" channel="124">
@@ -267,35 +235,47 @@
     <desc />
   </programme>
   <programme start="20260928213000 +0000" stop="20260928223000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <title>UNL 2026-27 MD2 MN1 Matchnight Highlights</title>
     <desc />
   </programme>
   <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026-Men QF1 - Pakistan vs 2nd Place of Group B Highlights</title>
+    <title>20th Asian Games-Aichi-Nagoya 2026-Men QF1 - Pakistan vs PAKISTAN vs HONGKONG Highlights</title>
     <desc />
   </programme>
   <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <title>20th Asian Games-Aichi-Nagoya 2026-  Highlights</title>
     <desc />
   </programme>
-  <programme start="20260929000000 +0000" stop="20260929060000 +0000" channel="124">
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026-Men QF2 - India vs INDIA vs AFGHANISTAN Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026-Men QF1 - Pakistan vs PAKISTAN vs HONGKONG Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929040000 +0000" channel="124">
     <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
-  <programme start="20260929060000 +0000" stop="20260929123000 +0000" channel="124">
+  <programme start="20260929040000 +0000" stop="20260929073000 +0000" channel="124">
     <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="124">
-    <title>Live Sports Extraaa</title>
+  <programme start="20260929073000 +0000" stop="20260929103000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929133000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
     <desc />
   </programme>
   <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <title>Live Sports Extraaa</title>
     <desc />
   </programme>
   <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="124">
-    <title>UNL 2026-27 MD2 MN2 Matchnight Highlights</title>
+    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
     <desc />
   </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="124">
@@ -314,5 +294,42 @@
     <title>Snippets</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929184500 +0000" stop="20260929204500 +0000" channel="124">
+    <title>Live UEFA Nations League 2026/27 Scotland vs Switzerland</title>
+    <desc />
+  </programme>
+  <programme start="20260929204500 +0000" stop="20260929210000 +0000" channel="124">
+    <title>Snippets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="124">
+    <title>AG 2026 Cricket (M) QF4 - Bangladesh vs Winner of Group B Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260929223000 +0000" channel="124">
+    <title>UNL 2026-27 MD2 MN2 Matchnight Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260929223000 +0000" stop="20260929230000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026-Men QF2 - India vs INDIA vs AFGHANISTAN Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930040000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930040000 +0000" stop="20260930073000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930073000 +0000" stop="20260930090000 +0000" channel="124">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026 WOMEN'S HOCKEY SEMIFINAL</title>
+    <desc />
   </programme>
 </tv>
