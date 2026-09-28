@@ -3,34 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="73">
-    <title>The Mask</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948100?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="73">
-    <title>Bell, Book And Candle</title>
-    <desc />
-  </programme>
-  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="73">
-    <title>Resident Evil: Retribution</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925140000 +0000" channel="73">
-    <title>Teenage Mutant Ninja Turtles Ii: The Secret Of The Ooze</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946956?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925163000 +0000" channel="73">
-    <title>Coach Carter</title>
-    <desc />
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925183000 +0000" channel="73">
-    <title>Police Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925183000 +0000" stop="20260925203000 +0000" channel="73">
     <title>Xanadu</title>
     <desc />
@@ -255,6 +227,23 @@
   </programme>
   <programme start="20260930071500 +0000" stop="20260930094500 +0000" channel="73">
     <title>Coach Carter</title>
+    <desc />
+  </programme>
+  <programme start="20260930094500 +0000" stop="20260930120000 +0000" channel="73">
+    <title>Constantine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930141500 +0000" channel="73">
+    <title>Gung Ho</title>
+    <desc />
+  </programme>
+  <programme start="20260930141500 +0000" stop="20260930163000 +0000" channel="73">
+    <title>Charlie And The Chocolate Factory</title>
+    <desc />
+  </programme>
+  <programme start="20260930163000 +0000" stop="20260930190000 +0000" channel="73">
+    <title>Vertigo</title>
     <desc />
   </programme>
 </tv>

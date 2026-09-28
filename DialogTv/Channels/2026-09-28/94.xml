@@ -3,31 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="94">
-    <title>Kaimanam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/721726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925113000 +0000" channel="94">
-    <title>Gopura Dheepam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="94">
-    <title>Rasika Rusika</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925130000 +0000" channel="94">
-    <title>Gamma Gamma Malai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/190426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925163000 +0000" channel="94">
-    <title>Enga Chinna Rasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925163000 +0000" stop="20260925193000 +0000" channel="94">
     <title>Gopura Dheepam</title>
     <desc />
@@ -406,5 +381,53 @@
     <title>Arusuvai Neram</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/190456?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930113000 +0000" channel="94">
+    <title>Alexander</title>
+    <desc />
+  </programme>
+  <programme start="20260930113000 +0000" stop="20260930120000 +0000" channel="94">
+    <title>En Samayalo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/721723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930123000 +0000" channel="94">
+    <title>Gamma Gamma Malai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930130000 +0000" channel="94">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930130000 +0000" stop="20260930133000 +0000" channel="94">
+    <title>Dheivegam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/884563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930133000 +0000" stop="20260930140000 +0000" channel="94">
+    <title>Enge Brahamanan</title>
+    <desc />
+  </programme>
+  <programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="94">
+    <title>Sani Bhagavan</title>
+    <desc />
+  </programme>
+  <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="94">
+    <title>Ketti Melam</title>
+    <desc />
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930153000 +0000" channel="94">
+    <title>Sahana</title>
+    <desc />
+  </programme>
+  <programme start="20260930153000 +0000" stop="20260930163000 +0000" channel="94">
+    <title>Mettu Podu</title>
+    <desc />
+  </programme>
+  <programme start="20260930163000 +0000" stop="20260930193000 +0000" channel="94">
+    <title>Alexander</title>
+    <desc />
   </programme>
 </tv>

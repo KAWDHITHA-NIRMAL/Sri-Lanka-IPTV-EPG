@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925103000 +0000" channel="95">
-    <title>Thaye Bhuvaneshwari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948637?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925103000 +0000" stop="20260925133000 +0000" channel="95">
-    <title>Kaveri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925133000 +0000" stop="20260925170000 +0000" channel="95">
-    <title>Dharma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948639?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925170000 +0000" stop="20260925200000 +0000" channel="95">
     <title>Kungumachimizh</title>
     <desc />
@@ -194,6 +179,18 @@
   </programme>
   <programme start="20260930073000 +0000" stop="20260930103000 +0000" channel="95">
     <title>Pudhiya Vaarpugal</title>
+    <desc />
+  </programme>
+  <programme start="20260930103000 +0000" stop="20260930133000 +0000" channel="95">
+    <title>Kattu Paiyan Sir Intha Kali</title>
+    <desc />
+  </programme>
+  <programme start="20260930133000 +0000" stop="20260930170000 +0000" channel="95">
+    <title>Thirumanam Enum Nikkah</title>
+    <desc />
+  </programme>
+  <programme start="20260930170000 +0000" stop="20260930200000 +0000" channel="95">
+    <title>Nizhalgal</title>
     <desc />
   </programme>
 </tv>

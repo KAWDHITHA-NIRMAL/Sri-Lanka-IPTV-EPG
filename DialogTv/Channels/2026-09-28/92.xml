@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260925060000 +0000" stop="20260925090000 +0000" channel="92">
-    <title>Krantiveer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948399?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925090000 +0000" stop="20260925120000 +0000" channel="92">
-    <title>Lost</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948400?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925150000 +0000" channel="92">
-    <title>Agni (2024)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925150000 +0000" stop="20260925180000 +0000" channel="92">
-    <title>Vishwaroopam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947871?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925180000 +0000" stop="20260925210000 +0000" channel="92">
     <title>Madaari</title>
     <desc />
@@ -205,5 +185,23 @@
   <programme start="20260930060000 +0000" stop="20260930090000 +0000" channel="92">
     <title>Hero Hindustani</title>
     <desc />
+  </programme>
+  <programme start="20260930090000 +0000" stop="20260930120000 +0000" channel="92">
+    <title>Suhaag</title>
+    <desc />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930150000 +0000" channel="92">
+    <title>Traffic Signal</title>
+    <desc />
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930180000 +0000" channel="92">
+    <title>Game Changer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948987?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930180000 +0000" stop="20260930210000 +0000" channel="92">
+    <title>Pukar (1983)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948986?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

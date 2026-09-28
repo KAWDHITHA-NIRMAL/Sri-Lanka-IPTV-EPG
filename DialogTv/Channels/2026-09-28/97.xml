@@ -3,51 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925113000 +0000" channel="97">
-    <title>Aadhavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948395?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="97">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/397104?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925130000 +0000" channel="97">
-    <title>Katrathu Samayal S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925133000 +0000" channel="97">
-    <title>Ramanujar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/832028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925133000 +0000" stop="20260925143000 +0000" channel="97">
-    <title>Priyamanaval</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/756384?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="97">
-    <title>Kannethirey Thondrinaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="97">
-    <title>Thendral</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/152768?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925153000 +0000" stop="20260925190000 +0000" channel="97">
     <title>Iraivan</title>
     <desc />
@@ -502,5 +457,48 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930113000 +0000" channel="97">
+    <title>Kalloori</title>
+    <desc />
+  </programme>
+  <programme start="20260930113000 +0000" stop="20260930120000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/397104?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930123000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930130000 +0000" channel="97">
+    <title>Katrathu Samayal S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754335?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930130000 +0000" stop="20260930133000 +0000" channel="97">
+    <title>Ramanujar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/832028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930133000 +0000" stop="20260930143000 +0000" channel="97">
+    <title>Priyamanaval</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/756384?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="97">
+    <title>Kannethirey Thondrinaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911753?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930153000 +0000" channel="97">
+    <title>Thendral</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/152768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930153000 +0000" stop="20260930190000 +0000" channel="97">
+    <title>Abiyum  Naanum</title>
+    <desc />
   </programme>
 </tv>

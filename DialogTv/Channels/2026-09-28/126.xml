@@ -3,31 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925093000 +0000" channel="126">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925093000 +0000" stop="20260925113000 +0000" channel="126">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925123000 +0000" channel="126">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925143000 +0000" channel="126">
-    <title>Live - Colombo Aces vs Jaffna Bulls - NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="126">
-    <title>Live - Kandy Tuskers vs Galle Lions - NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925183000 +0000" channel="126">
-    <title>Repeat -  Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
-    <desc />
-  </programme>
   <programme start="20260925183000 +0000" stop="20260925203000 +0000" channel="126">
     <title>Repeat -  Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
     <desc />
@@ -311,5 +286,26 @@
   <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="126">
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930093000 +0000" channel="126">
+    <title>Live - India vs West Indies - 2nd ODI - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930093000 +0000" stop="20260930123000 +0000" channel="126">
+    <title>Live - India vs West Indies - 2nd ODI - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930173000 +0000" channel="126">
+    <title>Live - India vs West Indies - 2nd ODI - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="126">
+    <title>Repeat - India tour of South Africa 2024</title>
+    <desc />
+  </programme>
+  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="126">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

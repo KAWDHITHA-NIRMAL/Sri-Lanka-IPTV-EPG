@@ -3,39 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925093000 +0000" channel="127">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925093000 +0000" stop="20260925113000 +0000" channel="127">
-    <title>Highlights - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925123000 +0000" channel="127">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925140000 +0000" channel="127">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925143000 +0000" channel="127">
-    <title>Segment - Sports Bulletin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946388?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="127">
-    <title>Highlights - SLSRFA Elite U20 Sevens</title>
-    <desc />
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925183000 +0000" channel="127">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925183000 +0000" stop="20260925203000 +0000" channel="127">
     <title>Repeat - Dialog Schools Rugby League 2026</title>
     <desc />
@@ -290,5 +257,23 @@
   <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="127">
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930123000 +0000" channel="127">
+    <title>Live - India vs West Indies - 2nd ODI - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930173000 +0000" channel="127">
+    <title>Live - India vs West Indies - 2nd ODI - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="127">
+    <title>Highlights - ICC Men's T20 World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949079?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="127">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

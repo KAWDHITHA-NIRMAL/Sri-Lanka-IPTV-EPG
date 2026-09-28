@@ -3,45 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260925073000 +0000" stop="20260925103000 +0000" channel="15">
-    <title>Siyatha Tharupiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941837?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925103000 +0000" stop="20260925113000 +0000" channel="15">
-    <title>Studio One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695928?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925123000 +0000" channel="15">
-    <title>Poddo Waddo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925133000 +0000" stop="20260925153000 +0000" channel="15">
-    <title>Voice Of Family</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/913372?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925153000 +0000" stop="20260925163000 +0000" channel="15">
-    <title>Siyatha Tv News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/766723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="15">
-    <title>Miss World 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260925170000 +0000" stop="20260925183000 +0000" channel="15">
-    <title>Siyatha Sadde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925183000 +0000" stop="20260925203000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -540,5 +501,60 @@
     <title>Voice Of Family</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/913372?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930093000 +0000" stop="20260930103000 +0000" channel="15">
+    <title>Kelibima</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943803?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930103000 +0000" stop="20260930113000 +0000" channel="15">
+    <title>Studio One</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/695928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930113000 +0000" stop="20260930123000 +0000" channel="15">
+    <title>Poddo Waddo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/692266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930133000 +0000" channel="15">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930133000 +0000" stop="20260930140000 +0000" channel="15">
+    <title>Ola Mola Pure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915903?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="15">
+    <title>Eyath Lassanayi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/913331?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="15">
+    <title>Doovili</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930153000 +0000" channel="15">
+    <title>Balan Inna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943802?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930153000 +0000" stop="20260930163000 +0000" channel="15">
+    <title>Siyatha Tv News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/766723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930163000 +0000" stop="20260930183000 +0000" channel="15">
+    <title>Threekonaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

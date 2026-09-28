@@ -3,30 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260925050000 +0000" stop="20260925080100 +0000" channel="101">
-    <title>Karnan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080100 +0000" stop="20260925103000 +0000" channel="101">
-    <title>Kattappava Kanom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948384?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925103000 +0000" stop="20260925130000 +0000" channel="101">
-    <title>Tripura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948385?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925160000 +0000" channel="101">
-    <title>Jawaan</title>
-    <desc />
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925170000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925170000 +0000" stop="20260925191400 +0000" channel="101">
     <title>KGF: Chapter 2</title>
     <desc />
@@ -278,5 +254,33 @@
   <programme start="20260930050000 +0000" stop="20260930080000 +0000" channel="101">
     <title>Paapan</title>
     <desc />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930103000 +0000" channel="101">
+    <title>Amigos</title>
+    <desc />
+  </programme>
+  <programme start="20260930103000 +0000" stop="20260930130000 +0000" channel="101">
+    <title>Vellakkara Durai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930130000 +0000" stop="20260930160000 +0000" channel="101">
+    <title>V</title>
+    <desc />
+  </programme>
+  <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930170000 +0000" stop="20260930193000 +0000" channel="101">
+    <title>Adade Sundara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948296?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

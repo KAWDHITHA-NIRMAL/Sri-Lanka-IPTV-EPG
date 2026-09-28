@@ -3,43 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260925061000 +0000" stop="20260925080000 +0000" channel="125">
-    <title>NRL Roosters v Sharks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947695?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925094500 +0000" channel="125">
-    <title>NRL Warriors v Knights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947698?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925094500 +0000" stop="20260925115000 +0000" channel="125">
-    <title>LIVE NRL Dolphins v Roosters</title>
-    <desc />
-  </programme>
-  <programme start="20260925115000 +0000" stop="20260925122000 +0000" channel="125">
-    <title>Top 14 Highlights Round 3</title>
-    <desc />
-  </programme>
-  <programme start="20260925122000 +0000" stop="20260925124000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925124000 +0000" stop="20260925143000 +0000" channel="125">
-    <title>Super League Warrington v Hull KR</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925162000 +0000" channel="125">
-    <title>Top 14 Bordeaux Begles v Stade Francais</title>
-    <desc />
-  </programme>
-  <programme start="20260925162000 +0000" stop="20260925181000 +0000" channel="125">
-    <title>SANZAAR International Tour Serie Argentina v Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925181000 +0000" stop="20260925184000 +0000" channel="125">
     <title>Top 14 Highlights Round 3</title>
     <desc />
@@ -502,6 +465,35 @@
   </programme>
   <programme start="20260930060000 +0000" stop="20260930075000 +0000" channel="125">
     <title>United Rugby Championship Zebre Parma v Bulls</title>
+    <desc />
+  </programme>
+  <programme start="20260930075000 +0000" stop="20260930082000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930082000 +0000" stop="20260930101000 +0000" channel="125">
+    <title>NRL Dolphins v Roosters</title>
+    <desc />
+  </programme>
+  <programme start="20260930101000 +0000" stop="20260930120000 +0000" channel="125">
+    <title>NRL Panthers v Knights</title>
+    <desc />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930123000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+  </programme>
+  <programme start="20260930123000 +0000" stop="20260930150000 +0000" channel="125">
+    <title>AFL Fremantle v Brisbane</title>
+    <desc />
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930165000 +0000" channel="125">
+    <title>United Rugby Championship Benetton v Dragons</title>
+    <desc />
+  </programme>
+  <programme start="20260930165000 +0000" stop="20260930184000 +0000" channel="125">
+    <title>United Rugby Championship Connacht v Stormers</title>
     <desc />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="72">
-    <title>Vertigo -High Lane</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948356?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="72">
-    <title>Orphan First Kill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="72">
-    <title>Just My Luck</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944040?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925140000 +0000" channel="72">
-    <title>Hardball</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="72">
-    <title>Hustlers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925180000 +0000" channel="72">
-    <title>Spread</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="72">
     <title>Backstabbing For Beginners</title>
     <desc />
@@ -307,5 +277,25 @@
     <title>Monalisa And The Blood Moon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930100000 +0000" channel="72">
+    <title>Danger Close</title>
+    <desc />
+  </programme>
+  <programme start="20260930100000 +0000" stop="20260930120000 +0000" channel="72">
+    <title>I See You</title>
+    <desc />
+  </programme>
+  <programme start="20260930120000 +0000" stop="20260930140000 +0000" channel="72">
+    <title>Aftermath</title>
+    <desc />
+  </programme>
+  <programme start="20260930140000 +0000" stop="20260930160000 +0000" channel="72">
+    <title>Precious Cargo</title>
+    <desc />
+  </programme>
+  <programme start="20260930160000 +0000" stop="20260930200000 +0000" channel="72">
+    <title>Movie</title>
+    <desc />
   </programme>
 </tv>

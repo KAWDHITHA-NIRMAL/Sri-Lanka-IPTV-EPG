@@ -3,35 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260925063000 +0000" stop="20260925080000 +0000" channel="117">
-    <title>The Love Guru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948145?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925104000 +0000" channel="117">
-    <title>Path To War</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925104000 +0000" stop="20260925121500 +0000" channel="117">
-    <title>Pu-239</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/914748?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925121500 +0000" stop="20260925140000 +0000" channel="117">
-    <title>High Rollers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925153500 +0000" channel="117">
-    <title>Armor</title>
-    <desc />
-  </programme>
-  <programme start="20260925153500 +0000" stop="20260925171000 +0000" channel="117">
-    <title>Black Bag</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260925171000 +0000" stop="20260925184000 +0000" channel="117">
     <title>Neighbors</title>
     <desc />
@@ -351,5 +322,32 @@
     <title>Something The Lord Made</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930090500 +0000" stop="20260930104000 +0000" channel="117">
+    <title>Last Breath</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/871080?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930104000 +0000" stop="20260930121500 +0000" channel="117">
+    <title>Hostile Waters</title>
+    <desc />
+  </programme>
+  <programme start="20260930121500 +0000" stop="20260930140000 +0000" channel="117">
+    <title>The Truman Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20260930140000 +0000" stop="20260930154000 +0000" channel="117">
+    <title>The Last Gunfight</title>
+    <desc />
+  </programme>
+  <programme start="20260930154000 +0000" stop="20260930171500 +0000" channel="117">
+    <title>Pet Sematary Two</title>
+    <desc />
+  </programme>
+  <programme start="20260930171500 +0000" stop="20260930190000 +0000" channel="117">
+    <title>Death Of A Unicorn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/917086?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
