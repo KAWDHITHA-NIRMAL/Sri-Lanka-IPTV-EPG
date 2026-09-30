@@ -3,55 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20260926163000 +0000" stop="20260926183000 +0000" channel="20">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260926183000 +0000" stop="20260926203000 +0000" channel="20">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260926203000 +0000" stop="20260927003000 +0000" channel="20">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260927003000 +0000" stop="20260927013000 +0000" channel="20">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260927013000 +0000" stop="20260927033000 +0000" channel="20">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260927033000 +0000" stop="20260927053000 +0000" channel="20">
-    <title>Highlights - SLSRFA Elite U20 Sevens</title>
-    <desc />
-  </programme>
-  <programme start="20260927053000 +0000" stop="20260927070000 +0000" channel="20">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260927070000 +0000" stop="20260927080000 +0000" channel="20">
-    <title>Highlights - India tour of South Africa 2024</title>
-    <desc />
-  </programme>
-  <programme start="20260927080000 +0000" stop="20260927123000 +0000" channel="20">
-    <title>Live - AIR SLAM 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260927123000 +0000" stop="20260927163000 +0000" channel="20">
-    <title>Live - AIR SLAM 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260927163000 +0000" stop="20260927173000 +0000" channel="20">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="20">
     <title>Highlights - ICC Men's T20 World Cup 2026</title>
     <desc />
@@ -221,7 +172,7 @@
     <desc />
   </programme>
   <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="20">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
+    <title>Repeat - Super League 2026</title>
     <desc />
   </programme>
   <programme start="20260930203000 +0000" stop="20261001003000 +0000" channel="20">
@@ -229,7 +180,7 @@
     <desc />
   </programme>
   <programme start="20261001003000 +0000" stop="20261001013000 +0000" channel="20">
-    <title>Highlights - Triumvirate - Annual Rowing Encounter 2026</title>
+    <title>Highlights -  NEXT XV Rugby League 2026</title>
     <desc />
   </programme>
   <programme start="20261001013000 +0000" stop="20261001033000 +0000" channel="20">
@@ -240,32 +191,92 @@
     <title>Highlights - SLSRFA Elite U20 Sevens</title>
     <desc />
   </programme>
-  <programme start="20261001053000 +0000" stop="20261001073000 +0000" channel="20">
+  <programme start="20261001053000 +0000" stop="20261001070000 +0000" channel="20">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
   </programme>
-  <programme start="20261001073000 +0000" stop="20261001093000 +0000" channel="20">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
+  <programme start="20261001070000 +0000" stop="20261001073000 +0000" channel="20">
+    <title>Highlights - India tour of South Africa 2024</title>
     <desc />
   </programme>
-  <programme start="20261001093000 +0000" stop="20261001113000 +0000" channel="20">
-    <title>Highlights - Dialog Schools Rugby League 2026</title>
+  <programme start="20261001073000 +0000" stop="20261001083000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
     <desc />
   </programme>
-  <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="20">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
+  <programme start="20261001083000 +0000" stop="20261001123000 +0000" channel="20">
+    <title>Repeat -  Bangladesh tour of India 2024</title>
     <desc />
   </programme>
   <programme start="20261001123000 +0000" stop="20261001143000 +0000" channel="20">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
   </programme>
-  <programme start="20261001143000 +0000" stop="20261001163000 +0000" channel="20">
+  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="20">
+    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
+    <desc />
+  </programme>
+  <programme start="20261001153000 +0000" stop="20261001173000 +0000" channel="20">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="20">
+    <title>Highlights - ICC Men's T20 World Cup 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261001183000 +0000" stop="20261001203000 +0000" channel="20">
+    <title>Repeat - Super League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261001203000 +0000" stop="20261002003000 +0000" channel="20">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002013000 +0000" channel="20">
+    <title>Highlights -  NEXT XV Rugby League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002033000 +0000" channel="20">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002033000 +0000" stop="20261002053000 +0000" channel="20">
     <title>Highlights - SLSRFA Elite U20 Sevens</title>
     <desc />
   </programme>
-  <programme start="20261001163000 +0000" stop="20261001183000 +0000" channel="20">
-    <title>Repeat - Super League 2026</title>
+  <programme start="20261002053000 +0000" stop="20261002070000 +0000" channel="20">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002070000 +0000" stop="20261002073000 +0000" channel="20">
+    <title>Highlights - India tour of South Africa 2024</title>
+    <desc />
+  </programme>
+  <programme start="20261002073000 +0000" stop="20261002083000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002083000 +0000" stop="20261002123000 +0000" channel="20">
+    <title>Repeat -  Bangladesh tour of India 2024</title>
+    <desc />
+  </programme>
+  <programme start="20261002123000 +0000" stop="20261002140000 +0000" channel="20">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002140000 +0000" stop="20261002150000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002150000 +0000" stop="20261002153000 +0000" channel="20">
+    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
+    <desc />
+  </programme>
+  <programme start="20261002153000 +0000" stop="20261002173000 +0000" channel="20">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261002173000 +0000" stop="20261002183000 +0000" channel="20">
+    <title>Highlights - ICC Men's T20 World Cup 2026</title>
     <desc />
   </programme>
 </tv>
