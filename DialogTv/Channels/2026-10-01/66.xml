@@ -3,22 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20260928133000 +0000" stop="20260928143000 +0000" channel="66">
-    <title>Live Sports Extraaa</title>
-    <desc />
-  </programme>
-  <programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="66">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260928153000 +0000" stop="20260928160000 +0000" channel="66">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-  </programme>
-  <programme start="20260928160000 +0000" stop="20260928180000 +0000" channel="66">
-    <title>Live UEFA Nations League 2026/27 Georgia vs Ukraine</title>
-    <desc />
-  </programme>
   <programme start="20260928180000 +0000" stop="20260928184500 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Norway vs Portugal Highlights</title>
     <desc />
@@ -232,10 +216,12 @@
   <programme start="20261001170000 +0000" stop="20261001174500 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Spain vs Croatia Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950243?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261001174500 +0000" stop="20261001184500 +0000" channel="66">
     <title>UNL 2026-27 MD2 Matchweek Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950244?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261001184500 +0000" stop="20261001204500 +0000" channel="66">
     <title>Live UEFA Nations League 2026/27 Denmark vs Portugal</title>
@@ -244,6 +230,7 @@
   <programme start="20261001204500 +0000" stop="20261001210000 +0000" channel="66">
     <title>Snippets</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261001210000 +0000" stop="20261001220000 +0000" channel="66">
     <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
@@ -252,6 +239,7 @@
   <programme start="20261001220000 +0000" stop="20261001223000 +0000" channel="66">
     <title>UCL 2026-27 League Phase MD 1 Borussia Dortmund vs VillarrealHighlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261001223000 +0000" stop="20261001230000 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Turkiye vs Italy Highlights</title>
@@ -292,6 +280,7 @@
   <programme start="20261002160000 +0000" stop="20261002180000 +0000" channel="66">
     <title>Live UEFA Nations League 2026/27 Latvia vs MonTenegro</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002180000 +0000" stop="20261002184500 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 3 Denmark vs Portugal Highlights</title>
@@ -300,10 +289,12 @@
   <programme start="20261002184500 +0000" stop="20261002204500 +0000" channel="66">
     <title>Live UEFA Nations League 2026/27 France vs Italy</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002204500 +0000" stop="20261002210000 +0000" channel="66">
     <title>Snippets</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002210000 +0000" stop="20261002220000 +0000" channel="66">
     <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
@@ -312,6 +303,7 @@
   <programme start="20261002220000 +0000" stop="20261002223000 +0000" channel="66">
     <title>UCL 2026-27 League Phase MD 1 Paris vs Slavia Bratislava Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002223000 +0000" stop="20261002230000 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Spain vs Croatia Highlights</title>
@@ -336,9 +328,40 @@
   <programme start="20261003130000 +0000" stop="20261003140000 +0000" channel="66">
     <title>Live Football Extraaa</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951750?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003140000 +0000" stop="20261003144500 +0000" channel="66">
     <title>Live FIFA International friendlies India vs Brazil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003144500 +0000" stop="20261003150000 +0000" channel="66">
+    <title>Live Football Extraaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951750?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003154500 +0000" channel="66">
+    <title>Live FIFA International friendlies India vs Brazil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003154500 +0000" stop="20261003164500 +0000" channel="66">
+    <title>Live Football Extraaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951750?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003164500 +0000" stop="20261003171500 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 3 France vs Italy Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/700563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003171500 +0000" stop="20261003174500 +0000" channel="66">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003174500 +0000" stop="20261003184500 +0000" channel="66">
+    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
     <desc />
   </programme>
 </tv>
