@@ -3,46 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260927170000 +0000" stop="20260927193000 +0000" channel="101">
-    <title>Rajini Murugan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260927193000 +0000" stop="20260927214200 +0000" channel="101">
-    <title>Rekka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260927214200 +0000" stop="20260927220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/723376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="101">
-    <title>Puppy</title>
-    <desc />
-  </programme>
-  <programme start="20260928000000 +0000" stop="20260928023000 +0000" channel="101">
-    <title>Thank You</title>
-    <desc />
-  </programme>
-  <programme start="20260928023000 +0000" stop="20260928045800 +0000" channel="101">
-    <title>Murder</title>
-    <desc />
-  </programme>
-  <programme start="20260928045800 +0000" stop="20260928080000 +0000" channel="101">
-    <title>8 Thottakkal</title>
-    <desc />
-  </programme>
-  <programme start="20260928080000 +0000" stop="20260928103000 +0000" channel="101">
-    <title>Raghu Thatha</title>
-    <desc />
-  </programme>
-  <programme start="20260928103000 +0000" stop="20260928130000 +0000" channel="101">
-    <title>Regai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20260928130000 +0000" stop="20260928160300 +0000" channel="101">
     <title>Ezra</title>
     <desc />
@@ -193,23 +153,27 @@
     <desc />
   </programme>
   <programme start="20261001130000 +0000" stop="20261001160000 +0000" channel="101">
-    <title>CBI 5</title>
+    <title>CBI 5: The Brain</title>
     <desc />
   </programme>
-  <programme start="20261001160000 +0000" stop="20261001163000 +0000" channel="101">
+  <programme start="20261001160000 +0000" stop="20261001170000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
   </programme>
-  <programme start="20261001163000 +0000" stop="20261001170000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
-  <programme start="20261001170000 +0000" stop="20261001193000 +0000" channel="101">
+  <programme start="20261001170000 +0000" stop="20261001191300 +0000" channel="101">
     <title>Jai Hind 2</title>
     <desc />
   </programme>
-  <programme start="20261001193000 +0000" stop="20261001220000 +0000" channel="101">
+  <programme start="20261001191300 +0000" stop="20261001193000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+  </programme>
+  <programme start="20261001193000 +0000" stop="20261001214700 +0000" channel="101">
     <title>Kaadan</title>
+    <desc />
+  </programme>
+  <programme start="20261001214700 +0000" stop="20261001220000 +0000" channel="101">
+    <title>Fillers</title>
     <desc />
   </programme>
   <programme start="20261001220000 +0000" stop="20261002003000 +0000" channel="101">
@@ -242,6 +206,38 @@
   </programme>
   <programme start="20261002170000 +0000" stop="20261002193000 +0000" channel="101">
     <title>Jawan</title>
+    <desc />
+  </programme>
+  <programme start="20261002193000 +0000" stop="20261002220000 +0000" channel="101">
+    <title>Karnan</title>
+    <desc />
+  </programme>
+  <programme start="20261002220000 +0000" stop="20261003000000 +0000" channel="101">
+    <title>Asvins</title>
+    <desc />
+  </programme>
+  <programme start="20261003000000 +0000" stop="20261003023000 +0000" channel="101">
+    <title>Thiruttu Payale 2</title>
+    <desc />
+  </programme>
+  <programme start="20261003023000 +0000" stop="20261003050000 +0000" channel="101">
+    <title>Mapla Singam</title>
+    <desc />
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="101">
+    <title>Bhaskar Oru Rascal</title>
+    <desc />
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003103000 +0000" channel="101">
+    <title>Thondan</title>
+    <desc />
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003133000 +0000" channel="101">
+    <title>Tuck Jagadish</title>
+    <desc />
+  </programme>
+  <programme start="20261003133000 +0000" stop="20261003160000 +0000" channel="101">
+    <title>Silence</title>
     <desc />
   </programme>
 </tv>
