@@ -3,10 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260929154000 +0000" stop="20260929172000 +0000" channel="117">
-    <title>Pet Sematary</title>
-    <desc />
-  </programme>
   <programme start="20260929172000 +0000" stop="20260929185000 +0000" channel="117">
     <title>Old Guy</title>
     <desc />
@@ -314,5 +310,10 @@
     <title>Hot Rod</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951338?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004171000 +0000" stop="20261004185000 +0000" channel="117">
+    <title>Pet Sematary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951341?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

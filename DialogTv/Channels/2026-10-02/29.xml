@@ -3,18 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="29">
-    <title>Maa</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="29">
-    <title>Holy Land</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="29">
-    <title>Holy Mass - Sinhala</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="29">
     <title>Holy Rosary - Sinhala</title>
     <desc />
@@ -776,5 +764,15 @@
     <title>Cineroo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/156994?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="29">
+    <title>Sunday Holy Mass - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949847?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="29">
+    <title>Holy Rosary - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949620?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

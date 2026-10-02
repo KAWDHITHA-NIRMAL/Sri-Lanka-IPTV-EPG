@@ -3,10 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="124">
-    <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260929160000 +0000" stop="20260929180000 +0000" channel="124">
     <title>Live UEFA Nations League 2026/27 Moldova vs Faroe Islands</title>
     <desc />
@@ -371,5 +367,19 @@
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="124">
     <title>UEFA Nations League 2026-27 MD 3 Spain vs Czechia Highlights</title>
     <desc />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="124">
+    <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="124">
+    <title>UNL 2026-27 MD3 Matchweek Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950244?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

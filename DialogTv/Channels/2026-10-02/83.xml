@@ -3,14 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20260929153300 +0000" stop="20260929162600 +0000" channel="83">
-    <title>Serengeti Ii S2</title>
-    <desc />
-  </programme>
-  <programme start="20260929162600 +0000" stop="20260929171700 +0000" channel="83">
-    <title>Spectacular Earth S1</title>
-    <desc />
-  </programme>
   <programme start="20260929171700 +0000" stop="20260929180300 +0000" channel="83">
     <title>Inside The Factory - Carpets S8</title>
     <desc />
@@ -773,5 +765,15 @@
     <title>Kingdom S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163100 +0000" stop="20261004171700 +0000" channel="83">
+    <title>Where The Wild Men Are With Ben Fogle S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950872?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004171700 +0000" stop="20261004180200 +0000" channel="83">
+    <title>Chasing Monsters S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950878?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

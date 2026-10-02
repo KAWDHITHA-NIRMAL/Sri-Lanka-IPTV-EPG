@@ -3,10 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20260929150000 +0000" stop="20260929170200 +0000" channel="53">
-    <title>Twinkle's Calming Sounds</title>
-    <desc />
-  </programme>
   <programme start="20260929170200 +0000" stop="20260929173300 +0000" channel="53">
     <title>Super Creative Day Of Play</title>
     <desc />
@@ -1042,5 +1038,10 @@
     <title>Mindful Bedtime Lullabies</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170200 +0000" stop="20261004173200 +0000" channel="53">
+    <title>Gentle Lessons &amp; Bedtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762717?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

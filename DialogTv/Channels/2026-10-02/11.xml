@@ -3,18 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20260929155500 +0000" stop="20260929162500 +0000" channel="11">
-    <title>Baddegama</title>
-    <desc />
-  </programme>
-  <programme start="20260929162500 +0000" stop="20260929170000 +0000" channel="11">
-    <title>Hiru Tv News 9.55 - Live</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="11">
-    <title>Sewanali Season 02</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="11">
     <title>Sewanali Season 02</title>
     <desc />
@@ -800,5 +788,25 @@
     <title>Oba Enna Awith Yanna</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949820?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004162500 +0000" channel="11">
+    <title>Oba Enna Awith Yanna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949820?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162500 +0000" stop="20261004170000 +0000" channel="11">
+    <title>Hiru Tv News 9.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949812?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="11">
+    <title>Copy Chat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="11">
+    <title>Copy Chat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950278?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

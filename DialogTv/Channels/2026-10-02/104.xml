@@ -3,14 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="104">
-    <title>G 12 Physics</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="104">
-    <title>G 12 Chemistry</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="104">
     <title>G 13 Biology</title>
     <desc />
@@ -582,5 +574,15 @@
     <title>G 12 Information Technology</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951152?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="104">
+    <title>G 12 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951153?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="104">
+    <title>G 13 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951155?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

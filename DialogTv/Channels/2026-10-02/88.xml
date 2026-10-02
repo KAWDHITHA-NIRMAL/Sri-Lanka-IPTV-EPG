@@ -3,22 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="88">
-    <title>Juhi Mui</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="88">
-    <title>Tuu Juliet Jatt Di</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="88">
-    <title>Mahadev &amp; Sons</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="88">
-    <title>Bareilly Ki Bacchan</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="88">
     <title>Mannat Harr Khushi Paane Ki</title>
     <desc />
@@ -884,5 +868,20 @@
     <title>Bigg Boss S20</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945033?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="88">
+    <title>Tuu Juliet Jatt Di</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="88">
+    <title>108 Base Hospital -Uri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952778?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="88">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

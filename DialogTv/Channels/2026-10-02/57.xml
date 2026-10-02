@@ -3,14 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20260929151900 +0000" stop="20260929161200 +0000" channel="57">
-    <title>Harpoon Hunters</title>
-    <desc />
-  </programme>
-  <programme start="20260929161200 +0000" stop="20260929170500 +0000" channel="57">
-    <title>Ghost Adventures: House Calls</title>
-    <desc />
-  </programme>
   <programme start="20260929170500 +0000" stop="20260929180500 +0000" channel="57">
     <title>Haunted Towns</title>
     <desc />
@@ -675,5 +667,15 @@
     <title>Dr. Pimple Popper</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950277?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="57">
+    <title>Moonshiners: Master Distiller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/762923?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="57">
+    <title>Ghost Adventures</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

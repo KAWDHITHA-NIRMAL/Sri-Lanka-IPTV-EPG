@@ -3,14 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="103">
-    <title>G7 English</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="103">
-    <title>G7 Drama</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="103">
     <title>G6 Mathematics</title>
     <desc />
@@ -617,5 +609,15 @@
     <title>G8 Art</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951777?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="103">
+    <title>G6 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="103">
+    <title>G7 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951085?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

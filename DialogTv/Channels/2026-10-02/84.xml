@@ -3,18 +3,6 @@
   <channel id="84">
     <display-name>Channel 91</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="84">
-    <title>Ye Hai Mohabbatein</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="84">
-    <title>Bepannah / Fannah Ho Sabhi Duriyan</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="84">
-    <title>Bepannah / Fannah Ho Sabhi Duriyan</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="84">
     <title>Savdhaan India - India Fights Back</title>
     <desc />
@@ -789,5 +777,15 @@
     <title>Savdhaan India - F.I.R.</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952917?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="84">
+    <title>Savdhaan India - India Fights Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="84">
+    <title>Savdhaan India - India Fights Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,38 +3,6 @@
   <channel id="52">
     <display-name>Channel 58</display-name>
   </channel>
-  <programme start="20260929154500 +0000" stop="20260929160000 +0000" channel="52">
-    <title>Barbapapa - One Big Happy Family! S02</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929161000 +0000" channel="52">
-    <title>Rubble &amp; Crew S05</title>
-    <desc />
-  </programme>
-  <programme start="20260929161000 +0000" stop="20260929162000 +0000" channel="52">
-    <title>Rubble &amp; Crew S05</title>
-    <desc />
-  </programme>
-  <programme start="20260929162000 +0000" stop="20260929163000 +0000" channel="52">
-    <title>Rubble &amp; Crew S02</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929165000 +0000" channel="52">
-    <title>Paw Patrol S12</title>
-    <desc />
-  </programme>
-  <programme start="20260929165000 +0000" stop="20260929170500 +0000" channel="52">
-    <title>Paw Patrol S13</title>
-    <desc />
-  </programme>
-  <programme start="20260929170500 +0000" stop="20260929172500 +0000" channel="52">
-    <title>Santiago of the Seas S01</title>
-    <desc />
-  </programme>
-  <programme start="20260929172500 +0000" stop="20260929173000 +0000" channel="52">
-    <title>Peppa Pig S01</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929173500 +0000" channel="52">
     <title>Peppa Pig S01</title>
     <desc />
@@ -1843,5 +1811,40 @@
     <title>Barbapapa - One Big Happy Family! S02</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/745683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004162000 +0000" channel="52">
+    <title>Rubble &amp; Crew S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950429?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162000 +0000" stop="20261004163000 +0000" channel="52">
+    <title>Rubble &amp; Crew S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/406148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004165000 +0000" channel="52">
+    <title>Paw Patrol S12</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950431?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004165000 +0000" stop="20261004170500 +0000" channel="52">
+    <title>Paw Patrol S13</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170500 +0000" stop="20261004172500 +0000" channel="52">
+    <title>Santiago of the Seas S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172500 +0000" stop="20261004173000 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004173500 +0000" channel="52">
+    <title>Peppa Pig S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950249?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

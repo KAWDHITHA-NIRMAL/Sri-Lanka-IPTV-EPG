@@ -3,18 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="55">
-    <title>Surviving Earth</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929165200 +0000" channel="55">
-    <title>Mountain Lion: The Ghost Cat</title>
-    <desc />
-  </programme>
-  <programme start="20260929165200 +0000" stop="20260929173000 +0000" channel="55">
-    <title>Wild By Nature</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929181900 +0000" channel="55">
     <title>The Great Rhino Robbery</title>
     <desc />
@@ -663,5 +651,15 @@
     <title>Mothers Day</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950609?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162400 +0000" stop="20261004172000 +0000" channel="55">
+    <title>My Jaguar Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950590?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172000 +0000" stop="20261004174900 +0000" channel="55">
+    <title>Defenders of the Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950600?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="3">
-    <title>Sugamana Ragangal</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163300 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-  </programme>
   <programme start="20260929163300 +0000" stop="20260929173600 +0000" channel="3">
     <title>Kalakalappu</title>
     <desc />
@@ -622,6 +614,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/51612?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="3">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004161800 +0000" channel="3">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004161800 +0000" stop="20261004180000 +0000" channel="3">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949497?accessKey=WkVjNWNscFhORDBLCg==" />

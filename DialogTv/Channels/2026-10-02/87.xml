@@ -3,10 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260929134500 +0000" stop="20260929170000 +0000" channel="87">
-    <title>Veer-Zaara</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929193500 +0000" channel="87">
     <title>Rocket Singh - Salesman Of The Year</title>
     <desc />
@@ -250,5 +246,10 @@
     <title>Kuch Kuch Hota Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951729?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004194000 +0000" channel="87">
+    <title>Ae Dil Hai Mushkil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951608?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

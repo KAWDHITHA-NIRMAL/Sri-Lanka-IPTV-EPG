@@ -3,14 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="113">
-    <title>Project Runway S21</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="113">
-    <title>Matlock S1</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="113">
     <title>Shark Tank S16</title>
     <desc />
@@ -535,5 +527,15 @@
     <title>Hell's Kitchen S25</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951299?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="113">
+    <title>Celebrity Family Feud S12</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950531?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="113">
+    <title>Matlock S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

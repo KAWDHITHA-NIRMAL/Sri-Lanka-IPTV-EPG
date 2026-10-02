@@ -3,10 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="66">
-    <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260929160000 +0000" stop="20260929180000 +0000" channel="66">
     <title>Live UEFA Nations League 2026/27 Finland vs Belarus</title>
     <desc />
@@ -384,6 +380,10 @@
   </programme>
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 3 Spain vs Czechia Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="66">
+    <title>Live UEFA Nations League 2026/27 Malta vs Andorra</title>
     <desc />
   </programme>
 </tv>

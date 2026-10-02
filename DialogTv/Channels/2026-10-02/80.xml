@@ -3,22 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="80">
-    <title>Fashion Magazines</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="80">
-    <title>Lingerie</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="80">
     <title>Lingerie</title>
     <desc />
@@ -1112,5 +1096,25 @@
     <title>Fashion Magazines</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952772?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,18 +3,6 @@
   <channel id="13">
     <display-name>Channel 19</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929162700 +0000" channel="13">
-    <title>English Movie</title>
-    <desc />
-  </programme>
-  <programme start="20260929162700 +0000" stop="20260929163000 +0000" channel="13">
-    <title>10 to 10</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929171500 +0000" channel="13">
-    <title>English Movie</title>
-    <desc />
-  </programme>
   <programme start="20260929171500 +0000" stop="20260929180000 +0000" channel="13">
     <title>Back To Back Hits</title>
     <desc />
@@ -735,5 +723,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951215?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004171500 +0000" stop="20261004181500 +0000" channel="13">
+    <title>Classic Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952227?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="94">
-    <title>Autograph</title>
-    <desc />
-  </programme>
   <programme start="20260929163000 +0000" stop="20260929193000 +0000" channel="94">
     <title>Chinna Thambi</title>
     <desc />
@@ -430,5 +426,20 @@
     <title>Jackpot</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="94">
+    <title>Autograph</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951064?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="94">
+    <title>Palayathu Amman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="94">
+    <title>Idhu Namma Aalu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951069?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

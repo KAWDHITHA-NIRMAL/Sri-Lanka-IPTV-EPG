@@ -3,18 +3,6 @@
   <channel id="48">
     <display-name>Channel 54</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="48">
-    <title>Fun Factory</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="48">
-    <title>Mr. World</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="48">
     <title>Story Line</title>
     <desc />
@@ -675,5 +663,20 @@
     <title>Fun Factory</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/151308?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="48">
+    <title>Mr. World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950117?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="48">
+    <title>Story Line</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950124?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

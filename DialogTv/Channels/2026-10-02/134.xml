@@ -3,26 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="134">
-    <title>Global Us - What connects us all</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929161500 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-  </programme>
-  <programme start="20260929161500 +0000" stop="20260929163000 +0000" channel="134">
-    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="134">
-    <title>REV - The Global Auto and Mobility Show</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="134">
     <title>Eco Africa - The Environment Magazine</title>
     <desc />
@@ -1728,5 +1708,35 @@
     <title>Afrimaxx - Modern African Lifestyle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/723825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004161500 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004161500 +0000" stop="20261004163000 +0000" channel="134">
+    <title>Sports Life - Overcoming Challenges with Sports</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/761457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="134">
+    <title>Euromaxx - Lifestyle Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953280?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004171500 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004171500 +0000" stop="20261004173000 +0000" channel="134">
+    <title>Shift - Living in the Digital Age</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="134">
+    <title>REV - The Global Auto and Mobility Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952808?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260929154500 +0000" stop="20260929160000 +0000" channel="121">
-    <title>PL Highlights Man City v Sunderland</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="121">
-    <title>PL Classic Tottenham Hotspur v Man Utd</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="121">
-    <title>PL Highlights Everton v Man Utd</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929171500 +0000" channel="121">
-    <title>Game Plan - IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260929171500 +0000" stop="20260929173000 +0000" channel="121">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929193000 +0000" channel="121">
     <title>PL 2026-27 Fulham v Man Utd</title>
     <desc />
@@ -1193,5 +1173,30 @@
     <title>PL Highlights Tottenham Hotspur v Man Utd</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951419?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="121">
+    <title>PL Highlights Tottenham Hotspur v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951419?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004164500 +0000" channel="121">
+    <title>PL Highlights Man Utd v Ipswich</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950963?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164500 +0000" stop="20261004170000 +0000" channel="121">
+    <title>PL Highlights Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="121">
+    <title>Muthoot Fincorp 3rd ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004193000 +0000" channel="121">
+    <title>PL 2026-27 Fulham v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951670?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

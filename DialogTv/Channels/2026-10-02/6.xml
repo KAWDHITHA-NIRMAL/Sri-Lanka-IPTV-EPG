@@ -3,18 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="6">
-    <title>Kolamba Kattiya</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="6">
-    <title>Man Adarei</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929171000 +0000" channel="6">
-    <title>Ada Derana @ 10.00 Live</title>
-    <desc />
-  </programme>
   <programme start="20260929171000 +0000" stop="20260929183000 +0000" channel="6">
     <title>Vaada Pitiya Live</title>
     <desc />
@@ -522,6 +510,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768124?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004140000 +0000" stop="20261004163000 +0000" channel="6">
+    <title>Teen Star S01 Grand Finale Final Event</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004164500 +0000" channel="6">
+    <title>Ada Derana @ 10.00 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164500 +0000" stop="20261004183000 +0000" channel="6">
     <title>Teen Star S01 Grand Finale Final Event</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949447?accessKey=WkVjNWNscFhORDBLCg==" />

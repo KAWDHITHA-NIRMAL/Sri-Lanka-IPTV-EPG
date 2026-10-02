@@ -3,22 +3,6 @@
   <channel id="140">
     <display-name>Channel 2381</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="140">
-    <title>UEFA Nations League 2026-27 MD 2 Turkiye vs Italy Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="140">
-    <title>Afghanistan vs India 2026 - 1st T20I Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="140">
-    <title>Afghanistan vs India 2026 - 2nd T20I Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="140">
-    <title>Afghanistan vs India 2026 - 3rd T20I Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="140">
     <title>UEFA Nations League 2026-27 MD 2 Norway vs Portugal Highlights</title>
     <desc />
@@ -636,5 +620,18 @@
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="140">
     <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
     <desc />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="140">
+    <title>UFC 332 - Silva vs Wang Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="140">
+    <title>FIFA International friendlies - India vs Brazil Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="140">
+    <title>Asian Games 2026 Cricket (Men's) - Gold Medal Match Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

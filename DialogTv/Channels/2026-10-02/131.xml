@@ -3,18 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20260929152000 +0000" stop="20260929161500 +0000" channel="131">
-    <title>Overhaulin</title>
-    <desc />
-  </programme>
-  <programme start="20260929161500 +0000" stop="20260929164300 +0000" channel="131">
-    <title>Dirt Every Day</title>
-    <desc />
-  </programme>
-  <programme start="20260929164300 +0000" stop="20260929171000 +0000" channel="131">
-    <title>Dirt Every Day</title>
-    <desc />
-  </programme>
   <programme start="20260929171000 +0000" stop="20260929180600 +0000" channel="131">
     <title>Diesel Brothers</title>
     <desc />
@@ -797,5 +785,15 @@
     <title>Shifting Gears With Aaron Kaufman</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163900 +0000" stop="20261004173000 +0000" channel="131">
+    <title>Shifting Gears With Aaron Kaufman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004182100 +0000" channel="131">
+    <title>Junkyard Empire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951552?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

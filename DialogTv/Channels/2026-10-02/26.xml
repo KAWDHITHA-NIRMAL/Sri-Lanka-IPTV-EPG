@@ -3,14 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="26">
-    <title>Friday 6.30 Dharma Deshanaya</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="26">
-    <title>Kandy Daayaka Bana -2</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="26">
     <title>Soothra Dham Desuma</title>
     <desc />
@@ -622,5 +614,15 @@
     <title>Dayaka Bana/Sasara Danawwa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/727995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="26">
+    <title>Kandy Daayaka Bana -2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949733?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="26">
+    <title>Soothra Dham Desuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949734?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

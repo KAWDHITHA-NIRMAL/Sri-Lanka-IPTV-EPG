@@ -3,18 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260929130000 +0000" stop="20260929160000 +0000" channel="101">
-    <title>Vikram Vedha</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929193000 +0000" channel="101">
     <title>Enai Nokki Paayum Thotta</title>
     <desc />
@@ -268,5 +256,15 @@
     <title>Kirumi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951027?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004193000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

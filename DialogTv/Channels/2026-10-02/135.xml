@@ -3,10 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260929143000 +0000" stop="20260929170000 +0000" channel="135">
-    <title>Vita In Diretta</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929181500 +0000" channel="135">
     <title>Reazione A Catena</title>
     <desc />
@@ -660,5 +656,10 @@
     <title>Vita In Diretta</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004181500 +0000" channel="135">
+    <title>Reazione A Catena</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951510?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

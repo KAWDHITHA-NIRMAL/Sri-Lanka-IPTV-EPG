@@ -3,10 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="23">
-    <title>Ven. Aluthgama Pannasara Thero - Dharma Deshanaya</title>
-    <desc />
-  </programme>
   <programme start="20260929163000 +0000" stop="20260929183000 +0000" channel="23">
     <title>Dayakathawa Anumodana</title>
     <desc />
@@ -630,5 +626,10 @@
     <title>Ven. Hingure Pannasekara Thero - Dharma Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952877?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="23">
+    <title>Borella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952747?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

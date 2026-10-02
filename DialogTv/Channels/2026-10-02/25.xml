@@ -3,14 +3,6 @@
   <channel id="25">
     <display-name>Channel 31</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="25">
-    <title>Prathyaweksha</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="25">
-    <title>Sathishbodhipakshika</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929181000 +0000" channel="25">
     <title>Night Maha Piritha</title>
     <desc />
@@ -586,5 +578,15 @@
     <title>Challenge</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="25">
+    <title>Samahitha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004181000 +0000" channel="25">
+    <title>Night Maha Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35648?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

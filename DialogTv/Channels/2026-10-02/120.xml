@@ -3,26 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="120">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="120">
-    <title>FTB Exclusive</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="120">
-    <title>ICC Men's ODI WC 2023 hlts. IND v NZ</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929171500 +0000" channel="120">
-    <title>Game Plan - IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260929171500 +0000" stop="20260929173000 +0000" channel="120">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="120">
     <title>FTB Exclusive</title>
     <desc />
@@ -1356,5 +1336,25 @@
     <title>FTB Exclusive</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949516?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004164500 +0000" channel="120">
+    <title>Countdown to ICC CWC 2027</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164500 +0000" stop="20261004170000 +0000" channel="120">
+    <title>ICC Men's T20 WC HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="120">
+    <title>FTB Exclusive</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949516?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="120">
+    <title>Cricket Countdown - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

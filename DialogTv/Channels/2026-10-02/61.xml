@@ -3,18 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929162000 +0000" channel="61">
-    <title>World War Ii With Tom Hanks</title>
-    <desc />
-  </programme>
-  <programme start="20260929162000 +0000" stop="20260929164500 +0000" channel="61">
-    <title>Pawn Stars S25</title>
-    <desc />
-  </programme>
-  <programme start="20260929164500 +0000" stop="20260929173000 +0000" channel="61">
-    <title>Storage Wars S17</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929175300 +0000" channel="61">
     <title>Counting Cars S06</title>
     <desc />
@@ -949,5 +937,20 @@
     <title>Forged In Fire: Beat The Judges</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162000 +0000" stop="20261004164500 +0000" channel="61">
+    <title>Pawn Stars S25</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950065?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164500 +0000" stop="20261004170800 +0000" channel="61">
+    <title>Storage Wars S12</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950294?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170800 +0000" stop="20261004175300 +0000" channel="61">
+    <title>World War Ii With Tom Hanks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950298?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

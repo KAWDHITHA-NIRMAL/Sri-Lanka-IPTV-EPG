@@ -3,22 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="39">
-    <title>Squawk on the Street</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="39">
-    <title>Halftime Report</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="39">
-    <title>Halftime Report</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="39">
     <title>The Exchange</title>
     <desc />
@@ -943,5 +927,15 @@
     <title>American Greed</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/694888?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="39">
+    <title>Late Night with Seth Meyers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="39">
+    <title>Late Night with Seth Meyers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

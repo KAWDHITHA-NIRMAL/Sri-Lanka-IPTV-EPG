@@ -3,14 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20260929153500 +0000" stop="20260929163000 +0000" channel="111">
-    <title>Elsbeth S2</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929172500 +0000" channel="111">
-    <title>Fbi S8</title>
-    <desc />
-  </programme>
   <programme start="20260929172500 +0000" stop="20260929182000 +0000" channel="111">
     <title>Fbi S8</title>
     <desc />
@@ -584,5 +576,10 @@
     <title>The Rookie S7</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/943946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164000 +0000" stop="20261004183500 +0000" channel="111">
+    <title>The Equalizer 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948571?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

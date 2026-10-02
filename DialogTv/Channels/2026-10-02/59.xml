@@ -3,14 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260929153900 +0000" stop="20260929162700 +0000" channel="59">
-    <title>Primal Survivor: Escape The Amazon</title>
-    <desc />
-  </programme>
-  <programme start="20260929162700 +0000" stop="20260929171500 +0000" channel="59">
-    <title>Primal Survivor: Over The Andes</title>
-    <desc />
-  </programme>
   <programme start="20260929171500 +0000" stop="20260929180100 +0000" channel="59">
     <title>Construction Fails</title>
     <desc />
@@ -765,5 +757,20 @@
     <title>Luke Nguyen's Street Food Asia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="59">
+    <title>Primal Survivor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="59">
+    <title>Primal Survivor: Mighty Mekong</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/143430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="59">
+    <title>Pompeii: Out Of Time With Tom Hiddleston</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950553?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

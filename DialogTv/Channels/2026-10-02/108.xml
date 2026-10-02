@@ -3,18 +3,6 @@
   <channel id="108">
     <display-name>Channel 59</display-name>
   </channel>
-  <programme start="20260929154800 +0000" stop="20260929161200 +0000" channel="108">
-    <title>Magnolia Table With Joanna Gaines S1</title>
-    <desc />
-  </programme>
-  <programme start="20260929161200 +0000" stop="20260929163600 +0000" channel="108">
-    <title>Giada at Home S9</title>
-    <desc />
-  </programme>
-  <programme start="20260929163600 +0000" stop="20260929172400 +0000" channel="108">
-    <title>Flavortown Food Fight S1</title>
-    <desc />
-  </programme>
   <programme start="20260929172400 +0000" stop="20260929174800 +0000" channel="108">
     <title>30 Minute Meals S28</title>
     <desc />
@@ -1009,5 +997,20 @@
     <title>Best Places To Pig Out S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915676?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163600 +0000" stop="20261004170000 +0000" channel="108">
+    <title>Cheap Eats S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944634?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004172400 +0000" channel="108">
+    <title>Cheap Eats S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944634?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172400 +0000" stop="20261004174800 +0000" channel="108">
+    <title>Baked in Vermont S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941599?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

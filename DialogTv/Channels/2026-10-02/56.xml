@@ -3,10 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20260929153800 +0000" stop="20260929163600 +0000" channel="56">
-    <title>18 Wheels Across Africa</title>
-    <desc />
-  </programme>
   <programme start="20260929163600 +0000" stop="20260929173400 +0000" channel="56">
     <title>Naked And Afraid</title>
     <desc />
@@ -642,5 +638,15 @@
     <title>Ed Stafford's Rite of Passage</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163500 +0000" stop="20261004173000 +0000" channel="56">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004182500 +0000" channel="56">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="49">
     <display-name>Channel 55</display-name>
   </channel>
-  <programme start="20260929155000 +0000" stop="20260929160000 +0000" channel="49">
-    <title>The Marsupilamis S01</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929162500 +0000" channel="49">
-    <title>The Loud House S03</title>
-    <desc />
-  </programme>
-  <programme start="20260929162500 +0000" stop="20260929165000 +0000" channel="49">
-    <title>The Loud House S06</title>
-    <desc />
-  </programme>
-  <programme start="20260929165000 +0000" stop="20260929170000 +0000" channel="49">
-    <title>The Loud House S08</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929172500 +0000" channel="49">
-    <title>That Girl Lay Lay S02</title>
-    <desc />
-  </programme>
   <programme start="20260929172500 +0000" stop="20260929175000 +0000" channel="49">
     <title>The Thundermans: Undercover S01</title>
     <desc />
@@ -1519,5 +1499,30 @@
     <title>The Marsupilamis S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950166?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004161500 +0000" channel="49">
+    <title>The Loud House S09</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004161500 +0000" stop="20261004164000 +0000" channel="49">
+    <title>The Loud House S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950210?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164000 +0000" stop="20261004170000 +0000" channel="49">
+    <title>The Loud House S07</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950210?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004172500 +0000" channel="49">
+    <title>That Girl Lay Lay S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172500 +0000" stop="20261004175000 +0000" channel="49">
+    <title>The Thundermans: Undercover S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706608?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

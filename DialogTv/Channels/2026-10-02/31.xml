@@ -3,22 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="31">
-    <title>Landline</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="31">
-    <title>Back Roads</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="31">
-    <title>Australian Story</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="31">
     <title>Australia's Wild Moments</title>
     <desc />
@@ -618,5 +602,20 @@
     <title>I Was Actually There</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/761710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004162500 +0000" channel="31">
+    <title>Bondi Rescue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162500 +0000" stop="20261004173000 +0000" channel="31">
+    <title>Bradman And Tendulkar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950097?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950100?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

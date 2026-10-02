@@ -3,10 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260929133000 +0000" stop="20260929170000 +0000" channel="95">
-    <title>Vithagan</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="95">
     <title>Murai Maman</title>
     <desc />
@@ -190,5 +186,10 @@
     <title>Rendu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951980?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="95">
+    <title>Iruthi Sutru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952167?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="58">
-    <title>MasterChef Asia</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="58">
-    <title>Fboy Survival</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929193000 +0000" channel="58">
     <title>90 Day: Hunt for Love</title>
     <desc />
@@ -699,5 +691,20 @@
     <title>Beat Bobby Flay</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="58">
+    <title>Beat Bobby Flay</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="58">
+    <title>Celebrity IOU</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="58">
+    <title>Virgins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

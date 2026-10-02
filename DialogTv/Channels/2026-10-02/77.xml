@@ -3,10 +3,6 @@
   <channel id="77">
     <display-name>Channel 84</display-name>
   </channel>
-  <programme start="20260929130000 +0000" stop="20260929160000 +0000" channel="77">
-    <title>The Assassination Of Jesse James By The Coward Robert Ford</title>
-    <desc />
-  </programme>
   <programme start="20260929160000 +0000" stop="20260929180000 +0000" channel="77">
     <title>War Dogs</title>
     <desc />
@@ -803,5 +799,10 @@
     <title>Reminiscence</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172000 +0000" stop="20261004174500 +0000" channel="77">
+    <title>Friends S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

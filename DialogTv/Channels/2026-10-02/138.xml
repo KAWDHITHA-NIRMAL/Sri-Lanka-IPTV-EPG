@@ -3,14 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929170300 +0000" channel="138">
-    <title>Meri Aashuiqi Tumse Hi</title>
-    <desc />
-  </programme>
-  <programme start="20260929170300 +0000" stop="20260929173000 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929175800 +0000" channel="138">
     <title>Kahiin To Hoga</title>
     <desc />
@@ -878,5 +870,15 @@
     <title>Meri Aashuiqi Tumse Hi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004172000 +0000" channel="138">
+    <title>Kahiin To Hoga</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172000 +0000" stop="20261004174000 +0000" channel="138">
+    <title>Kahiin To Hoga</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

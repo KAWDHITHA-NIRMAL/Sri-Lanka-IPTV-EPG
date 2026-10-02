@@ -3,14 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20260929150200 +0000" stop="20260929163400 +0000" channel="136">
-    <title>Le Crime Lui Va Si Bien</title>
-    <desc />
-  </programme>
-  <programme start="20260929163400 +0000" stop="20260929170000 +0000" channel="136">
-    <title>A L'Ecole Des Vetos</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929175400 +0000" channel="136">
     <title>Opj</title>
     <desc />
@@ -1123,5 +1115,20 @@
     <title>Plus Qu'Hier, Moins Que Demain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162500 +0000" stop="20261004164100 +0000" channel="136">
+    <title>En Voiture Clara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947670?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004164100 +0000" stop="20261004170000 +0000" channel="136">
+    <title>La Nourrice</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004190000 +0000" channel="136">
+    <title>Des Racines &amp; Des Ailes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953450?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

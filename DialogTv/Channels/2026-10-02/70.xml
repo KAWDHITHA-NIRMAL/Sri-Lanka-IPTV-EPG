@@ -3,26 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20260929154500 +0000" stop="20260929160000 +0000" channel="70">
-    <title>PL Highlights Chelsea v Brighton</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929161500 +0000" channel="70">
-    <title>Game Plan - IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260929161500 +0000" stop="20260929163000 +0000" channel="70">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v SA ODI 2025 HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="70">
-    <title>FTB Exclusive</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="70">
     <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
     <desc />
@@ -1593,5 +1573,30 @@
     <title>ICC Men's T20 WC HLs IND v NZ</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950417?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004161500 +0000" channel="70">
+    <title>PL Highlights Chelsea v Hull City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950980?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004161500 +0000" stop="20261004163000 +0000" channel="70">
+    <title>PL Highlights Liverpool v Fulham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="70">
+    <title>Cricket Countdown - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="70">
+    <title>FTB Exclusive</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949516?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="70">
+    <title>Muthoot Fincorp 3rd ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949541?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

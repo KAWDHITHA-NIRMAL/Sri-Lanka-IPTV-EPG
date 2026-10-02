@@ -3,18 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="137">
-    <title>The Newsmakers</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="137">
-    <title>Newshour</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="137">
     <title>Inside America</title>
     <desc />
@@ -1082,5 +1070,25 @@
     <title>Storyteller</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="137">
+    <title>Strait Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61998?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="137">
+    <title>Money Talks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953276?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

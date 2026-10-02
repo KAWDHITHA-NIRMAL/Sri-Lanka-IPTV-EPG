@@ -3,10 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260929145000 +0000" stop="20260929162000 +0000" channel="133">
-    <title>Ring Of Fire Part 1</title>
-    <desc />
-  </programme>
   <programme start="20260929162000 +0000" stop="20260929175000 +0000" channel="133">
     <title>Ring Of Fire Part 2</title>
     <desc />
@@ -300,5 +296,10 @@
     <title>Cape Fear</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162500 +0000" stop="20261004180000 +0000" channel="133">
+    <title>Death Ring</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951485?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260929143500 +0000" stop="20260929163500 +0000" channel="116">
-    <title>The Exception</title>
-    <desc />
-  </programme>
   <programme start="20260929163500 +0000" stop="20260929182000 +0000" channel="116">
     <title>Aurora</title>
     <desc />
@@ -315,5 +311,10 @@
     <title>Under the Fig Trees</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162000 +0000" stop="20261004182000 +0000" channel="116">
+    <title>I Was, I Am, I Will Be</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951250?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

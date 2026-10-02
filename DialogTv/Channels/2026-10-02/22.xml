@@ -3,18 +3,6 @@
   <channel id="22">
     <display-name>Channel 28</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="22">
-    <title>Hi Events</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="22">
-    <title>Hobbylicious</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="22">
-    <title>Space</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929183000 +0000" channel="22">
     <title>Classic Music</title>
     <desc />
@@ -790,5 +778,20 @@
     <title>Hash Tag Generation</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="22">
+    <title>Date With Danu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50950?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="22">
+    <title>Date With Danu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50950?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004183000 +0000" channel="22">
+    <title>Classic Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949867?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="41">
     <display-name>Channel 47</display-name>
   </channel>
-  <programme start="20260929120000 +0000" stop="20260929160000 +0000" channel="41">
-    <title>Promice Of Trust</title>
-    <desc />
-  </programme>
   <programme start="20260929160000 +0000" stop="20260929200000 +0000" channel="41">
     <title>Speechless Love</title>
     <desc />
@@ -144,5 +140,10 @@
     <title>Promice Of Trust</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952360?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004200000 +0000" channel="41">
+    <title>Speechless Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952479?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

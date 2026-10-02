@@ -3,10 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260929140000 +0000" stop="20260929170000 +0000" channel="90">
-    <title>Ghar Mein Ram Gali Mein Shyam</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="90">
     <title>Blue Oranges</title>
     <desc />
@@ -190,5 +186,10 @@
     <title>Zakhmi Aurat</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950856?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="90">
+    <title>Bloody Mary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952489?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

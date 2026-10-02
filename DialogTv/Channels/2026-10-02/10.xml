@@ -3,14 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-  </programme>
-  <programme start="20260929161500 +0000" stop="20260929170000 +0000" channel="10">
-    <title>Landline</title>
-    <desc />
-  </programme>
   <programme start="20260929170000 +0000" stop="20260930005900 +0000" channel="10">
     <title>End Of Transmission</title>
     <desc />
@@ -477,5 +469,10 @@
     <title>News 1st</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004161500 +0000" stop="20261004190000 +0000" channel="10">
+    <title>AFL - Game Of The Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

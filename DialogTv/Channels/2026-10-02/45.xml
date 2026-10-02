@@ -3,38 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="45">
-    <title>Junior Vets</title>
-    <desc />
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929162400 +0000" channel="45">
-    <title>Xploration Awesome Planet</title>
-    <desc />
-  </programme>
-  <programme start="20260929162400 +0000" stop="20260929163000 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929165400 +0000" channel="45">
-    <title>Xploration Awesome Planet</title>
-    <desc />
-  </programme>
-  <programme start="20260929165400 +0000" stop="20260929170000 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-  </programme>
-  <programme start="20260929170000 +0000" stop="20260929172100 +0000" channel="45">
-    <title>Animal Embassy</title>
-    <desc />
-  </programme>
-  <programme start="20260929172100 +0000" stop="20260929172400 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-  </programme>
-  <programme start="20260929172400 +0000" stop="20260929173000 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="45">
     <title>Ice Stars</title>
     <desc />
@@ -2356,5 +2324,45 @@
     <title>Junior Vets</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004162400 +0000" channel="45">
+    <title>Xploration Awesome Planet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004162400 +0000" stop="20261004163000 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004165400 +0000" channel="45">
+    <title>Xploration Awesome Planet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004165400 +0000" stop="20261004170000 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004172100 +0000" channel="45">
+    <title>Animal Embassy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172100 +0000" stop="20261004172400 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004172400 +0000" stop="20261004173000 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="45">
+    <title>Ice Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

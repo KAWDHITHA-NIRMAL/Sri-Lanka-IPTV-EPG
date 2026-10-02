@@ -3,10 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20260929142500 +0000" stop="20260929165900 +0000" channel="91">
-    <title>Akhiyon Se Goli Maare</title>
-    <desc />
-  </programme>
   <programme start="20260929165900 +0000" stop="20260929193500 +0000" channel="91">
     <title>Jaisi Karni Waisi Bharni</title>
     <desc />
@@ -199,5 +195,10 @@
     <title>Soldier</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951011?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004171000 +0000" stop="20261004195500 +0000" channel="91">
+    <title>Ishaqzaade</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951012?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

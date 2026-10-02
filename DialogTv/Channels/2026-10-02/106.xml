@@ -3,14 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="106">
-    <title>G 6 English</title>
-    <desc />
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="106">
-    <title>G6-Drama</title>
-    <desc />
-  </programme>
   <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="106">
     <title>G6 Tamil</title>
     <desc />
@@ -582,5 +574,15 @@
     <title>G 11 History</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004173000 +0000" channel="106">
+    <title>G 11 Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950820?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="106">
+    <title>G 10  ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
