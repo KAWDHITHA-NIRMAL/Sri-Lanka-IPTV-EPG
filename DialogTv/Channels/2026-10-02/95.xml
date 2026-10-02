@@ -3,14 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929103000 +0000" channel="95">
-    <title>Aayusu Nooru</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929133000 +0000" channel="95">
-    <title>Love Marriage</title>
-    <desc />
-  </programme>
   <programme start="20260929133000 +0000" stop="20260929170000 +0000" channel="95">
     <title>Vithagan</title>
     <desc />
@@ -188,5 +180,15 @@
     <title>Paarai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950912?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004133000 +0000" channel="95">
+    <title>Yennamo Yedho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952332?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004170000 +0000" channel="95">
+    <title>Rendu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951980?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

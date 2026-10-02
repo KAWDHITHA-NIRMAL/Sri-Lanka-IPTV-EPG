@@ -3,66 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="136">
-    <title>La Belle Vie</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="136">
-    <title>Chroniques Mediterraneennes Nature</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929090500 +0000" channel="136">
-    <title>Max Et Lapin</title>
-    <desc />
-  </programme>
-  <programme start="20260929090500 +0000" stop="20260929091100 +0000" channel="136">
-    <title>Max Et Lapin</title>
-    <desc />
-  </programme>
-  <programme start="20260929091100 +0000" stop="20260929092200 +0000" channel="136">
-    <title>Idefix Et Les Irreductibles</title>
-    <desc />
-  </programme>
-  <programme start="20260929092200 +0000" stop="20260929092900 +0000" channel="136">
-    <title>Les Quiquoi</title>
-    <desc />
-  </programme>
-  <programme start="20260929092900 +0000" stop="20260929094000 +0000" channel="136">
-    <title>Billy Le Hamster Cowboy</title>
-    <desc />
-  </programme>
-  <programme start="20260929094000 +0000" stop="20260929100700 +0000" channel="136">
-    <title>Drazilion</title>
-    <desc />
-  </programme>
-  <programme start="20260929100700 +0000" stop="20260929110000 +0000" channel="136">
-    <title>Tout Le Monde Veut Prendre Sa Place</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="136">
-    <title>Un Si Grand Soleil</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="136">
-    <title>Le Point</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929125900 +0000" channel="136">
-    <title>Le Journal De France 2</title>
-    <desc />
-  </programme>
-  <programme start="20260929125900 +0000" stop="20260929143200 +0000" channel="136">
-    <title>Melody</title>
-    <desc />
-  </programme>
-  <programme start="20260929143200 +0000" stop="20260929145600 +0000" channel="136">
-    <title>Anushan</title>
-    <desc />
-  </programme>
-  <programme start="20260929145600 +0000" stop="20260929150200 +0000" channel="136">
-    <title>Spoon</title>
-    <desc />
-  </programme>
   <programme start="20260929150200 +0000" stop="20260929163400 +0000" channel="136">
     <title>Le Crime Lui Va Si Bien</title>
     <desc />
@@ -1143,5 +1083,45 @@
     <title>Vivement Dimanche</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004103300 +0000" channel="136">
+    <title>echappees Belles</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103300 +0000" stop="20261004105900 +0000" channel="136">
+    <title>La Belle Vie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953325?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004105900 +0000" stop="20261004113400 +0000" channel="136">
+    <title>Questions Pour Un Champion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952977?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113400 +0000" stop="20261004123000 +0000" channel="136">
+    <title>Partir Autrement Entre Amis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953328?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004124800 +0000" channel="136">
+    <title>Le Journal De France 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004124800 +0000" stop="20261004141900 +0000" channel="136">
+    <title>Les Tresors Des Grands Magasins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004141900 +0000" stop="20261004150200 +0000" channel="136">
+    <title>Top 14 Rugby Le Mag</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953449?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150200 +0000" stop="20261004162500 +0000" channel="136">
+    <title>Plus Qu'Hier, Moins Que Demain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952547?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

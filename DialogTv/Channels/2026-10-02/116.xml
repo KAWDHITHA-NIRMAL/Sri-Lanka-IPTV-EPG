@@ -3,22 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929095000 +0000" channel="116">
-    <title>Mediterranea</title>
-    <desc />
-  </programme>
-  <programme start="20260929095000 +0000" stop="20260929113000 +0000" channel="116">
-    <title>The Bodin's in Thailand</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929130000 +0000" channel="116">
-    <title>Helen Dorn: The Red Cloth</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929143500 +0000" channel="116">
-    <title>The Intangible Joy Of Love</title>
-    <desc />
-  </programme>
   <programme start="20260929143500 +0000" stop="20260929163500 +0000" channel="116">
     <title>The Exception</title>
     <desc />
@@ -306,5 +290,30 @@
     <title>Death Comes to Venice</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004092500 +0000" stop="20261004110500 +0000" channel="116">
+    <title>From The Vine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110500 +0000" stop="20261004124000 +0000" channel="116">
+    <title>Hotel Barcelona</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004124000 +0000" stop="20261004130000 +0000" channel="116">
+    <title>Unexpected Passenger</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951657?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004145000 +0000" channel="116">
+    <title>For Night Will Come</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004145000 +0000" stop="20261004162000 +0000" channel="116">
+    <title>Under the Fig Trees</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

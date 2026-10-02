@@ -3,26 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20260929070000 +0000" stop="20260929083000 +0000" channel="63">
-    <title>Highlights - India Tour of South Africa 2024</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929123000 +0000" channel="63">
-    <title>Repeat -  Bangladesh tour of India 2024</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929140000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="63">
-    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929173000 +0000" channel="63">
     <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
     <desc />
@@ -271,5 +251,25 @@
   <programme start="20261004040000 +0000" stop="20261004123000 +0000" channel="63">
     <title>Live - CDB - A vs Fairfirst Insurance - 33rd Singer MCA Super Premiere League 2026</title>
     <desc />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004140000 +0000" channel="63">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="63">
+    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949655?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004173000 +0000" channel="63">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,22 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20260929070500 +0000" stop="20260929085500 +0000" channel="118">
-    <title>Save The Last Dance</title>
-    <desc />
-  </programme>
-  <programme start="20260929085500 +0000" stop="20260929110500 +0000" channel="118">
-    <title>The Lovely Bones</title>
-    <desc />
-  </programme>
-  <programme start="20260929110500 +0000" stop="20260929133500 +0000" channel="118">
-    <title>Harry Potter And The Goblet Of Fire</title>
-    <desc />
-  </programme>
-  <programme start="20260929133500 +0000" stop="20260929150000 +0000" channel="118">
-    <title>The Woman In The Yard</title>
-    <desc />
-  </programme>
   <programme start="20260929150000 +0000" stop="20260929172000 +0000" channel="118">
     <title>Blood Diamond</title>
     <desc />
@@ -302,5 +286,25 @@
     <title>Downton Abbey</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004091000 +0000" stop="20261004104000 +0000" channel="118">
+    <title>A Christmas Mystery</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004104000 +0000" stop="20261004130500 +0000" channel="118">
+    <title>Transformers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130500 +0000" stop="20261004150000 +0000" channel="118">
+    <title>Bumblebee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951281?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004170500 +0000" channel="118">
+    <title>The Bride!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951287?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

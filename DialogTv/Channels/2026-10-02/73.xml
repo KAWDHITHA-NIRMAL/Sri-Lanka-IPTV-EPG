@@ -3,18 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260929071500 +0000" stop="20260929100000 +0000" channel="73">
-    <title>Contact</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929120000 +0000" channel="73">
-    <title>Seven Brides For Seven Brothers</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929143000 +0000" channel="73">
-    <title>Coach Carter</title>
-    <desc />
-  </programme>
   <programme start="20260929143000 +0000" stop="20260929164500 +0000" channel="73">
     <title>Constantine</title>
     <desc />
@@ -252,5 +240,25 @@
     <title>Red Dragon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950040?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004081500 +0000" stop="20261004101500 +0000" channel="73">
+    <title>Practical Magic</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004101500 +0000" stop="20261004120000 +0000" channel="73">
+    <title>Teenage Mutant Ninja Turtles Iii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948528?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004141500 +0000" channel="73">
+    <title>The Accused</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004141500 +0000" stop="20261004163000 +0000" channel="73">
+    <title>Gung Ho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950720?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

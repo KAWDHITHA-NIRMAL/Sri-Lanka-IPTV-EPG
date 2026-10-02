@@ -3,38 +3,6 @@
   <channel id="85">
     <display-name>Channel 92</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="85">
-    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="85">
-    <title>Crime Patrol - 48 Hours</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929113000 +0000" channel="85">
-    <title>Crime Patrol 2023</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="85">
-    <title>Best Of Crime Patrol - Crime Patrol Dial 100</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="85">
-    <title>Crime Patrol 2.0</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="85">
-    <title>Vighnaharta Ganesh</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="85">
-    <title>Vighnaharta Ganesh</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="85">
-    <title>Indian Game Show With Bharti And Harssh</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929171000 +0000" channel="85">
     <title>Kaun Banega Crorepati S18</title>
     <desc />
@@ -533,5 +501,45 @@
     <title>Crime Patrol 2.0</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004082000 +0000" stop="20261004092000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Dial 100</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004092000 +0000" stop="20261004113000 +0000" channel="85">
+    <title>Crime Patrol 2023</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Dial 100</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="85">
+    <title>Vighnaharta Ganesh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="85">
+    <title>Vighnaharta Ganesh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="85">
+    <title>Indian Game Show With Bharti And Harssh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950835?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004171000 +0000" channel="85">
+    <title>Kaun Banega Crorepati S18</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950836?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

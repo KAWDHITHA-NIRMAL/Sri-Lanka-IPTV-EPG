@@ -3,50 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260929071000 +0000" stop="20260929103000 +0000" channel="6">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929105500 +0000" channel="6">
-    <title>Soortin Martin</title>
-    <desc />
-  </programme>
-  <programme start="20260929105500 +0000" stop="20260929112500 +0000" channel="6">
-    <title>Malory Towers S07</title>
-    <desc />
-  </programme>
-  <programme start="20260929112500 +0000" stop="20260929115500 +0000" channel="6">
-    <title>Snoopy</title>
-    <desc />
-  </programme>
-  <programme start="20260929115500 +0000" stop="20260929122500 +0000" channel="6">
-    <title>Boss Baby</title>
-    <desc />
-  </programme>
-  <programme start="20260929122500 +0000" stop="20260929125500 +0000" channel="6">
-    <title>Kodu Kaari</title>
-    <desc />
-  </programme>
-  <programme start="20260929125500 +0000" stop="20260929132500 +0000" channel="6">
-    <title>Sitha Nidi Na</title>
-    <desc />
-  </programme>
-  <programme start="20260929132500 +0000" stop="20260929140000 +0000" channel="6">
-    <title>Ada Derana @ 6.55 Live</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="6">
-    <title>Iskole</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="6">
-    <title>Sangeethe S02</title>
-    <desc />
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="6">
-    <title>Husmak Lagin</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="6">
     <title>Kolamba Kattiya</title>
     <desc />
@@ -539,5 +495,35 @@
     <title>Kurulu Koodu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952241?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004105500 +0000" channel="6">
+    <title>Hondatama Pahila</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/737772?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004105500 +0000" stop="20261004112500 +0000" channel="6">
+    <title>Hithagannama Bari Kathawak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952199?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004112500 +0000" stop="20261004122500 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004122500 +0000" stop="20261004132500 +0000" channel="6">
+    <title>Teen Star S01 Grand Finale Red Carpert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004132500 +0000" stop="20261004140000 +0000" channel="6">
+    <title>Ada Derana @ 6.55 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004163000 +0000" channel="6">
+    <title>Teen Star S01 Grand Finale Final Event</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949447?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

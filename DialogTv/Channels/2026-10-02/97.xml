@@ -3,38 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929110000 +0000" channel="97">
-    <title>Thirupathi</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="97">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="97">
-    <title>Katrathu Samayal S08</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="97">
-    <title>Ramanujar</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="97">
-    <title>Priyamanaval</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="97">
-    <title>Kannethirey Thondrinaal</title>
-    <desc />
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="97">
-    <title>Thendral</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929190000 +0000" channel="97">
     <title>Anjathey</title>
     <desc />
@@ -477,6 +445,21 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004080000 +0000" stop="20261004120000 +0000" channel="97">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004153000 +0000" channel="97">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004183000 +0000" channel="97">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950918?accessKey=WkVjNWNscFhORDBLCg==" />

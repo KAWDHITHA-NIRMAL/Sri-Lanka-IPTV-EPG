@@ -3,50 +3,6 @@
   <channel id="48">
     <display-name>Channel 54</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="48">
-    <title>Mr. World</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="48">
-    <title>Ayubowewa</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929113000 +0000" channel="48">
-    <title>Kids Champ</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="48">
-    <title>Kathandara Pancha</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="48">
-    <title>Rhyme Doo</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="48">
-    <title>Kids Champ</title>
-    <desc />
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="48">
     <title>Fun Factory</title>
     <desc />
@@ -664,5 +620,60 @@
     <title>Mr. World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950117?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004093000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004100000 +0000" channel="48">
+    <title>Dobby's Book</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/190213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004113000 +0000" channel="48">
+    <title>Kids Champ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950116?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004120000 +0000" channel="48">
+    <title>Uncle Toy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950121?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="48">
+    <title>Rhyme Doo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="48">
+    <title>Kids Champ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950116?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="48">
+    <title>Fun Factory</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151308?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

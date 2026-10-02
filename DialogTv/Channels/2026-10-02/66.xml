@@ -3,30 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20260929070000 +0000" stop="20260929100000 +0000" channel="66">
-    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929123000 +0000" channel="66">
-    <title>Live 20th Asian Games Aichi-Nagoya 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="66">
-    <title>Live Sports Extraaa</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="66">
-    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="66">
-    <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="66">
-    <title>UEFA Nations League 2026-27 MD 2 Turkiye vs Italy Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
     <desc />
@@ -380,5 +356,34 @@
     <title>Live Sports Extraaa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004110000 +0000" channel="66">
+    <title>Live 20th Asian Games Aichi-Nagoya 2026 Closing Ceremony</title>
+    <desc />
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="66">
+    <title>Live Sports Extraaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 3 Spain vs Czechia Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004150000 +0000" channel="66">
+    <title>Live UEFA Nations League 2026/27 Azerbaijan vs Lithuania</title>
+    <desc />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 3 Spain vs Czechia Highlights</title>
+    <desc />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260929075000 +0000" stop="20260929082000 +0000" channel="75">
-    <title>Hollywood On Set S1</title>
-    <desc />
-  </programme>
-  <programme start="20260929082000 +0000" stop="20260929100500 +0000" channel="75">
-    <title>No Reservations</title>
-    <desc />
-  </programme>
-  <programme start="20260929100500 +0000" stop="20260929115500 +0000" channel="75">
-    <title>Mann V. Ford</title>
-    <desc />
-  </programme>
-  <programme start="20260929115500 +0000" stop="20260929140000 +0000" channel="75">
-    <title>Allied</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="75">
-    <title>Lanterns S1</title>
-    <desc />
-  </programme>
   <programme start="20260929150000 +0000" stop="20260929165500 +0000" channel="75">
     <title>Crazy, Stupid, Love</title>
     <desc />
@@ -376,5 +356,30 @@
     <title>Anemone</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950729?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100500 +0000" stop="20261004112500 +0000" channel="75">
+    <title>Taking Chance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004112500 +0000" stop="20261004130000 +0000" channel="75">
+    <title>Cinema Verite: The Saga Of An American Family</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950796?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="75">
+    <title>Lanterns S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940755?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004144500 +0000" channel="75">
+    <title>Law &amp; Order ('21) S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944560?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004144500 +0000" stop="20261004163500 +0000" channel="75">
+    <title>Novocaine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950797?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

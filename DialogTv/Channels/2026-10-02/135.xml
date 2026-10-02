@@ -3,34 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="135">
-    <title>L'Appartamento Sold Out 8a E Ultima Puntata</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="135">
-    <title>L'Eredita Summer</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929114500 +0000" channel="135">
-    <title>Intrattenimento: Stasera... Pippo Baudo</title>
-    <desc />
-  </programme>
-  <programme start="20260929114500 +0000" stop="20260929121500 +0000" channel="135">
-    <title>TG1 Ore 13.30</title>
-    <desc />
-  </programme>
-  <programme start="20260929121500 +0000" stop="20260929123000 +0000" channel="135">
-    <title>Tg Sport Giorno</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929141500 +0000" channel="135">
-    <title>Fiction: Che Dio Ci Aiuti 7 3a Puntata</title>
-    <desc />
-  </programme>
-  <programme start="20260929141500 +0000" stop="20260929143000 +0000" channel="135">
-    <title>TG1 Ore 16.00</title>
-    <desc />
-  </programme>
   <programme start="20260929143000 +0000" stop="20260929170000 +0000" channel="135">
     <title>Vita In Diretta</title>
     <desc />
@@ -658,5 +630,35 @@
     <title>L'Appartamento Sold Out 6a Puntata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951507?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004093000 +0000" channel="135">
+    <title>L'Eredita Summer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950862?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004120000 +0000" channel="135">
+    <title>Splendida Cornice 2025/26 6a Puntata Riedizione Crawl</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="135">
+    <title>TG1 Ore 13.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/187624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004141500 +0000" channel="135">
+    <title>Fiction: Che Dio Ci Aiuti 7 1a Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951508?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004141500 +0000" stop="20261004143000 +0000" channel="135">
+    <title>TG1 Ore 16.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004170000 +0000" channel="135">
+    <title>Vita In Diretta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714017?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

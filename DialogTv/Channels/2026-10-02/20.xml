@@ -3,26 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20260929070000 +0000" stop="20260929083000 +0000" channel="20">
-    <title>Highlights - India tour of South Africa 2024</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929123000 +0000" channel="20">
-    <title>Repeat -  Bangladesh tour of India 2024</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929140000 +0000" channel="20">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="20">
-    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929173000 +0000" channel="20">
     <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
     <desc />
@@ -305,5 +285,30 @@
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004123000 +0000" channel="20">
+    <title>Repeat -  Bangladesh tour of India 2024</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004140000 +0000" channel="20">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="20">
+    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949655?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004173000 +0000" channel="20">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

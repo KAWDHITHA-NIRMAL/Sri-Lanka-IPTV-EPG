@@ -3,26 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20260929065000 +0000" stop="20260929084000 +0000" channel="125">
-    <title>SANZAAR International Tour Serie Australia v South Africa</title>
-    <desc />
-  </programme>
-  <programme start="20260929084000 +0000" stop="20260929103000 +0000" channel="125">
-    <title>Gallagher Premiership Northampton v Newcastle</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929122000 +0000" channel="125">
-    <title>Gallagher Premiership Exeter v Gloucester</title>
-    <desc />
-  </programme>
-  <programme start="20260929122000 +0000" stop="20260929125000 +0000" channel="125">
-    <title>Top 14 Highlights Round 4</title>
-    <desc />
-  </programme>
-  <programme start="20260929125000 +0000" stop="20260929144000 +0000" channel="125">
-    <title>NRL Dolphins v Roosters</title>
-    <desc />
-  </programme>
   <programme start="20260929144000 +0000" stop="20260929163000 +0000" channel="125">
     <title>NRL Panthers v Knights</title>
     <desc />
@@ -370,5 +350,33 @@
     <title>5 and 6 Nations Classics 2012 - France v England</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947262?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="125">
+    <title>NRL Try Time NRL Try Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742672?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004120000 +0000" channel="125">
+    <title>LIVE NRL Grand Final</title>
+    <desc />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2001 - Wales v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951960?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2007 - Scotland v Italy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951961?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004135500 +0000" channel="125">
+    <title>5 &amp; 6 Nations Legends</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952417?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004135500 +0000" stop="20261004160000 +0000" channel="125">
+    <title>LIVE Gallagher Premiership Saracens v Sale</title>
+    <desc />
   </programme>
 </tv>

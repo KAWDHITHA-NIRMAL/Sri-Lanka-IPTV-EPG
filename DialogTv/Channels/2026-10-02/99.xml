@@ -3,38 +3,6 @@
   <channel id="99">
     <display-name>Channel 106</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="99">
-    <title>Vadivelu Vibes</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="99">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="99">
-    <title>Sirippu Pattasu</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929113000 +0000" channel="99">
-    <title>Strat Comedy Laugh</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="99">
-    <title>Coffee With Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="99">
-    <title>Non Stop Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="99">
-    <title>Comedy La Trend</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="99">
-    <title>Star Comedy</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="99">
     <title>Vanthutaanya Vanthutaan</title>
     <desc />
@@ -445,5 +413,45 @@
     <title>Vadivelu Vibes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004093000 +0000" channel="99">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/66838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004103000 +0000" channel="99">
+    <title>Soori Special</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952165?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004113000 +0000" channel="99">
+    <title>Santhanam Special</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952218?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="99">
+    <title>Coffee With Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="99">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951079?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004143000 +0000" channel="99">
+    <title>Comedy La Trend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951073?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="99">
+    <title>Kalakkal Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952065?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004163000 +0000" channel="99">
+    <title>Vanthutaanya Vanthutaan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951074?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

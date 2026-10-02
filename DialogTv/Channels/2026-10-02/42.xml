@@ -3,22 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929150000 +0000" channel="42">
-    <title>Afternoon Overture</title>
-    <desc />
-  </programme>
   <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="42">
     <title>Simply Strings</title>
     <desc />
@@ -696,5 +680,30 @@
     <title>Dawn Chorus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950000?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004100000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004140000 +0000" channel="42">
+    <title>Sunday Selection</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949998?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="42">
+    <title>A Classical Christmas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949741?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949537?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

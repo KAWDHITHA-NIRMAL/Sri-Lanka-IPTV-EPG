@@ -3,34 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="10">
-    <title>Landline</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="10">
-    <title>Abc News At Noon</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929130000 +0000" channel="10">
-    <title>Taken 3</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="10">
-    <title>07:30</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="10">
-    <title>Jathiak Mehewara</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929161500 +0000" channel="10">
     <title>News 1st</title>
     <desc />
@@ -475,5 +447,35 @@
     <title>Kindurangana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/741350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004123000 +0000" channel="10">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949488?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="10">
+    <title>Uthum Pathum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="10">
+    <title>Culture by Design</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952186?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="10">
+    <title>Face To Face</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004161500 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20260929070100 +0000" stop="20260929105700 +0000" channel="91">
-    <title>Raja Hindustani</title>
-    <desc />
-  </programme>
-  <programme start="20260929105700 +0000" stop="20260929142500 +0000" channel="91">
-    <title>Sanam Bewafa</title>
-    <desc />
-  </programme>
   <programme start="20260929142500 +0000" stop="20260929165900 +0000" channel="91">
     <title>Akhiyon Se Goli Maare</title>
     <desc />
@@ -197,5 +189,15 @@
     <title>Darr</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951009?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004105300 +0000" stop="20261004142500 +0000" channel="91">
+    <title>Rab Ne Bana Di Jodi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951010?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004142500 +0000" stop="20261004171000 +0000" channel="91">
+    <title>Soldier</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951011?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

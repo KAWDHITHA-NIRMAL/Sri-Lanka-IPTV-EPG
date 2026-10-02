@@ -3,54 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="64">
-    <title>Asian Games Cricket - Women's Gold Medal Match</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - QF3 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="64">
-    <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="64">
-    <title>New Zealand vs India 2019 2nd ODI Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="64">
-    <title>Lords of England HITMAN'S ENGLAND</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - QF3 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - QF4 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="64">
-    <title>New Zealand Vs India 2020 2nd T20 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="64">
-    <title>Lords of England HITMAN'S ENGLAND</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - QF3 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - QF4 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="64">
-    <title>Asian Games 2026 - Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="64">
     <title>UEFA Nations League 2026-27 MD 2 Turkiye vs Italy Highlights</title>
     <desc />
@@ -649,5 +601,40 @@
     <title>Asian Games 2026 Cricket (Men's) - Gold Medal Match Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004120000 +0000" channel="64">
+    <title>UFC 332 - Silva vs Wang</title>
+    <desc />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="64">
+    <title>FIFA International friendlies - India vs Brazil Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="64">
+    <title>Asian Games 2026 - Closing Ceremony Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="64">
+    <title>Asian Games 2026 - Kabbadi (M) Gold Medal Match India Vs Iran Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="64">
+    <title>Asian Games 2026 - Kabbadi (W) Gold Medal Match India Vs Iran Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="64">
+    <title>Asian Games 2026 -Hockey (W) FInals Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="64">
+    <title>FIFA International friendlies - India vs Brazil Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="64">
+    <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
+    <desc />
   </programme>
 </tv>

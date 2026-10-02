@@ -3,18 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20260929065200 +0000" stop="20260929085400 +0000" channel="79">
-    <title>DD Returns</title>
-    <desc />
-  </programme>
-  <programme start="20260929085400 +0000" stop="20260929113800 +0000" channel="79">
-    <title>Mca - Middle Class Abhay</title>
-    <desc />
-  </programme>
-  <programme start="20260929113800 +0000" stop="20260929150500 +0000" channel="79">
-    <title>The Return Of Abhimanyu</title>
-    <desc />
-  </programme>
   <programme start="20260929150500 +0000" stop="20260929173300 +0000" channel="79">
     <title>OMG! Oh My God</title>
     <desc />
@@ -229,5 +217,20 @@
     <title>Tiger Nageswara Rao</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950676?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004084600 +0000" stop="20261004121800 +0000" channel="79">
+    <title>Dacoit Ek Prem Katha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951742?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004121800 +0000" stop="20261004150000 +0000" channel="79">
+    <title>Secret Agent</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951743?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004174100 +0000" channel="79">
+    <title>Maargan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951744?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

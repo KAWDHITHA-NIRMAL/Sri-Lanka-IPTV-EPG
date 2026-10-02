@@ -3,26 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929103000 +0000" channel="67">
-    <title>TNA Sacrifice</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="67">
-    <title>One-Day International Cricket</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="67">
-    <title>Dutch League Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="67">
-    <title>Playing With Purpose</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929143000 +0000" channel="67">
-    <title>AEW Collision</title>
-    <desc />
-  </programme>
   <programme start="20260929143000 +0000" stop="20260929163000 +0000" channel="67">
     <title>Eredivisie Soccer</title>
     <desc />
@@ -319,5 +299,20 @@
     <title>TNA Rebellion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952293?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004123000 +0000" channel="67">
+    <title>WTT Grand Smash</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952294?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004143000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004170000 +0000" channel="67">
+    <title>British Superbike Championship Series</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951498?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

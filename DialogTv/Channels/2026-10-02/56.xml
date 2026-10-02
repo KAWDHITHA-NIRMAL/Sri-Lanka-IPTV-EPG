@@ -3,46 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="56">
-    <title>18 Wheels Across India</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929092000 +0000" channel="56">
-    <title>18 Wheels Across Africa</title>
-    <desc />
-  </programme>
-  <programme start="20260929092000 +0000" stop="20260929095800 +0000" channel="56">
-    <title>Bear Grylls: How To Stay Alive</title>
-    <desc />
-  </programme>
-  <programme start="20260929095800 +0000" stop="20260929103500 +0000" channel="56">
-    <title>Storage Wars</title>
-    <desc />
-  </programme>
-  <programme start="20260929103500 +0000" stop="20260929111800 +0000" channel="56">
-    <title>In the Eye of the Storm: Chasers</title>
-    <desc />
-  </programme>
-  <programme start="20260929111800 +0000" stop="20260929123000 +0000" channel="56">
-    <title>Dual Survival Mexico</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929131600 +0000" channel="56">
-    <title>Man Vs. Wild</title>
-    <desc />
-  </programme>
-  <programme start="20260929131600 +0000" stop="20260929134600 +0000" channel="56">
-    <title>Storage Wars</title>
-    <desc />
-  </programme>
-  <programme start="20260929134600 +0000" stop="20260929144000 +0000" channel="56">
-    <title>Marooned With Ed Stafford</title>
-    <desc />
-  </programme>
-  <programme start="20260929144000 +0000" stop="20260929153800 +0000" channel="56">
-    <title>Man Vs. Wild</title>
-    <desc />
-  </programme>
   <programme start="20260929153800 +0000" stop="20260929163600 +0000" channel="56">
     <title>18 Wheels Across Africa</title>
     <desc />
@@ -627,5 +587,60 @@
     <title>Dual Survival</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004085600 +0000" channel="56">
+    <title>WildFed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950256?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004085600 +0000" stop="20261004095100 +0000" channel="56">
+    <title>Dual Survival Brazil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004095100 +0000" stop="20261004104600 +0000" channel="56">
+    <title>Man Vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950250?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004104600 +0000" stop="20261004114100 +0000" channel="56">
+    <title>Secret Africa: Into The Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004114100 +0000" stop="20261004122100 +0000" channel="56">
+    <title>Bear Grylls Is Running Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004122100 +0000" stop="20261004124700 +0000" channel="56">
+    <title>Shipping Wars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004124700 +0000" stop="20261004133000 +0000" channel="56">
+    <title>18 Wheels Across Africa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004135000 +0000" channel="56">
+    <title>Build India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950267?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004135000 +0000" stop="20261004144500 +0000" channel="56">
+    <title>Who Wants to Be a Millionaire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948064?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004144500 +0000" stop="20261004154000 +0000" channel="56">
+    <title>Man Vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950250?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004154000 +0000" stop="20261004163500 +0000" channel="56">
+    <title>Ed Stafford's Rite of Passage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950254?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

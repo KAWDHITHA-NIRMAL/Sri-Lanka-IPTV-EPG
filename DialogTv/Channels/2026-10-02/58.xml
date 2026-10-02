@@ -3,54 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="58">
-    <title>Restaurant: Impossible</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="58">
-    <title>Food Paradise</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="58">
-    <title>Say Yes To The Dress UK</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="58">
-    <title>Say Yes To The Dress</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="58">
-    <title>For the Love of Kitchens</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="58">
-    <title>Say Yes To The Dress UK</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="58">
-    <title>Say Yes To The Dress</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="58">
-    <title>For the Love of Kitchens</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="58">
     <title>MasterChef Asia</title>
     <desc />
@@ -702,5 +654,50 @@
     <title>Restaurant: Impossible</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/871443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004093000 +0000" channel="58">
+    <title>Food Paradise</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/137663?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004100000 +0000" channel="58">
+    <title>Say Yes To The Dress: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="58">
+    <title>Say Yes To The Dress: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004123000 +0000" channel="58">
+    <title>Harry Potter: Wizards of Baking</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="58">
+    <title>Say Yes To The Dress: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="58">
+    <title>Say Yes To The Dress: India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004143000 +0000" channel="58">
+    <title>Harry Potter: Wizards of Baking</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="58">
+    <title>Chopped Castaways</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950501?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="58">
+    <title>Beat Bobby Flay</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

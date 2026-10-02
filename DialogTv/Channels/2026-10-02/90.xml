@@ -3,14 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929110000 +0000" channel="90">
-    <title>Pyaar Ka Safar</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929140000 +0000" channel="90">
-    <title>Krantiveer</title>
-    <desc />
-  </programme>
   <programme start="20260929140000 +0000" stop="20260929170000 +0000" channel="90">
     <title>Ghar Mein Ram Gali Mein Shyam</title>
     <desc />
@@ -188,5 +180,15 @@
     <title>Pighalta Aasman</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952533?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004140000 +0000" channel="90">
+    <title>Keemat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952534?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004170000 +0000" channel="90">
+    <title>Zakhmi Aurat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950856?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

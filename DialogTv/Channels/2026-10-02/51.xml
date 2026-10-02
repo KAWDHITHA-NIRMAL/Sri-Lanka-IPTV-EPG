@@ -3,22 +3,6 @@
   <channel id="51">
     <display-name>Channel 57</display-name>
   </channel>
-  <programme start="20260929063000 +0000" stop="20260929083000 +0000" channel="51">
-    <title>Bluey</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="51">
-    <title>The Lion Guard</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929113000 +0000" channel="51">
-    <title>The Lion Guard</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929150000 +0000" channel="51">
-    <title>Bluey</title>
-    <desc />
-  </programme>
   <programme start="20260929150000 +0000" stop="20260929173000 +0000" channel="51">
     <title>The Lion Guard</title>
     <desc />
@@ -297,5 +281,25 @@
     <title>Bluey</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950045?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="51">
+    <title>Return Of The Roar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949464?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004113000 +0000" channel="51">
+    <title>The Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004150000 +0000" channel="51">
+    <title>Bluey</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950045?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004173000 +0000" channel="51">
+    <title>The Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

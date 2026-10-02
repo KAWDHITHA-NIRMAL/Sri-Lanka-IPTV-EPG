@@ -3,18 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929100000 +0000" channel="72">
-    <title>The Strangers: Prey At Night</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929120000 +0000" channel="72">
-    <title>Fantastic Mr. Fox</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929140000 +0000" channel="72">
-    <title>John Wick Chapter 2</title>
-    <desc />
-  </programme>
   <programme start="20260929140000 +0000" stop="20260929160000 +0000" channel="72">
     <title>River Monster</title>
     <desc />
@@ -275,5 +263,20 @@
     <title>Drone</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004120000 +0000" channel="72">
+    <title>Please Stand By</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950755?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004140000 +0000" channel="72">
+    <title>Wrong Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950756?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004160000 +0000" channel="72">
+    <title>Sniper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950757?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

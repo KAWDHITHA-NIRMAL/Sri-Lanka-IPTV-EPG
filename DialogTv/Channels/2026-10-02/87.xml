@@ -3,18 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20260929072500 +0000" stop="20260929091500 +0000" channel="87">
-    <title>Hulla</title>
-    <desc />
-  </programme>
-  <programme start="20260929091500 +0000" stop="20260929113500 +0000" channel="87">
-    <title>Saathiya</title>
-    <desc />
-  </programme>
-  <programme start="20260929113500 +0000" stop="20260929134500 +0000" channel="87">
-    <title>Total Dhamaal</title>
-    <desc />
-  </programme>
   <programme start="20260929134500 +0000" stop="20260929170000 +0000" channel="87">
     <title>Veer-Zaara</title>
     <desc />
@@ -247,5 +235,20 @@
     <title>The Burning Train</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950695?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083500 +0000" stop="20261004111000 +0000" channel="87">
+    <title>Seetharamam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004111000 +0000" stop="20261004140000 +0000" channel="87">
+    <title>Dhoom 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950697?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004170000 +0000" channel="87">
+    <title>Kuch Kuch Hota Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951729?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

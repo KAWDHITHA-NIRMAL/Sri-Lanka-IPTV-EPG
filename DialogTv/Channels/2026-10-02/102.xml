@@ -3,50 +3,6 @@
   <channel id="102">
     <display-name>Channel 109</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="102">
-    <title>G 13 Biology</title>
-    <desc />
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="102">
-    <title>G 13 Physics</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="102">
-    <title>Vision</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929113000 +0000" channel="102">
-    <title>13 Chemistry</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929114500 +0000" channel="102">
-    <title>Uda Nenasa/Sathi Pasala</title>
-    <desc />
-  </programme>
-  <programme start="20260929114500 +0000" stop="20260929120000 +0000" channel="102">
-    <title>Rangamadala</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="102">
-    <title>English As A Life Skill</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="102">
-    <title>Suwa Nena</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="102">
-    <title>Poddanta Nenasen Idak</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="102">
-    <title>G 12 Biology</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="102">
-    <title>G 12 Physics</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929163000 +0000" channel="102">
     <title>G 12 Chemistry</title>
     <desc />
@@ -645,5 +601,45 @@
     <title>G 13 Science for Technology</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004093000 +0000" channel="102">
+    <title>Enterprenuership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951728?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004103000 +0000" channel="102">
+    <title>G 12 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004113000 +0000" channel="102">
+    <title>G 12 Information Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="102">
+    <title>G 12 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004133000 +0000" channel="102">
+    <title>G 13 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004143000 +0000" channel="102">
+    <title>G 13 Information Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="102">
+    <title>G 13 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950400?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004163000 +0000" channel="102">
+    <title>G 12 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

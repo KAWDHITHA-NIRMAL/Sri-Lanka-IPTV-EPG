@@ -3,58 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="137">
-    <title>Newshour</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="137">
-    <title>Africa Matters</title>
-    <desc />
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="137">
-    <title>Just 2 Degrees</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="137">
-    <title>Business News</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="137">
-    <title>The Newsmakers</title>
-    <desc />
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="137">
-    <title>Newshour</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="137">
-    <title>Nextech</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="137">
-    <title>Nexus</title>
-    <desc />
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="137">
-    <title>Roundtable</title>
-    <desc />
-  </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="137">
     <title>The Newsmakers</title>
     <desc />
@@ -1064,5 +1012,75 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="137">
+    <title>Roundtable</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004100000 +0000" channel="137">
+    <title>Documentary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004110000 +0000" channel="137">
+    <title>Beyond Borders</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953191?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004113000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004120000 +0000" channel="137">
+    <title>Inside America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004124500 +0000" channel="137">
+    <title>Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004124500 +0000" stop="20261004130000 +0000" channel="137">
+    <title>Newsfeed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="137">
+    <title>Roundtable</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="137">
+    <title>Just 2 Degrees</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="137">
+    <title>Storyteller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953302?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

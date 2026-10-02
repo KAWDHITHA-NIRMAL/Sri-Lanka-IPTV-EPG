@@ -3,18 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260929080500 +0000" stop="20260929104000 +0000" channel="114">
-    <title>Transformers: The Last Knight</title>
-    <desc />
-  </programme>
-  <programme start="20260929104000 +0000" stop="20260929130000 +0000" channel="114">
-    <title>In The Heights</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929152000 +0000" channel="114">
-    <title>13 Hours: The Secret Soldiers Of Benghazi</title>
-    <desc />
-  </programme>
   <programme start="20260929152000 +0000" stop="20260929174500 +0000" channel="114">
     <title>Eddington</title>
     <desc />
@@ -301,5 +289,25 @@
     <title>Indiana Jones And The Temple Of Doom</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951765?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004092000 +0000" stop="20261004110500 +0000" channel="114">
+    <title>The Polar Express</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951262?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110500 +0000" stop="20261004130000 +0000" channel="114">
+    <title>Reminders Of Him</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951263?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004143000 +0000" channel="114">
+    <title>Arcadian</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004143000 +0000" stop="20261004163000 +0000" channel="114">
+    <title>Allied</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20260929080000 +0000" stop="20260929103000 +0000" channel="101">
-    <title>Sillu Karuppatti</title>
-    <desc />
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929130000 +0000" channel="101">
-    <title>Dd Next Level</title>
-    <desc />
-  </programme>
   <programme start="20260929130000 +0000" stop="20260929160000 +0000" channel="101">
     <title>Vikram Vedha</title>
     <desc />
@@ -266,5 +258,15 @@
     <title>Asura Guru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951025?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004140000 +0000" channel="101">
+    <title>Valimai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951026?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004163000 +0000" channel="101">
+    <title>Kirumi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951027?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

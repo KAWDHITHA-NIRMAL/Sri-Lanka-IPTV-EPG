@@ -3,38 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20260929073000 +0000" stop="20260929090000 +0000" channel="34">
-    <title>CNN Newsroom (CNNI)</title>
-    <desc />
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="34">
-    <title>Early Start With Rahel Solomon</title>
-    <desc />
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="34">
-    <title>Cnn This Morning</title>
-    <desc />
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929123000 +0000" channel="34">
-    <title>CNN News Central</title>
-    <desc />
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="34">
-    <title>Connect The World</title>
-    <desc />
-  </programme>
   <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="34">
     <title>One World</title>
     <desc />
@@ -526,5 +494,35 @@
     <title>CNN Newsroom (CNNI)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004110000 +0000" channel="34">
+    <title>CNN Newsroom (CNNI)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="34">
+    <title>CNN This Morning Weekend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953432?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="34">
+    <title>Inside Politics With Manu Raju</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="34">
+    <title>State Of The Union With Jake Tapper And Dana Bash</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="34">
+    <title>Fareed Zakaria GPS</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="34">
+    <title>Inside Politics With Manu Raju</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952837?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
