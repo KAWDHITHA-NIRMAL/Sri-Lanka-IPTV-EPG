@@ -3,37 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260928183000 +0000" stop="20260928203000 +0000" channel="67">
-    <title>Marathon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946466?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928203000 +0000" stop="20260928223000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928223000 +0000" stop="20260929013000 +0000" channel="67">
-    <title>Big Cricket League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/870932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260929013000 +0000" stop="20260929023000 +0000" channel="67">
-    <title>Impact In 60</title>
-    <desc />
-  </programme>
-  <programme start="20260929023000 +0000" stop="20260929043000 +0000" channel="67">
-    <title>TNA Impact</title>
-    <desc />
-  </programme>
-  <programme start="20260929043000 +0000" stop="20260929053000 +0000" channel="67">
-    <title>TNA Unfinished Business</title>
-    <desc />
-  </programme>
-  <programme start="20260929053000 +0000" stop="20260929073000 +0000" channel="67">
-    <title>Major League Soccer</title>
-    <desc />
-  </programme>
   <programme start="20260929073000 +0000" stop="20260929103000 +0000" channel="67">
     <title>TNA Sacrifice</title>
     <desc />
@@ -315,5 +284,40 @@
     <title>MLS Soccer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003203000 +0000" stop="20261004000000 +0000" channel="67">
+    <title>Big Cricket League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004041500 +0000" channel="67">
+    <title>MotoGP Racing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004041500 +0000" stop="20261004044500 +0000" channel="67">
+    <title>MotoGP Pre Show - The Warmup Lap</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952292?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004044500 +0000" stop="20261004061500 +0000" channel="67">
+    <title>MotoGP Racing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004061500 +0000" stop="20261004063000 +0000" channel="67">
+    <title>Showtime with Yashasvi Jaiswal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952198?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004063000 +0000" stop="20261004103000 +0000" channel="67">
+    <title>TNA Rebellion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952293?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

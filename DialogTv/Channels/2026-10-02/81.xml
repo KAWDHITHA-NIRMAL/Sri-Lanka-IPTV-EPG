@@ -3,53 +3,6 @@
   <channel id="81">
     <display-name>Channel 88</display-name>
   </channel>
-  <programme start="20260928173000 +0000" stop="20260928193000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/174316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928193000 +0000" stop="20260928213000 +0000" channel="81">
-    <title>Girl Meets World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/703771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928213000 +0000" stop="20260928233000 +0000" channel="81">
-    <title>Wizards Beyond Waverly Place</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928233000 +0000" stop="20260929003000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-  </programme>
-  <programme start="20260929003000 +0000" stop="20260929013000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-  </programme>
-  <programme start="20260929013000 +0000" stop="20260929030000 +0000" channel="81">
-    <title>Power Packed Mornings - Mickey Mouse Clubhouse</title>
-    <desc />
-  </programme>
-  <programme start="20260929030000 +0000" stop="20260929040000 +0000" channel="81">
-    <title>Power Packed Mornings - Ducktales</title>
-    <desc />
-  </programme>
-  <programme start="20260929040000 +0000" stop="20260929053000 +0000" channel="81">
-    <title>Power Packed Mornings - Miraculous :Tales Of Ladybug &amp; Cat Noir</title>
-    <desc />
-  </programme>
-  <programme start="20260929053000 +0000" stop="20260929063000 +0000" channel="81">
-    <title>Power Packed Mornings - Big City Greens</title>
-    <desc />
-  </programme>
-  <programme start="20260929063000 +0000" stop="20260929073000 +0000" channel="81">
-    <title>Liv And Maddie</title>
-    <desc />
-  </programme>
-  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="81">
-    <title>Wizards Beyond Waverly Place</title>
-    <desc />
-  </programme>
   <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="81">
     <title>Wizards Beyond Waverly Place</title>
     <desc />
@@ -323,19 +276,34 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002073000 +0000" stop="20261002080000 +0000" channel="81">
-    <title>Wizards Beyond Waverly Place</title>
+    <title>'Disney Spotlight : Descendants 3</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953455?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002080000 +0000" stop="20261002083000 +0000" channel="81">
     <title>Wizards Beyond Waverly Place</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261002083000 +0000" stop="20261002110000 +0000" channel="81">
-    <title>Sibling Shenanigans Stuck In The Middle &amp; Bunk'd</title>
+  <programme start="20261002083000 +0000" stop="20261002090000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952546?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261002090000 +0000" stop="20261002100000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002103000 +0000" channel="81">
+    <title>Bunk'd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261002103000 +0000" stop="20261002110000 +0000" channel="81">
+    <title>Bunk'd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950810?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002110000 +0000" stop="20261002123000 +0000" channel="81">
     <title>Girl Meets World</title>
@@ -348,7 +316,7 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950817?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002140000 +0000" stop="20261002143000 +0000" channel="81">
-    <title>New Show - The Suite Life On Deck</title>
+    <title>The Suite Life On Deck</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950811?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
@@ -363,9 +331,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002163000 +0000" stop="20261002173000 +0000" channel="81">
-    <title>Girl Meets World</title>
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950812?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002173000 +0000" stop="20261002193000 +0000" channel="81">
     <title>Liv And Maddie</title>
@@ -373,9 +341,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002193000 +0000" stop="20261002213000 +0000" channel="81">
-    <title>Girl Meets World</title>
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950812?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261002213000 +0000" stop="20261002233000 +0000" channel="81">
     <title>Wizards Beyond Waverly Place</title>
@@ -393,29 +361,29 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003013000 +0000" stop="20261003030000 +0000" channel="81">
-    <title>Girl Meets World</title>
+    <title>Power Packed Mornings - Mickey Mouse Clubhouse</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950812?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914930?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261003030000 +0000" stop="20261003043000 +0000" channel="81">
-    <title>Hannah Montana</title>
+  <programme start="20261003030000 +0000" stop="20261003040000 +0000" channel="81">
+    <title>Power Packed Mornings - Ducktales</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/703775?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261003043000 +0000" stop="20261003053000 +0000" channel="81">
-    <title>Good Luck Charlie</title>
+  <programme start="20261003040000 +0000" stop="20261003053000 +0000" channel="81">
+    <title>Power Packed Mornings - Miraculous :Tales Of Ladybug &amp; Cat Noir</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950817?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950815?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003053000 +0000" stop="20261003063000 +0000" channel="81">
-    <title>Liv And Maddie</title>
+    <title>Power Packed Mornings - Big City Greens</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950816?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003063000 +0000" stop="20261003080000 +0000" channel="81">
-    <title>'Disney Spotlight : Freaky Friday</title>
+    <title>Disney Spotlight : The Naughty Nine</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952544?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953456?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003080000 +0000" stop="20261003083000 +0000" channel="81">
     <title>Wizards Beyond Waverly Place</title>
@@ -443,17 +411,17 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950810?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003110000 +0000" stop="20261003123000 +0000" channel="81">
-    <title>Girl Meets World</title>
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950812?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003123000 +0000" stop="20261003140000 +0000" channel="81">
-    <title>Good Luck Charlie</title>
+    <title>The Suite Life On Deck</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950817?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950811?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003140000 +0000" stop="20261003143000 +0000" channel="81">
-    <title>New Show - The Suite Life On Deck</title>
+    <title>The Suite Life On Deck</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950811?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
@@ -468,13 +436,63 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003163000 +0000" stop="20261003173000 +0000" channel="81">
-    <title>Girl Meets World</title>
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950812?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261003173000 +0000" stop="20261003193000 +0000" channel="81">
     <title>Liv And Maddie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003193000 +0000" stop="20261003213000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003213000 +0000" stop="20261003233000 +0000" channel="81">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003233000 +0000" stop="20261004003000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004013000 +0000" channel="81">
+    <title>Liv And Maddie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004013000 +0000" stop="20261004030000 +0000" channel="81">
+    <title>Power Packed Mornings - Mickey Mouse Clubhouse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/914930?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004040000 +0000" channel="81">
+    <title>Power Packed Mornings - Ducktales</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004053000 +0000" channel="81">
+    <title>Power Packed Mornings - Miraculous :Tales Of Ladybug &amp; Cat Noir</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004053000 +0000" stop="20261004063000 +0000" channel="81">
+    <title>Power Packed Mornings - Big City Greens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004063000 +0000" stop="20261004080000 +0000" channel="81">
+    <title>'Disney Spotlight : Prom Pact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004083000 +0000" channel="81">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/701746?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

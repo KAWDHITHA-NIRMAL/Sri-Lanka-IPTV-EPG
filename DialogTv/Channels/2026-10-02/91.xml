@@ -3,26 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20260928173700 +0000" stop="20260928202400 +0000" channel="91">
-    <title>Mere Yaar Ki Shaadi Hai</title>
-    <desc />
-  </programme>
-  <programme start="20260928202400 +0000" stop="20260928223000 +0000" channel="91">
-    <title>Dil Dosti Etc</title>
-    <desc />
-  </programme>
-  <programme start="20260928223000 +0000" stop="20260929003300 +0000" channel="91">
-    <title>Gehraiyaan</title>
-    <desc />
-  </programme>
-  <programme start="20260929003300 +0000" stop="20260929034200 +0000" channel="91">
-    <title>Maine Dil Tujhko Diya</title>
-    <desc />
-  </programme>
-  <programme start="20260929034200 +0000" stop="20260929070100 +0000" channel="91">
-    <title>Duplicate</title>
-    <desc />
-  </programme>
   <programme start="20260929070100 +0000" stop="20260929105700 +0000" channel="91">
     <title>Raja Hindustani</title>
     <desc />
@@ -192,5 +172,30 @@
     <title>Bloody Ishq</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951005?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003203800 +0000" stop="20261003223500 +0000" channel="91">
+    <title>Logout</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003223500 +0000" stop="20261004004200 +0000" channel="91">
+    <title>Bala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951006?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004004200 +0000" stop="20261004034500 +0000" channel="91">
+    <title>Luka Chuppi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004034500 +0000" stop="20261004070900 +0000" channel="91">
+    <title>Dil Ka Rishta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004070900 +0000" stop="20261004105300 +0000" channel="91">
+    <title>Darr</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951009?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

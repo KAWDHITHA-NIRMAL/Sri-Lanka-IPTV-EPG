@@ -3,24 +3,6 @@
   <channel id="41">
     <display-name>Channel 47</display-name>
   </channel>
-  <programme start="20260928160000 +0000" stop="20260928200000 +0000" channel="41">
-    <title>Speechless Love</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708862?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928200000 +0000" stop="20260929000000 +0000" channel="41">
-    <title>Romantico Memories</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/708863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929040000 +0000" channel="41">
-    <title>Timeless Love</title>
-    <desc />
-  </programme>
-  <programme start="20260929040000 +0000" stop="20260929080000 +0000" channel="41">
-    <title>The Hug Of Dance</title>
-    <desc />
-  </programme>
   <programme start="20260929080000 +0000" stop="20260929120000 +0000" channel="41">
     <title>The Heaven Inside You</title>
     <desc />
@@ -141,5 +123,25 @@
     <title>Speechless Love</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261004000000 +0000" channel="41">
+    <title>Romantico Memories</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952001?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004040000 +0000" channel="41">
+    <title>Timeless Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952118?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004080000 +0000" channel="41">
+    <title>The Hug Of Dance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951975?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004120000 +0000" channel="41">
+    <title>The Heaven Inside You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952119?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

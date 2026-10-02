@@ -3,27 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20260928170000 +0000" stop="20260928200000 +0000" channel="95">
-    <title>December Pookal</title>
-    <desc />
-  </programme>
-  <programme start="20260928200000 +0000" stop="20260928223000 +0000" channel="95">
-    <title>Kakka Kakka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20260928223000 +0000" stop="20260929013000 +0000" channel="95">
-    <title>Mullil Roja</title>
-    <desc />
-  </programme>
-  <programme start="20260929013000 +0000" stop="20260929043000 +0000" channel="95">
-    <title>Thayagam</title>
-    <desc />
-  </programme>
-  <programme start="20260929043000 +0000" stop="20260929073000 +0000" channel="95">
-    <title>Murai Maman</title>
-    <desc />
-  </programme>
   <programme start="20260929073000 +0000" stop="20260929103000 +0000" channel="95">
     <title>Aayusu Nooru</title>
     <desc />
@@ -184,5 +163,30 @@
     <title>Veetula Viseshanga</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952097?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003223000 +0000" channel="95">
+    <title>Nadigan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951692?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261003223000 +0000" stop="20261004013000 +0000" channel="95">
+    <title>Medhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952110?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004013000 +0000" stop="20261004043000 +0000" channel="95">
+    <title>Mazhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004043000 +0000" stop="20261004073000 +0000" channel="95">
+    <title>Iruthi Sutru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952167?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004073000 +0000" stop="20261004103000 +0000" channel="95">
+    <title>Paarai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950912?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
