@@ -3,102 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20260929171000 +0000" stop="20260929183000 +0000" channel="6">
-    <title>Vaada Pitiya Live</title>
-    <desc />
-  </programme>
-  <programme start="20260929183000 +0000" stop="20260929213000 +0000" channel="6">
-    <title>Filler</title>
-    <desc />
-  </programme>
-  <programme start="20260929213000 +0000" stop="20260929230500 +0000" channel="6">
-    <title>Filler</title>
-    <desc />
-  </programme>
-  <programme start="20260929230500 +0000" stop="20260930005500 +0000" channel="6">
-    <title>Dahami Derana</title>
-    <desc />
-  </programme>
-  <programme start="20260930005500 +0000" stop="20260930020000 +0000" channel="6">
-    <title>Derana Aruna Live</title>
-    <desc />
-  </programme>
-  <programme start="20260930020000 +0000" stop="20260930023000 +0000" channel="6">
-    <title>Lokaya Saha Lokaya Live</title>
-    <desc />
-  </programme>
-  <programme start="20260930023000 +0000" stop="20260930033000 +0000" channel="6">
-    <title>Kollai Ballai</title>
-    <desc />
-  </programme>
-  <programme start="20260930033000 +0000" stop="20260930060000 +0000" channel="6">
-    <title>Supiri Raju - Alaska Gamana</title>
-    <desc />
-  </programme>
-  <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="6">
-    <title>Seda Mawatha</title>
-    <desc />
-  </programme>
-  <programme start="20260930063000 +0000" stop="20260930071000 +0000" channel="6">
-    <title>Mid-Day News Bulletin Live</title>
-    <desc />
-  </programme>
-  <programme start="20260930071000 +0000" stop="20260930103000 +0000" channel="6">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20260930103000 +0000" stop="20260930105500 +0000" channel="6">
-    <title>Soortin Martin</title>
-    <desc />
-  </programme>
-  <programme start="20260930105500 +0000" stop="20260930112500 +0000" channel="6">
-    <title>Malory Towers S07</title>
-    <desc />
-  </programme>
-  <programme start="20260930112500 +0000" stop="20260930115500 +0000" channel="6">
-    <title>Snoopy</title>
-    <desc />
-  </programme>
-  <programme start="20260930115500 +0000" stop="20260930122500 +0000" channel="6">
-    <title>Boss Baby</title>
-    <desc />
-  </programme>
-  <programme start="20260930122500 +0000" stop="20260930125500 +0000" channel="6">
-    <title>Kodu Kaari</title>
-    <desc />
-  </programme>
-  <programme start="20260930125500 +0000" stop="20260930132500 +0000" channel="6">
-    <title>Sitha Nidi Na</title>
-    <desc />
-  </programme>
-  <programme start="20260930132500 +0000" stop="20260930140000 +0000" channel="6">
-    <title>Ada Derana @ 6.55 Live</title>
-    <desc />
-  </programme>
-  <programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="6">
-    <title>Iskole</title>
-    <desc />
-  </programme>
-  <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="6">
-    <title>Sangeethe S02</title>
-    <desc />
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930153000 +0000" channel="6">
-    <title>Husmak Lagin</title>
-    <desc />
-  </programme>
-  <programme start="20260930153000 +0000" stop="20260930160000 +0000" channel="6">
-    <title>Kolamba Kattiya</title>
-    <desc />
-  </programme>
-  <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="6">
-    <title>Man Adarei</title>
-    <desc />
-  </programme>
-  <programme start="20260930163000 +0000" stop="20260930171000 +0000" channel="6">
-    <title>Ada Derana @ 10.00 Live</title>
-    <desc />
-  </programme>
   <programme start="20260930171000 +0000" stop="20260930183000 +0000" channel="6">
     <title>Aluth Parlimenthuwa Live</title>
     <desc />
@@ -523,5 +427,145 @@
     <title>Teen Star S01 Grand Finale Final Event</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004183000 +0000" stop="20261004203000 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004203000 +0000" stop="20261004230500 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004230500 +0000" stop="20261005005500 +0000" channel="6">
+    <title>Dahami Derana Tape</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949449?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005005500 +0000" stop="20261005020000 +0000" channel="6">
+    <title>Derana Aruna Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949435?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="6">
+    <title>Lokaya Saha Lokaya Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768120?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005023000 +0000" stop="20261005033000 +0000" channel="6">
+    <title>Paara Kiyana Tharuka Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="6">
+    <title>Iskole</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="6">
+    <title>Sangeethe S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="6">
+    <title>Husmak Lagin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005053000 +0000" channel="6">
+    <title>Kolamba Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005053000 +0000" stop="20261005060000 +0000" channel="6">
+    <title>Man Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005060000 +0000" stop="20261005063000 +0000" channel="6">
+    <title>Seda Mawatha Tape</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005063000 +0000" stop="20261005071000 +0000" channel="6">
+    <title>Mid-Day News Bulletin Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005071000 +0000" stop="20261005103000 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005103000 +0000" stop="20261005105500 +0000" channel="6">
+    <title>Soortin Martin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005105500 +0000" stop="20261005112500 +0000" channel="6">
+    <title>Malory Towers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/745643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005112500 +0000" stop="20261005115500 +0000" channel="6">
+    <title>Snoopy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949436?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005115500 +0000" stop="20261005122500 +0000" channel="6">
+    <title>Boss Baby</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/815068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005122500 +0000" stop="20261005125500 +0000" channel="6">
+    <title>Kodu Kaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005125500 +0000" stop="20261005132500 +0000" channel="6">
+    <title>Sitha Nidi Na</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005132500 +0000" stop="20261005140000 +0000" channel="6">
+    <title>Ada Derana @ 6.55 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="6">
+    <title>Iskole</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/141527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005143000 +0000" stop="20261005150000 +0000" channel="6">
+    <title>Sangeethe S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005150000 +0000" stop="20261005153000 +0000" channel="6">
+    <title>Husmak Lagin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005153000 +0000" stop="20261005160000 +0000" channel="6">
+    <title>Kolamba Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005160000 +0000" stop="20261005163000 +0000" channel="6">
+    <title>Man Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005163000 +0000" stop="20261005171000 +0000" channel="6">
+    <title>Ada Derana @ 10.00 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005171000 +0000" stop="20261005183000 +0000" channel="6">
+    <title>3600 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949452?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

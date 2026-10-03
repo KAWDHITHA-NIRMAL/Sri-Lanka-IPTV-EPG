@@ -3,38 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="90">
-    <title>Blue Oranges</title>
-    <desc />
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260929230000 +0000" channel="90">
-    <title>Ranbanka</title>
-    <desc />
-  </programme>
-  <programme start="20260929230000 +0000" stop="20260930020000 +0000" channel="90">
-    <title>Blood Relation</title>
-    <desc />
-  </programme>
-  <programme start="20260930020000 +0000" stop="20260930050000 +0000" channel="90">
-    <title>Sweekar Kiya Maine</title>
-    <desc />
-  </programme>
-  <programme start="20260930050000 +0000" stop="20260930080000 +0000" channel="90">
-    <title>Khakee: The Real Police</title>
-    <desc />
-  </programme>
-  <programme start="20260930080000 +0000" stop="20260930110000 +0000" channel="90">
-    <title>Sikka</title>
-    <desc />
-  </programme>
-  <programme start="20260930110000 +0000" stop="20260930140000 +0000" channel="90">
-    <title>Kaun Kare Kurbanie</title>
-    <desc />
-  </programme>
-  <programme start="20260930140000 +0000" stop="20260930170000 +0000" channel="90">
-    <title>Hiraasat</title>
-    <desc />
-  </programme>
   <programme start="20260930170000 +0000" stop="20260930200000 +0000" channel="90">
     <title>Aar Ya Paar</title>
     <desc />
@@ -191,5 +159,45 @@
     <title>Bloody Mary</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004200000 +0000" stop="20261004230000 +0000" channel="90">
+    <title>Chalte Chalte</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261005020000 +0000" channel="90">
+    <title>Madrangi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950989?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="90">
+    <title>Ek Aur Prem Deewani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950990?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005080000 +0000" channel="90">
+    <title>Devta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952319?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005080000 +0000" stop="20261005110000 +0000" channel="90">
+    <title>Ajab Gazabb Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952389?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005140000 +0000" channel="90">
+    <title>Khakee: The Real Police</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952390?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005140000 +0000" stop="20261005170000 +0000" channel="90">
+    <title>Maati Maangey Khoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952391?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005170000 +0000" stop="20261005200000 +0000" channel="90">
+    <title>Juaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951773?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

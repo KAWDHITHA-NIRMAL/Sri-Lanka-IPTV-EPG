@@ -3,50 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-  </programme>
-  <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-  </programme>
-  <programme start="20260929190000 +0000" stop="20260929220000 +0000" channel="42">
-    <title>Evening Encore</title>
-    <desc />
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260930040000 +0000" channel="42">
-    <title>Moonlight Melodies</title>
-    <desc />
-  </programme>
-  <programme start="20260930040000 +0000" stop="20260930080000 +0000" channel="42">
-    <title>Dawn Chorus</title>
-    <desc />
-  </programme>
-  <programme start="20260930080000 +0000" stop="20260930090000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-  </programme>
-  <programme start="20260930090000 +0000" stop="20260930100000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-  </programme>
-  <programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-  </programme>
-  <programme start="20260930110000 +0000" stop="20260930150000 +0000" channel="42">
-    <title>Afternoon Overture</title>
-    <desc />
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-  </programme>
-  <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="42">
-    <title>Pure Piano</title>
-    <desc />
-  </programme>
   <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="42">
     <title>A Classical Christmas</title>
     <desc />
@@ -707,5 +663,60 @@
     <title>Tenors &amp; Divas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949740?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004180000 +0000" stop="20261004190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004220000 +0000" channel="42">
+    <title>Evening Encore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951705?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261004220000 +0000" stop="20261005040000 +0000" channel="42">
+    <title>Moonlight Melodies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951977?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005040000 +0000" stop="20261005080000 +0000" channel="42">
+    <title>Dawn Chorus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950000?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005080000 +0000" stop="20261005090000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005090000 +0000" stop="20261005100000 +0000" channel="42">
+    <title>Tenors &amp; Divas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949740?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005110000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005150000 +0000" channel="42">
+    <title>Afternoon Overture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950001?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005150000 +0000" stop="20261005160000 +0000" channel="42">
+    <title>Simply Strings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005160000 +0000" stop="20261005170000 +0000" channel="42">
+    <title>Pure Piano</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34331?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005170000 +0000" stop="20261005180000 +0000" channel="42">
+    <title>A Classical Christmas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949741?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
