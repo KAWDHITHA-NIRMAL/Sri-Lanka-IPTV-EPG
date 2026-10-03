@@ -3,26 +3,6 @@
   <channel id="77">
     <display-name>Channel 84</display-name>
   </channel>
-  <programme start="20260930160000 +0000" stop="20260930175000 +0000" channel="77">
-    <title>Deep Blue Sea</title>
-    <desc />
-  </programme>
-  <programme start="20260930175000 +0000" stop="20260930184000 +0000" channel="77">
-    <title>The West Wing S1</title>
-    <desc />
-  </programme>
-  <programme start="20260930184000 +0000" stop="20260930191000 +0000" channel="77">
-    <title>Impractical Jokers S4</title>
-    <desc />
-  </programme>
-  <programme start="20260930191000 +0000" stop="20260930195500 +0000" channel="77">
-    <title>Smallville S1</title>
-    <desc />
-  </programme>
-  <programme start="20260930195500 +0000" stop="20260930204500 +0000" channel="77">
-    <title>Er S1</title>
-    <desc />
-  </programme>
   <programme start="20260930204500 +0000" stop="20260930213500 +0000" channel="77">
     <title>The West Wing S1</title>
     <desc />
@@ -870,5 +850,35 @@
     <title>Hack My Life S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005173500 +0000" stop="20261005182000 +0000" channel="77">
+    <title>The West Wing S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005182000 +0000" stop="20261005184500 +0000" channel="77">
+    <title>Container Wars S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950909?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005191000 +0000" channel="77">
+    <title>Container Wars S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950909?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005191000 +0000" stop="20261005200000 +0000" channel="77">
+    <title>Smallville S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005205000 +0000" channel="77">
+    <title>Er S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005205000 +0000" stop="20261005213500 +0000" channel="77">
+    <title>The West Wing S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947861?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

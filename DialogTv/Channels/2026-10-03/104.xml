@@ -3,22 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="104">
-    <title>G 13 Engineering Technology</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="104">
-    <title>G 13 Bio System Technology</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="104">
-    <title>G 13 Science for Technology</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930213000 +0000" channel="104">
-    <title>G 12 Engineering Technology</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="104">
     <title>G 12 Bio System Technology</title>
     <desc />
@@ -609,5 +593,25 @@
     <title>G 13 Combine Mathematics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951155?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005193000 +0000" channel="104">
+    <title>G 13 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005203000 +0000" channel="104">
+    <title>G 13 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005213000 +0000" channel="104">
+    <title>G 12 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005223000 +0000" channel="104">
+    <title>G 12 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951158?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

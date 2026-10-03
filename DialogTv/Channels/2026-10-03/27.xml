@@ -3,18 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="27">
-    <title>Bhawanawa</title>
-    <desc />
-  </programme>
   <programme start="20260930193000 +0000" stop="20260930233000 +0000" channel="27">
     <title>Dharma Sermons</title>
     <desc />
@@ -595,5 +583,20 @@
     <title>Pirith Chanting</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="27">
+    <title>Bhawanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952855?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005233000 +0000" channel="27">
+    <title>Dharma Sermons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952786?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

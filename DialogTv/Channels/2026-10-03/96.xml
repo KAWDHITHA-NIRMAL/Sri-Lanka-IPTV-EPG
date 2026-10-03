@@ -3,34 +3,6 @@
   <channel id="96">
     <display-name>Channel 103</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="96">
-    <title>Azhagae Azhagu</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="96">
-    <title>Kanmani Anbudan</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="96">
-    <title>Thendrale Mella Pesu</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="96">
-    <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="96">
-    <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="96">
-    <title>Onna Irukka Kaththukkanum</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="96">
     <title>Thaai Maman - Thaiku Nigaranavan</title>
     <desc />
@@ -786,5 +758,40 @@
     <title>Bigg Boss Tamil S10</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="96">
+    <title>Azhagae Azhagu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="96">
+    <title>Kanmani Anbudan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951190?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="96">
+    <title>Thendrale Mella Pesu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951191?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="96">
+    <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748308?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="96">
+    <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="96">
+    <title>Onna Irukka Kaththukkanum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="96">
+    <title>Thaai Maman - Thaiku Nigaranavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952085?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

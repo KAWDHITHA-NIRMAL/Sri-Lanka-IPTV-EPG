@@ -3,14 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20260930163000 +0000" stop="20260930183000 +0000" channel="15">
-    <title>Threekonaya</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="15">
-    <title>End Of Transmission</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20260930232400 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -510,5 +502,15 @@
     <title>Family Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005232400 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

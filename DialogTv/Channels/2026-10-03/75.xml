@@ -3,22 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20260930155500 +0000" stop="20260930175500 +0000" channel="75">
-    <title>Downton Abbey: The Grand Finale</title>
-    <desc />
-  </programme>
-  <programme start="20260930175500 +0000" stop="20260930193500 +0000" channel="75">
-    <title>Native Son</title>
-    <desc />
-  </programme>
-  <programme start="20260930193500 +0000" stop="20260930203000 +0000" channel="75">
-    <title>Industry S4</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930213000 +0000" channel="75">
-    <title>Juror 2</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20261001003000 +0000" channel="75">
     <title>Movie</title>
     <desc />
@@ -407,5 +391,20 @@
     <title>A Choice Of Weapons: Inspired By Gordon Parks</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950785?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005200000 +0000" channel="75">
+    <title>Regretting You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950778?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005210500 +0000" channel="75">
+    <title>Industry S4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948370?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210500 +0000" stop="20261005222500 +0000" channel="75">
+    <title>Wishful Drinking</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950790?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

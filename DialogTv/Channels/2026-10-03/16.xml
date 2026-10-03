@@ -3,14 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="16">
-    <title>Hela Wedaduru Watha</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-  </programme>
   <programme start="20260930183000 +0000" stop="20260930233000 +0000" channel="16">
     <title>Lions Quest</title>
     <desc />
@@ -752,5 +744,15 @@
     <title>Foreign Program</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952693?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005233000 +0000" channel="16">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

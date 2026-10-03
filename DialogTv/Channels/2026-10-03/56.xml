@@ -3,14 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="56">
-    <title>Naked And Afraid</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="56">
-    <title>Naked And Afraid XL</title>
-    <desc />
-  </programme>
   <programme start="20260930193000 +0000" stop="20261001003000 +0000" channel="56">
     <title>Naked And Afraid</title>
     <desc />
@@ -675,5 +667,20 @@
     <title>Naked and Afraid: Global Showdown</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005185800 +0000" stop="20261005195800 +0000" channel="56">
+    <title>Naked And Afraid XL</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950259?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005195800 +0000" stop="20261005205800 +0000" channel="56">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005205800 +0000" stop="20261005215800 +0000" channel="56">
+    <title>Walking The Himalayas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950270?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

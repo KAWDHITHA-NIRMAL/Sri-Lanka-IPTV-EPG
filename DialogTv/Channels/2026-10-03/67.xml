@@ -3,18 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20260930110000 +0000" stop="20260930183000 +0000" channel="67">
-    <title>One-Day International Cricket</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="67">
-    <title>One-Day International Cricket</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930210000 +0000" channel="67">
-    <title>WTT Champions Table Tennis</title>
-    <desc />
-  </programme>
   <programme start="20260930210000 +0000" stop="20261001000000 +0000" channel="67">
     <title>Big Cricket League</title>
     <desc />
@@ -343,5 +331,15 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005213000 +0000" channel="67">
+    <title>Big Cricket League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005233000 +0000" channel="67">
+    <title>World Pickleball League</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953511?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

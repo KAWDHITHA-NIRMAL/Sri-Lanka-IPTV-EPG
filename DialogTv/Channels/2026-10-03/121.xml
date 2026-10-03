@@ -3,18 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930193000 +0000" channel="121">
-    <title>PL 2026-27 Arsenal v Chelsea</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="121">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="121">
-    <title>PL Netbusters</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20260930223000 +0000" channel="121">
     <title>PL 2026-27 Arsenal v Coventry City</title>
     <desc />
@@ -1249,5 +1237,20 @@
     <title>PL 2026-27 Everton v Man Utd</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951425?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="121">
+    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="121">
+    <title>PL Netbusters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005223000 +0000" channel="121">
+    <title>PL 2026-27 Brentford v Tottenham Hotspur</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951421?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

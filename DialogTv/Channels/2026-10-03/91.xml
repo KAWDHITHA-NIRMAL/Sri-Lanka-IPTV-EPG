@@ -3,14 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20260930162600 +0000" stop="20260930184700 +0000" channel="91">
-    <title>Atithi Tum Kab Jaoge</title>
-    <desc />
-  </programme>
-  <programme start="20260930184700 +0000" stop="20260930211700 +0000" channel="91">
-    <title>Mohenjo Daro</title>
-    <desc />
-  </programme>
   <programme start="20260930211700 +0000" stop="20261001003000 +0000" channel="91">
     <title>Apurva</title>
     <desc />
@@ -217,5 +209,15 @@
     <title>Kuch Kuch Hota Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180800 +0000" stop="20261005205500 +0000" channel="91">
+    <title>Dhaai Akshar Prem Ke</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951020?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005205500 +0000" stop="20261006003000 +0000" channel="91">
+    <title>Band Baaja Baaraat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953619?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

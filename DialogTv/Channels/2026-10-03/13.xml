@@ -3,18 +3,6 @@
   <channel id="13">
     <display-name>Channel 19</display-name>
   </channel>
-  <programme start="20260930171500 +0000" stop="20260930180000 +0000" channel="13">
-    <title>Back To Back Hits</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930181500 +0000" channel="13">
-    <title>State Of Business</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930183000 +0000" channel="13">
-    <title>Seth Pirith</title>
-    <desc />
-  </programme>
   <programme start="20260930183000 +0000" stop="20261001003000 +0000" channel="13">
     <title>Seth Pirith</title>
     <desc />
@@ -815,5 +803,25 @@
     <title>Art Cover Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005181500 +0000" channel="13">
+    <title>State Of Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005183000 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005213000 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261006003000 +0000" channel="13">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949805?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

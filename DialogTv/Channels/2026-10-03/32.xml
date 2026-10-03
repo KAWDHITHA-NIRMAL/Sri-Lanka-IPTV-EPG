@@ -3,38 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="32">
-    <title>The Context USA</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="32">
-    <title>The Context USA</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="32">
-    <title>The Context</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="32">
-    <title>The Context</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="32">
-    <title>BBC World News America</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="32">
     <title>Newsnight</title>
     <desc />
@@ -1205,5 +1173,45 @@
     <title>The World Today With Maryam Moshiri</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="32">
+    <title>The World Today With Maryam Moshiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="32">
+    <title>The Context USA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952959?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="32">
+    <title>The Context USA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952959?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="32">
+    <title>The Context</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952900?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="32">
+    <title>The Context</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952900?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="32">
+    <title>BBC World News America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953063?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="32">
+    <title>Newsnight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953064?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,38 +3,6 @@
   <channel id="98">
     <display-name>Channel 105</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="98">
-    <title>Annamalai Kudumbam</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="98">
-    <title>Idhayam</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="98">
-    <title>Vaagai Sooda Vaa</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="98">
-    <title>Ayali</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="98">
     <title>Free Ticket</title>
     <desc />
@@ -950,5 +918,45 @@
     <title>Annamalai Kudumbam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951224?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="98">
+    <title>Idhayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="98">
+    <title>Vaagai Sooda Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950510?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="98">
+    <title>Ayali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

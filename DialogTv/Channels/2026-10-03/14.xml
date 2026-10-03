@@ -3,22 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="14">
-    <title>Get Real</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930203000 +0000" channel="14">
-    <title>Wadapitiya</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="14">
-    <title>Around The Ground</title>
-    <desc />
-  </programme>
   <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="14">
     <title>Big Focus</title>
     <desc />
@@ -935,5 +919,25 @@
     <title>Late Night News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949899?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005190000 +0000" channel="14">
+    <title>Nature-Englis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005203000 +0000" channel="14">
+    <title>Jeewitha Sawara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/160347?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="14">
+    <title>Around The Ground</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005220000 +0000" channel="14">
+    <title>Big Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949895?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

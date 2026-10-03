@@ -3,10 +3,6 @@
   <channel id="99">
     <display-name>Channel 106</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="99">
-    <title>Nagaichuvai</title>
-    <desc />
-  </programme>
   <programme start="20260930183000 +0000" stop="20261001003000 +0000" channel="99">
     <title>Vidiyum Varai Siringal</title>
     <desc />
@@ -471,5 +467,10 @@
     <title>Orupada Comedy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951083?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261006003000 +0000" channel="99">
+    <title>Vidiyum Varai Siringal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951076?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

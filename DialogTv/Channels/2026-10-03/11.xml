@@ -3,18 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="11">
-    <title>Muragala</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="11">
-    <title>Muragala</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="11">
-    <title>Muragala</title>
-    <desc />
-  </programme>
   <programme start="20260930190000 +0000" stop="20260930230000 +0000" channel="11">
     <title>Filler</title>
     <desc />
@@ -833,5 +821,15 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005213000 +0000" channel="11">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005230000 +0000" channel="11">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

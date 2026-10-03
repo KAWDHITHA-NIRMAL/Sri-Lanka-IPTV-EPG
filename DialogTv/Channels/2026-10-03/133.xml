@@ -3,14 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260930163000 +0000" stop="20260930182000 +0000" channel="133">
-    <title>Kindergarten Cop</title>
-    <desc />
-  </programme>
-  <programme start="20260930182000 +0000" stop="20260930202500 +0000" channel="133">
-    <title>Jason Bourne</title>
-    <desc />
-  </programme>
   <programme start="20260930202500 +0000" stop="20260930213500 +0000" channel="133">
     <title>Red Sun</title>
     <desc />
@@ -314,5 +306,15 @@
     <title>Cape Fear</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184000 +0000" stop="20261005203000 +0000" channel="133">
+    <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005220500 +0000" channel="133">
+    <title>The Legend 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949018?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

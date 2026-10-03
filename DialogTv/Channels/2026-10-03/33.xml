@@ -3,34 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="33">
-    <title>Global Business</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="33">
-    <title>World Insight with Tian Wei</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="33">
-    <title>Dialogue</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="33">
-    <title>Global Business</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="33">
     <title>The Point with Liu Xin</title>
     <desc />
@@ -1080,5 +1052,40 @@
     <title>Africa Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950085?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005190000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="33">
+    <title>World Insight with Tian Wei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950150?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="33">
+    <title>Dialogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="33">
+    <title>The Point with Liu Xin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950149?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="25">
     <display-name>Channel 31</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930181000 +0000" channel="25">
-    <title>Night Maha Piritha</title>
-    <desc />
-  </programme>
-  <programme start="20260930181000 +0000" stop="20260930183000 +0000" channel="25">
-    <title>Fill With Gatha</title>
-    <desc />
-  </programme>
   <programme start="20260930183000 +0000" stop="20260930233000 +0000" channel="25">
     <title>National Anthem</title>
     <desc />
@@ -614,5 +606,15 @@
     <title>Night Maha Piritha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181000 +0000" stop="20261005183000 +0000" channel="25">
+    <title>Fill With Gatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33391?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005233000 +0000" channel="25">
+    <title>National Anthem</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

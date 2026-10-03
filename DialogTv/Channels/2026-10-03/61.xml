@@ -3,30 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930175300 +0000" channel="61">
-    <title>Counting Cars S06</title>
-    <desc />
-  </programme>
-  <programme start="20260930175300 +0000" stop="20260930183700 +0000" channel="61">
-    <title>Leepu &amp; Pitbull</title>
-    <desc />
-  </programme>
-  <programme start="20260930183700 +0000" stop="20260930191900 +0000" channel="61">
-    <title>Pawn Stars S24</title>
-    <desc />
-  </programme>
-  <programme start="20260930191900 +0000" stop="20260930194000 +0000" channel="61">
-    <title>The Fast History Of S01</title>
-    <desc />
-  </programme>
-  <programme start="20260930194000 +0000" stop="20260930202200 +0000" channel="61">
-    <title>History's Greatest Hiests With Pierce Brosnan</title>
-    <desc />
-  </programme>
-  <programme start="20260930202200 +0000" stop="20260930210400 +0000" channel="61">
-    <title>Forged In Fire: Knife Or Death S01</title>
-    <desc />
-  </programme>
   <programme start="20260930210400 +0000" stop="20260930214600 +0000" channel="61">
     <title>Secrets Of Penthouse</title>
     <desc />
@@ -1003,5 +979,35 @@
     <title>Counting Cars S06</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950291?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005175300 +0000" stop="20261005183700 +0000" channel="61">
+    <title>Forged In Fire S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950060?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183700 +0000" stop="20261005191900 +0000" channel="61">
+    <title>Pawn Stars S24</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950065?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005191900 +0000" stop="20261005194000 +0000" channel="61">
+    <title>Kings Of Restoration S06</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194000 +0000" stop="20261005202200 +0000" channel="61">
+    <title>History's Greatest Hiests With Pierce Brosnan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005202200 +0000" stop="20261005210400 +0000" channel="61">
+    <title>American Pickers S15</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939296?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210400 +0000" stop="20261005214600 +0000" channel="61">
+    <title>Life After People S03</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/694436?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

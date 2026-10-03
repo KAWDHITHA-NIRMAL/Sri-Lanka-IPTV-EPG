@@ -3,30 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930181500 +0000" channel="135">
-    <title>Reazione A Catena</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930184500 +0000" channel="135">
-    <title>TG1 Ore 20.00</title>
-    <desc />
-  </programme>
-  <programme start="20260930184500 +0000" stop="20260930194500 +0000" channel="135">
-    <title>Elisir 2025/26 59a Puntata Sottotitolata</title>
-    <desc />
-  </programme>
-  <programme start="20260930194500 +0000" stop="20260930201500 +0000" channel="135">
-    <title>Fiction 1atv: Nathan K 1a Puntata</title>
-    <desc />
-  </programme>
-  <programme start="20260930201500 +0000" stop="20260930210000 +0000" channel="135">
-    <title>Geo 2026 14a Puntata Sottotitolata</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="135">
-    <title>Italia A/R</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930230000 +0000" channel="135">
     <title>Camper Osteria Italia</title>
     <desc />
@@ -680,5 +656,35 @@
     <title>Reazione A Catena</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951510?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005184500 +0000" channel="135">
+    <title>TG1 Ore 20.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005194500 +0000" channel="135">
+    <title>Elisir 2025/26 57a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194500 +0000" stop="20261005201500 +0000" channel="135">
+    <title>L'Appartamento Sold Out 7a Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005201500 +0000" stop="20261005210000 +0000" channel="135">
+    <title>Geo 2026 12a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/941114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="135">
+    <title>Italia A/R</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872219?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005230000 +0000" channel="135">
+    <title>Camper Osteria Italia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951515?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

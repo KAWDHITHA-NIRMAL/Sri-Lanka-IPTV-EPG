@@ -3,26 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20260930172700 +0000" stop="20260930181300 +0000" channel="60">
-    <title>Wild Transylvania: Dracula's Hidden Kingdom</title>
-    <desc />
-  </programme>
-  <programme start="20260930181300 +0000" stop="20260930185800 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-  </programme>
-  <programme start="20260930185800 +0000" stop="20260930194200 +0000" channel="60">
-    <title>The Way Of The Cheetah</title>
-    <desc />
-  </programme>
-  <programme start="20260930194200 +0000" stop="20260930202700 +0000" channel="60">
-    <title>Jade Eyed Leopard</title>
-    <desc />
-  </programme>
-  <programme start="20260930202700 +0000" stop="20260930211100 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-  </programme>
   <programme start="20260930211100 +0000" stop="20260930221000 +0000" channel="60">
     <title>Thailand's Wild Cats</title>
     <desc />
@@ -768,5 +748,25 @@
     <title>The Pack</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181600 +0000" stop="20261005190100 +0000" channel="60">
+    <title>Cobra Mafia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190100 +0000" stop="20261005200000 +0000" channel="60">
+    <title>South Africa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940312?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005204400 +0000" channel="60">
+    <title>War Of The Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005204400 +0000" stop="20261005213200 +0000" channel="60">
+    <title>Cheetah Speed Trap</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950446?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

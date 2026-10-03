@@ -3,30 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20260930165300 +0000" stop="20260930174200 +0000" channel="59">
-    <title>Destruction Decoded</title>
-    <desc />
-  </programme>
-  <programme start="20260930174200 +0000" stop="20260930182700 +0000" channel="59">
-    <title>Airport Security Madrid</title>
-    <desc />
-  </programme>
-  <programme start="20260930182700 +0000" stop="20260930191000 +0000" channel="59">
-    <title>Airport Security Brazil</title>
-    <desc />
-  </programme>
-  <programme start="20260930191000 +0000" stop="20260930195300 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-  </programme>
-  <programme start="20260930195300 +0000" stop="20260930203900 +0000" channel="59">
-    <title>Trafficked With Mariana Van Zeller</title>
-    <desc />
-  </programme>
-  <programme start="20260930203900 +0000" stop="20260930213000 +0000" channel="59">
-    <title>Trafficked: Underworlds With Mariana Van Zeller</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930221800 +0000" channel="59">
     <title>Air Crash Investigation</title>
     <desc />
@@ -799,5 +775,30 @@
     <title>Airport Security Rome</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="59">
+    <title>Airport Security Madrid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="59">
+    <title>Trafficked: Underworlds With Mariana Van Zeller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005203000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005213000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005223000 +0000" channel="59">
+    <title>Filthy Riches</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950561?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

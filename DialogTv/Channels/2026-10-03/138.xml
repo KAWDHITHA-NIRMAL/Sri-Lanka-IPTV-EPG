@@ -3,30 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20260930170300 +0000" stop="20260930173300 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-  </programme>
-  <programme start="20260930173300 +0000" stop="20260930180000 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183500 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-  </programme>
-  <programme start="20260930183500 +0000" stop="20260930185700 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-  </programme>
-  <programme start="20260930185700 +0000" stop="20260930200400 +0000" channel="138">
-    <title>Meri Aashuiqi Tumse Hi</title>
-    <desc />
-  </programme>
-  <programme start="20260930200400 +0000" stop="20260930202800 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-  </programme>
   <programme start="20260930202800 +0000" stop="20260930231600 +0000" channel="138">
     <title>Divya Sanskaar</title>
     <desc />
@@ -916,5 +892,30 @@
     <title>Kahiin To Hoga</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005174000 +0000" stop="20261005180000 +0000" channel="138">
+    <title>Kahiin To Hoga</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="138">
+    <title>Parineetii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005200000 +0000" channel="138">
+    <title>Meri Aashuiqi Tumse Hi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="138">
+    <title>Parineetii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005230000 +0000" channel="138">
+    <title>Divya Sanskaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950923?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

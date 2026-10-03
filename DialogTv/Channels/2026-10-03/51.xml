@@ -3,10 +3,6 @@
   <channel id="51">
     <display-name>Channel 57</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930213000 +0000" channel="51">
-    <title>Lion Guard</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20261001003000 +0000" channel="51">
     <title>Mickey Mouse Clubhouse</title>
     <desc />
@@ -315,5 +311,10 @@
     <title>Lion Guard</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950047?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261006003000 +0000" channel="51">
+    <title>Mickey Mouse Clubhouse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950239?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

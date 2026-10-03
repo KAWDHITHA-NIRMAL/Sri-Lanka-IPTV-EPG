@@ -3,22 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="26">
-    <title>Soothra Dham Desuma</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="26">
-    <title>Saddharmapprabha- Ven.Balangoda Radha Thero</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="26">
-    <title>Kandy Daayaka Bana</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930213000 +0000" channel="26">
-    <title>Colombo Daayaka Bana</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="26">
     <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
     <desc />
@@ -650,5 +634,25 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949734?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005193000 +0000" channel="26">
+    <title>Dhammanupassana - By Ven.Thalalle Chandakiththi Thero &amp; Mirahawatte Pngasiri Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952993?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005203000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005213000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005223000 +0000" channel="26">
+    <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949708?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

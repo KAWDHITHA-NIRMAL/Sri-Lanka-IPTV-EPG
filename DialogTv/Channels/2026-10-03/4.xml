@@ -3,14 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930183000 +0000" channel="4">
-    <title>Zero</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930183600 +0000" channel="4">
-    <title>Mora Piritha</title>
-    <desc />
-  </programme>
   <programme start="20260930183600 +0000" stop="20260930233000 +0000" channel="4">
     <title>Close Of Transmission</title>
     <desc />
@@ -852,5 +844,15 @@
     <title>Doramandalawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952427?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005190600 +0000" channel="4">
+    <title>Mora Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949553?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190600 +0000" stop="20261005233000 +0000" channel="4">
+    <title>Close Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949554?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

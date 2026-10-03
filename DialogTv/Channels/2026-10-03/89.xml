@@ -3,38 +3,6 @@
   <channel id="89">
     <display-name>Channel 96</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="89">
-    <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="89">
-    <title>Sayoneee</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="89">
-    <title>Yeh Rishta Kya Kehlata Hai</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="89">
-    <title>Yeh Fitoor Tera</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="89">
-    <title>Oh Humnava Tum Dena Saath Mera</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="89">
-    <title>Sayoneee</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="89">
-    <title>Anupamaa</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="89">
-    <title>Udne Ki Aasha</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="89">
     <title>Yeh Fitoor Tera</title>
     <desc />
@@ -1101,5 +1069,45 @@
     <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="89">
+    <title>Sayoneee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="89">
+    <title>Yeh Rishta Kya Kehlata Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952640?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="89">
+    <title>Yeh Fitoor Tera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952631?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="89">
+    <title>Oh Humnava Tum Dena Saath Mera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/757164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="89">
+    <title>Sayoneee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="89">
+    <title>Anupamaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="89">
+    <title>Udne Ki Aasha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952630?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="89">
+    <title>Yeh Fitoor Tera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952631?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

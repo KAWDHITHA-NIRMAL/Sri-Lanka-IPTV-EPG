@@ -3,26 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20260930171000 +0000" stop="20260930180600 +0000" channel="131">
-    <title>Diesel Brothers</title>
-    <desc />
-  </programme>
-  <programme start="20260930180600 +0000" stop="20260930185500 +0000" channel="131">
-    <title>All Girls Garage</title>
-    <desc />
-  </programme>
-  <programme start="20260930185500 +0000" stop="20260930192500 +0000" channel="131">
-    <title>Car Fix</title>
-    <desc />
-  </programme>
-  <programme start="20260930192500 +0000" stop="20260930202000 +0000" channel="131">
-    <title>Street Outlaws</title>
-    <desc />
-  </programme>
-  <programme start="20260930202000 +0000" stop="20260930211500 +0000" channel="131">
-    <title>Salvage Hunters: Classic Cars</title>
-    <desc />
-  </programme>
   <programme start="20260930211500 +0000" stop="20260930220200 +0000" channel="131">
     <title>Overhaulin'</title>
     <desc />
@@ -816,5 +796,35 @@
     <title>Mud Madness</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005174700 +0000" stop="20261005184500 +0000" channel="131">
+    <title>Junkyard Empire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005190900 +0000" channel="131">
+    <title>FourWheeler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951553?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190900 +0000" stop="20261005193600 +0000" channel="131">
+    <title>Roadkill's Junkyard Gold</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193600 +0000" stop="20261005202700 +0000" channel="131">
+    <title>Unique Rides</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005202700 +0000" stop="20261005211100 +0000" channel="131">
+    <title>Street Outlaws</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005211100 +0000" stop="20261005213400 +0000" channel="131">
+    <title>Car Fix</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911702?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

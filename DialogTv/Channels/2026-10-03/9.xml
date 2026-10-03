@@ -3,10 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="9">
-    <title>Nenjam Marappathillai</title>
-    <desc />
-  </programme>
   <programme start="20260930180000 +0000" stop="20260930235900 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
@@ -616,5 +612,10 @@
     <title>Mawatha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005235900 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

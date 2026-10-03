@@ -3,22 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930182800 +0000" channel="55">
-    <title>Desert Dinosaurs</title>
-    <desc />
-  </programme>
-  <programme start="20260930182800 +0000" stop="20260930192500 +0000" channel="55">
-    <title>Fear on the Savannah</title>
-    <desc />
-  </programme>
-  <programme start="20260930192500 +0000" stop="20260930202100 +0000" channel="55">
-    <title>Pride Rules</title>
-    <desc />
-  </programme>
-  <programme start="20260930202100 +0000" stop="20260930211700 +0000" channel="55">
-    <title>History Of Life On Earth</title>
-    <desc />
-  </programme>
   <programme start="20260930211700 +0000" stop="20260930221300 +0000" channel="55">
     <title>The View From On High</title>
     <desc />
@@ -701,5 +685,30 @@
     <title>Animal Attack Rate</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950592?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181000 +0000" stop="20261005190300 +0000" channel="55">
+    <title>Big Cat Tales</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950613?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190300 +0000" stop="20261005193000 +0000" channel="55">
+    <title>Race Of Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005195700 +0000" channel="55">
+    <title>Race Of Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005195700 +0000" stop="20261005204900 +0000" channel="55">
+    <title>White Wolves: Ghosts Of The Arctic</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005204900 +0000" stop="20261005214200 +0000" channel="55">
+    <title>Wolves &amp; Lions: Old Enemies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950615?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20260930171500 +0000" stop="20260930190000 +0000" channel="117">
-    <title>Death Of A Unicorn</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930203000 +0000" channel="117">
-    <title>Old Guy</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20261001003000 +0000" channel="117">
     <title>Neighbors</title>
     <desc />
@@ -329,5 +321,15 @@
     <title>Paranormal Activity 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951352?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183500 +0000" stop="20261005201000 +0000" channel="117">
+    <title>Paranormal Activity 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005201000 +0000" stop="20261005220000 +0000" channel="117">
+    <title>Nobody's Fool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

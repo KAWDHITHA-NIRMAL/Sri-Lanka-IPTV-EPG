@@ -3,26 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="29">
-    <title>Holy Rosary - Sinhala</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="29">
-    <title>Eucharistic Adoration-English</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="29">
-    <title>Gayamin Pasasamu</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="29">
-    <title>Pesum Padal - Tamil</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930213000 +0000" channel="29">
-    <title>Yadum Hamuwa</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="29">
     <title>Vilokanaya</title>
     <desc />
@@ -797,5 +777,35 @@
     <title>Holy Rosary - Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949620?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005193000 +0000" channel="29">
+    <title>Eucharistic Adoration-English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="29">
+    <title>Gayamin Pasasamu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="29">
+    <title>Paadi Thuthipom - Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="29">
+    <title>U Turn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/172324?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="29">
+    <title>Gayamin Pasasamu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005223000 +0000" channel="29">
+    <title>Athulanthaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949851?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

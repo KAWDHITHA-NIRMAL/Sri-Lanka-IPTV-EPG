@@ -3,14 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="12">
-    <title>Me Saumya Rathree (Blind Spot</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="12">
-    <title>End of Transmission</title>
-    <desc />
-  </programme>
   <programme start="20260930183000 +0000" stop="20260930235400 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -663,5 +655,15 @@
     <title>CNA On TV Supreme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005235400 +0000" channel="12">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949757?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

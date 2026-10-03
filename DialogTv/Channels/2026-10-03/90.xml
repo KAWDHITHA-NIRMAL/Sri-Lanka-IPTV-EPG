@@ -3,10 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930200000 +0000" channel="90">
-    <title>Aar Ya Paar</title>
-    <desc />
-  </programme>
   <programme start="20260930200000 +0000" stop="20260930230000 +0000" channel="90">
     <title>Avinash</title>
     <desc />
@@ -199,5 +195,10 @@
     <title>Juaari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951773?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005230000 +0000" channel="90">
+    <title>Koyelaanchal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950991?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

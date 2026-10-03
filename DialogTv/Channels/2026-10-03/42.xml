@@ -3,14 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="42">
-    <title>A Classical Christmas</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-  </programme>
   <programme start="20260930190000 +0000" stop="20260930220000 +0000" channel="42">
     <title>Evening Encore</title>
     <desc />
@@ -718,5 +710,15 @@
     <title>A Classical Christmas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949741?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005220000 +0000" channel="42">
+    <title>Evening Encore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951705?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

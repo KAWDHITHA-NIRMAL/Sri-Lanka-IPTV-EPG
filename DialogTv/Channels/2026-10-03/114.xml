@@ -3,18 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260930144500 +0000" stop="20260930175000 +0000" channel="114">
-    <title>King Kong</title>
-    <desc />
-  </programme>
-  <programme start="20260930175000 +0000" stop="20260930185000 +0000" channel="114">
-    <title>Lanterns S1</title>
-    <desc />
-  </programme>
-  <programme start="20260930185000 +0000" stop="20260930203500 +0000" channel="114">
-    <title>Final Destination Bloodlines</title>
-    <desc />
-  </programme>
   <programme start="20260930203500 +0000" stop="20261001003000 +0000" channel="114">
     <title>A Christmas Story Christmas</title>
     <desc />
@@ -329,5 +317,15 @@
     <title>Five Nights At Freddy'S 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181000 +0000" stop="20261005194000 +0000" channel="114">
+    <title>All The Devils Are Here</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951267?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194000 +0000" stop="20261005213500 +0000" channel="114">
+    <title>Turtles All The Way Down</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951162?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

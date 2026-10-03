@@ -3,34 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20260930170100 +0000" stop="20260930183300 +0000" channel="136">
-    <title>Le Crime Lui Va Si Bien</title>
-    <desc />
-  </programme>
-  <programme start="20260930183300 +0000" stop="20260930190000 +0000" channel="136">
-    <title>Tendance Xxi</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930192600 +0000" channel="136">
-    <title>64' Actu</title>
-    <desc />
-  </programme>
-  <programme start="20260930192600 +0000" stop="20260930195000 +0000" channel="136">
-    <title>64' Debat</title>
-    <desc />
-  </programme>
-  <programme start="20260930195000 +0000" stop="20260930200000 +0000" channel="136">
-    <title>L'Invite</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="136">
-    <title>Temps Present</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="136">
-    <title>Le Journal De La RTBF</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="136">
     <title>Rassemblance</title>
     <desc />
@@ -1170,5 +1142,50 @@
     <title>Vestiaires</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005174700 +0000" stop="20261005181100 +0000" channel="136">
+    <title>Vestiaires</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181100 +0000" stop="20261005183000 +0000" channel="136">
+    <title>Vestiaires</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="136">
+    <title>Maghreb-Orient Express</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005192600 +0000" channel="136">
+    <title>64' Actu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005192600 +0000" stop="20261005195000 +0000" channel="136">
+    <title>64' Debat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005195000 +0000" stop="20261005200000 +0000" channel="136">
+    <title>L'Invite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005210000 +0000" channel="136">
+    <title>Au Bout De L'Enquete, La Fin Du Crime Parfait ?</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953341?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="136">
+    <title>Le Journal De La RTBF</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="136">
+    <title>Tendance Xxi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953345?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

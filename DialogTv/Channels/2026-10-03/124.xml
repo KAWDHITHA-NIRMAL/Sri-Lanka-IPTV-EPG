@@ -3,30 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="124">
-    <title>UNL 2026-27 MD2 Matchweek Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="124">
-    <title>UEFA Nations League 2026-27 MD 2 Scotland vs Switzerland Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026-</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="124">
-    <title>20th Asian Games-Aichi-Nagoya 2026</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="124">
-    <title>AG 2026 Cricket (M) QF3 - Sri Lanka vs Winner of Group A Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="124">
-    <title>A G 2026 -Hockey (W) - INDIA vs SINGAPORE Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="124">
     <title>UNL 2026-27 MD2 MN3 Matchnight Highlights</title>
     <desc />
@@ -463,5 +439,30 @@
     <title>UNL 2026-27 MD3 Matchweek Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950244?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005184500 +0000" channel="124">
+    <title>Snippets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005204500 +0000" channel="124">
+    <title>UEFA Nations League 2026-27 MD 3 Croatia vs England Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005204500 +0000" stop="20261005210000 +0000" channel="124">
+    <title>Snippets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="124">
+    <title>AG 2026 Cricket (M) QF2 - India vs 2nd Place of Group A Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005223000 +0000" channel="124">
+    <title>20th Asian Games-Aichi-Nagoya 2026 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

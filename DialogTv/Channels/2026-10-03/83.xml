@@ -3,26 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20260930171800 +0000" stop="20260930180800 +0000" channel="83">
-    <title>Inside The Factory - Chocolate Bars S8</title>
-    <desc />
-  </programme>
-  <programme start="20260930180800 +0000" stop="20260930185300 +0000" channel="83">
-    <title>Where The Wild Men Are With Ben Fogle S11</title>
-    <desc />
-  </programme>
-  <programme start="20260930185300 +0000" stop="20260930193200 +0000" channel="83">
-    <title>Eva Longoria: Searching For Mexico S1</title>
-    <desc />
-  </programme>
-  <programme start="20260930193200 +0000" stop="20260930202300 +0000" channel="83">
-    <title>Spectacular Earth S1</title>
-    <desc />
-  </programme>
-  <programme start="20260930202300 +0000" stop="20260930211000 +0000" channel="83">
-    <title>Inside The Factory - Chocolate Bars S8</title>
-    <desc />
-  </programme>
   <programme start="20260930211000 +0000" stop="20260930215500 +0000" channel="83">
     <title>Where The Wild Men Are With Ben Fogle S11</title>
     <desc />
@@ -817,5 +797,29 @@
     <title>Inside The Factory S9</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950610?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181600 +0000" stop="20261005190000 +0000" channel="83">
+    <title>Where The Wild Men Are With Ben Fogle S11</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005194600 +0000" channel="83">
+    <title>The Misadventures Of Romesh Ranganathan S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194600 +0000" stop="20261005204100 +0000" channel="83">
+    <title>Earth S1</title>
+    <desc />
+  </programme>
+  <programme start="20261005204100 +0000" stop="20261005213000 +0000" channel="83">
+    <title>Inside The Factory S9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950610?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005221500 +0000" channel="83">
+    <title>Where The Wild Men Are With Ben Fogle S11</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950896?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

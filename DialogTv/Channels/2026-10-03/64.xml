@@ -3,30 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="64">
-    <title>Asian Games 2026 - Kabbadi (M) Gold Medal Match India Vs Iran Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="64">
-    <title>Asian Games 2026 Volleyball (M) - INDIA vs QATAR Highlights Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="64">
-    <title>UEFA Nations League 2026-27 MD 2 Scotland vs Switzerland Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930200000 +0000" channel="64">
-    <title>Asian Games 2026 - Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="64">
-    <title>Asian Games 2026 Volleyball (M) - INDIA vs QATAR Highlights Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket - Women's Gold Medal Match</title>
-    <desc />
-  </programme>
   <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="64">
     <title>New Zealand vs India 2019 1st ODI Highlights</title>
     <desc />
@@ -595,5 +571,30 @@
     <title>New Zealand Vs India 2019 2nd T20 Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF2 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005184500 +0000" channel="64">
+    <title>Snippet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950139?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005204500 +0000" channel="64">
+    <title>New Zealand Vs India 2019 2nd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005204500 +0000" stop="20261005210000 +0000" channel="64">
+    <title>Snippet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950139?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005220000 +0000" channel="64">
+    <title>Sri Lanka vs India 2026 1st Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953305?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

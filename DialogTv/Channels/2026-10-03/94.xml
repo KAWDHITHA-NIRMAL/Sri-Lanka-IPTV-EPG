@@ -3,14 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20260930163000 +0000" stop="20260930193000 +0000" channel="94">
-    <title>Alexander</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="94">
-    <title>Hit List</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20260930233000 +0000" channel="94">
     <title>Priyasagi</title>
     <desc />
@@ -459,6 +451,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953259?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005163000 +0000" stop="20261005193000 +0000" channel="94">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005233000 +0000" channel="94">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />

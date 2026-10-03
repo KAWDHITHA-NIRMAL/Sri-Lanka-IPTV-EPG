@@ -3,14 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="93">
-    <title>Bhamakalapam</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="93">
-    <title>Bhamakalapam</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20260930233000 +0000" channel="93">
     <title>Rajavukku Check</title>
     <desc />
@@ -456,5 +448,10 @@
     <title>Local Boys</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952653?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005233000 +0000" channel="93">
+    <title>Kuberan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952654?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

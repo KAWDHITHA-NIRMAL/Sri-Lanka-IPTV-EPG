@@ -3,22 +3,6 @@
   <channel id="112">
     <display-name>Channel 118</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="112">
-    <title>DOC - In Your Hands S2</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930193500 +0000" channel="112">
-    <title>DOC - In Your Hands S2</title>
-    <desc />
-  </programme>
-  <programme start="20260930193500 +0000" stop="20260930202500 +0000" channel="112">
-    <title>NCIS S22</title>
-    <desc />
-  </programme>
-  <programme start="20260930202500 +0000" stop="20260930211500 +0000" channel="112">
-    <title>Accused S2</title>
-    <desc />
-  </programme>
   <programme start="20260930211500 +0000" stop="20260930220000 +0000" channel="112">
     <title>Accused S2</title>
     <desc />
@@ -732,5 +716,30 @@
     <title>Chicago Med S11</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951313?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005190000 +0000" channel="112">
+    <title>Chicago Med S11</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951313?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005195000 +0000" channel="112">
+    <title>Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005195000 +0000" stop="20261005203500 +0000" channel="112">
+    <title>Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203500 +0000" stop="20261005212500 +0000" channel="112">
+    <title>Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951183?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005212500 +0000" stop="20261005220000 +0000" channel="112">
+    <title>Cobra Kai S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951312?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

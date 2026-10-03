@@ -3,18 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260930170400 +0000" stop="20260930185100 +0000" channel="115">
-    <title>Predator (1987)</title>
-    <desc />
-  </programme>
-  <programme start="20260930185100 +0000" stop="20260930211100 +0000" channel="115">
-    <title>Exodus: Gods And Kings</title>
-    <desc />
-  </programme>
-  <programme start="20260930211100 +0000" stop="20260930212400 +0000" channel="115">
-    <title>Filler</title>
-    <desc />
-  </programme>
   <programme start="20260930212400 +0000" stop="20260930231700 +0000" channel="115">
     <title>Cosmoball</title>
     <desc />
@@ -324,5 +312,15 @@
     <title>Captain America: Civil War</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953667?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005192600 +0000" stop="20261005211000 +0000" channel="115">
+    <title>Taken 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953668?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005211000 +0000" stop="20261005213600 +0000" channel="115">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154547?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

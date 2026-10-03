@@ -3,30 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930181500 +0000" channel="122">
-    <title>PL Highlights Arsenal v Chelsea</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930183000 +0000" channel="122">
-    <title>PL Highlights Aston villa v Arsenal</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930203000 +0000" channel="122">
-    <title>PL 2026-27 Arsenal v Coventry City</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="122">
-    <title>CHAMPIONS TROPHY 2002 Hlts IND v SA</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="122">
     <title>PL Highlights</title>
     <desc />
@@ -1181,5 +1157,30 @@
     <title>PL Highlights Liverpool v Man City</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="122">
+    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005203000 +0000" channel="122">
+    <title>PL 2026-27 Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="122">
+    <title>2013 ICC Champions Trophy - Hlts</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951369?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="122">
+    <title>PL Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951374?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

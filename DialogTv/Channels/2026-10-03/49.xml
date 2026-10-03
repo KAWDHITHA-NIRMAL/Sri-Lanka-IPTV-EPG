@@ -3,46 +3,6 @@
   <channel id="49">
     <display-name>Channel 55</display-name>
   </channel>
-  <programme start="20260930172500 +0000" stop="20260930175000 +0000" channel="49">
-    <title>The Thundermans: Undercover S01</title>
-    <desc />
-  </programme>
-  <programme start="20260930175000 +0000" stop="20260930181500 +0000" channel="49">
-    <title>Henry Danger S05</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930183500 +0000" channel="49">
-    <title>Henry Danger S05</title>
-    <desc />
-  </programme>
-  <programme start="20260930183500 +0000" stop="20260930190000 +0000" channel="49">
-    <title>Danger Force S03</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930192500 +0000" channel="49">
-    <title>Icarly S02</title>
-    <desc />
-  </programme>
-  <programme start="20260930192500 +0000" stop="20260930195000 +0000" channel="49">
-    <title>Icarly S02</title>
-    <desc />
-  </programme>
-  <programme start="20260930195000 +0000" stop="20260930201500 +0000" channel="49">
-    <title>Victorious S01</title>
-    <desc />
-  </programme>
-  <programme start="20260930201500 +0000" stop="20260930203500 +0000" channel="49">
-    <title>Sam &amp; Cat S01</title>
-    <desc />
-  </programme>
-  <programme start="20260930203500 +0000" stop="20260930210000 +0000" channel="49">
-    <title>Tales of the Teenage Mutant Ninja Turtles S02</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930212000 +0000" channel="49">
-    <title>Tales of the Teenage Mutant Ninja Turtles S01</title>
-    <desc />
-  </programme>
   <programme start="20260930212000 +0000" stop="20260930214500 +0000" channel="49">
     <title>SpongeBob SquarePants S17</title>
     <desc />
@@ -1590,5 +1550,55 @@
     <title>The Thundermans: Undercover S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/706608?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005175000 +0000" stop="20261005181500 +0000" channel="49">
+    <title>Henry Danger S05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005183500 +0000" channel="49">
+    <title>Henry Danger S05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183500 +0000" stop="20261005190000 +0000" channel="49">
+    <title>Danger Force S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950206?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005192500 +0000" channel="49">
+    <title>Icarly S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005192500 +0000" stop="20261005195000 +0000" channel="49">
+    <title>Icarly S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005195000 +0000" stop="20261005201500 +0000" channel="49">
+    <title>Victorious S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949515?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005201500 +0000" stop="20261005203500 +0000" channel="49">
+    <title>Sam &amp; Cat S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203500 +0000" stop="20261005210000 +0000" channel="49">
+    <title>Tales of the Teenage Mutant Ninja Turtles S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005212000 +0000" channel="49">
+    <title>Tales of the Teenage Mutant Ninja Turtles S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005212000 +0000" stop="20261005214500 +0000" channel="49">
+    <title>Spongebob Squarepants S09</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950212?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

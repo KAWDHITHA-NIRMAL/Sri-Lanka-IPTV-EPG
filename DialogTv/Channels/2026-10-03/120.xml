@@ -3,42 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20260930140000 +0000" stop="20260930180000 +0000" channel="120">
-    <title>Live Abu Dhabi T10 2026 Player Draft</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="120">
-    <title>FTB Exclusive</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="120">
-    <title>Muthoot Fincorp 2nd ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="120">
-    <title>ICC Men's T20 WC HLs IND v ENG</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="120">
-    <title>ICC Men's ODI WC 2023 hlts. NZ v PAK</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930201500 +0000" channel="120">
-    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260930201500 +0000" stop="20260930203000 +0000" channel="120">
-    <title>IDFC FIRST Bank India v Australia 5th T20I HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="120">
-    <title>ICC World T20 2007 Hlts.</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="120">
-    <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="120">
     <title>ICC Men's T20I World Cup Hlts SA v IND</title>
     <desc />
@@ -1426,5 +1390,55 @@
     <title>Follow The Blues</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005174500 +0000" stop="20261005180000 +0000" channel="120">
+    <title>ICC Men's T20 WC HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005183000 +0000" channel="120">
+    <title>Cricket Countdown - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="120">
+    <title>IDFC FIRST Bank 3rd ODI HLTS IND v ENG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="120">
+    <title>ICC Men's ODI WC 2023 hlts. IND v NZ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950319?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005200000 +0000" channel="120">
+    <title>ICC Men's ODI WC 2023 hlts. AUS v NZ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005201500 +0000" channel="120">
+    <title>BKT Tyres 4th T20I HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005201500 +0000" stop="20261005203000 +0000" channel="120">
+    <title>IDFC FIRST Bank India v Australia 1st T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950338?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="120">
+    <title>CHAMPIONS TROPHY 2002 Hlts ENG v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950414?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="120">
+    <title>IDFC FIRST Bank IND v SA ODI 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950330?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="120">
+    <title>ICC Men's ODI WC 2023 hlts. IND v NZ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950319?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,50 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="70">
-    <title>PL NetBusters</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930181500 +0000" channel="70">
-    <title>CPL 2026 HLs Warriors v Falcons</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930183000 +0000" channel="70">
-    <title>PL Highlights Arsenal v Coventry City</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930184500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260930184500 +0000" stop="20260930190000 +0000" channel="70">
-    <title>IDFC FIRST Bank India v Australia 2nd T20I HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="70">
-    <title>ICC Men's ODI WC 2023 hlts. PAK v AFG</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930194500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
-    <desc />
-  </programme>
-  <programme start="20260930194500 +0000" stop="20260930200000 +0000" channel="70">
-    <title>PL Highlights Hull City v Man Utd</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="70">
-    <title>ICC World T20 2007 Hlts.</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="70">
-    <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="70">
-    <title>ICC Men's T20I World Cup Hlts SA v IND</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930214500 +0000" channel="70">
     <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
     <desc />
@@ -1674,5 +1630,65 @@
     <title>Game Plan - IND v WI</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005174500 +0000" stop="20261005180000 +0000" channel="70">
+    <title>Follow The Blues</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005181500 +0000" channel="70">
+    <title>PL Highlights Aston villa v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950845?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005183000 +0000" channel="70">
+    <title>PL Highlights Brentford v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005184500 +0000" channel="70">
+    <title>BKT Tyres 3rd T20I HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005190000 +0000" channel="70">
+    <title>South Africa vs India T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="70">
+    <title>ICC Men's ODI WC 2023 hlts. AUS v AFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950324?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193000 +0000" stop="20261005194500 +0000" channel="70">
+    <title>BKT Tyres 4th T20I HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194500 +0000" stop="20261005200000 +0000" channel="70">
+    <title>PL Highlights Man City v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950962?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="70">
+    <title>CHAMPIONS TROPHY 2002 Hlts ENG v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950414?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="70">
+    <title>IDFC FIRST Bank IND v SA ODI 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="70">
+    <title>ICC Men's ODI WC 2023 hlts. IND v NZ</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950319?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005214500 +0000" channel="70">
+    <title>BKT Tyres 3rd T20I HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943883?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

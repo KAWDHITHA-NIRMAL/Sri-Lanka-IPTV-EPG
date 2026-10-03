@@ -3,10 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930203000 +0000" channel="19">
-    <title>Meeduma Obai</title>
-    <desc />
-  </programme>
   <programme start="20260930203000 +0000" stop="20260930233000 +0000" channel="19">
     <title>Hasthiraja Manthraya</title>
     <desc />
@@ -223,5 +219,10 @@
     <title>Adarayata Wes Banda</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005233000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

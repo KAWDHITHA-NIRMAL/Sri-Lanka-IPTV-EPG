@@ -3,38 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="137">
-    <title>Africa Matters</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930181500 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-  </programme>
-  <programme start="20260930181500 +0000" stop="20260930183000 +0000" channel="137">
-    <title>Newsfeed</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="137">
-    <title>Across The Balkans</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930200000 +0000" channel="137">
-    <title>Newshour - London</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="137">
-    <title>Beyond The Game</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="137">
     <title>Roundtable</title>
     <desc />
@@ -1141,5 +1109,45 @@
     <title>Just 2 Degrees</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005181500 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005181500 +0000" stop="20261005183000 +0000" channel="137">
+    <title>Newsfeed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005190000 +0000" channel="137">
+    <title>Across The Balkans</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005200000 +0000" channel="137">
+    <title>Newshour - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="137">
+    <title>Markets Of The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="137">
+    <title>Roundtable</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61688?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

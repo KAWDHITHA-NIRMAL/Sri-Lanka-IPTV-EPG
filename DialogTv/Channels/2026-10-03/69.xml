@@ -3,38 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="69">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="69">
-    <title>Muthoot Fincorp 2nd ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="69">
-    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
-    <desc />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="69">
-    <title>ICC CT 2025 Final Hlts IND v NZ</title>
-    <desc />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="69">
-    <title>ICC CWC Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="69">
-    <title>Australia v India T20I Series 2016 HLTS</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="69">
-    <title>ICC WT20 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="69">
-    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="69">
     <title>ICC World T20 2007 Hlts.</title>
     <desc />
@@ -1099,5 +1067,55 @@
   <programme start="20261005170500 +0000" stop="20261005183000 +0000" channel="69">
     <title>Live WCL 2026 BAN v ENG</title>
     <desc />
+  </programme>
+  <programme start="20261005183000 +0000" stop="20261005184500 +0000" channel="69">
+    <title>Game Plan - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005191500 +0000" channel="69">
+    <title>ICC Men's T20 WC HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005191500 +0000" stop="20261005193500 +0000" channel="69">
+    <title>FTB Exclusive</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949516?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005193500 +0000" stop="20261005194000 +0000" channel="69">
+    <title>Cricket Fillers - Others</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950328?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194000 +0000" stop="20261005194500 +0000" channel="69">
+    <title>Cricket Fillers - Others</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950328?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005194500 +0000" stop="20261005200000 +0000" channel="69">
+    <title>ICC Men's ODI WC 2023 hlts. SA v AUS</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946136?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="69">
+    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="69">
+    <title>ICC World T20 2007 Hlts.</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950322?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="69">
+    <title>IND v NZ ODI HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950341?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="69">
+    <title>ICC T20 WC 2022 Highlights BAN v ZIM</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950342?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,18 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20260930173000 +0000" stop="20260930203000 +0000" channel="66">
-    <title>UFC Reloaded 2026 UFC 328 - Chimaev vs Strickland</title>
-    <desc />
-  </programme>
-  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="66">
-    <title>UEFA Nations League 2026-27 MD 2 Scotland vs Switzerland Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930213000 +0000" channel="66">
-    <title>UEFA Nations League 2026-27 MD 2 Spain vs Croatia Highlights</title>
-    <desc />
-  </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="66">
     <title>UEFA Nations League 2026-27 MD 2 Czechia vs England Highlights</title>
     <desc />
@@ -412,5 +400,30 @@
     <title>UEFA Nations League 2026-27 MD 1 England vs Spain Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005184500 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 2 Norway vs Portugal Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952961?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005184500 +0000" stop="20261005204500 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 1 England vs Spain Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005204500 +0000" stop="20261005210000 +0000" channel="66">
+    <title>Snippets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="66">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="66">
+    <title>UEFA Nations League 2026-27 MD 2 Norway vs Portugal Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952961?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
