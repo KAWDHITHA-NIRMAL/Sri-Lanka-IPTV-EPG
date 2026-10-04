@@ -3,31 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261001093000 +0000" stop="20261001123000 +0000" channel="62">
-    <title>Live - Hayleys A vs HNB A - 33rd Singer MCA Super Premiere League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="62">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001140000 +0000" channel="62">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="62">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001150000 +0000" channel="62">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001163000 +0000" channel="62">
-    <title>Live - ICC Men's Cricket World Cup 2027 - Group &amp; Fixture Reveal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163000 +0000" stop="20261001183000 +0000" channel="62">
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
@@ -322,5 +297,20 @@
     <title>Live - Sri Lanka Tennis Nationals 2026 - Day 12</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950234?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006143000 +0000" channel="62">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950235?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006163000 +0000" channel="62">
+    <title>Highlights - Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950236?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006183000 +0000" channel="62">
+    <title>Highlights - Davis cup Asia/Oceania Group IV 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950235?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

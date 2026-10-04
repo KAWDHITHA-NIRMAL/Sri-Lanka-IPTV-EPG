@@ -3,23 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261001103000 +0000" stop="20261001123000 +0000" channel="67">
-    <title>FIM Speedway Grand Prix Series</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001141500 +0000" channel="67">
-    <title>TNA Impact</title>
-    <desc />
-  </programme>
-  <programme start="20261001141500 +0000" stop="20261001144500 +0000" channel="67">
-    <title>One-Day International Cricket</title>
-    <desc />
-  </programme>
-  <programme start="20261001144500 +0000" stop="20261001164500 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001164500 +0000" stop="20261001183000 +0000" channel="67">
     <title>AEW Dynamite</title>
     <desc />
@@ -344,5 +327,20 @@
     <title>WTT Grand Smash</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952294?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006143000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006163000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006173000 +0000" channel="67">
+    <title>WWE LFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951970?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

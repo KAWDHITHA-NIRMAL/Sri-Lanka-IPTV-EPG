@@ -3,26 +3,6 @@
   <channel id="85">
     <display-name>Channel 92</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="85">
-    <title>Best Of Crime Patrol - Crime Patrol Dial 100</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="85">
-    <title>Crime Patrol - 48 Hours</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001140000 +0000" channel="85">
-    <title>Vighnaharta Ganesh</title>
-    <desc />
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="85">
-    <title>Vighnaharta Ganesh</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="85">
-    <title>Indian Game Show With Bharti And Harssh</title>
-    <desc />
-  </programme>
   <programme start="20261001153000 +0000" stop="20261001171000 +0000" channel="85">
     <title>Kaun Banega Crorepati S18</title>
     <desc />
@@ -562,5 +542,30 @@
     <title>Best Of Crime Patrol - Crime Patrol Satark</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006133000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="85">
+    <title>Vighnaharta Ganesh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="85">
+    <title>Vighnaharta Ganesh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="85">
+    <title>Indian Game Show With Bharti And Harssh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950835?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006171000 +0000" channel="85">
+    <title>Kaun Banega Crorepati S18</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950836?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,40 +3,6 @@
   <channel id="109">
     <display-name>Channel 8</display-name>
   </channel>
-  <programme start="20261001111600 +0000" stop="20261001114200 +0000" channel="109">
-    <title>WildFed</title>
-    <desc />
-  </programme>
-  <programme start="20261001114200 +0000" stop="20261001123000 +0000" channel="109">
-    <title>Dual Survival</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="109">
-    <title>Man vs. Wild</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001135500 +0000" channel="109">
-    <title>Shipping Wars</title>
-    <desc />
-  </programme>
-  <programme start="20261001135500 +0000" stop="20261001143000 +0000" channel="109">
-    <title>Ed Stafford's Rite of Passage</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001150000 +0000" channel="109">
-    <title>Man Eats Wild</title>
-    <desc />
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="109">
-    <title>Man Eats Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001163000 +0000" channel="109">
-    <title>Secret Africa: Into The Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952083?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="109">
     <title>Naked And Afraid</title>
     <desc />
@@ -736,5 +702,40 @@
     <title>Expedition Unknown</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/939740?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006114900 +0000" stop="20261006123900 +0000" channel="109">
+    <title>Dual Survival</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123900 +0000" stop="20261006133400 +0000" channel="109">
+    <title>Declassified: Operation Sindoor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950264?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133400 +0000" stop="20261006135900 +0000" channel="109">
+    <title>Storage Wars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/911217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006135900 +0000" stop="20261006144900 +0000" channel="109">
+    <title>Marooned With Ed Stafford</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006144900 +0000" stop="20261006154000 +0000" channel="109">
+    <title>Man vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006154000 +0000" stop="20261006163100 +0000" channel="109">
+    <title>18 Wheels Across Africa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163100 +0000" stop="20261006172200 +0000" channel="109">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

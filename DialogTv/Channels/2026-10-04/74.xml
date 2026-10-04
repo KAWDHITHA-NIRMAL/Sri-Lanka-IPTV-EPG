@@ -3,23 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261001100400 +0000" stop="20261001115500 +0000" channel="74">
-    <title>The Pursuit Of Happyness</title>
-    <desc />
-  </programme>
-  <programme start="20261001115500 +0000" stop="20261001135100 +0000" channel="74">
-    <title>Vertical Limit</title>
-    <desc />
-  </programme>
-  <programme start="20261001135100 +0000" stop="20261001153000 +0000" channel="74">
-    <title>Morbius</title>
-    <desc />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001165100 +0000" channel="74">
-    <title>Hotel Transylvania: Transformania</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001165100 +0000" stop="20261001182800 +0000" channel="74">
     <title>Venom: The Last Dance</title>
     <desc />
@@ -339,5 +322,25 @@
     <title>Blade Runner 2049</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951564?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006115200 +0000" stop="20261006134800 +0000" channel="74">
+    <title>The Walk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006134800 +0000" stop="20261006153000 +0000" channel="74">
+    <title>Welcome To The Jungle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951930?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006170100 +0000" channel="74">
+    <title>Zombieland: Double Tap</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006170100 +0000" stop="20261006185300 +0000" channel="74">
+    <title>Spider-Man: Into The Spider-Verse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951566?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

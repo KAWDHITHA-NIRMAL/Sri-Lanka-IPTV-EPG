@@ -3,14 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261001103000 +0000" stop="20261001133000 +0000" channel="95">
-    <title>Metti</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001170000 +0000" channel="95">
-    <title>Rasigan</title>
-    <desc />
-  </programme>
   <programme start="20261001170000 +0000" stop="20261001200000 +0000" channel="95">
     <title>Idhu Namma Boomi</title>
     <desc />
@@ -202,6 +194,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006093000 +0000" stop="20261006123000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006153000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006183000 +0000" channel="95">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />

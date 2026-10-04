@@ -3,41 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261001091500 +0000" stop="20261001121500 +0000" channel="31">
-    <title>AFL Premiership Season</title>
-    <desc />
-  </programme>
-  <programme start="20261001121500 +0000" stop="20261001130500 +0000" channel="31">
-    <title>Annabel Crabb's Civic Duty</title>
-    <desc />
-  </programme>
-  <programme start="20261001130500 +0000" stop="20261001134000 +0000" channel="31">
-    <title>I Was Actually There</title>
-    <desc />
-  </programme>
-  <programme start="20261001134000 +0000" stop="20261001142500 +0000" channel="31">
-    <title>Ambulance Australia</title>
-    <desc />
-  </programme>
-  <programme start="20261001142500 +0000" stop="20261001144000 +0000" channel="31">
-    <title>ABC Late News</title>
-    <desc />
-  </programme>
-  <programme start="20261001144000 +0000" stop="20261001145500 +0000" channel="31">
-    <title>The Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/724863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001145500 +0000" stop="20261001152500 +0000" channel="31">
-    <title>7.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001152500 +0000" stop="20261001162500 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001162500 +0000" stop="20261001173000 +0000" channel="31">
     <title>Cross Border Comedy</title>
     <desc />
@@ -687,5 +652,55 @@
     <title>The World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006120000 +0000" stop="20261006123000 +0000" channel="31">
+    <title>Back Roads</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006132000 +0000" channel="31">
+    <title>Australia's Wild Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006132000 +0000" stop="20261006140000 +0000" channel="31">
+    <title>Dr Karl'S How Things Work</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006141500 +0000" channel="31">
+    <title>ABC Late News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950110?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006141500 +0000" stop="20261006143000 +0000" channel="31">
+    <title>The Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950108?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006160000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006160000 +0000" stop="20261006163000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950100?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="31">
+    <title>Back Roads</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950089?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,37 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20261001110000 +0000" stop="20261001115500 +0000" channel="111">
-    <title>Ncis: Origins S2</title>
-    <desc />
-  </programme>
-  <programme start="20261001115500 +0000" stop="20261001125000 +0000" channel="111">
-    <title>Blue Bloods S14</title>
-    <desc />
-  </programme>
-  <programme start="20261001125000 +0000" stop="20261001134500 +0000" channel="111">
-    <title>Elsbeth S2</title>
-    <desc />
-  </programme>
-  <programme start="20261001134500 +0000" stop="20261001144000 +0000" channel="111">
-    <title>The Rookie S7</title>
-    <desc />
-  </programme>
-  <programme start="20261001144000 +0000" stop="20261001152000 +0000" channel="111">
-    <title>Twisted Metal S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001152000 +0000" stop="20261001155500 +0000" channel="111">
-    <title>Twisted Metal S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001155500 +0000" stop="20261001165000 +0000" channel="111">
-    <title>The Rookie S7</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001165000 +0000" stop="20261001182000 +0000" channel="111">
     <title>The Rookie S7</title>
     <desc />
@@ -618,5 +587,33 @@
     <title>Sight Unseen S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951435?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006115500 +0000" stop="20261006125000 +0000" channel="111">
+    <title>The Rookie S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951436?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006125000 +0000" stop="20261006134500 +0000" channel="111">
+    <title>Hudson &amp; Rex S8</title>
+    <desc />
+  </programme>
+  <programme start="20261006134500 +0000" stop="20261006144000 +0000" channel="111">
+    <title>S.W.A.T. S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006144000 +0000" stop="20261006153500 +0000" channel="111">
+    <title>Hudson &amp; Rex S8</title>
+    <desc />
+  </programme>
+  <programme start="20261006153500 +0000" stop="20261006163000 +0000" channel="111">
+    <title>S.W.A.T. S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006172500 +0000" channel="111">
+    <title>The Rookie S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951436?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

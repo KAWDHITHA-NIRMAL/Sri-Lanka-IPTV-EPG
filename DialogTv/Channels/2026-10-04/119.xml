@@ -3,18 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261001101900 +0000" stop="20261001115700 +0000" channel="119">
-    <title>George And The Dragon (2004)</title>
-    <desc />
-  </programme>
-  <programme start="20261001115700 +0000" stop="20261001133400 +0000" channel="119">
-    <title>Madagascar 3: Europe's Most Wanted</title>
-    <desc />
-  </programme>
-  <programme start="20261001133400 +0000" stop="20261001153000 +0000" channel="119">
-    <title>Upon The Magic Road</title>
-    <desc />
-  </programme>
   <programme start="20261001153000 +0000" stop="20261001170400 +0000" channel="119">
     <title>The Haunted Mansion</title>
     <desc />
@@ -371,6 +359,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006093000 +0000" stop="20261006123000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006153000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006183000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />

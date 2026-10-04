@@ -3,18 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261001103000 +0000" stop="20261001120000 +0000" channel="73">
-    <title>The Maltese Falcon</title>
-    <desc />
-  </programme>
-  <programme start="20261001120000 +0000" stop="20261001140000 +0000" channel="73">
-    <title>Teenage Mutant Ninja Turtles Iii</title>
-    <desc />
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001160000 +0000" channel="73">
-    <title>Monsters Vs. Aliens</title>
-    <desc />
-  </programme>
   <programme start="20261001160000 +0000" stop="20261001173000 +0000" channel="73">
     <title>The Maltese Falcon</title>
     <desc />
@@ -284,5 +272,20 @@
     <title>The Scorpion King</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006120000 +0000" stop="20261006141500 +0000" channel="73">
+    <title>Freedom Writers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006141500 +0000" stop="20261006163000 +0000" channel="73">
+    <title>An Officer And A Gentleman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950726?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006183000 +0000" channel="73">
+    <title>Stop! Or My Mom Will Shoot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950721?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

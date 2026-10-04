@@ -3,36 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="15">
-    <title>Poddo Waddo</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001140000 +0000" channel="15">
-    <title>Ola Mola Pure</title>
-    <desc />
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="15">
-    <title>Eyath Lassanayi</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001150000 +0000" channel="15">
-    <title>Doovili</title>
-    <desc />
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="15">
-    <title>Balan Inna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943802?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001163000 +0000" channel="15">
-    <title>Siyatha Tv News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/766723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163000 +0000" stop="20261001183000 +0000" channel="15">
     <title>Ravana</title>
     <desc />
@@ -531,5 +501,40 @@
     <title>Poddo Waddo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/692266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006133000 +0000" channel="15">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="15">
+    <title>Ola Mola Pure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949676?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="15">
+    <title>Eyath Lassanayi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949677?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="15">
+    <title>Doovili</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949678?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="15">
+    <title>Balan Inna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943802?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006163000 +0000" channel="15">
+    <title>Siyatha Tv News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006183000 +0000" channel="15">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

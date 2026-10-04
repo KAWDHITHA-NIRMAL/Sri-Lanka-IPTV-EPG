@@ -3,32 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261001110400 +0000" stop="20261001115600 +0000" channel="110">
-    <title>Surviving Australia</title>
-    <desc />
-  </programme>
-  <programme start="20261001115600 +0000" stop="20261001124900 +0000" channel="110">
-    <title>Wild Wild Bunch</title>
-    <desc />
-  </programme>
-  <programme start="20261001124900 +0000" stop="20261001134600 +0000" channel="110">
-    <title>Wild Fighters</title>
-    <desc />
-  </programme>
-  <programme start="20261001134600 +0000" stop="20261001144200 +0000" channel="110">
-    <title>Wildebeest: Born To Run</title>
-    <desc />
-  </programme>
-  <programme start="20261001144200 +0000" stop="20261001153700 +0000" channel="110">
-    <title>Pride Rules</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001153700 +0000" stop="20261001163700 +0000" channel="110">
-    <title>Amur, Asia's Amazon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163700 +0000" stop="20261001173100 +0000" channel="110">
     <title>Deadliest Snakes Of South Africa</title>
     <desc />
@@ -729,5 +703,35 @@
     <title>Wild Fighters</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950569?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006114700 +0000" stop="20261006124000 +0000" channel="110">
+    <title>Wolves &amp; Lions: Old Enemies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950615?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006124000 +0000" stop="20261006133600 +0000" channel="110">
+    <title>Gladiators</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950620?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133600 +0000" stop="20261006143300 +0000" channel="110">
+    <title>The Great Rhino Robbery</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143300 +0000" stop="20261006152900 +0000" channel="110">
+    <title>Brotherhood Of Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950611?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006152900 +0000" stop="20261006161600 +0000" channel="110">
+    <title>Surviving Earth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006161600 +0000" stop="20261006171300 +0000" channel="110">
+    <title>Survive The Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950574?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

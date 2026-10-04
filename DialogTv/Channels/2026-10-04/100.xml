@@ -3,54 +3,6 @@
   <channel id="100">
     <display-name>Channel 107</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="100">
-    <title>Tamilagathil Indru</title>
-    <desc />
-  </programme>
-  <programme start="20261001120000 +0000" stop="20261001123000 +0000" channel="100">
-    <title>Temple News</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001130000 +0000" channel="100">
-    <title>6 Pm News</title>
-    <desc />
-  </programme>
-  <programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="100">
-    <title>Cinema Plus</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001140000 +0000" channel="100">
-    <title>En Endra Kelvi</title>
-    <desc />
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="100">
-    <title>En Endra Kelvi</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001150000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001160000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001160000 +0000" stop="20261001163000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001163000 +0000" stop="20261001170000 +0000" channel="100">
-    <title>En Endra Kelvi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/185972?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="100">
     <title>En Endra Kelvi</title>
     <desc />
@@ -1200,5 +1152,60 @@
     <title>Tamilagathil Indru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/185969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006120000 +0000" stop="20261006123000 +0000" channel="100">
+    <title>Temple News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="100">
+    <title>6 Pm News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953080?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="100">
+    <title>Cinema Plus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/185966?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="100">
+    <title>En Endra Kelvi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="100">
+    <title>En Endra Kelvi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006160000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006160000 +0000" stop="20261006163000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="100">
+    <title>En Endra Kelvi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="100">
+    <title>En Endra Kelvi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952194?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

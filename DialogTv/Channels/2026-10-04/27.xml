@@ -3,31 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001122000 +0000" channel="27">
-    <title>Wesak Deshanawa</title>
-    <desc />
-  </programme>
-  <programme start="20261001122000 +0000" stop="20261001130000 +0000" channel="27">
-    <title>Sawasa Wandanawa</title>
-    <desc />
-  </programme>
-  <programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="27">
-    <title>Shraddha News 6.30</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001143000 +0000" channel="27">
-    <title>Ama Damrasa</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="27">
-    <title>Asirimath Damsaka</title>
-    <desc />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001160000 +0000" channel="27">
-    <title>Milinda Prashnaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/780329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001160000 +0000" stop="20261001173000 +0000" channel="27">
     <title>Special Deshana</title>
     <desc />
@@ -612,5 +587,35 @@
     <title>Wesak Deshanawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006122000 +0000" stop="20261006130000 +0000" channel="27">
+    <title>Sawasa Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="27">
+    <title>Shraddha News 6.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006143000 +0000" channel="27">
+    <title>Ama Damrasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="27">
+    <title>Asirimath Damsaka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/37726?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006160000 +0000" channel="27">
+    <title>Milinda Prashnaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006160000 +0000" stop="20261006173000 +0000" channel="27">
+    <title>Special Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

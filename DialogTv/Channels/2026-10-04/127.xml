@@ -3,18 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261001083000 +0000" stop="20261001123000 +0000" channel="127">
-    <title>Live - Fairfirst Insurance A vs BBK Partnership - 33rd Singer MCA Super Premiere League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001143000 +0000" channel="127">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="127">
-    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
-    <desc />
-  </programme>
   <programme start="20261001153000 +0000" stop="20261001173000 +0000" channel="127">
     <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
     <desc />
@@ -314,5 +302,25 @@
     <title>Live - New Youngs FC vs Blue Star SC - Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951942?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006133000 +0000" channel="127">
+    <title>Highlights - Royal College vs Trinity College - 80th Bradby Shield</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951923?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006143000 +0000" channel="127">
+    <title>Highlights - Australia tour of Bangladesh 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950230?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="127">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006173000 +0000" channel="127">
+    <title>Highlights - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

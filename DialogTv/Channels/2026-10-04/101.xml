@@ -3,19 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261001103000 +0000" stop="20261001130000 +0000" channel="101">
-    <title>Ghosty</title>
-    <desc />
-  </programme>
-  <programme start="20261001130000 +0000" stop="20261001160000 +0000" channel="101">
-    <title>CBI 5: The Brain</title>
-    <desc />
-  </programme>
-  <programme start="20261001160000 +0000" stop="20261001170000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/394656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001170000 +0000" stop="20261001191300 +0000" channel="101">
     <title>Jai Hind 2</title>
     <desc />
@@ -300,5 +287,15 @@
     <title>Seeru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006153000 +0000" channel="101">
+    <title>The Road</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951045?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006173000 +0000" channel="101">
+    <title>Achamindri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951046?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

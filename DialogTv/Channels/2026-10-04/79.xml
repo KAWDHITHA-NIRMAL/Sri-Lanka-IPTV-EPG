@@ -3,19 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261001092700 +0000" stop="20261001121300 +0000" channel="79">
-    <title>Vivegam</title>
-    <desc />
-  </programme>
-  <programme start="20261001121300 +0000" stop="20261001150500 +0000" channel="79">
-    <title>Tanhaji The Unsung Warrior</title>
-    <desc />
-  </programme>
-  <programme start="20261001150500 +0000" stop="20261001163900 +0000" channel="79">
-    <title>Guardian</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951603?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163900 +0000" stop="20261001191300 +0000" channel="79">
     <title>Gitanjali Malli Vachhindi</title>
     <desc />
@@ -241,6 +228,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006093000 +0000" stop="20261006123000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006153000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006183000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />

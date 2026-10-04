@@ -3,31 +3,6 @@
   <channel id="17">
     <display-name>Channel 23</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="17">
-    <title>Movie Paradise</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001130000 +0000" channel="17">
-    <title>Theruwam Namadimu</title>
-    <desc />
-  </programme>
-  <programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="17">
-    <title>Didulana Daruwo</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001143000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001163000 +0000" channel="17">
-    <title>Jewana Geththama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63271?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="17">
     <title>Dayakathwa Darma Deshana</title>
     <desc />
@@ -567,5 +542,35 @@
     <title>Colour Man</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/36921?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="17">
+    <title>Theruwan Namadimu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949700?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="17">
+    <title>Ape Budu Sadu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949706?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006143000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006163000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006173000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

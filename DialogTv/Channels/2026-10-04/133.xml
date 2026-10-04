@@ -3,14 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261001111500 +0000" stop="20261001125500 +0000" channel="133">
-    <title>The Big Boss</title>
-    <desc />
-  </programme>
-  <programme start="20261001125500 +0000" stop="20261001150500 +0000" channel="133">
-    <title>Waterworld</title>
-    <desc />
-  </programme>
   <programme start="20261001150500 +0000" stop="20261001171000 +0000" channel="133">
     <title>Cape Fear</title>
     <desc />
@@ -325,5 +317,15 @@
     <title>They Call Me Trinity</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951483?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006125500 +0000" stop="20261006153500 +0000" channel="133">
+    <title>Lion Of The Desert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153500 +0000" stop="20261006172000 +0000" channel="133">
+    <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951489?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

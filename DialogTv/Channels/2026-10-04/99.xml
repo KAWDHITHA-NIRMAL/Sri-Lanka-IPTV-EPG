@@ -3,27 +3,6 @@
   <channel id="99">
     <display-name>Channel 106</display-name>
   </channel>
-  <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="99">
-    <title>Coffee With Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="99">
-    <title>Non Stop Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001143000 +0000" channel="99">
-    <title>Comedy La Trend</title>
-    <desc />
-  </programme>
-  <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="99">
-    <title>Kalakkal Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20261001153000 +0000" stop="20261001163000 +0000" channel="99">
-    <title>Vanthutaanya Vanthutaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33615?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="99">
     <title>Comedy Nights</title>
     <desc />
@@ -498,5 +477,30 @@
     <title>Coffee With Comedy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006123000 +0000" stop="20261006133000 +0000" channel="99">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951079?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006143000 +0000" channel="99">
+    <title>Comedy La Trend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951073?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="99">
+    <title>Star Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951084?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006153000 +0000" stop="20261006163000 +0000" channel="99">
+    <title>Vanthutaanya Vanthutaan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951074?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006173000 +0000" channel="99">
+    <title>Comedy Nights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951082?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
