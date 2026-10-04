@@ -3,16 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261001165000 +0000" stop="20261001171500 +0000" channel="118">
-    <title>Hollywood On Set S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001171500 +0000" stop="20261001190500 +0000" channel="118">
-    <title>Red Sonja</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951289?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190500 +0000" stop="20261001210000 +0000" channel="118">
     <title>Juror #2</title>
     <desc />
@@ -327,5 +317,15 @@
     <title>Fantastic Beasts And Where To Find Them</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951280?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006171000 +0000" stop="20261006184000 +0000" channel="118">
+    <title>Alarum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951290?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006184000 +0000" stop="20261006204000 +0000" channel="118">
+    <title>The Bride!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951287?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

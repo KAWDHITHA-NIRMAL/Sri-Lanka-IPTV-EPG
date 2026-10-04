@@ -3,41 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="134">
-    <title>Global Us - What connects us all</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761461?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001180200 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180200 +0000" stop="20261001181500 +0000" channel="134">
-    <title>DW News Focus - News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812582?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001181500 +0000" stop="20261001183000 +0000" channel="134">
-    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/722088?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="134">
-    <title>Docfilm - The Kiel Canal - Efficient But Expensive</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911687?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001193000 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="134">
     <title>The Day - News in Review</title>
     <desc />
@@ -1887,5 +1852,40 @@
     <title>DW News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="134">
+    <title>Eco Africa - The Environment Magazine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952809?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006180200 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180200 +0000" stop="20261006181500 +0000" channel="134">
+    <title>DW News Focus - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/812582?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006181500 +0000" stop="20261006183000 +0000" channel="134">
+    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952594?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="134">
+    <title>Tomorrow Today - The Science Magazine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952801?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="134">
+    <title>The Day - News in Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952585?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

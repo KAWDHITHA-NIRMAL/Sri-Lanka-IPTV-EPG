@@ -3,20 +3,6 @@
   <channel id="112">
     <display-name>Channel 118</display-name>
   </channel>
-  <programme start="20261001153000 +0000" stop="20261001174500 +0000" channel="112">
-    <title>Bohemian Rhapsody</title>
-    <desc />
-  </programme>
-  <programme start="20261001174500 +0000" stop="20261001183000 +0000" channel="112">
-    <title>The Tonight Show Starring Jimmy Fallon S14</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951305?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001191500 +0000" channel="112">
-    <title>Late Night With Seth Meyers S14</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001191500 +0000" stop="20261001203000 +0000" channel="112">
     <title>The Masked Singer U.K. S7</title>
     <desc />
@@ -781,5 +767,20 @@
     <title>Below Deck Mediterranean S11</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951317?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006181500 +0000" channel="112">
+    <title>The Librarians: The Next Chapter S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006181500 +0000" stop="20261006190000 +0000" channel="112">
+    <title>The Librarians: The Next Chapter S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006195000 +0000" channel="112">
+    <title>Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951183?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

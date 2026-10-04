@@ -3,30 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="88">
-    <title>Bareilly Ki Bacchan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="88">
-    <title>Mannat Harr Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="88">
-    <title>Shayad Yahi Hai Pyaar</title>
-    <desc />
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001193000 +0000" channel="88">
-    <title>Dr. Aarambhi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/741143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="88">
     <title>Mannat Harr Khushi Paane Ki</title>
     <desc />
@@ -953,5 +929,29 @@
     <title>Bareilly Ki Bacchan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952061?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="88">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="88">
+    <title>Seher Hone Ko Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="88">
+    <title>Shayad Yahi Hai Pyaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="88">
+    <title>Dr. Aarambhi</title>
+    <desc />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="88">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

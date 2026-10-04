@@ -3,16 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001183000 +0000" channel="4">
-    <title>Karaliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001183600 +0000" channel="4">
-    <title>Jaya Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949583?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001183600 +0000" stop="20261001233500 +0000" channel="4">
     <title>Close Of Transmission</title>
     <desc />
@@ -881,5 +871,15 @@
     <title>On Air Politics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949582?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006183600 +0000" channel="4">
+    <title>Jaya Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949583?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183600 +0000" stop="20261006233000 +0000" channel="4">
+    <title>Close Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949554?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

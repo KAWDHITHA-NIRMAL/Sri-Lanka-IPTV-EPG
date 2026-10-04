@@ -3,21 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="57">
-    <title>Deadliest Catch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/702314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="57">
-    <title>Ghost Adventures</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001193000 +0000" channel="57">
-    <title>Haunted Towns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001203000 +0000" channel="57">
     <title>You Have Been Warned Again</title>
     <desc />
@@ -683,5 +668,20 @@
     <title>Harpoon Hunters</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="57">
+    <title>Ghost Adventures</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006193000 +0000" channel="57">
+    <title>Haunted Towns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006203000 +0000" channel="57">
+    <title>Dr. Pimple Popper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950277?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

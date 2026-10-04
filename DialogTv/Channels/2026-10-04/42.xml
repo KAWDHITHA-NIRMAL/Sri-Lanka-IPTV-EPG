@@ -3,16 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001180000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949740?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190000 +0000" stop="20261001220000 +0000" channel="42">
     <title>Evening Encore</title>
     <desc />
@@ -727,5 +717,15 @@
     <title>Tenors &amp; Divas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949740?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006220000 +0000" channel="42">
+    <title>Evening Encore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951705?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

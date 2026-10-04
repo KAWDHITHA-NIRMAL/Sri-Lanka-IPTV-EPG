@@ -3,16 +3,6 @@
   <channel id="17">
     <display-name>Channel 23</display-name>
   </channel>
-  <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001183000 +0000" stop="20261001213000 +0000" channel="17">
     <title>TBA</title>
     <desc />
@@ -572,5 +562,15 @@
     <title>Dayakathwa Darma Deshana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="17">
+    <title>Maha Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="17">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949701?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

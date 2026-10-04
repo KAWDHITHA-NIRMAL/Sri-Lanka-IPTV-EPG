@@ -3,41 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001172100 +0000" channel="45">
-    <title>Animal Embassy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001172100 +0000" stop="20261001172400 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001172400 +0000" stop="20261001173000 +0000" channel="45">
-    <title>ScienceXplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="45">
-    <title>Ice Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="45">
-    <title>Ice Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001185400 +0000" channel="45">
-    <title>Siyaya - Wildest Cape</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001185400 +0000" stop="20261001191800 +0000" channel="45">
-    <title>Siyaya - Wildest Cape</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/682665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001191800 +0000" stop="20261001193600 +0000" channel="45">
     <title>A Week to Beat the World</title>
     <desc />
@@ -2567,5 +2532,40 @@
     <title>Animal Embassy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006172100 +0000" stop="20261006172400 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006172400 +0000" stop="20261006173000 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="45">
+    <title>Ice Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="45">
+    <title>Ice Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/682675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006185400 +0000" channel="45">
+    <title>Siyaya - Come Wild With Us</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006185400 +0000" stop="20261006191800 +0000" channel="45">
+    <title>Siyaya - Wildest Cape</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952742?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006191800 +0000" stop="20261006193600 +0000" channel="45">
+    <title>A Week to Beat the World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952591?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

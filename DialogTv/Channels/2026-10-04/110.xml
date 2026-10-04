@@ -3,21 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261001163700 +0000" stop="20261001173100 +0000" channel="110">
-    <title>Deadliest Snakes Of South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951244?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173100 +0000" stop="20261001182700 +0000" channel="110">
-    <title>Wild Fighters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001182700 +0000" stop="20261001192200 +0000" channel="110">
-    <title>Amur, Asia's Amazon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001192200 +0000" stop="20261001201200 +0000" channel="110">
     <title>The View From on High</title>
     <desc />
@@ -733,5 +718,20 @@
     <title>Survive The Wild</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006171300 +0000" stop="20261006180900 +0000" channel="110">
+    <title>Animal Attack Rate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950592?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180900 +0000" stop="20261006190200 +0000" channel="110">
+    <title>Big Cat Tales</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951463?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190200 +0000" stop="20261006195400 +0000" channel="110">
+    <title>Wild and Wonderful Denmark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950619?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

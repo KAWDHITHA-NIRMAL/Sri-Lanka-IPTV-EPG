@@ -3,11 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261001153000 +0000" stop="20261001183000 +0000" channel="117">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001183000 +0000" stop="20261001195000 +0000" channel="117">
     <title>Judas And The Black Messiah</title>
     <desc />
@@ -362,5 +357,15 @@
     <title>Paranormal Activity 3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006171000 +0000" stop="20261006183500 +0000" channel="117">
+    <title>Paranormal Activity 4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183500 +0000" stop="20261006195500 +0000" channel="117">
+    <title>Paranormal Activity: The Marked Ones</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951360?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20261001170100 +0000" stop="20261001182400 +0000" channel="136">
-    <title>Plus Qu'Hier, Moins Que Demain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001182400 +0000" stop="20261001184000 +0000" channel="136">
-    <title>En Voiture Clara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001184000 +0000" stop="20261001190000 +0000" channel="136">
-    <title>La Nourrice</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947671?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001192600 +0000" channel="136">
-    <title>64' Actu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695707?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001192600 +0000" stop="20261001195000 +0000" channel="136">
     <title>64' Debat</title>
     <desc />
@@ -1212,5 +1192,25 @@
     <title>Opj</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006175400 +0000" stop="20261006184600 +0000" channel="136">
+    <title>Opj</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006184600 +0000" stop="20261006190000 +0000" channel="136">
+    <title>Demo De Mode</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952793?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006192600 +0000" channel="136">
+    <title>64' Actu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006192600 +0000" stop="20261006195000 +0000" channel="136">
+    <title>64' Debat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

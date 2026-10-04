@@ -3,26 +3,6 @@
   <channel id="96">
     <display-name>Channel 103</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10 Plus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951193?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="96">
-    <title>Azhagae Azhagu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001193000 +0000" channel="96">
-    <title>Kanmani Anbudan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951190?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="96">
     <title>Thendrale Mella Pesu</title>
     <desc />
@@ -822,5 +802,25 @@
     <title>Bigg Boss Tamil S10 Plus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951193?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="96">
+    <title>Bigg Boss Tamil S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="96">
+    <title>Azhagae Azhagu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="96">
+    <title>Kanmani Anbudan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951190?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="96">
+    <title>Thendrale Mella Pesu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951191?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

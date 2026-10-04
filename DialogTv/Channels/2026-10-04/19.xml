@@ -3,10 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261001143000 +0000" stop="20261001173000 +0000" channel="19">
-    <title>Isuru Diya</title>
-    <desc />
-  </programme>
   <programme start="20261001173000 +0000" stop="20261001203000 +0000" channel="19">
     <title>Katharaka Sewanali</title>
     <desc />
@@ -231,5 +227,10 @@
     <title>Sudu Kiri Kattiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949645?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006203000 +0000" channel="19">
+    <title>Adarayata Wes Banda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

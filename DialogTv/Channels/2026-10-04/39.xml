@@ -3,31 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="39">
-    <title>Power Lunch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="39">
-    <title>Power Lunch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001193000 +0000" channel="39">
-    <title>Closing Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="39">
     <title>Closing Bell</title>
     <desc />
@@ -996,5 +971,30 @@
     <title>The Exchange</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="39">
+    <title>The Exchange</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

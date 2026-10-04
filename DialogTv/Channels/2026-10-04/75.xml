@@ -3,16 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261001153000 +0000" stop="20261001183000 +0000" channel="75">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001184000 +0000" channel="75">
-    <title>Anemone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950729?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001184000 +0000" stop="20261001194500 +0000" channel="75">
     <title>Industry S4</title>
     <desc />
@@ -447,5 +437,15 @@
     <title>Hamnet</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948138?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006170500 +0000" stop="20261006184500 +0000" channel="75">
+    <title>Jersey Girl</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950804?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006195000 +0000" channel="75">
+    <title>Industry S4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948370?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

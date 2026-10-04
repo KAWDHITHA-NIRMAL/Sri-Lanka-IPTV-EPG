@@ -3,16 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261001150500 +0000" stop="20261001171000 +0000" channel="133">
-    <title>Cape Fear</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001171000 +0000" stop="20261001173500 +0000" channel="133">
-    <title>John Wick</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001173500 +0000" stop="20261001194500 +0000" channel="133">
     <title>Cape Fear</title>
     <desc />
@@ -327,5 +317,15 @@
     <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006172000 +0000" stop="20261006190500 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190500 +0000" stop="20261006211500 +0000" channel="133">
+    <title>Flesh &amp; Blood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

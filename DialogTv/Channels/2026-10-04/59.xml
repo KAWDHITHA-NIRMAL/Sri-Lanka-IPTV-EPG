@@ -3,21 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261001165300 +0000" stop="20261001173000 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001181600 +0000" channel="59">
-    <title>Inside The Cia: Secrets &amp; Spies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001181600 +0000" stop="20261001190100 +0000" channel="59">
-    <title>To Catch A Smuggler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950535?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190100 +0000" stop="20261001194400 +0000" channel="59">
     <title>Airport Security Rome</title>
     <desc />
@@ -838,5 +823,30 @@
     <title>Lost Treasures Of The Maya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953475?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006181700 +0000" channel="59">
+    <title>Airport Security Rome</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006181700 +0000" stop="20261006183000 +0000" channel="59">
+    <title>Airport Security Madrid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="59">
+    <title>Destruction Decoded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="59">
+    <title>Airport Security Brazil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874932?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006203000 +0000" channel="59">
+    <title>Trafficked With Mariana Van Zeller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

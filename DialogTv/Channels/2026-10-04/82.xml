@@ -3,26 +3,6 @@
   <channel id="82">
     <display-name>Channel 89</display-name>
   </channel>
-  <programme start="20261001162300 +0000" stop="20261001174800 +0000" channel="82">
-    <title>The Longest Week (2014)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952456?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001174800 +0000" stop="20261001175400 +0000" channel="82">
-    <title>73 Questions With Reese Witherspoon Vogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949502?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001175400 +0000" stop="20261001180500 +0000" channel="82">
-    <title>73 Questions With Olivia Colman Vogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916079?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001180500 +0000" stop="20261001183600 +0000" channel="82">
-    <title>Laugh Wars - The Gigiles Awaken</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802528?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001183600 +0000" stop="20261001195600 +0000" channel="82">
     <title>Movie</title>
     <desc />
@@ -962,5 +942,20 @@
     <title>Laugh Wars - The Gigiles Awaken</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/802528?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006184400 +0000" stop="20261006185200 +0000" channel="82">
+    <title>73 Questions With Michael B. Jordan Vogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/801589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006185200 +0000" stop="20261006185900 +0000" channel="82">
+    <title>73 Questions With Reese Witherspoon Vogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949502?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006185900 +0000" stop="20261006202000 +0000" channel="82">
+    <title>Let's Kill Ward's Wife</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953599?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

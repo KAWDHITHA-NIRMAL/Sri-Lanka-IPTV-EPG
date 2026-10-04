@@ -3,21 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261001163000 +0000" stop="20261001173000 +0000" channel="106">
-    <title>G 11 Catholicism</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="106">
-    <title>G 10 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001193000 +0000" channel="106">
-    <title>G 10 Islam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939942?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001193000 +0000" stop="20261001203000 +0000" channel="106">
     <title>G 10 Agriculture</title>
     <desc />
@@ -747,5 +732,20 @@
     <title>G6-Drama</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951175?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="106">
+    <title>G6 Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006193000 +0000" channel="106">
+    <title>G 10 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951176?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006203000 +0000" channel="106">
+    <title>G 10 Business &amp; Accounting Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951177?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

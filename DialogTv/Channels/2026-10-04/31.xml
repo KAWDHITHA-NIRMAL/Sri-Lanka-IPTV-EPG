@@ -3,21 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261001162500 +0000" stop="20261001173000 +0000" channel="31">
-    <title>Cross Border Comedy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/818314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001173000 +0000" stop="20261001183500 +0000" channel="31">
-    <title>National Press Club Address</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951449?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001183500 +0000" stop="20261001190000 +0000" channel="31">
-    <title>Bondi Rescue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190000 +0000" stop="20261001200000 +0000" channel="31">
     <title>The World</title>
     <desc />
@@ -702,5 +687,20 @@
     <title>Australian Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="31">
+    <title>Australia's Wild Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="31">
+    <title>Dr Karl'S How Things Work</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

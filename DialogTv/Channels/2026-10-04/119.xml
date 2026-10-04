@@ -3,16 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261001153000 +0000" stop="20261001170400 +0000" channel="119">
-    <title>The Haunted Mansion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952327?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001170400 +0000" stop="20261001183100 +0000" channel="119">
-    <title>Gatlopp</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952473?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001183100 +0000" stop="20261001195100 +0000" channel="119">
     <title>Bravestorm</title>
     <desc />
@@ -369,6 +359,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006153000 +0000" stop="20261006183000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />

@@ -3,21 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261001163800 +0000" stop="20261001172500 +0000" channel="60">
-    <title>Mashatu: Land Of Leopard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/791189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001172500 +0000" stop="20261001181900 +0000" channel="60">
-    <title>Creative Killers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001181900 +0000" stop="20261001190300 +0000" channel="60">
-    <title>Mashatu: Land Of Leopard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/791189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190300 +0000" stop="20261001195000 +0000" channel="60">
     <title>The Pack</title>
     <desc />
@@ -792,5 +777,25 @@
     <title>Living With Big Cats</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006172700 +0000" stop="20261006181600 +0000" channel="60">
+    <title>The Pack</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006181600 +0000" stop="20261006183000 +0000" channel="60">
+    <title>Cobra Mafia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006193000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006193000 +0000" stop="20261006203000 +0000" channel="60">
+    <title>Python Invasion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953471?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

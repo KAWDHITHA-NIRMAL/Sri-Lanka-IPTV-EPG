@@ -3,16 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20261001151500 +0000" stop="20261001171800 +0000" channel="115">
-    <title>Tomorrowland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952089?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001171800 +0000" stop="20261001190300 +0000" channel="115">
-    <title>The Marvels</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952166?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001190300 +0000" stop="20261001203200 +0000" channel="115">
     <title>The Croods</title>
     <desc />
@@ -314,6 +304,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006153000 +0000" stop="20261006183000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />

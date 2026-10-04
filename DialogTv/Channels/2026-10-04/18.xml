@@ -3,11 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001173000 +0000" stop="20261001200000 +0000" channel="18">
     <title>Kabadi</title>
     <desc />
@@ -607,5 +602,10 @@
     <title>Wismaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006200000 +0000" channel="18">
+    <title>Allapu Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952989?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

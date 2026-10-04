@@ -3,21 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20261001162100 +0000" stop="20261001172100 +0000" channel="131">
-    <title>Shifting Gears With Aaron Kaufman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951677?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001172100 +0000" stop="20261001181800 +0000" channel="131">
-    <title>Shorty's Dream Shop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001181800 +0000" stop="20261001191800 +0000" channel="131">
-    <title>Junkyard Empire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951552?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001191800 +0000" stop="20261001194000 +0000" channel="131">
     <title>FourWheeler</title>
     <desc />
@@ -852,5 +837,20 @@
     <title>Mud Madness</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006174300 +0000" stop="20261006184100 +0000" channel="131">
+    <title>Junkyard Empire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006184100 +0000" stop="20261006190400 +0000" channel="131">
+    <title>FourWheeler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951553?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006190400 +0000" stop="20261006193200 +0000" channel="131">
+    <title>Throttle Out</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951148?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261001165100 +0000" stop="20261001182800 +0000" channel="74">
-    <title>Venom: The Last Dance</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952152?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001182800 +0000" stop="20261001195100 +0000" channel="74">
     <title>Anaconda</title>
     <desc />
@@ -342,5 +337,10 @@
     <title>Spider-Man: Into The Spider-Verse</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951566?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006185300 +0000" stop="20261006202900 +0000" channel="74">
+    <title>The Unholy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951623?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
