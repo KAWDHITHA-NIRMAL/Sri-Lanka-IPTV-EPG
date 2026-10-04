@@ -3,16 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261001170000 +0000" stop="20261001194000 +0000" channel="87">
-    <title>Sanju</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951586?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194000 +0000" stop="20261001220000 +0000" channel="87">
-    <title>Kaabil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948973?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001220000 +0000" stop="20261001235000 +0000" channel="87">
     <title>Raghuveer</title>
     <desc />
@@ -272,5 +262,10 @@
     <title>Pink</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006214500 +0000" stop="20261007001500 +0000" channel="87">
+    <title>Ved</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952309?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

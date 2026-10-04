@@ -3,31 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261001191000 +0000" stop="20261001194000 +0000" channel="7">
-    <title>Bolt Anayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194000 +0000" stop="20261001201000 +0000" channel="7">
-    <title>Hiri Poda Wessa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001201000 +0000" stop="20261001204000 +0000" channel="7">
-    <title>Amuthu Kalliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/883493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001204000 +0000" stop="20261001211000 +0000" channel="7">
-    <title>Aluth Sir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001211000 +0000" stop="20261001214000 +0000" channel="7">
-    <title>Jahuta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949522?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001214000 +0000" stop="20261001235000 +0000" channel="7">
     <title>On Air Promo</title>
     <desc />
@@ -727,5 +702,30 @@
     <title>Bolt Anayak</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006194000 +0000" stop="20261006201000 +0000" channel="7">
+    <title>Hiri Poda Wessa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006201000 +0000" stop="20261006204000 +0000" channel="7">
+    <title>Amuthu Kalliya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/883493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006204000 +0000" stop="20261006211000 +0000" channel="7">
+    <title>Aluth Sir</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006211000 +0000" stop="20261006214000 +0000" channel="7">
+    <title>Jahuta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949522?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006214000 +0000" stop="20261006235000 +0000" channel="7">
+    <title>On Air Promo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951396?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

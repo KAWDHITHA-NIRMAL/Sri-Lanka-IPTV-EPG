@@ -3,41 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261001183000 +0000" stop="20261001203000 +0000" channel="122">
-    <title>PL 2026-27 Everton v Crystal Palace</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951163?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001210000 +0000" channel="122">
-    <title>2013 ICC Champions Trophy - Hlts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951369?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001220000 +0000" channel="122">
-    <title>PL Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261001223000 +0000" channel="122">
-    <title>PL Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001223000 +0000" stop="20261001224500 +0000" channel="122">
-    <title>PL Highlights Crystal Palace v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001224500 +0000" stop="20261001230000 +0000" channel="122">
-    <title>PL Highlights Man City v Bournemouth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951366?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261001233000 +0000" channel="122">
     <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
     <desc />
@@ -844,6 +809,7 @@
   <programme start="20261005083000 +0000" stop="20261005090000 +0000" channel="122">
     <title>PL Highlights Leeds United v Newcastle</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954258?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005090000 +0000" stop="20261005093000 +0000" channel="122">
     <title>ONE : Championship Classics</title>
@@ -1224,5 +1190,40 @@
     <title>PL 2026-27 Bournemouth v Everton</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952565?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="122">
+    <title>ICC CT 2017 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951373?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006220000 +0000" channel="122">
+    <title>PL Highlights Arsenal v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952566?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006223000 +0000" channel="122">
+    <title>PL Highlights Man Utd v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952137?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006224500 +0000" channel="122">
+    <title>PL Highlights Crystal Palace v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006224500 +0000" stop="20261006230000 +0000" channel="122">
+    <title>PL Highlights Man City v Sunderland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261006233000 +0000" channel="122">
+    <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950415?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

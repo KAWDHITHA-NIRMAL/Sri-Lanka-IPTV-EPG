@@ -3,16 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261001180500 +0000" stop="20261001201500 +0000" channel="116">
-    <title>Manta Manta: Legacy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952468?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001201500 +0000" stop="20261001220000 +0000" channel="116">
-    <title>Copperman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952469?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001220000 +0000" stop="20261001234000 +0000" channel="116">
     <title>Tuesday Club</title>
     <desc />
@@ -271,7 +261,7 @@
   <programme start="20261005130000 +0000" stop="20261005152500 +0000" channel="116">
     <title>Bermuda Triangle North Sea</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954250?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005152500 +0000" stop="20261005171500 +0000" channel="116">
     <title>Not My Type</title>
@@ -316,7 +306,7 @@
   <programme start="20261006040000 +0000" stop="20261006062500 +0000" channel="116">
     <title>Bermuda Triangle North Sea</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954250?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006062500 +0000" stop="20261006080000 +0000" channel="116">
     <title>Murder in Biot</title>
@@ -357,5 +347,15 @@
     <title>Aspromonte: Land Of The Forgotten</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006200500 +0000" stop="20261006220000 +0000" channel="116">
+    <title>Murder in Biot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006233500 +0000" channel="116">
+    <title>Toubab</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952070?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

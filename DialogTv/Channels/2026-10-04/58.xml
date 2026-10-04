@@ -3,26 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949722?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261001203000 +0000" channel="58">
-    <title>Crazy Cakes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949722?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001213000 +0000" channel="58">
-    <title>Growing Floret</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950491?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001223000 +0000" channel="58">
-    <title>Say Yes To The Dress: Lancashire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950492?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001223000 +0000" stop="20261002003000 +0000" channel="58">
     <title>90 Day: The Single Life</title>
     <desc />
@@ -727,5 +707,20 @@
     <title>Harry Potter: Wizards of Baking</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950498?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006213000 +0000" channel="58">
+    <title>For the Love of Kitchens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950503?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="58">
+    <title>MasterChef Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950502?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006233000 +0000" channel="58">
+    <title>Design Down Under</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950504?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

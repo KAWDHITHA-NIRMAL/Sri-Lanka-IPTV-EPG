@@ -3,16 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20261001190300 +0000" stop="20261001203200 +0000" channel="115">
-    <title>The Croods</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203200 +0000" stop="20261001224500 +0000" channel="115">
-    <title>Breaking Infinity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952090?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001224500 +0000" stop="20261002001500 +0000" channel="115">
     <title>Tarzan</title>
     <desc />
@@ -221,7 +211,7 @@
   <programme start="20261005013000 +0000" stop="20261005033400 +0000" channel="115">
     <title>Star Wars: The Empire Strikes Back</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954259?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005033400 +0000" stop="20261005051800 +0000" channel="115">
     <title>Elysium</title>
@@ -256,7 +246,7 @@
   <programme start="20261005151500 +0000" stop="20261005170200 +0000" channel="115">
     <title>The Omen</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953666?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954201?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005170200 +0000" stop="20261005192600 +0000" channel="115">
     <title>Captain America: Civil War</title>
@@ -309,6 +299,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261007003000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />

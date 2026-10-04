@@ -3,41 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261001190000 +0000" stop="20261001193300 +0000" channel="53">
-    <title>Construction Chaos &amp; Clever Fixes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714160?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001193300 +0000" stop="20261001195800 +0000" channel="53">
-    <title>The Biggest, Craziest Disasters!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950351?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001195800 +0000" stop="20261001203000 +0000" channel="53">
-    <title>When Everything Goes Hilariously Wrong!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950364?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001205900 +0000" channel="53">
-    <title>Animals, Numbers, Abcs &amp; More Fun!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950398?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001205900 +0000" stop="20261001212300 +0000" channel="53">
-    <title>JJ's Fun Home Learning Adventures!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950362?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001212300 +0000" stop="20261001220000 +0000" channel="53">
-    <title>At Home With Cody And His Family!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950398?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261001223400 +0000" channel="53">
-    <title>Baby John's Big Family Adventure!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001223400 +0000" stop="20261001230800 +0000" channel="53">
     <title>Heroic Songs &amp; Brave Tunes!</title>
     <desc />
@@ -760,6 +725,7 @@
   <programme start="20261005020100 +0000" stop="20261005023800 +0000" channel="53">
     <title>Greatest Hits: Family &amp; Holidays</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950362?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005023800 +0000" stop="20261005031000 +0000" channel="53">
     <title>How Does JJ Like To Play?</title>
@@ -1158,5 +1124,35 @@
     <title>A Big Day Of Rescues &amp; Learning!</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261006203000 +0000" channel="53">
+    <title>When Everything Goes Hilariously Wrong!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950364?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="53">
+    <title>Let's Play All The Best Games!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006213100 +0000" channel="53">
+    <title>World Travel Sing-Along</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950362?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213100 +0000" stop="20261006220000 +0000" channel="53">
+    <title>A Super Fun Day With Cody!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950309?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006223700 +0000" channel="53">
+    <title>Baby John's Bath &amp; Bedtime Fun!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223700 +0000" stop="20261006231100 +0000" channel="53">
+    <title>Heroic Songs &amp; Brave Tunes!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950309?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="39">
-    <title>Closing Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261001203000 +0000" channel="39">
-    <title>Closing Bell: Overtime</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001210000 +0000" channel="39">
-    <title>Closing Bell: Overtime</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="39">
-    <title>Fast Money</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001220000 +0000" channel="39">
-    <title>Fast Money</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="39">
-    <title>U.S. Markets Edition</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/155209?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261001233000 +0000" channel="39">
     <title>Squawk Box Asia</title>
     <desc />
@@ -636,6 +606,7 @@
   <programme start="20261005050000 +0000" stop="20261005060000 +0000" channel="39">
     <title>American Greed: The Fugitives</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954252?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005060000 +0000" stop="20261005063000 +0000" channel="39">
     <title>Squawk Box Europe</title>
@@ -996,5 +967,35 @@
     <title>Closing Bell</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261006203000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="39">
+    <title>Fast Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006220000 +0000" channel="39">
+    <title>Fast Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="39">
+    <title>U.S. Markets Edition</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/155209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261006233000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950133?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

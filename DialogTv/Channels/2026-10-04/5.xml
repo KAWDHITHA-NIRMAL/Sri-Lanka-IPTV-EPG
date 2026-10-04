@@ -3,11 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20261001183000 +0000" stop="20261001213000 +0000" channel="5">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949458?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001213000 +0000" stop="20261002003000 +0000" channel="5">
     <title>Filler</title>
     <desc />
@@ -584,6 +579,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62804?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="5">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949458?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261007003000 +0000" channel="5">
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949458?accessKey=WkVjNWNscFhORDBLCg==" />

@@ -3,11 +3,6 @@
   <channel id="43">
     <display-name>Channel 49</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001213000 +0000" channel="43">
-    <title>Kollywood Retro</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/185007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001213000 +0000" stop="20261002003000 +0000" channel="43">
     <title>Break Free Songs</title>
     <desc />
@@ -532,5 +527,10 @@
     <title>Kollywood Retro</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/185007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261007003000 +0000" channel="43">
+    <title>Break Free Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950010?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

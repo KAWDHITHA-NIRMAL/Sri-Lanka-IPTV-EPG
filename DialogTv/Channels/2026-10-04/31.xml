@@ -3,21 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261001190000 +0000" stop="20261001200000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261001210000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950103?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001230000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950103?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="31">
     <title>ABC News Mornings</title>
     <desc />
@@ -702,5 +687,20 @@
     <title>The World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006230000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261007020000 +0000" channel="31">
+    <title>ABC News Mornings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949489?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

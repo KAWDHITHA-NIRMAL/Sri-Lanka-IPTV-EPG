@@ -3,16 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261001173500 +0000" stop="20261001194500 +0000" channel="133">
-    <title>Cape Fear</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951471?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194500 +0000" stop="20261001212500 +0000" channel="133">
-    <title>The Legend 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001212500 +0000" stop="20261001233500 +0000" channel="133">
     <title>Battleship</title>
     <desc />
@@ -327,5 +317,10 @@
     <title>Flesh &amp; Blood</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006211500 +0000" stop="20261006231500 +0000" channel="133">
+    <title>Oblivion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950945?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

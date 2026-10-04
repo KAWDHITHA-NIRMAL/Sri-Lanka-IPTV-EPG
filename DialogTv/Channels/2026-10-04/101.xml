@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001214700 +0000" channel="101">
-    <title>Kaadan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951626?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001214700 +0000" stop="20261001220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001220000 +0000" stop="20261002003000 +0000" channel="101">
     <title>Nota</title>
     <desc />
@@ -214,9 +204,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951033?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005080000 +0000" stop="20261005100000 +0000" channel="101">
-    <title>Diya</title>
+    <title>Dhiya</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951034?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954199?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005100000 +0000" stop="20261005123000 +0000" channel="101">
     <title>Ivan Thanthiran</title>
@@ -228,25 +218,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951036?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005160000 +0000" stop="20261005180000 +0000" channel="101">
+  <programme start="20261005160000 +0000" stop="20261005174500 +0000" channel="101">
     <title>Dhuruvangal Pathinaaru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951037?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005180000 +0000" stop="20261005190000 +0000" channel="101">
+  <programme start="20261005174500 +0000" stop="20261005180000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005180000 +0000" stop="20261005192700 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005190000 +0000" stop="20261005193000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005193000 +0000" stop="20261005220000 +0000" channel="101">
+  <programme start="20261005192700 +0000" stop="20261005214400 +0000" channel="101">
     <title>8 Thottakkal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951038?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005214400 +0000" stop="20261005220000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005220000 +0000" stop="20261006000000 +0000" channel="101">
     <title>Aghavan</title>
@@ -307,5 +302,10 @@
     <title>Thirumanam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951048?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261007000000 +0000" channel="101">
+    <title>House Owner</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951049?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,31 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="30">
-    <title>Flatten The Curve</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948083?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261001203000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001210000 +0000" channel="30">
-    <title>101 East</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/147549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001220000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61957?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61957?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261001233000 +0000" channel="30">
     <title>News Live</title>
     <desc />
@@ -952,5 +927,30 @@
     <title>Counting The Cost</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952757?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261006203000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="30">
+    <title>Nuked</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006220000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952603?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952603?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261006233000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

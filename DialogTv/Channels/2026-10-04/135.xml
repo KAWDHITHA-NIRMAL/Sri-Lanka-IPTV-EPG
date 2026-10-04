@@ -3,31 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261001184500 +0000" stop="20261001194500 +0000" channel="135">
-    <title>Elisir 2025/26 60a Puntata Sottotitolata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194500 +0000" stop="20261001201500 +0000" channel="135">
-    <title>Fiction 1atv: Nathan K 2a E Ultima Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951527?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001201500 +0000" stop="20261001210000 +0000" channel="135">
-    <title>Geo 2026 15a Puntata Sottotitolata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951523?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="135">
-    <title>Italia A/R</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/872219?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001230000 +0000" channel="135">
-    <title>Camper Osteria Italia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951515?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261001231500 +0000" channel="135">
     <title>Cartoni Animati</title>
     <desc />
@@ -712,5 +687,30 @@
     <title>Elisir 2025/26 58a Puntata Sottotitolata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006194500 +0000" stop="20261006201500 +0000" channel="135">
+    <title>L'Appartamento Sold Out 8a Ultima Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951507?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006201500 +0000" stop="20261006210000 +0000" channel="135">
+    <title>Geo 2026 13a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951523?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="135">
+    <title>Italia A/R</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872219?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006230000 +0000" channel="135">
+    <title>Camper Osteria Italia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951515?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261006231500 +0000" channel="135">
+    <title>Cartoni Animati</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951241?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

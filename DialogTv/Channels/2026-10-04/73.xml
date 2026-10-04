@@ -3,11 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001213000 +0000" channel="73">
-    <title>Monsters Vs. Aliens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950718?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001213000 +0000" stop="20261002000000 +0000" channel="73">
     <title>Vertigo</title>
     <desc />
@@ -282,5 +277,15 @@
     <title>The Scorpion King</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006224500 +0000" channel="73">
+    <title>Freedom Writers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006224500 +0000" stop="20261007010000 +0000" channel="73">
+    <title>An Officer And A Gentleman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950726?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

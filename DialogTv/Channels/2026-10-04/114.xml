@@ -3,16 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261001181000 +0000" stop="20261001202000 +0000" channel="114">
-    <title>Stardust</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001202000 +0000" stop="20261001215000 +0000" channel="114">
-    <title>Trust</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944444?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001215000 +0000" stop="20261001232000 +0000" channel="114">
     <title>Aztec Batman: Clash Of Empires</title>
     <desc />
@@ -265,7 +255,7 @@
   <programme start="20261005140000 +0000" stop="20261005152500 +0000" channel="114">
     <title>Like A Boss</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954260?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005152500 +0000" stop="20261005162500 +0000" channel="114">
     <title>War S1</title>
@@ -361,5 +351,15 @@
     <title>Rocketman</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006224000 +0000" channel="114">
+    <title>The Spiderwick Chronicles</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006224000 +0000" stop="20261007005500 +0000" channel="114">
+    <title>Van Helsing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951276?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

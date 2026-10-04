@@ -3,31 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261001183000 +0000" stop="20261001203000 +0000" channel="113">
-    <title>America's Got Talent S21</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001210000 +0000" channel="113">
-    <title>Family Feud</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/939580?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="113">
-    <title>Ghosts S5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001223000 +0000" channel="113">
-    <title>Celebrity Family Feud S12</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950531?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001223000 +0000" stop="20261001230000 +0000" channel="113">
-    <title>Entertainment Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951297?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001230000 +0000" stop="20261002000000 +0000" channel="113">
     <title>Sheriff Country S1</title>
     <desc />
@@ -582,5 +557,25 @@
     <title>The Guest</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006204500 +0000" stop="20261006220000 +0000" channel="113">
+    <title>The Guest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006220000 +0000" stop="20261006223000 +0000" channel="113">
+    <title>Family Feud</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006230000 +0000" channel="113">
+    <title>Entertainment Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951297?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261007000000 +0000" channel="113">
+    <title>Project Runway S21</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/880840?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

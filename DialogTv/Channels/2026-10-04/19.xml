@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261001173000 +0000" stop="20261001203000 +0000" channel="19">
-    <title>Katharaka Sewanali</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951022?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001203000 +0000" stop="20261001233000 +0000" channel="19">
     <title>Angana</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Adarayata Wes Banda</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006233000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

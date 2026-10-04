@@ -3,26 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261001192200 +0000" stop="20261001201200 +0000" channel="55">
-    <title>The View From On High</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950571?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001201200 +0000" stop="20261001210200 +0000" channel="55">
-    <title>Tigress Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210200 +0000" stop="20261001215600 +0000" channel="55">
-    <title>Wildest Survival</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001215600 +0000" stop="20261001224900 +0000" channel="55">
-    <title>Big Cats Small World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950572?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001224900 +0000" stop="20261001234100 +0000" channel="55">
     <title>The Loneliness Of The Leopard</title>
     <desc />
@@ -521,6 +501,7 @@
   <programme start="20261005072200 +0000" stop="20261005081500 +0000" channel="55">
     <title>Mediterranean Hunters</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954109?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005081500 +0000" stop="20261005090800 +0000" channel="55">
     <title>Big Cat Tales</title>
@@ -560,6 +541,7 @@
   <programme start="20261005133800 +0000" stop="20261005143500 +0000" channel="55">
     <title>Mediterranean Hunters</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954109?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005143500 +0000" stop="20261005153100 +0000" channel="55">
     <title>Brotherhood Of Lions</title>
@@ -614,6 +596,7 @@
   <programme start="20261005223800 +0000" stop="20261005233500 +0000" channel="55">
     <title>Mediterranean Hunters</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954109?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005233500 +0000" stop="20261006003000 +0000" channel="55">
     <title>Brotherhood Of Lions</title>
@@ -648,6 +631,7 @@
   <programme start="20261006042500 +0000" stop="20261006051800 +0000" channel="55">
     <title>Mediterranean Hunters</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954109?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006051800 +0000" stop="20261006061000 +0000" channel="55">
     <title>Africa's Hunters</title>
@@ -733,5 +717,25 @@
     <title>Wild And Wonderful Denmark</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950619?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006195400 +0000" stop="20261006204600 +0000" channel="55">
+    <title>Wild Fighters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950569?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006204600 +0000" stop="20261006213900 +0000" channel="55">
+    <title>Wolves &amp; Lions: Old Enemies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950615?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213900 +0000" stop="20261006223500 +0000" channel="55">
+    <title>Gladiators</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950620?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223500 +0000" stop="20261006233200 +0000" channel="55">
+    <title>The Great Rhino Robbery</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

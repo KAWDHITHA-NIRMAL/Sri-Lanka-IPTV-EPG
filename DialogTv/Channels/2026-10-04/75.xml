@@ -3,16 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261001184000 +0000" stop="20261001194500 +0000" channel="75">
-    <title>Industry S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948370?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194500 +0000" stop="20261001213500 +0000" channel="75">
-    <title>Mortal Kombat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950774?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001213500 +0000" stop="20261001231500 +0000" channel="75">
     <title>Prime Minister</title>
     <desc />
@@ -447,5 +437,20 @@
     <title>Industry S4</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948370?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006195000 +0000" stop="20261006213000 +0000" channel="75">
+    <title>Prime Minister</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950775?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006230000 +0000" channel="75">
+    <title>Baltimore Rising</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261007000500 +0000" channel="75">
+    <title>Saudi Women's Driving School</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950789?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

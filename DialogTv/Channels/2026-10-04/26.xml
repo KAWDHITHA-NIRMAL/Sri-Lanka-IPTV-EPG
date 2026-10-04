@@ -3,21 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001203000 +0000" channel="26">
-    <title>Wibhajja Wada Discussion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/698982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001213000 +0000" channel="26">
-    <title>Colombo Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001213000 +0000" stop="20261001223000 +0000" channel="26">
-    <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001223000 +0000" stop="20261001233000 +0000" channel="26">
     <title>Ku'gala / Naranwala Daayaka Bana</title>
     <desc />
@@ -673,5 +658,20 @@
     <title>Kandy Daayaka Bana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006213000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="26">
+    <title>Sadaham Muthu Wela- By Ven.Koralayagama Saranatissa Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949708?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006233000 +0000" channel="26">
+    <title>Ku'gala / Naranwala Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35157?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

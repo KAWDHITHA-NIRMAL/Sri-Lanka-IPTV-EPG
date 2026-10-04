@@ -3,36 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261001190100 +0000" stop="20261001194400 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001194400 +0000" stop="20261001202600 +0000" channel="59">
-    <title>Trafficked With Mariana Van Zeller</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001202600 +0000" stop="20261001211100 +0000" channel="59">
-    <title>Air Crash Investigation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001211100 +0000" stop="20261001215200 +0000" channel="59">
-    <title>David Blaine: Do Not Attempt</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950538?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001215200 +0000" stop="20261001222700 +0000" channel="59">
-    <title>Money Meltdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001222700 +0000" stop="20261001225000 +0000" channel="59">
-    <title>Money Meltdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001225000 +0000" stop="20261001232400 +0000" channel="59">
     <title>Superskilled With Eva Zu Beck</title>
     <desc />
@@ -639,6 +609,7 @@
   <programme start="20261005133000 +0000" stop="20261005141400 +0000" channel="59">
     <title>Africa: Earth's Wild Home</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005141400 +0000" stop="20261005143700 +0000" channel="59">
     <title>RESQ Squad</title>
@@ -798,6 +769,7 @@
   <programme start="20261006133000 +0000" stop="20261006141400 +0000" channel="59">
     <title>Africa: Earth's Wild Home</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006141400 +0000" stop="20261006143700 +0000" channel="59">
     <title>RESQ Squad</title>
@@ -848,5 +820,20 @@
     <title>Trafficked With Mariana Van Zeller</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006213000 +0000" channel="59">
+    <title>To Catch A Smuggler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950535?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="59">
+    <title>David Blaine: Do Not Attempt</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950538?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006233000 +0000" channel="59">
+    <title>Money Meltdown</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

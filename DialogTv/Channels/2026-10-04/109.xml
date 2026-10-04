@@ -3,26 +3,6 @@
   <channel id="109">
     <display-name>Channel 8</display-name>
   </channel>
-  <programme start="20261001193000 +0000" stop="20261001201600 +0000" channel="109">
-    <title>Naked And Afraid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001201600 +0000" stop="20261001210600 +0000" channel="109">
-    <title>Man vs. Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001210600 +0000" stop="20261001215600 +0000" channel="109">
-    <title>Man, Woman, Wild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950251?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001215600 +0000" stop="20261001224600 +0000" channel="109">
-    <title>Marooned With Ed Stafford</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950252?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001224600 +0000" stop="20261001233600 +0000" channel="109">
     <title>Man vs. Wild</title>
     <desc />
@@ -737,5 +717,25 @@
     <title>Naked And Afraid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006201400 +0000" stop="20261006210400 +0000" channel="109">
+    <title>Marooned With Ed Stafford</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006210400 +0000" stop="20261006215000 +0000" channel="109">
+    <title>18 Wheels Across Vietnam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006215000 +0000" stop="20261006223800 +0000" channel="109">
+    <title>Man vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223800 +0000" stop="20261006233000 +0000" channel="109">
+    <title>Man vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

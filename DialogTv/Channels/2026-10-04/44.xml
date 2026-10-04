@@ -3,16 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20261001185800 +0000" stop="20261001203000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001203000 +0000" stop="20261001223000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261001223000 +0000" stop="20261002003000 +0000" channel="44">
     <title>Yolo Hits</title>
     <desc />
@@ -367,77 +357,87 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950079?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="44">
+  <programme start="20261005020000 +0000" stop="20261005023900 +0000" channel="44">
     <title>Fomo Tunes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005023000 +0000" stop="20261005040000 +0000" channel="44">
+  <programme start="20261005023900 +0000" stop="20261005033000 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="44">
     <title>Teleshopping</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949807?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005040000 +0000" stop="20261005053000 +0000" channel="44">
-    <title>Filler</title>
+  <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="44">
+    <title>Fomo Tunes</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950080?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="44">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949807?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005053000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005053000 +0000" stop="20261005063000 +0000" channel="44">
     <title>Teleshopping</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949807?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005063000 +0000" stop="20261005073000 +0000" channel="44">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950080?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005073000 +0000" stop="20261005082300 +0000" channel="44">
+  <programme start="20261005063000 +0000" stop="20261005084100 +0000" channel="44">
     <title>Pyaar Tune Kya Kiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005082300 +0000" stop="20261005085200 +0000" channel="44">
-    <title>Jamai 2.0</title>
+  <programme start="20261005084100 +0000" stop="20261005101400 +0000" channel="44">
+    <title>Love</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950082?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954042?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005085200 +0000" stop="20261005111200 +0000" channel="44">
+  <programme start="20261005101400 +0000" stop="20261005113000 +0000" channel="44">
     <title>Pyaar Tune Kya Kiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005111200 +0000" stop="20261005123000 +0000" channel="44">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950080?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005123000 +0000" stop="20261005133000 +0000" channel="44">
+  <programme start="20261005113000 +0000" stop="20261005121500 +0000" channel="44">
     <title>Fomo Tunes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005133000 +0000" stop="20261005142300 +0000" channel="44">
+  <programme start="20261005121500 +0000" stop="20261005130600 +0000" channel="44">
     <title>Pyaar Tune Kya Kiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005142300 +0000" stop="20261005145200 +0000" channel="44">
-    <title>Jamai 2.0</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950082?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005145200 +0000" stop="20261005163000 +0000" channel="44">
+  <programme start="20261005130600 +0000" stop="20261005133000 +0000" channel="44">
     <title>Fomo Tunes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005163000 +0000" stop="20261005185500 +0000" channel="44">
+  <programme start="20261005133000 +0000" stop="20261005142500 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005142500 +0000" stop="20261005163000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005163000 +0000" stop="20261005185300 +0000" channel="44">
     <title>Fear Files</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261005185500 +0000" stop="20261005203000 +0000" channel="44">
+  <programme start="20261005185300 +0000" stop="20261005203000 +0000" channel="44">
     <title>Yolo Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -543,6 +543,21 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006193000 +0000" stop="20261006203000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006203000 +0000" stop="20261006213000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006223000 +0000" stop="20261006233000 +0000" channel="44">
     <title>Yolo Hits</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
