@@ -3,54 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20260930210000 +0000" stop="20260930230000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001020000 +0000" channel="31">
-    <title>ABC News Mornings</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="31">
-    <title>ABC News at Noon</title>
-    <desc />
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001032500 +0000" channel="31">
-    <title>Bondi Rescue</title>
-    <desc />
-  </programme>
-  <programme start="20261001032500 +0000" stop="20261001041000 +0000" channel="31">
-    <title>Ambulance Australia</title>
-    <desc />
-  </programme>
-  <programme start="20261001041000 +0000" stop="20261001050500 +0000" channel="31">
-    <title>Annabel Crabb's Civic Duty</title>
-    <desc />
-  </programme>
-  <programme start="20261001050500 +0000" stop="20261001053500 +0000" channel="31">
-    <title>Planet America</title>
-    <desc />
-  </programme>
-  <programme start="20261001053500 +0000" stop="20261001055500 +0000" channel="31">
-    <title>Media Watch</title>
-    <desc />
-  </programme>
-  <programme start="20261001055500 +0000" stop="20261001070000 +0000" channel="31">
-    <title>National Press Club Address</title>
-    <desc />
-  </programme>
-  <programme start="20261001070000 +0000" stop="20261001080000 +0000" channel="31">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001085000 +0000" channel="31">
-    <title>The Cook Up With Adam Liaw</title>
-    <desc />
-  </programme>
-  <programme start="20261001085000 +0000" stop="20261001091500 +0000" channel="31">
-    <title>Bondi Rescue</title>
-    <desc />
-  </programme>
   <programme start="20261001091500 +0000" stop="20261001121500 +0000" channel="31">
     <title>AFL Premiership Season</title>
     <desc />
@@ -660,5 +612,80 @@
     <title>News Breakfast</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006020000 +0000" channel="31">
+    <title>ABC News Mornings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006030000 +0000" channel="31">
+    <title>ABC News at Noon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006033000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="31">
+    <title>Back Roads</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="31">
+    <title>Playing on a Prayer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="31">
+    <title>Australia's Wild Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006060000 +0000" stop="20261006063000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950100?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006070000 +0000" channel="31">
+    <title>Planet America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/724861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006070000 +0000" stop="20261006080000 +0000" channel="31">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="31">
+    <title>The Cook Up With Adam Liaw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950107?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="31">
+    <title>Weird Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="31">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949664?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006100000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950108?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006110000 +0000" channel="31">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950088?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

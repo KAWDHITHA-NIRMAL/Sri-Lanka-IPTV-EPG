@@ -3,46 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20260930203000 +0000" stop="20260930233000 +0000" channel="93">
-    <title>Rajavukku Check</title>
-    <desc />
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001010000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001020000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001040000 +0000" channel="93">
-    <title>Bigg Boss Tamil S10 Unseen</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001063000 +0000" channel="93">
-    <title>Carbon</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001093000 +0000" channel="93">
-    <title>Inba Twinkle Lilly</title>
-    <desc />
-  </programme>
   <programme start="20261001093000 +0000" stop="20261001123000 +0000" channel="93">
     <title>Adiyae</title>
     <desc />
@@ -453,5 +413,50 @@
     <title>Kuberan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005233000 +0000" stop="20261006000000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006003000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006010000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006013000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006020000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006053000 +0000" channel="93">
+    <title>Bigg Boss Tamil S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006083000 +0000" channel="93">
+    <title>Madira Veeran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006123000 +0000" channel="93">
+    <title>Adipurush</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952655?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

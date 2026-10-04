@@ -3,38 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20260930204100 +0000" stop="20260930224400 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20260930224400 +0000" stop="20261001003600 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001003600 +0000" stop="20261001023000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001040000 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001053700 +0000" channel="74">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001053700 +0000" stop="20261001064500 +0000" channel="74">
-    <title>Erin Brockovich</title>
-    <desc />
-  </programme>
-  <programme start="20261001064500 +0000" stop="20261001081000 +0000" channel="74">
-    <title>Hotel Transylvania</title>
-    <desc />
-  </programme>
-  <programme start="20261001081000 +0000" stop="20261001100400 +0000" channel="74">
-    <title>Charlie's Angels</title>
-    <desc />
-  </programme>
   <programme start="20261001100400 +0000" stop="20261001115500 +0000" channel="74">
     <title>The Pursuit Of Happyness</title>
     <desc />
@@ -336,5 +304,40 @@
     <title>Bloodshot</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952100?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005225300 +0000" stop="20261006011600 +0000" channel="74">
+    <title>Father Stu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006011600 +0000" stop="20261006024600 +0000" channel="74">
+    <title>Friends With Benefits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944582?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006024600 +0000" stop="20261006043700 +0000" channel="74">
+    <title>The Pursuit Of Happyness</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043700 +0000" stop="20261006062500 +0000" channel="74">
+    <title>Uncharted</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006062500 +0000" stop="20261006081300 +0000" channel="74">
+    <title>Ghostbusters: Frozen Empire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006081300 +0000" stop="20261006093800 +0000" channel="74">
+    <title>Escape Room: Tournament Of Champions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093800 +0000" stop="20261006115200 +0000" channel="74">
+    <title>Blade Runner 2049</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951564?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

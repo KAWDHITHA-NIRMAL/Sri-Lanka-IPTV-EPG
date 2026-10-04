@@ -3,54 +3,6 @@
   <channel id="143">
     <display-name>Channel 2380</display-name>
   </channel>
-  <programme start="20260930213000 +0000" stop="20260930223000 +0000" channel="143">
-    <title>England vs Pakistan 2026 2nd Test - Complete Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930233000 +0000" channel="143">
-    <title>New Zealand vs England 2025 1st ODI Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="143">
-    <title>Asian Games Cricket (M) 2026 Japan vs Nepal Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001034500 +0000" channel="143">
-    <title>Live Asian Games Cricket (Men) SF1 - Pakistan vs Bangladesh</title>
-    <desc />
-  </programme>
-  <programme start="20261001034500 +0000" stop="20261001040000 +0000" channel="143">
-    <title>Snippet</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001043000 +0000" channel="143">
-    <title>Sri Lanka vs India 2024 3rd T20i Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001081500 +0000" channel="143">
-    <title>Live Asian Games Cricket (Men) SF2 - India vs Sri Lanka</title>
-    <desc />
-  </programme>
-  <programme start="20261001081500 +0000" stop="20261001083000 +0000" channel="143">
-    <title>Snippet</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001090000 +0000" channel="143">
-    <title>Sri Lanka vs India 2024 2nd ODI Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001100000 +0000" channel="143">
-    <title>DP World Asia Cup 2025 - Pakistan vs Oman Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001100000 +0000" stop="20261001110000 +0000" channel="143">
-    <title>England vs India 2026 - 2nd T20I Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001113000 +0000" channel="143">
-    <title>England vs Sri Lanka 2026 2nd ODI Highlights</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="143">
     <title>England vs Sri Lanka 2026 3rd ODI Highlights</title>
     <desc />
@@ -706,5 +658,65 @@
     <title>Sri Lanka vs India 2026 2nd Test - Complete Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953092?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005223000 +0000" stop="20261005233000 +0000" channel="143">
+    <title>New Zealand vs West Indies 2025 2nd T20i Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953435?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005233000 +0000" stop="20261006000000 +0000" channel="143">
+    <title>Asian Games Cricket (M) 2026 QF1 - Pakistan vs 2nd Place of Group B Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006034500 +0000" channel="143">
+    <title>England vs India 2026 - 1st ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006034500 +0000" stop="20261006040000 +0000" channel="143">
+    <title>Snippet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="143">
+    <title>Asian Games Cricket (M) 2026 QF1 - Pakistan vs 2nd Place of Group B Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006081500 +0000" channel="143">
+    <title>England vs India 2026 - 1st ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006081500 +0000" stop="20261006083000 +0000" channel="143">
+    <title>Snippet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="143">
+    <title>Asian Games Cricket (M) 2026 QF2 - India vs 2nd Place of Group A Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006100000 +0000" channel="143">
+    <title>DP World Asia Cup 2025 - Afghanistan vs Hong Kong Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006110000 +0000" channel="143">
+    <title>Ireland vs India 2026 1st T20I Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006113000 +0000" channel="143">
+    <title>Asian Games Cricket (M) 2026 QF1 - Pakistan vs 2nd Place of Group B Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="143">
+    <title>Asian Games Cricket (M) 2026 QF2 - India vs 2nd Place of Group A Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952886?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

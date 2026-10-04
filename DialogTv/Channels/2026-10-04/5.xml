@@ -3,62 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20260930213000 +0000" stop="20261001003000 +0000" channel="5">
-    <title>Filler</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001003300 +0000" channel="5">
-    <title>Station Opening</title>
-    <desc />
-  </programme>
-  <programme start="20261001003300 +0000" stop="20261001010000 +0000" channel="5">
-    <title>Aaradanai</title>
-    <desc />
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001020000 +0000" channel="5">
-    <title>Suyatheena Seithiparvai Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="5">
-    <title>N.L.B. Lottery</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001030000 +0000" channel="5">
-    <title>Then Sindhum Ragangal</title>
-    <desc />
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001040000 +0000" channel="5">
-    <title>Thalai Vasal Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001050000 +0000" channel="5">
-    <title>Ninaithale Innikum</title>
-    <desc />
-  </programme>
-  <programme start="20261001050000 +0000" stop="20261001053000 +0000" channel="5">
-    <title>Comedy</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001063000 +0000" channel="5">
-    <title>Namakkaga Naam</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001073000 +0000" channel="5">
-    <title>Hello Vasantham Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001080000 +0000" channel="5">
-    <title>Iniya</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001083000 +0000" channel="5">
-    <title>Ilakkiya</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001113000 +0000" channel="5">
-    <title>Movie</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001123000 +0000" channel="5">
     <title>Music X Press Live</title>
     <desc />
@@ -562,5 +506,75 @@
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949458?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006003300 +0000" channel="5">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003300 +0000" stop="20261006010000 +0000" channel="5">
+    <title>Aaradanai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="5">
+    <title>Suyatheena Seithiparvai Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949465?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="5">
+    <title>N.L.B. Lottery</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951681?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="5">
+    <title>Then Sindhum Ragangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949462?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006040000 +0000" channel="5">
+    <title>Thalai Vasal Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62803?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="5">
+    <title>Ninaithale Innikum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949459?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="5">
+    <title>Comedy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61783?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006063000 +0000" channel="5">
+    <title>Aarokkiyam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006073000 +0000" channel="5">
+    <title>Hello Vasantham Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949463?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006080000 +0000" channel="5">
+    <title>Iniya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="5">
+    <title>Ilakkiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006113000 +0000" channel="5">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006123000 +0000" channel="5">
+    <title>Music X Press Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62811?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

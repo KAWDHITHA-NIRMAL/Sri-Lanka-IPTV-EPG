@@ -3,74 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20260930173600 +0000" stop="20261001002900 +0000" channel="3">
-    <title>End Of Transmission</title>
-    <desc />
-  </programme>
-  <programme start="20261001002900 +0000" stop="20261001003000 +0000" channel="3">
-    <title>Station Opening</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001010000 +0000" channel="3">
-    <title>Iraiyillam</title>
-    <desc />
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="3">
-    <title>News Paper Review</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001020000 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001050000 +0000" channel="3">
-    <title>Vanakkam Nethra Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001050000 +0000" stop="20261001053000 +0000" channel="3">
-    <title>Comedy Club</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001063000 +0000" channel="3">
-    <title>Hit By Hit Music Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001070000 +0000" channel="3">
-    <title>Anupallavi</title>
-    <desc />
-  </programme>
-  <programme start="20261001070000 +0000" stop="20261001073000 +0000" channel="3">
-    <title>Magal</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001080000 +0000" channel="3">
-    <title>Anbe Vaa</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001083000 +0000" channel="3">
-    <title>Pasamalar</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001090000 +0000" channel="3">
-    <title>Gogula Thil Seethai</title>
-    <desc />
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001093000 +0000" channel="3">
-    <title>Sugamana Ragangal</title>
-    <desc />
-  </programme>
-  <programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="3">
-    <title>Suga Vaalvu</title>
-    <desc />
-  </programme>
-  <programme start="20261001103000 +0000" stop="20261001110000 +0000" channel="3">
-    <title>NHK Documentary</title>
-    <desc />
-  </programme>
   <programme start="20261001110000 +0000" stop="20261001120000 +0000" channel="3">
     <title>Manjal Veyil Live</title>
     <desc />
@@ -662,5 +594,90 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006002900 +0000" stop="20261006003000 +0000" channel="3">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006010000 +0000" channel="3">
+    <title>Iraiyillam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/677261?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006013000 +0000" channel="3">
+    <title>News Paper Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006020000 +0000" channel="3">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006030000 +0000" channel="3">
+    <title>Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006050000 +0000" channel="3">
+    <title>Vanakkam Nethra Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949501?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="3">
+    <title>Comedy Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50781?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006063000 +0000" channel="3">
+    <title>Hit By Hit Music Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64605?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006070000 +0000" channel="3">
+    <title>Anupallavi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50782?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006070000 +0000" stop="20261006073000 +0000" channel="3">
+    <title>Magal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63749?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006080000 +0000" channel="3">
+    <title>Anbe Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="3">
+    <title>Pasamalar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="3">
+    <title>Gogula Thil Seethai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="3">
+    <title>Sugamana Ragangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006103000 +0000" channel="3">
+    <title>Around The Globe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="3">
+    <title>NHK Documentary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714317?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="3">
+    <title>Manjal Veyil Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51628?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

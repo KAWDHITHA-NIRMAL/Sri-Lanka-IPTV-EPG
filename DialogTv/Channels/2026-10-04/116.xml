@@ -3,30 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20260930213000 +0000" stop="20261001003000 +0000" channel="116">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001033000 +0000" channel="116">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001063000 +0000" channel="116">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001080000 +0000" channel="116">
-    <title>Copperman</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001094000 +0000" channel="116">
-    <title>Your Children</title>
-    <desc />
-  </programme>
-  <programme start="20261001094000 +0000" stop="20261001112000 +0000" channel="116">
-    <title>Tuesday Club</title>
-    <desc />
-  </programme>
   <programme start="20261001112000 +0000" stop="20261001130000 +0000" channel="116">
     <title>All the Blue in the Sky</title>
     <desc />
@@ -237,7 +213,7 @@
   <programme start="20261004130000 +0000" stop="20261004145000 +0000" channel="116">
     <title>For Night Will Come</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953903?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004145000 +0000" stop="20261004162000 +0000" channel="116">
     <title>Under the Fig Trees</title>
@@ -287,7 +263,7 @@
   <programme start="20261005045000 +0000" stop="20261005064000 +0000" channel="116">
     <title>For Night Will Come</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953903?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005064000 +0000" stop="20261005081500 +0000" channel="116">
     <title>Murders in Pont-Aven</title>
@@ -333,5 +309,50 @@
     <title>Murders in Pont-Aven</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951955?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005220000 +0000" stop="20261005234000 +0000" channel="116">
+    <title>Flying Fish</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951957?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005234000 +0000" stop="20261006010000 +0000" channel="116">
+    <title>The Human Factor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006023000 +0000" channel="116">
+    <title>A Minute's Silence</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952066?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006040000 +0000" channel="116">
+    <title>Aspromonte: Land Of The Forgotten</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006062500 +0000" channel="116">
+    <title>Bermuda Triangle North Sea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006062500 +0000" stop="20261006080000 +0000" channel="116">
+    <title>Murder in Biot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006095000 +0000" channel="116">
+    <title>Not My Type</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006095000 +0000" stop="20261006112000 +0000" channel="116">
+    <title>Toubab</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006112000 +0000" stop="20261006130000 +0000" channel="116">
+    <title>To Kill A Mongolian Horse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952071?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

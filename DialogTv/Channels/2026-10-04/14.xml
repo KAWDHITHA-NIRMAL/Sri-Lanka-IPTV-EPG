@@ -3,86 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="14">
-    <title>Big Focus</title>
-    <desc />
-  </programme>
-  <programme start="20260930220000 +0000" stop="20260930223000 +0000" channel="14">
-    <title>Siwdesa</title>
-    <desc />
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930230000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-  </programme>
-  <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="14">
-    <title>First At 9</title>
-    <desc />
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001003000 +0000" channel="14">
-    <title>Ada Derana Education A/L</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001020000 +0000" channel="14">
-    <title>Ada Derana Education A/L</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="14">
-    <title>Ada Derana Education</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001043000 +0000" channel="14">
-    <title>Ada Derana Mornings</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001050000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-  </programme>
-  <programme start="20261001050000 +0000" stop="20261001053000 +0000" channel="14">
-    <title>Card News Nightly Business Report - English</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001063000 +0000" channel="14">
-    <title>Card News (V Catoon) Big Focus Live</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001070000 +0000" channel="14">
-    <title>Mid Day News</title>
-    <desc />
-  </programme>
-  <programme start="20261001070000 +0000" stop="20261001073000 +0000" channel="14">
-    <title>Vehicle Hub</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001083000 +0000" channel="14">
-    <title>Card News - To The Point</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001090000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001093000 +0000" channel="14">
-    <title>Card NewsGlobal Angle</title>
-    <desc />
-  </programme>
-  <programme start="20261001093000 +0000" stop="20261001100000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-  </programme>
-  <programme start="20261001100000 +0000" stop="20261001103000 +0000" channel="14">
-    <title>Siwdesa Card News(V+Catoon</title>
-    <desc />
-  </programme>
-  <programme start="20261001103000 +0000" stop="20261001110000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001113000 +0000" channel="14">
-    <title>Card News - Big Focus</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="14">
     <title>News Update</title>
     <desc />
@@ -939,5 +859,105 @@
     <title>Big Focus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949895?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005220000 +0000" stop="20261005223000 +0000" channel="14">
+    <title>Siwdesa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949898?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005223000 +0000" stop="20261005230000 +0000" channel="14">
+    <title>Late Night News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949899?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261005233000 +0000" channel="14">
+    <title>First At 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005233000 +0000" stop="20261006003000 +0000" channel="14">
+    <title>Ada Derana Education A/L</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949900?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006020000 +0000" channel="14">
+    <title>Ada Derana Education A/L</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949900?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="14">
+    <title>Ada Derana Education</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/80549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006043000 +0000" channel="14">
+    <title>Ada Derana Mornings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949893?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006050000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="14">
+    <title>Card News Nightly Business Report - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006063000 +0000" channel="14">
+    <title>Card News (V Catoon) Big Focus Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006071000 +0000" channel="14">
+    <title>Mid Day News Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006071000 +0000" stop="20261006073000 +0000" channel="14">
+    <title>Travel With Chathura</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61416?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006083000 +0000" channel="14">
+    <title>Card News The Challenge</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949921?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="14">
+    <title>Card NewsGlobal Angle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/149337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006100000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="14">
+    <title>Siwdesa Card News(V+Catoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949894?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006113000 +0000" channel="14">
+    <title>Card News - Big Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

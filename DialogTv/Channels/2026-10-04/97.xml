@@ -3,70 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20260930203000 +0000" stop="20260930230000 +0000" channel="97">
-    <title>Muruga</title>
-    <desc />
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001000000 +0000" channel="97">
-    <title>Songs</title>
-    <desc />
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="97">
-    <title>Thenum Paalum</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001010000 +0000" channel="97">
-    <title>Ramanujar</title>
-    <desc />
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="97">
-    <title>Teleshopping</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001020000 +0000" channel="97">
-    <title>ARC International</title>
-    <desc />
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001030000 +0000" channel="97">
-    <title>Vidiyale Vaa</title>
-    <desc />
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001033000 +0000" channel="97">
-    <title>Snehithiye</title>
-    <desc />
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001040000 +0000" channel="97">
-    <title>Azhagi</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001043000 +0000" channel="97">
-    <title>Katrathu Samayal S06</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001050000 +0000" channel="97">
-    <title>Kolangal</title>
-    <desc />
-  </programme>
-  <programme start="20261001050000 +0000" stop="20261001053000 +0000" channel="97">
-    <title>Thendral</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001073000 +0000" channel="97">
-    <title>Abiyum  Naanum</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001080000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001113000 +0000" channel="97">
-    <title>Mounam Sammatham</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="97">
     <title>Inthavaara Kalakalappu</title>
     <desc />
@@ -358,6 +294,7 @@
   <programme start="20261004063000 +0000" stop="20261004073000 +0000" channel="97">
     <title>Vellithirai Vibes</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953886?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="97">
     <title>News</title>
@@ -516,5 +453,85 @@
   <programme start="20261005203000 +0000" stop="20261005230000 +0000" channel="97">
     <title>Breakfree Geethanjali</title>
     <desc />
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006000000 +0000" channel="97">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950219?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006003000 +0000" channel="97">
+    <title>Thenum Paalum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/67516?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006010000 +0000" channel="97">
+    <title>Ramanujar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006013000 +0000" channel="97">
+    <title>Teleshopping</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949594?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006020000 +0000" channel="97">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950219?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="97">
+    <title>Vidiyale Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006033000 +0000" channel="97">
+    <title>Snehithiye</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="97">
+    <title>Azhagi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="97">
+    <title>Katrathu Samayal S06</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912869?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006050000 +0000" channel="97">
+    <title>Kolangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="97">
+    <title>Thendral</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951136?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006073000 +0000" channel="97">
+    <title>Dhanam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006080000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006110000 +0000" channel="97">
+    <title>Paiyaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953630?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

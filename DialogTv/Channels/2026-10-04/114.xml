@@ -3,30 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20260930203500 +0000" stop="20261001003000 +0000" channel="114">
-    <title>A Christmas Story Christmas</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001033000 +0000" channel="114">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001063000 +0000" channel="114">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001093000 +0000" channel="114">
-    <title>Movie</title>
-    <desc />
-  </programme>
-  <programme start="20261001093000 +0000" stop="20261001093500 +0000" channel="114">
-    <title>Trust</title>
-    <desc />
-  </programme>
-  <programme start="20261001093500 +0000" stop="20261001112000 +0000" channel="114">
-    <title>The First Wives Club</title>
-    <desc />
-  </programme>
   <programme start="20261001112000 +0000" stop="20261001130000 +0000" channel="114">
     <title>How To Train Your Dragon 2</title>
     <desc />
@@ -327,5 +303,50 @@
     <title>Turtles All The Way Down</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213500 +0000" stop="20261005220000 +0000" channel="114">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951268?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005220000 +0000" stop="20261006000000 +0000" channel="114">
+    <title>Warcraft</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951269?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006014500 +0000" channel="114">
+    <title>No Reservations</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951653?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006014500 +0000" stop="20261006040000 +0000" channel="114">
+    <title>Van Helsing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951276?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006060500 +0000" channel="114">
+    <title>Indiana Jones And The Last Crusade</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951270?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006060500 +0000" stop="20261006075500 +0000" channel="114">
+    <title>Turtles All The Way Down</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006075500 +0000" stop="20261006095000 +0000" channel="114">
+    <title>Save The Last Dance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951628?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006095000 +0000" stop="20261006111500 +0000" channel="114">
+    <title>Teen Titans Go! To The Movies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006111500 +0000" stop="20261006130000 +0000" channel="114">
+    <title>London Fields</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951165?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

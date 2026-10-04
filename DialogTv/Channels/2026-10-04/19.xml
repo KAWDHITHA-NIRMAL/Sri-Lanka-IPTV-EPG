@@ -3,30 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20260930203000 +0000" stop="20260930233000 +0000" channel="19">
-    <title>Hasthiraja Manthraya</title>
-    <desc />
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001013000 +0000" channel="19">
-    <title>Sihinayak Wage</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001053000 +0000" channel="19">
-    <title>Isuru Diya</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001083000 +0000" channel="19">
-    <title>Katharaka Sewanali</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001113000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001143000 +0000" channel="19">
     <title>Ethuma</title>
     <desc />
@@ -224,5 +200,35 @@
     <title>Angana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005233000 +0000" stop="20261006013000 +0000" channel="19">
+    <title>Amathithuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952207?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006053000 +0000" channel="19">
+    <title>Sudu Kiri Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949645?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006083000 +0000" channel="19">
+    <title>Adarayata Wes Banda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006113000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006143000 +0000" channel="19">
+    <title>Amathithuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952207?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,38 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20260930202500 +0000" stop="20260930213500 +0000" channel="133">
-    <title>Red Sun</title>
-    <desc />
-  </programme>
-  <programme start="20260930213500 +0000" stop="20260930230000 +0000" channel="133">
-    <title>The Curse Of King Tut's Tomb Part 1</title>
-    <desc />
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001002500 +0000" channel="133">
-    <title>The Curse Of King Tut's Tomb Part 2</title>
-    <desc />
-  </programme>
-  <programme start="20261001002500 +0000" stop="20261001024500 +0000" channel="133">
-    <title>The Hunger Games</title>
-    <desc />
-  </programme>
-  <programme start="20261001024500 +0000" stop="20261001044000 +0000" channel="133">
-    <title>Back To The Future III</title>
-    <desc />
-  </programme>
-  <programme start="20261001044000 +0000" stop="20261001064500 +0000" channel="133">
-    <title>Widows</title>
-    <desc />
-  </programme>
-  <programme start="20261001064500 +0000" stop="20261001085000 +0000" channel="133">
-    <title>Battleship</title>
-    <desc />
-  </programme>
-  <programme start="20261001085000 +0000" stop="20261001111500 +0000" channel="133">
-    <title>A Time To Kill</title>
-    <desc />
-  </programme>
   <programme start="20261001111500 +0000" stop="20261001125500 +0000" channel="133">
     <title>The Big Boss</title>
     <desc />
@@ -231,6 +199,7 @@
   <programme start="20261004125500 +0000" stop="20261004142000 +0000" channel="133">
     <title>Jumper</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004142000 +0000" stop="20261004162500 +0000" channel="133">
     <title>Cape Fear</title>
@@ -316,5 +285,45 @@
     <title>The Legend 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005220500 +0000" stop="20261006001500 +0000" channel="133">
+    <title>The Hunger Games: Mockingjay Part 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951492?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006001500 +0000" stop="20261006021000 +0000" channel="133">
+    <title>Red Sun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006021000 +0000" stop="20261006034500 +0000" channel="133">
+    <title>Death Ring</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951485?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006034500 +0000" stop="20261006052500 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006052500 +0000" stop="20261006073500 +0000" channel="133">
+    <title>Flesh &amp; Blood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073500 +0000" stop="20261006093500 +0000" channel="133">
+    <title>Jason Bourne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093500 +0000" stop="20261006110000 +0000" channel="133">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006125500 +0000" channel="133">
+    <title>They Call Me Trinity</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951483?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

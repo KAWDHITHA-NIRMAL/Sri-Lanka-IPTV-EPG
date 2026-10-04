@@ -3,54 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="64">
-    <title>New Zealand vs India 2019 1st ODI Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930220000 +0000" stop="20260930223000 +0000" channel="64">
-    <title>UCL 2026-27 Highlights MD 1- Manchester United vs Sabah</title>
-    <desc />
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930224500 +0000" channel="64">
-    <title>Snippet</title>
-    <desc />
-  </programme>
-  <programme start="20260930224500 +0000" stop="20260930234500 +0000" channel="64">
-    <title>Asian Games 2026 - Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20260930234500 +0000" stop="20261001033000 +0000" channel="64">
-    <title>Live Asian Games 2026 - Cricket (Men's) SF1 - Pakistan vs Bangladesh</title>
-    <desc />
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001040000 +0000" channel="64">
-    <title>Asian Games Cricket - Women's Gold Medal Match</title>
-    <desc />
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001043000 +0000" channel="64">
-    <title>Live Sports Extraaa</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001080000 +0000" channel="64">
-    <title>Live Asian Games 2026 - Cricket (Men's) SF2 - India vs Sri Lanka</title>
-    <desc />
-  </programme>
-  <programme start="20261001080000 +0000" stop="20261001083000 +0000" channel="64">
-    <title>Live Sports Extraaa</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001103000 +0000" channel="64">
-    <title>Live Asian Games 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001103000 +0000" stop="20261001110000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - SF1 Pakistan vs Bangladesh Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001113000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (Men's) - SF2 India vs Sri Lanka Highlights</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="64">
     <title>Asian Games 2026 Volleyball (M) - INDIA vs QATAR Highlights Highlights</title>
     <desc />
@@ -381,10 +333,12 @@
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="64">
     <title>Asian Games 2026 -Hockey (W) FInals Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004063000 +0000" stop="20261004070000 +0000" channel="64">
     <title>Asian Games 2026 -Hockey (M) FInals Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004070000 +0000" stop="20261004080000 +0000" channel="64">
     <title>Asian Games 2026 - Highlights</title>
@@ -399,6 +353,7 @@
   <programme start="20261004083000 +0000" stop="20261004120000 +0000" channel="64">
     <title>UFC 332 - Silva vs Wang</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954030?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="64">
     <title>FIFA International friendlies - India vs Brazil Highlights</title>
@@ -423,6 +378,7 @@
   <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="64">
     <title>Asian Games 2026 -Hockey (W) FInals Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="64">
     <title>FIFA International friendlies - India vs Brazil Highlights</title>
@@ -437,6 +393,7 @@
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="64">
     <title>UFC 332 - Silva vs Wang Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953954?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="64">
     <title>FIFA International friendlies - India vs Brazil Highlights</title>
@@ -596,5 +553,75 @@
     <title>Sri Lanka vs India 2026 1st Test Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953305?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005220000 +0000" stop="20261005223000 +0000" channel="64">
+    <title>UCL 2026-27 Highlights MD 1- Real Madrid vs Inter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005223000 +0000" stop="20261005230000 +0000" channel="64">
+    <title>DP World Women's Asia Cup 2026 - India vs Pakistan Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952990?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006000000 +0000" channel="64">
+    <title>Asian Games 2026 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006033000 +0000" channel="64">
+    <title>New Zealand Vs India 2019 2nd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF1 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF2 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006080000 +0000" channel="64">
+    <title>New Zealand Vs India 2019 2nd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF2 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF3 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="64">
+    <title>UEFA Nations League 2026-27 MD 2 Belgium vs France Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952898?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006103000 +0000" channel="64">
+    <title>New Zealand vs India 2019 2nd ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="64">
+    <title>Lords of England HITMAN'S ENGLAND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953098?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006113000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF3 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (Men's) - QF4 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

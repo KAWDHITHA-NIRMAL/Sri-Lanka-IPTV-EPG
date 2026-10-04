@@ -3,62 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20260930193000 +0000" stop="20260930233000 +0000" channel="27">
-    <title>Dharma Sermons</title>
-    <desc />
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
-    <desc />
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="27">
-    <title>Supinbara Himidiriya</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001013000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001033000 +0000" channel="27">
-    <title>Dam Siha Nadha</title>
-    <desc />
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001043000 +0000" channel="27">
-    <title>Sadaham Alokaya</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001053000 +0000" channel="27">
-    <title>Manu Piyasa</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001060000 +0000" channel="27">
-    <title>Buddha Pujawa</title>
-    <desc />
-  </programme>
-  <programme start="20261001060000 +0000" stop="20261001063000 +0000" channel="27">
-    <title>Damma Sermon</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001073000 +0000" channel="27">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001083000 +0000" channel="27">
-    <title>Swakkatha</title>
-    <desc />
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001093000 +0000" channel="27">
-    <title>Pabasakara</title>
-    <desc />
-  </programme>
-  <programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="27">
-    <title>Asirimath Maggama Nikaya</title>
-    <desc />
-  </programme>
-  <programme start="20261001103000 +0000" stop="20261001113000 +0000" channel="27">
-    <title>Sampasadhini</title>
-    <desc />
-  </programme>
   <programme start="20261001113000 +0000" stop="20261001122000 +0000" channel="27">
     <title>Wesak Deshanawa</title>
     <desc />
@@ -598,5 +542,75 @@
     <title>Dharma Sermons</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952786?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005233000 +0000" stop="20261006000000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006003000 +0000" channel="27">
+    <title>Supinbara Himidiriya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952923?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006013000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006033000 +0000" channel="27">
+    <title>Dam Siha Nadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006043000 +0000" channel="27">
+    <title>Sadaham Alokaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61619?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006053000 +0000" channel="27">
+    <title>Manu Piyasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952709?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006060000 +0000" channel="27">
+    <title>Buddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952687?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006060000 +0000" stop="20261006063000 +0000" channel="27">
+    <title>Damma Sermon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006073000 +0000" channel="27">
+    <title>Dayakathwa Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006083000 +0000" channel="27">
+    <title>Swakkatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952929?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006093000 +0000" channel="27">
+    <title>Pabasakara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952930?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006103000 +0000" channel="27">
+    <title>Asirimath Maggama Nikaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006103000 +0000" stop="20261006113000 +0000" channel="27">
+    <title>Sampasadhini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006113000 +0000" stop="20261006122000 +0000" channel="27">
+    <title>Wesak Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

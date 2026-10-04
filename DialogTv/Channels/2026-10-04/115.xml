@@ -3,38 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20260930212400 +0000" stop="20260930231700 +0000" channel="115">
-    <title>Cosmoball</title>
-    <desc />
-  </programme>
-  <programme start="20260930231700 +0000" stop="20260930234500 +0000" channel="115">
-    <title>Filler</title>
-    <desc />
-  </programme>
-  <programme start="20260930234500 +0000" stop="20261001011100 +0000" channel="115">
-    <title>Tasmanian Devils</title>
-    <desc />
-  </programme>
-  <programme start="20261001011100 +0000" stop="20261001025900 +0000" channel="115">
-    <title>Dumbo</title>
-    <desc />
-  </programme>
-  <programme start="20261001025900 +0000" stop="20261001044200 +0000" channel="115">
-    <title>Home Alone</title>
-    <desc />
-  </programme>
-  <programme start="20261001044200 +0000" stop="20261001071600 +0000" channel="115">
-    <title>Ford V Ferrari</title>
-    <desc />
-  </programme>
-  <programme start="20261001071600 +0000" stop="20261001091300 +0000" channel="115">
-    <title>Ant-Man And The Wasp</title>
-    <desc />
-  </programme>
-  <programme start="20261001091300 +0000" stop="20261001105700 +0000" channel="115">
-    <title>Elysium</title>
-    <desc />
-  </programme>
   <programme start="20261001105700 +0000" stop="20261001134800 +0000" channel="115">
     <title>Avengers: End Game</title>
     <desc />
@@ -206,7 +174,7 @@
   <programme start="20261004015100 +0000" stop="20261004035700 +0000" channel="115">
     <title>Star Wars : Ep Iv - A New Hope</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953915?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004035700 +0000" stop="20261004063000 +0000" channel="115">
     <title>Eternals</title>
@@ -216,7 +184,7 @@
   <programme start="20261004063000 +0000" stop="20261004083500 +0000" channel="115">
     <title>Blackberry</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953894?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004083500 +0000" stop="20261004104100 +0000" channel="115">
     <title>Tomorrowland</title>
@@ -241,7 +209,7 @@
   <programme start="20261004153000 +0000" stop="20261004173400 +0000" channel="115">
     <title>Blackberry</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953894?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004173400 +0000" stop="20261004201400 +0000" channel="115">
     <title>Pirates Of The Caribbean: At World's End</title>
@@ -322,5 +290,30 @@
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/154547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005213600 +0000" stop="20261006003000 +0000" channel="115">
+    <title>Cosmoball</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953669?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006033000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006063000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006093000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006123000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

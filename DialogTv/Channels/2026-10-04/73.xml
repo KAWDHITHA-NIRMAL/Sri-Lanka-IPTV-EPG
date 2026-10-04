@@ -3,30 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20260930210000 +0000" stop="20260930231500 +0000" channel="73">
-    <title>Gung Ho</title>
-    <desc />
-  </programme>
-  <programme start="20260930231500 +0000" stop="20261001013000 +0000" channel="73">
-    <title>Charlie And The Chocolate Factory</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001034500 +0000" channel="73">
-    <title>The Big Boss</title>
-    <desc />
-  </programme>
-  <programme start="20261001034500 +0000" stop="20261001060000 +0000" channel="73">
-    <title>Fist Of Fury</title>
-    <desc />
-  </programme>
-  <programme start="20261001060000 +0000" stop="20261001081500 +0000" channel="73">
-    <title>Gung Ho</title>
-    <desc />
-  </programme>
-  <programme start="20261001081500 +0000" stop="20261001103000 +0000" channel="73">
-    <title>Charlie And The Chocolate Factory</title>
-    <desc />
-  </programme>
   <programme start="20261001103000 +0000" stop="20261001120000 +0000" channel="73">
     <title>The Maltese Falcon</title>
     <desc />
@@ -202,7 +178,7 @@
   <programme start="20261004120000 +0000" stop="20261004141500 +0000" channel="73">
     <title>The Accused</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950716?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953887?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004141500 +0000" stop="20261004163000 +0000" channel="73">
     <title>Gung Ho</title>
@@ -222,7 +198,7 @@
   <programme start="20261004201500 +0000" stop="20261004223000 +0000" channel="73">
     <title>The Accused</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950716?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953887?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004223000 +0000" stop="20261005004500 +0000" channel="73">
     <title>Gung Ho</title>
@@ -242,7 +218,7 @@
   <programme start="20261005054500 +0000" stop="20261005080000 +0000" channel="73">
     <title>The Accused</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950716?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953887?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261005080000 +0000" stop="20261005101500 +0000" channel="73">
     <title>Gung Ho</title>
@@ -278,5 +254,35 @@
     <title>Meet The Parents</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261005224500 +0000" stop="20261006011500 +0000" channel="73">
+    <title>The Perfect Storm</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950722?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006011500 +0000" stop="20261006034500 +0000" channel="73">
+    <title>Vertigo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006034500 +0000" stop="20261006053000 +0000" channel="73">
+    <title>Stop! Or My Mom Will Shoot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006073000 +0000" channel="73">
+    <title>Meet The Parents</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006100000 +0000" channel="73">
+    <title>The Perfect Storm</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950722?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006120000 +0000" channel="73">
+    <title>The Scorpion King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

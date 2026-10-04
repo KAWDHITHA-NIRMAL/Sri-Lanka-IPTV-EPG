@@ -3,42 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20260930203000 +0000" stop="20261001003000 +0000" channel="128">
-    <title>Repeat - ICC Men's T20 World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001013000 +0000" channel="128">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001023000 +0000" channel="128">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001043000 +0000" channel="128">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001043000 +0000" stop="20261001053000 +0000" channel="128">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001063000 +0000" channel="128">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001063000 +0000" stop="20261001073000 +0000" channel="128">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001093000 +0000" channel="128">
-    <title>Repeat - NEXT XV Rugby League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="128">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-  </programme>
   <programme start="20261001103000 +0000" stop="20261001123000 +0000" channel="128">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
@@ -231,14 +195,17 @@
   <programme start="20261004033000 +0000" stop="20261004063000 +0000" channel="128">
     <title>Live - Battle of Queens' Netball Tournament 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953918?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004063000 +0000" stop="20261004093000 +0000" channel="128">
     <title>Live - Battle of Queens' Netball Tournament 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953918?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004093000 +0000" stop="20261004123000 +0000" channel="128">
     <title>Live - Battle of Queens' Netball Tournament 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953918?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004123000 +0000" stop="20261004143000 +0000" channel="128">
     <title>Repeat - NEXT XV Rugby League 2026</title>
@@ -339,5 +306,35 @@
     <title>Repeat - FIFA world Cup 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006013000 +0000" channel="128">
+    <title>Highlights - SLSRFA Elite U18 Sevens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006013000 +0000" stop="20261006023000 +0000" channel="128">
+    <title>Highlights - SLSRFA Elite U18 Sevens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006023000 +0000" stop="20261006043000 +0000" channel="128">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006043000 +0000" stop="20261006083000 +0000" channel="128">
+    <title>Repeat - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="128">
+    <title>Highlights - Major Club Limited Overs Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006123000 +0000" channel="128">
+    <title>Repeat - Gateway College vs D.S. Senanayake College - Founders Cup - Annual Basketball Encounter 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952498?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

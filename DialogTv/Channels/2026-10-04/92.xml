@@ -3,22 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20260930210000 +0000" stop="20261001000000 +0000" channel="92">
-    <title>Hero Hindustani</title>
-    <desc />
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001030000 +0000" channel="92">
-    <title>Suhaag</title>
-    <desc />
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001060000 +0000" channel="92">
-    <title>Traffic Signal</title>
-    <desc />
-  </programme>
-  <programme start="20261001060000 +0000" stop="20261001090000 +0000" channel="92">
-    <title>Yeh Saali Aashiqui</title>
-    <desc />
-  </programme>
   <programme start="20261001090000 +0000" stop="20261001120000 +0000" channel="92">
     <title>Yaara</title>
     <desc />
@@ -200,5 +184,25 @@
     <title>Nanu Ki Jaanu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953207?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006030000 +0000" channel="92">
+    <title>Mard Ko Dard Nahi Hota</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006060000 +0000" channel="92">
+    <title>Murder 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006060000 +0000" stop="20261006090000 +0000" channel="92">
+    <title>Ujda Chaman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953134?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006120000 +0000" channel="92">
+    <title>Rock On 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952783?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

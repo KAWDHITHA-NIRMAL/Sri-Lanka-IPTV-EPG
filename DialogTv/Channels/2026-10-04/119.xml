@@ -3,42 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20260930205700 +0000" stop="20260930221700 +0000" channel="119">
-    <title>Detective Di Skeleton General</title>
-    <desc />
-  </programme>
-  <programme start="20260930221700 +0000" stop="20260930235700 +0000" channel="119">
-    <title>A Knight'S War</title>
-    <desc />
-  </programme>
-  <programme start="20260930235700 +0000" stop="20261001004000 +0000" channel="119">
-    <title>Filler</title>
-    <desc />
-  </programme>
-  <programme start="20261001004000 +0000" stop="20261001020300 +0000" channel="119">
-    <title>Shark Island</title>
-    <desc />
-  </programme>
-  <programme start="20261001020300 +0000" stop="20261001033300 +0000" channel="119">
-    <title>Super Icyclone</title>
-    <desc />
-  </programme>
-  <programme start="20261001033300 +0000" stop="20261001050300 +0000" channel="119">
-    <title>Ooops! Noah Is Gone.</title>
-    <desc />
-  </programme>
-  <programme start="20261001050300 +0000" stop="20261001065600 +0000" channel="119">
-    <title>Samson</title>
-    <desc />
-  </programme>
-  <programme start="20261001065600 +0000" stop="20261001082900 +0000" channel="119">
-    <title>The Overnight</title>
-    <desc />
-  </programme>
-  <programme start="20261001082900 +0000" stop="20261001101900 +0000" channel="119">
-    <title>Journey To The West: The Demons Strike Back</title>
-    <desc />
-  </programme>
   <programme start="20261001101900 +0000" stop="20261001115700 +0000" channel="119">
     <title>George And The Dragon (2004)</title>
     <desc />
@@ -279,7 +243,7 @@
   <programme start="20261004140000 +0000" stop="20261004153000 +0000" channel="119">
     <title>Adentures Of Maid Marian</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953914?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261004153000 +0000" stop="20261004174700 +0000" channel="119">
     <title>Cruella</title>
@@ -390,5 +354,25 @@
     <title>Kunlun Battle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953617?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006003000 +0000" stop="20261006033000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006063000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006063000 +0000" stop="20261006093000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006123000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
