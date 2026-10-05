@@ -3,46 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261001203000 +0000" stop="20261001233000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261001233000 +0000" stop="20261002013000 +0000" channel="19">
-    <title>Ethuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952501?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002013000 +0000" stop="20261002023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002023000 +0000" stop="20261002053000 +0000" channel="19">
-    <title>Wiman Dora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002053000 +0000" stop="20261002083000 +0000" channel="19">
-    <title>Diya Sewanali</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002083000 +0000" stop="20261002113000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002113000 +0000" stop="20261002143000 +0000" channel="19">
-    <title>Ethuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952501?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002143000 +0000" stop="20261002173000 +0000" channel="19">
-    <title>Wiman Dora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261002173000 +0000" stop="20261002203000 +0000" channel="19">
     <title>Diya Sewanali</title>
     <desc />
@@ -232,5 +192,45 @@
     <title>Angana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006233000 +0000" stop="20261007013000 +0000" channel="19">
+    <title>Westhattuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949646?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007013000 +0000" stop="20261007023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007023000 +0000" stop="20261007053000 +0000" channel="19">
+    <title>Yaddehi Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007053000 +0000" stop="20261007083000 +0000" channel="19">
+    <title>Ape Kalaye Suba Saha Yasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949647?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007083000 +0000" stop="20261007113000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007113000 +0000" stop="20261007143000 +0000" channel="19">
+    <title>Thriweel Malli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007143000 +0000" stop="20261007173000 +0000" channel="19">
+    <title>Yaddehi Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007173000 +0000" stop="20261007203000 +0000" channel="19">
+    <title>Ape Kalaye Suba Saha Yasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949647?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

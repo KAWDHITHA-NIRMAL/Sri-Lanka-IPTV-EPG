@@ -3,81 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261001230000 +0000" stop="20261002010000 +0000" channel="38">
-    <title>Bloomberg Daybreak: Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940846?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002010000 +0000" stop="20261002020000 +0000" channel="38">
-    <title>Bloomberg Markets: China Open</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940847?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002020000 +0000" stop="20261002040000 +0000" channel="38">
-    <title>Bloomberg Markets: Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940848?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002040000 +0000" stop="20261002060000 +0000" channel="38">
-    <title>Bloomberg Daybreak: Middle East</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002060000 +0000" stop="20261002070000 +0000" channel="38">
-    <title>Bloomberg Daybreak: Europe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/760065?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002070000 +0000" stop="20261002080000 +0000" channel="38">
-    <title>Bloomberg Markets: Europe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002080000 +0000" stop="20261002090000 +0000" channel="38">
-    <title>Bloomberg Markets: European Open</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949864?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002090000 +0000" stop="20261002100000 +0000" channel="38">
-    <title>Bloomberg Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950073?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="38">
-    <title>Bloomberg Surveillance: Early Edition</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="38">
-    <title>Bloomberg Surveillance</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002120000 +0000" stop="20261002140000 +0000" channel="38">
-    <title>Bloomberg Surveillance</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002140000 +0000" stop="20261002150000 +0000" channel="38">
-    <title>Bloomberg: The Open</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940853?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002150000 +0000" stop="20261002160000 +0000" channel="38">
-    <title>Bloomberg Markets: Americas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940854?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002160000 +0000" stop="20261002170000 +0000" channel="38">
-    <title>Bloomberg Markets: European Close</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/940855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002170000 +0000" stop="20261002180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950072?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261002180000 +0000" stop="20261002190000 +0000" channel="38">
     <title>Bloomberg Real Yield</title>
     <desc />
@@ -727,5 +652,85 @@
     <title>Bloomberg Daybreak: Asia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/940846?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007010000 +0000" stop="20261007020000 +0000" channel="38">
+    <title>Bloomberg Markets: China Open</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940847?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007020000 +0000" stop="20261007040000 +0000" channel="38">
+    <title>Bloomberg Markets: Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940848?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007040000 +0000" stop="20261007060000 +0000" channel="38">
+    <title>Bloomberg Daybreak: Middle East</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940849?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007060000 +0000" stop="20261007070000 +0000" channel="38">
+    <title>Bloomberg Daybreak: Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/760065?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007070000 +0000" stop="20261007080000 +0000" channel="38">
+    <title>Bloomberg Markets: Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="38">
+    <title>Bloomberg Markets: European Open</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949864?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007090000 +0000" stop="20261007100000 +0000" channel="38">
+    <title>Bloomberg Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950073?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007100000 +0000" stop="20261007110000 +0000" channel="38">
+    <title>Bloomberg Surveillance: Early Edition</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="38">
+    <title>Bloomberg Surveillance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007120000 +0000" stop="20261007140000 +0000" channel="38">
+    <title>Bloomberg Surveillance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="38">
+    <title>Bloomberg: The Open</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940853?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="38">
+    <title>Bloomberg Markets: Americas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940854?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007160000 +0000" stop="20261007170000 +0000" channel="38">
+    <title>Bloomberg Markets: European Close</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940855?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007170000 +0000" stop="20261007180000 +0000" channel="38">
+    <title>Bloomberg: Balance Of Power</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950072?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007183000 +0000" channel="38">
+    <title>Bloomberg Markets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949862?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007183000 +0000" stop="20261007190000 +0000" channel="38">
+    <title>Bloomberg Markets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949862?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
