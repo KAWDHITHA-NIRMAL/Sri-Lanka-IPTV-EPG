@@ -3,31 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20261003083000 +0000" stop="20261003123000 +0000" channel="128">
-    <title>Live - 33rd Dr R L Hayman Trophy - 02nd Leg</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953704?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003123000 +0000" stop="20261003140000 +0000" channel="128">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140000 +0000" stop="20261003153000 +0000" channel="128">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003153000 +0000" stop="20261003163000 +0000" channel="128">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003163000 +0000" stop="20261003183000 +0000" channel="128">
-    <title>Highlights - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003183000 +0000" stop="20261003203000 +0000" channel="128">
     <title>Repeat - NEXT XV Rugby League 2026</title>
     <desc />
@@ -355,5 +330,24 @@
   <programme start="20261008083000 +0000" stop="20261008123000 +0000" channel="128">
     <title>Repeat - Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
     <desc />
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008133000 +0000" channel="128">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008143000 +0000" channel="128">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008143000 +0000" stop="20261008183000 +0000" channel="128">
+    <title>Repeat - Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
+    <desc />
+  </programme>
+  <programme start="20261008183000 +0000" stop="20261008203000 +0000" channel="128">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

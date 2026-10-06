@@ -3,56 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261003100000 +0000" stop="20261003110000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003110000 +0000" stop="20261003120000 +0000" channel="105">
-    <title>G 11 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003120000 +0000" stop="20261003123000 +0000" channel="105">
-    <title>Poddanta Nenasen Idak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003123000 +0000" stop="20261003130000 +0000" channel="105">
-    <title>Raga Madala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951129?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003130000 +0000" stop="20261003133000 +0000" channel="105">
-    <title>Sathi Pasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003133000 +0000" stop="20261003140000 +0000" channel="105">
-    <title>Suwa Nenasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950821?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140000 +0000" stop="20261003150000 +0000" channel="105">
-    <title>G 10 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="105">
-    <title>G 10 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003160000 +0000" stop="20261003170000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003170000 +0000" stop="20261003180000 +0000" channel="105">
-    <title>G 11 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003180000 +0000" stop="20261003190000 +0000" channel="105">
     <title>G 10 Science</title>
     <desc />
@@ -700,5 +650,55 @@
     <title>G 10 Music</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="105">
+    <title>G 11 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008123000 +0000" channel="105">
+    <title>Poddanta Nenasen Idak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008130000 +0000" channel="105">
+    <title>Raga Madala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951129?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="105">
+    <title>Sathi Pasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="105">
+    <title>Suwa Nenasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950821?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="105">
+    <title>G 11 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951132?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008150000 +0000" stop="20261008160000 +0000" channel="105">
+    <title>G 10 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008170000 +0000" channel="105">
+    <title>G 10 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008170000 +0000" stop="20261008180000 +0000" channel="105">
+    <title>G 10 Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008180000 +0000" stop="20261008190000 +0000" channel="105">
+    <title>G 11 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951131?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

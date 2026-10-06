@@ -3,26 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20261003102200 +0000" stop="20261003120000 +0000" channel="115">
-    <title>A Quiet Place: Day One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003120000 +0000" stop="20261003134900 +0000" channel="115">
-    <title>The Lion King (2019)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953647?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003134900 +0000" stop="20261003151500 +0000" channel="115">
-    <title>The Shallows</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003151500 +0000" stop="20261003172400 +0000" channel="115">
-    <title>Thor: Ragnarok</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003172400 +0000" stop="20261003192100 +0000" channel="115">
     <title>Alien: Romulus</title>
     <desc />
@@ -347,5 +327,25 @@
     <title>Aladdin (2019)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954553?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008113000 +0000" stop="20261008133000 +0000" channel="115">
+    <title>Con Air</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008153000 +0000" channel="115">
+    <title>Blackberry</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953894?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008153000 +0000" stop="20261008173000 +0000" channel="115">
+    <title>Black Widow</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954555?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008173000 +0000" stop="20261008191500 +0000" channel="115">
+    <title>Night At The Museum: Battle Of The Smithsonian</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953654?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

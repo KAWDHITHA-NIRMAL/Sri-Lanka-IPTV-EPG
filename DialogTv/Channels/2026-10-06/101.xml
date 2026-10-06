@@ -3,26 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261003080300 +0000" stop="20261003103000 +0000" channel="101">
-    <title>Thondan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952051?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003103000 +0000" stop="20261003133000 +0000" channel="101">
-    <title>Tuck Jagadish</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952322?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003133000 +0000" stop="20261003160000 +0000" channel="101">
-    <title>Nisabdham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953560?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003160000 +0000" stop="20261003170000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003170000 +0000" stop="20261003191500 +0000" channel="101">
     <title>Kurup</title>
     <desc />
@@ -312,5 +292,20 @@
     <title>Padai Veeran</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953222?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008160000 +0000" channel="101">
+    <title>Mirchi Masala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953223?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008180000 +0000" channel="101">
+    <title>Puppy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953224?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008180000 +0000" stop="20261008190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

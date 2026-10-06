@@ -3,21 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261003100200 +0000" stop="20261003121100 +0000" channel="79">
-    <title>Angel</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003121100 +0000" stop="20261003150000 +0000" channel="79">
-    <title>Khatarnak Policewala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950669?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003170000 +0000" channel="79">
-    <title>Taqdeer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003170000 +0000" stop="20261003194500 +0000" channel="79">
     <title>Kaidi No 150</title>
     <desc />
@@ -247,5 +232,20 @@
     <title>The Family Star</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008150000 +0000" channel="79">
+    <title>Ugram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954163?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008150000 +0000" stop="20261008174500 +0000" channel="79">
+    <title>Darbar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008174500 +0000" stop="20261008203000 +0000" channel="79">
+    <title>Kabali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954165?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

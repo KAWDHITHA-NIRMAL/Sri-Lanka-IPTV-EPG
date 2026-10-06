@@ -3,41 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261003100000 +0000" stop="20261003113000 +0000" channel="8">
-    <title>Sirasa Chart Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952812?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003113000 +0000" stop="20261003133000 +0000" channel="8">
-    <title>Tharu Samaga Tharu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953215?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003133000 +0000" stop="20261003140000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140000 +0000" stop="20261003150000 +0000" channel="8">
-    <title>Sirasa Lakshapathi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952939?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003163000 +0000" channel="8">
-    <title>Voice Teens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003163000 +0000" stop="20261003170000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003170000 +0000" stop="20261003183000 +0000" channel="8">
-    <title>Auto Vision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/801997?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003183000 +0000" stop="20261003232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -642,5 +607,50 @@
     <title>Poya Lineup</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952951?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008143000 +0000" channel="8">
+    <title>Neela Samanalie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008143000 +0000" stop="20261008150000 +0000" channel="8">
+    <title>Aaley</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952680?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008150000 +0000" stop="20261008153000 +0000" channel="8">
+    <title>Mayavee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61522?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="8">
+    <title>Ahankara Adare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/759788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="8">
+    <title>Prema Dadayama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008163000 +0000" stop="20261008170000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008170000 +0000" stop="20261008183000 +0000" channel="8">
+    <title>Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951965?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008183000 +0000" stop="20261008232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

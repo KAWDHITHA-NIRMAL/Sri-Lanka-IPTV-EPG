@@ -3,56 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261003102200 +0000" stop="20261003110600 +0000" channel="60">
-    <title>Leopard Kingdom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003110600 +0000" stop="20261003115100 +0000" channel="60">
-    <title>Living With Big Cats</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950471?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003115100 +0000" stop="20261003123300 +0000" channel="60">
-    <title>Queens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003123300 +0000" stop="20261003132000 +0000" channel="60">
-    <title>Wild India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952421?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003132000 +0000" stop="20261003140700 +0000" channel="60">
-    <title>Jade Eyed Leopard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950457?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140700 +0000" stop="20261003145500 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003145500 +0000" stop="20261003154100 +0000" channel="60">
-    <title>Secrets Of The Penguins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003154100 +0000" stop="20261003163400 +0000" channel="60">
-    <title>Cheetah Price Of Speed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003163400 +0000" stop="20261003172200 +0000" channel="60">
-    <title>Lion Battle Zone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950484?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003172200 +0000" stop="20261003181000 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003181000 +0000" stop="20261003185400 +0000" channel="60">
     <title>Animal Fight Club</title>
     <desc />
@@ -722,5 +672,50 @@
     <title>Jade Eyed Leopard</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008103000 +0000" stop="20261008113000 +0000" channel="60">
+    <title>Secrets of the Elephants</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008113000 +0000" stop="20261008123000 +0000" channel="60">
+    <title>Killer Safari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008133000 +0000" channel="60">
+    <title>Cheetah Price Of Speed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008143000 +0000" channel="60">
+    <title>Queens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008143000 +0000" stop="20261008153000 +0000" channel="60">
+    <title>The Real Black Panther</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950468?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008153000 +0000" stop="20261008163000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008163000 +0000" stop="20261008173000 +0000" channel="60">
+    <title>The Way Of The Cheetah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008173000 +0000" stop="20261008183000 +0000" channel="60">
+    <title>The Pack</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008183000 +0000" stop="20261008193000 +0000" channel="60">
+    <title>Braveheart: The Leopardess</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950454?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

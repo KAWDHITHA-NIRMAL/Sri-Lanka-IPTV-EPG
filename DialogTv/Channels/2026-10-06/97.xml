@@ -3,41 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20261003080000 +0000" stop="20261003120000 +0000" channel="97">
-    <title>Venthu Thaninthathu Kaadu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003120000 +0000" stop="20261003123000 +0000" channel="97">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003123000 +0000" stop="20261003130000 +0000" channel="97">
-    <title>Katrathu Samayal S08</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/754335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003130000 +0000" stop="20261003133000 +0000" channel="97">
-    <title>Ramanujar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003133000 +0000" stop="20261003143000 +0000" channel="97">
-    <title>Priyamanaval</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951139?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003143000 +0000" stop="20261003150000 +0000" channel="97">
-    <title>Kannethirey Thondrinaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950919?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="97">
-    <title>Chella Kutties</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003160000 +0000" stop="20261003193000 +0000" channel="97">
     <title>Geminiganesanum Surulirajanum</title>
     <desc />
@@ -582,5 +547,45 @@
     <title>En Pommukutty Ammavukku</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953634?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008123000 +0000" channel="97">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008130000 +0000" channel="97">
+    <title>Katrathu Samayal S08</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754335?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="97">
+    <title>Ramanujar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008133000 +0000" stop="20261008143000 +0000" channel="97">
+    <title>Priyamanaval</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951139?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008143000 +0000" stop="20261008150000 +0000" channel="97">
+    <title>Kannethirey Thondrinaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008150000 +0000" stop="20261008153000 +0000" channel="97">
+    <title>Thendral</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951136?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008153000 +0000" stop="20261008190000 +0000" channel="97">
+    <title>Goripalayam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953635?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

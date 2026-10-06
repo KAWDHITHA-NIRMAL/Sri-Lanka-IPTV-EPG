@@ -3,26 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261003100000 +0000" stop="20261003120000 +0000" channel="72">
-    <title>Haywire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950750?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003120000 +0000" stop="20261003140000 +0000" channel="72">
-    <title>Dangerous</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140000 +0000" stop="20261003160000 +0000" channel="72">
-    <title>Who Am I</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003160000 +0000" stop="20261003180000 +0000" channel="72">
-    <title>47 Meters Down Uncaged</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003180000 +0000" stop="20261003200000 +0000" channel="72">
     <title>Corner Office</title>
     <desc />
@@ -307,5 +287,25 @@
     <title>Spread</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948108?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008140000 +0000" channel="72">
+    <title>Rising Shaolin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="72">
+    <title>Chang'An Fog Monster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953160?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008180000 +0000" channel="72">
+    <title>Gunpowder Milkshake</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948964?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008180000 +0000" stop="20261008200000 +0000" channel="72">
+    <title>Rogue Agent</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950770?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

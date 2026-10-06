@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261003093000 +0000" stop="20261003121500 +0000" channel="87">
-    <title>Deewana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003121500 +0000" stop="20261003144000 +0000" channel="87">
-    <title>Hum Tum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003144000 +0000" stop="20261003170000 +0000" channel="87">
-    <title>Badrinath Ki Dulhaniya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950690?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003170000 +0000" stop="20261003201000 +0000" channel="87">
     <title>Hum Dil De Chuke Sanam</title>
     <desc />
@@ -277,5 +262,20 @@
     <title>The Zoya Factor</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008112000 +0000" stop="20261008140000 +0000" channel="87">
+    <title>Bandhan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953149?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008170000 +0000" channel="87">
+    <title>Namak Halaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953150?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008170000 +0000" stop="20261008194500 +0000" channel="87">
+    <title>Rajini The Jailer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953151?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

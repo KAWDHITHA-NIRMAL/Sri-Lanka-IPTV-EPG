@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261003080000 +0000" stop="20261003110000 +0000" channel="90">
-    <title>Johny I Love You</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952315?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003110000 +0000" stop="20261003140000 +0000" channel="90">
-    <title>Viduthalai Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952488?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003140000 +0000" stop="20261003170000 +0000" channel="90">
-    <title>Naya Kadam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003170000 +0000" stop="20261003200000 +0000" channel="90">
     <title>Avinash</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Aakhri Ghulam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953233?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008110000 +0000" stop="20261008140000 +0000" channel="90">
+    <title>Aar Ya Paar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953234?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008170000 +0000" channel="90">
+    <title>Fifty Fifty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953235?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008170000 +0000" stop="20261008200000 +0000" channel="90">
+    <title>International Crook</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953236?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261003102200 +0000" stop="20261003121600 +0000" channel="119">
-    <title>Mojin The Treasure Valley</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003121600 +0000" stop="20261003134000 +0000" channel="119">
-    <title>Toy Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953674?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003134000 +0000" stop="20261003153000 +0000" channel="119">
-    <title>Raya And The Last Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003153000 +0000" stop="20261003174000 +0000" channel="119">
-    <title>The Fault In Our Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953676?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003174000 +0000" stop="20261003191100 +0000" channel="119">
     <title>Guardians The Superheroes</title>
     <desc />
@@ -382,5 +362,30 @@
     <title>Stinky Summer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008114500 +0000" stop="20261008140000 +0000" channel="119">
+    <title>Dead Poets Society</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951646?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008153000 +0000" channel="119">
+    <title>The Mermaid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008153000 +0000" stop="20261008171500 +0000" channel="119">
+    <title>Frozen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008171500 +0000" stop="20261008183000 +0000" channel="119">
+    <title>Frozen 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952371?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008183000 +0000" stop="20261008190000 +0000" channel="119">
+    <title>Frozen 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952371?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
