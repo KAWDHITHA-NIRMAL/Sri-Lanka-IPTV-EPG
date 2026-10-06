@@ -3,61 +3,6 @@
   <channel id="3">
     <display-name>Channel 13</display-name>
   </channel>
-  <programme start="20261002183000 +0000" stop="20261003002900 +0000" channel="3">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003002900 +0000" stop="20261003003000 +0000" channel="3">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003003000 +0000" stop="20261003010000 +0000" channel="3">
-    <title>Iraiyillam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/677261?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003010000 +0000" stop="20261003013000 +0000" channel="3">
-    <title>Kalai Amutham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003013000 +0000" stop="20261003020000 +0000" channel="3">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003020000 +0000" stop="20261003030000 +0000" channel="3">
-    <title>Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003030000 +0000" stop="20261003040000 +0000" channel="3">
-    <title>Chellame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951395?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003040000 +0000" stop="20261003050000 +0000" channel="3">
-    <title>NHK Documentary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003050000 +0000" stop="20261003053000 +0000" channel="3">
-    <title>A.R.C Hospital</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/744680?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003053000 +0000" stop="20261003063000 +0000" channel="3">
-    <title>Manvasam Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/744681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003063000 +0000" stop="20261003093000 +0000" channel="3">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003093000 +0000" stop="20261003103000 +0000" channel="3">
     <title>Sugavalvu</title>
     <desc />
@@ -682,5 +627,80 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008002900 +0000" stop="20261008003000 +0000" channel="3">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008003000 +0000" stop="20261008010000 +0000" channel="3">
+    <title>Iraiyillam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/677261?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008010000 +0000" stop="20261008013000 +0000" channel="3">
+    <title>News Paper Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008013000 +0000" stop="20261008020000 +0000" channel="3">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="3">
+    <title>Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008030000 +0000" stop="20261008050000 +0000" channel="3">
+    <title>Vanakkam Nethra Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949501?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="3">
+    <title>Comedy Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50781?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008053000 +0000" stop="20261008063000 +0000" channel="3">
+    <title>Hit By Hit Music Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/64605?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008063000 +0000" stop="20261008070000 +0000" channel="3">
+    <title>Anupallavi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50782?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008070000 +0000" stop="20261008073000 +0000" channel="3">
+    <title>Magal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63749?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008073000 +0000" stop="20261008080000 +0000" channel="3">
+    <title>Anbe Vaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008080000 +0000" stop="20261008083000 +0000" channel="3">
+    <title>Pasamalar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008083000 +0000" stop="20261008090000 +0000" channel="3">
+    <title>Gogula Thil Seethai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008093000 +0000" channel="3">
+    <title>Sugamana Ragangal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008093000 +0000" stop="20261008103000 +0000" channel="3">
+    <title>Suga Vaalvu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52045?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

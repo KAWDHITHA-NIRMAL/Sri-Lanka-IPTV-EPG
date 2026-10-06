@@ -3,31 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261002170000 +0000" stop="20261002200000 +0000" channel="95">
-    <title>Udan Pirappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949454?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002200000 +0000" stop="20261002223000 +0000" channel="95">
-    <title>Poovasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002223000 +0000" stop="20261003013000 +0000" channel="95">
-    <title>Vallinam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951693?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003013000 +0000" stop="20261003043000 +0000" channel="95">
-    <title>Unnai Thedi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952219?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003043000 +0000" stop="20261003073000 +0000" channel="95">
-    <title>Veetula Viseshanga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952097?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003073000 +0000" stop="20261003103000 +0000" channel="95">
     <title>Singaravelan</title>
     <desc />
@@ -212,5 +187,30 @@
     <title>Arasiyal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007200000 +0000" stop="20261007223000 +0000" channel="95">
+    <title>Ponniyin Selvan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954392?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007223000 +0000" stop="20261008013000 +0000" channel="95">
+    <title>Kathiruntha Kadhal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954397?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008013000 +0000" stop="20261008043000 +0000" channel="95">
+    <title>Ottran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008043000 +0000" stop="20261008073000 +0000" channel="95">
+    <title>Azhagar Sami</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954399?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008073000 +0000" stop="20261008103000 +0000" channel="95">
+    <title>Veluchamy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954400?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

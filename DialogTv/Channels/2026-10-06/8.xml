@@ -3,76 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261002183000 +0000" stop="20261002232900 +0000" channel="8">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002232900 +0000" stop="20261002233000 +0000" channel="8">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002233000 +0000" stop="20261003000000 +0000" channel="8">
-    <title>Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952829?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003000000 +0000" stop="20261003003000 +0000" channel="8">
-    <title>News @ 7</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003003000 +0000" stop="20261003010000 +0000" channel="8">
-    <title>Niyamaarthaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953282?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003010000 +0000" stop="20261003013000 +0000" channel="8">
-    <title>Tom &amp; Jerry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953454?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003013000 +0000" stop="20261003020000 +0000" channel="8">
-    <title>Kids 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003020000 +0000" stop="20261003040000 +0000" channel="8">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003040000 +0000" stop="20261003043000 +0000" channel="8">
-    <title>Andun Kundun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952936?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003043000 +0000" stop="20261003050000 +0000" channel="8">
-    <title>Pancha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003050000 +0000" stop="20261003053000 +0000" channel="8">
-    <title>Sura Pappa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952937?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003053000 +0000" stop="20261003060000 +0000" channel="8">
-    <title>Kadalla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953441?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003060000 +0000" stop="20261003063000 +0000" channel="8">
-    <title>Cinescope</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953402?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003063000 +0000" stop="20261003100000 +0000" channel="8">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003100000 +0000" stop="20261003113000 +0000" channel="8">
     <title>Sirasa Chart Show</title>
     <desc />
@@ -682,5 +612,35 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007232900 +0000" stop="20261007233000 +0000" channel="8">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952906?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007233000 +0000" stop="20261008000000 +0000" channel="8">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952829?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008000000 +0000" stop="20261008003000 +0000" channel="8">
+    <title>News @ 7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008003000 +0000" stop="20261008063000 +0000" channel="8">
+    <title>Poya Lineup</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952951?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008063000 +0000" stop="20261008070000 +0000" channel="8">
+    <title>Lunch Time News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952952?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008070000 +0000" stop="20261008133000 +0000" channel="8">
+    <title>Poya Lineup</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952951?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261002175300 +0000" stop="20261002202600 +0000" channel="79">
-    <title>Farz</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950173?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002202600 +0000" stop="20261002224200 +0000" channel="79">
-    <title>Dashing Khiladi 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002224200 +0000" stop="20261003002700 +0000" channel="79">
-    <title>The Great Indian Butterfly</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003002700 +0000" stop="20261003023600 +0000" channel="79">
-    <title>Kocchadaiiyaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003023600 +0000" stop="20261003044200 +0000" channel="79">
-    <title>Return Of Hanuman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003044200 +0000" stop="20261003072400 +0000" channel="79">
-    <title>DNA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003072400 +0000" stop="20261003100200 +0000" channel="79">
-    <title>Sita Ram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950667?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003100200 +0000" stop="20261003121100 +0000" channel="79">
     <title>Angel</title>
     <desc />
@@ -173,35 +138,40 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952049?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006021500 +0000" stop="20261006061500 +0000" channel="79">
+  <programme start="20261006021500 +0000" stop="20261006055300 +0000" channel="79">
     <title>KOK- King Of Kotha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954146?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006061500 +0000" stop="20261006081500 +0000" channel="79">
+  <programme start="20261006055300 +0000" stop="20261006081300 +0000" channel="79">
     <title>Power Unlimited 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954147?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006081500 +0000" stop="20261006113000 +0000" channel="79">
-    <title>Pichaikkaran</title>
+  <programme start="20261006081300 +0000" stop="20261006112300 +0000" channel="79">
+    <title>Pichaikkaran 2</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954148?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954598?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006113000 +0000" stop="20261006150000 +0000" channel="79">
+  <programme start="20261006112300 +0000" stop="20261006150600 +0000" channel="79">
     <title>Return Of The Dragon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954149?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006150000 +0000" stop="20261006181500 +0000" channel="79">
+  <programme start="20261006150600 +0000" stop="20261006182100 +0000" channel="79">
     <title>Chhaava</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954150?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261006181500 +0000" stop="20261006203000 +0000" channel="79">
+  <programme start="20261006182100 +0000" stop="20261006201000 +0000" channel="79">
     <title>Daredevil</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954151?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261006201000 +0000" stop="20261006203000 +0000" channel="79">
+    <title>Mahadev Ka Gorakhpur</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954152?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006203000 +0000" stop="20261006224500 +0000" channel="79">
     <title>Mahadev Ka Gorakhpur</title>
@@ -247,5 +217,35 @@
     <title>Saamrajya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954158?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007203000 +0000" stop="20261007220000 +0000" channel="79">
+    <title>Return Of Hanuman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007220000 +0000" stop="20261008004500 +0000" channel="79">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008004500 +0000" stop="20261008033000 +0000" channel="79">
+    <title>Vikram Vedha (2017)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953890?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008033000 +0000" stop="20261008063000 +0000" channel="79">
+    <title>The Masterpiece</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954160?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008063000 +0000" stop="20261008084500 +0000" channel="79">
+    <title>Double Attack</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008084500 +0000" stop="20261008120000 +0000" channel="79">
+    <title>The Family Star</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954162?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

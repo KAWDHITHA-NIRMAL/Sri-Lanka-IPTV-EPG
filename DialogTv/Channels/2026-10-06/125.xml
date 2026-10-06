@@ -3,59 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261002181000 +0000" stop="20261002184000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002184000 +0000" stop="20261002204500 +0000" channel="125">
-    <title>LIVE Gallagher Premiership Bath v Exeter</title>
-    <desc />
-  </programme>
-  <programme start="20261002204500 +0000" stop="20261002210000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002210000 +0000" stop="20261002225000 +0000" channel="125">
-    <title>SANZAAR International Tour Serie Australia v South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949448?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002225000 +0000" stop="20261003004000 +0000" channel="125">
-    <title>United Rugby Championship Cardiff v Zebre Parma</title>
-    <desc />
-  </programme>
-  <programme start="20261003004000 +0000" stop="20261003023000 +0000" channel="125">
-    <title>United Rugby Championship Edinburgh v Stormers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003023000 +0000" stop="20261003042000 +0000" channel="125">
-    <title>United Rugby Championship Benetton v Connacht</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953562?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003042000 +0000" stop="20261003061000 +0000" channel="125">
-    <title>Gallagher Premiership Bath v Exeter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953563?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003061000 +0000" stop="20261003064000 +0000" channel="125">
-    <title>Top 14 Highlights Round 4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003064000 +0000" stop="20261003074000 +0000" channel="125">
-    <title>URC in 60 Round 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951296?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003074000 +0000" stop="20261003093000 +0000" channel="125">
-    <title>United Rugby Championship Cardiff v Zebre Parma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953706?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003093000 +0000" stop="20261003111500 +0000" channel="125">
     <title>United Rugby Championship Edinburgh v Stormers</title>
     <desc />
@@ -413,6 +360,7 @@
   <programme start="20261006040000 +0000" stop="20261006055000 +0000" channel="125">
     <title>Gallagher Premiership Saracens v Sale</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954617?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006055000 +0000" stop="20261006062000 +0000" channel="125">
     <title>Top 14 Highlights Round 5</title>
@@ -432,6 +380,7 @@
   <programme start="20261006100000 +0000" stop="20261006115000 +0000" channel="125">
     <title>Top 14 Montpellier v Toulon</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954658?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006115000 +0000" stop="20261006134000 +0000" channel="125">
     <title>NRL Grand Final</title>
@@ -451,6 +400,7 @@
   <programme start="20261006160000 +0000" stop="20261006175000 +0000" channel="125">
     <title>Gallagher Premiership Bristol v Northampton</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954599?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261006175000 +0000" stop="20261006185000 +0000" channel="125">
     <title>5 &amp; 6 Nations Classic Tries</title>
@@ -573,5 +523,55 @@
     <title>NRL Grand Final</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007200000 +0000" stop="20261007215000 +0000" channel="125">
+    <title>Super League Grand Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953898?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007215000 +0000" stop="20261007234000 +0000" channel="125">
+    <title>United Rugby Championship Sharks v Leinster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953899?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007234000 +0000" stop="20261008013000 +0000" channel="125">
+    <title>United Rugby Championship Glasgow Warriors v Ulster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008013000 +0000" stop="20261008032000 +0000" channel="125">
+    <title>United Rugby Championship Munster v Bulls</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954171?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008032000 +0000" stop="20261008035000 +0000" channel="125">
+    <title>Top 14 Highlights Round 5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008035000 +0000" stop="20261008042000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008042000 +0000" stop="20261008061000 +0000" channel="125">
+    <title>Top 14 Bordeuax Begles v Lyon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954174?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008061000 +0000" stop="20261008080000 +0000" channel="125">
+    <title>Top 14 Montpellier v Toulon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954658?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008080000 +0000" stop="20261008095000 +0000" channel="125">
+    <title>NRL Grand Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008095000 +0000" stop="20261008114000 +0000" channel="125">
+    <title>Super League Grand Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953898?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

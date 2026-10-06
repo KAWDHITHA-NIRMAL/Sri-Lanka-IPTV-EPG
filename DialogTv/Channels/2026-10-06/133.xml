@@ -3,46 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261002180500 +0000" stop="20261002200500 +0000" channel="133">
-    <title>Red Sun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002200500 +0000" stop="20261002220500 +0000" channel="133">
-    <title>Jason Bourne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002220500 +0000" stop="20261002234500 +0000" channel="133">
-    <title>John Wick</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002234500 +0000" stop="20261003015000 +0000" channel="133">
-    <title>Runaway Jury</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003015000 +0000" stop="20261003043000 +0000" channel="133">
-    <title>Lion Of The Desert</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951481?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003043000 +0000" stop="20261003060500 +0000" channel="133">
-    <title>The Legend 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003060500 +0000" stop="20261003081000 +0000" channel="133">
-    <title>Battleship</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951477?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003081000 +0000" stop="20261003094000 +0000" channel="133">
-    <title>Rambo: First Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003094000 +0000" stop="20261003111500 +0000" channel="133">
     <title>Death Ring</title>
     <desc />
@@ -327,5 +287,45 @@
     <title>They Call Me Trinity</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951483?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007200500 +0000" stop="20261007224500 +0000" channel="133">
+    <title>Lion Of The Desert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007224500 +0000" stop="20261008005000 +0000" channel="133">
+    <title>Battleship</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951477?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008005000 +0000" stop="20261008023000 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008023000 +0000" stop="20261008044000 +0000" channel="133">
+    <title>Flesh &amp; Blood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008044000 +0000" stop="20261008064000 +0000" channel="133">
+    <title>Oblivion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008064000 +0000" stop="20261008082000 +0000" channel="133">
+    <title>Tai Chi Master</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951484?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008082000 +0000" stop="20261008101500 +0000" channel="133">
+    <title>They Call Me Trinity</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951483?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008101500 +0000" stop="20261008125500 +0000" channel="133">
+    <title>Lion Of The Desert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951481?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

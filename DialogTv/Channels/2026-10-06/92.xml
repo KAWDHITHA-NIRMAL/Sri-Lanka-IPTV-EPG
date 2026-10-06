@@ -3,31 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261002180000 +0000" stop="20261002210000 +0000" channel="92">
-    <title>Ground Zero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953205?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002210000 +0000" stop="20261003000000 +0000" channel="92">
-    <title>Toofaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953179?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003000000 +0000" stop="20261003030000 +0000" channel="92">
-    <title>Do Lafzon Ki Kahani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003030000 +0000" stop="20261003060000 +0000" channel="92">
-    <title>Jersey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953190?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003060000 +0000" stop="20261003090000 +0000" channel="92">
-    <title>Dil dhadakne do</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953206?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003090000 +0000" stop="20261003120000 +0000" channel="92">
     <title>Bachchhan Paandey</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Mard Ko Dard Nahi Hota</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951833?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007210000 +0000" stop="20261008000000 +0000" channel="92">
+    <title>Iqbal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952872?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008000000 +0000" stop="20261008030000 +0000" channel="92">
+    <title>Fukrey Returns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008030000 +0000" stop="20261008060000 +0000" channel="92">
+    <title>Darlings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953210?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008060000 +0000" stop="20261008090000 +0000" channel="92">
+    <title>Namaste England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008120000 +0000" channel="92">
+    <title>Apna Sapna Money Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953212?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

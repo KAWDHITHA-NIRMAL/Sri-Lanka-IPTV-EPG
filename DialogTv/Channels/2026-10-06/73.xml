@@ -3,46 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261002164500 +0000" stop="20261002184500 +0000" channel="73">
-    <title>Monsters Vs. Aliens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950718?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002184500 +0000" stop="20261002204500 +0000" channel="73">
-    <title>Yes Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950037?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002204500 +0000" stop="20261002230000 +0000" channel="73">
-    <title>Beowulf</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261002230000 +0000" stop="20261003013000 +0000" channel="73">
-    <title>All Quiet On The Western Front</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950719?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003013000 +0000" stop="20261003034500 +0000" channel="73">
-    <title>Freedom Writers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003034500 +0000" stop="20261003054500 +0000" channel="73">
-    <title>Yes Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950037?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003054500 +0000" stop="20261003080000 +0000" channel="73">
-    <title>Beowulf</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003080000 +0000" stop="20261003101500 +0000" channel="73">
-    <title>Freedom Writers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261003101500 +0000" stop="20261003120000 +0000" channel="73">
     <title>Ultraviolet</title>
     <desc />
@@ -287,5 +247,40 @@
     <title>Stop! Or My Mom Will Shoot</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007203000 +0000" stop="20261007230000 +0000" channel="73">
+    <title>Red Dragon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261007230000 +0000" stop="20261008010000 +0000" channel="73">
+    <title>Resident Evil: Apocalypse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952326?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008010000 +0000" stop="20261008030000 +0000" channel="73">
+    <title>The Scorpion King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008030000 +0000" stop="20261008053000 +0000" channel="73">
+    <title>All Quiet On The Western Front</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950719?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008053000 +0000" stop="20261008073000 +0000" channel="73">
+    <title>Monsters Vs. Aliens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008073000 +0000" stop="20261008094500 +0000" channel="73">
+    <title>The International</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950728?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008094500 +0000" stop="20261008120000 +0000" channel="73">
+    <title>Cat People</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950727?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
