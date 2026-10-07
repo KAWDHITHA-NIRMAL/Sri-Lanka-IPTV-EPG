@@ -3,51 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261003173000 +0000" stop="20261003203000 +0000" channel="19">
-    <title>Adarayata Wes Banda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261003233000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003233000 +0000" stop="20261004013000 +0000" channel="19">
-    <title>Methuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004013000 +0000" stop="20261004023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004023000 +0000" stop="20261004053000 +0000" channel="19">
-    <title>Walmath Uvo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949641?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004053000 +0000" stop="20261004083000 +0000" channel="19">
-    <title>Adarayata Wes Banda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004083000 +0000" stop="20261004113000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004113000 +0000" stop="20261004143000 +0000" channel="19">
-    <title>Atha Bootha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004143000 +0000" stop="20261004173000 +0000" channel="19">
-    <title>Walmath Uvo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949641?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261004173000 +0000" stop="20261004203000 +0000" channel="19">
     <title>Adarayata Wes Banda</title>
     <desc />
@@ -232,5 +187,50 @@
     <title>Katharaka Sewanali</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951022?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008203000 +0000" stop="20261008233000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008233000 +0000" stop="20261009013000 +0000" channel="19">
+    <title>Ethuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952501?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009013000 +0000" stop="20261009023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009023000 +0000" stop="20261009053000 +0000" channel="19">
+    <title>Wiman Dora</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952520?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009053000 +0000" stop="20261009083000 +0000" channel="19">
+    <title>Diya Sewanali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009083000 +0000" stop="20261009113000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009113000 +0000" stop="20261009143000 +0000" channel="19">
+    <title>Ethuma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952501?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009143000 +0000" stop="20261009173000 +0000" channel="19">
+    <title>Wiman Dora</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952520?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009173000 +0000" stop="20261009203000 +0000" channel="19">
+    <title>Diya Sewanali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952355?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

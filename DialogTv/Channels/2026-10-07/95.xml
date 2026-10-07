@@ -3,46 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261003170000 +0000" stop="20261003200000 +0000" channel="95">
-    <title>Veetula Viseshanga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952097?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261003223000 +0000" channel="95">
-    <title>Nadigan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003223000 +0000" stop="20261004013000 +0000" channel="95">
-    <title>Medhai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004013000 +0000" stop="20261004043000 +0000" channel="95">
-    <title>Mazhai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952111?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004043000 +0000" stop="20261004073000 +0000" channel="95">
-    <title>Iruthi Sutru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952167?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004073000 +0000" stop="20261004103000 +0000" channel="95">
-    <title>Paarai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950912?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004103000 +0000" stop="20261004133000 +0000" channel="95">
-    <title>Yennamo Yedho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004133000 +0000" stop="20261004170000 +0000" channel="95">
-    <title>Rendu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951980?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="95">
     <title>Iruthi Sutru</title>
     <desc />
@@ -212,5 +172,45 @@
     <title>Azhagar Sami</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954399?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008200000 +0000" stop="20261008223000 +0000" channel="95">
+    <title>Senthamizh Paattu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954396?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008223000 +0000" stop="20261009013000 +0000" channel="95">
+    <title>Vikatan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009013000 +0000" stop="20261009043000 +0000" channel="95">
+    <title>Panchalangkurichi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954402?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009043000 +0000" stop="20261009073000 +0000" channel="95">
+    <title>Yen Rathathin Rathame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009073000 +0000" stop="20261009103000 +0000" channel="95">
+    <title>Thangamana Purushan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009103000 +0000" stop="20261009133000 +0000" channel="95">
+    <title>Anandha Kummi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009133000 +0000" stop="20261009170000 +0000" channel="95">
+    <title>Anjaneya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954406?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009170000 +0000" stop="20261009200000 +0000" channel="95">
+    <title>Yen Rathathin Rathame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954403?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

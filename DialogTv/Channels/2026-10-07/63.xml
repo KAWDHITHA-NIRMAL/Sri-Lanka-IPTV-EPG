@@ -3,56 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261003183000 +0000" stop="20261003203000 +0000" channel="63">
-    <title>Repeat - Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261004003000 +0000" channel="63">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004003000 +0000" stop="20261004013000 +0000" channel="63">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004013000 +0000" stop="20261004033000 +0000" channel="63">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="63">
-    <title>Highlights - MCA Super Premier League 2025</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004040000 +0000" stop="20261004123000 +0000" channel="63">
-    <title>Live - CDB - A vs Fairfirst Insurance - 33rd Singer MCA Super Premiere League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953869?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004123000 +0000" stop="20261004140000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="63">
-    <title>Highlights - Sri Lanka tour of Pakistan 2025</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949655?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004153000 +0000" stop="20261004173000 +0000" channel="63">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261004173000 +0000" stop="20261004183000 +0000" channel="63">
     <title>Highlights - ICC Men's T20 World Cup 2026</title>
     <desc />
@@ -312,5 +262,54 @@
     <title>Repeat - Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/915922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261008203000 +0000" stop="20261009003000 +0000" channel="63">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009003000 +0000" stop="20261009013000 +0000" channel="63">
+    <title>Highlights - NEXT XV Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009013000 +0000" stop="20261009033000 +0000" channel="63">
+    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009033000 +0000" stop="20261009060000 +0000" channel="63">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009060000 +0000" stop="20261009073000 +0000" channel="63">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009073000 +0000" stop="20261009083000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009083000 +0000" stop="20261009123000 +0000" channel="63">
+    <title>Repeat - Bangladesh tour of India 2024</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009130000 +0000" stop="20261009173000 +0000" channel="63">
+    <title>Live - India vs West Indies - 2nd T20I - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
