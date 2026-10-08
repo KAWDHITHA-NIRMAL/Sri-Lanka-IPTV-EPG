@@ -3,51 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="95">
-    <title>Iruthi Sutru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952167?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004200000 +0000" stop="20261004213000 +0000" channel="95">
-    <title>Singaravelan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951690?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261004213000 +0000" stop="20261005003000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005003000 +0000" stop="20261005033000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005033000 +0000" stop="20261005063000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005063000 +0000" stop="20261005073000 +0000" channel="95">
-    <title>Jallikattu Kaalai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005073000 +0000" stop="20261005103000 +0000" channel="95">
-    <title>Chidambarathil Oru Appasamy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005103000 +0000" stop="20261005133000 +0000" channel="95">
-    <title>Oru Melliya Kodu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954384?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005133000 +0000" stop="20261005170000 +0000" channel="95">
-    <title>Villadhi Villan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954385?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261005170000 +0000" stop="20261005200000 +0000" channel="95">
     <title>Jallikattu Kaalai</title>
     <desc />
@@ -212,5 +167,45 @@
     <title>Yen Rathathin Rathame</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009200000 +0000" stop="20261009223000 +0000" channel="95">
+    <title>Veluchamy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954400?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261009223000 +0000" stop="20261010013000 +0000" channel="95">
+    <title>Anandha Kummi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010013000 +0000" stop="20261010043000 +0000" channel="95">
+    <title>Anjaneya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954406?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010043000 +0000" stop="20261010073000 +0000" channel="95">
+    <title>Ettikku Potti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954407?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010073000 +0000" stop="20261010103000 +0000" channel="95">
+    <title>Raja Mariyaadhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010103000 +0000" stop="20261010133000 +0000" channel="95">
+    <title>Udhaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954409?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010133000 +0000" stop="20261010170000 +0000" channel="95">
+    <title>Chinna Durai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010170000 +0000" stop="20261010200000 +0000" channel="95">
+    <title>Ettikku Potti</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954407?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
