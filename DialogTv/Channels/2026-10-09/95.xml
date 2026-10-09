@@ -3,36 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261005170000 +0000" stop="20261005200000 +0000" channel="95">
-    <title>Jallikattu Kaalai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005200000 +0000" stop="20261005223000 +0000" channel="95">
-    <title>Paarai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950912?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261005223000 +0000" stop="20261006013000 +0000" channel="95">
-    <title>Oru Melliya Kodu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954384?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006013000 +0000" stop="20261006043000 +0000" channel="95">
-    <title>Villadhi Villan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954385?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006073000 +0000" channel="95">
-    <title>Naadodi Thendral</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954391?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006073000 +0000" stop="20261006103000 +0000" channel="95">
-    <title>Ponniyin Selvan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954392?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006103000 +0000" stop="20261006133000 +0000" channel="95">
     <title>Sindhamal Sidharamal</title>
     <desc />
@@ -207,5 +177,35 @@
     <title>Ettikku Potti</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954407?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010200000 +0000" stop="20261010223000 +0000" channel="95">
+    <title>Thangamana Purushan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010223000 +0000" stop="20261011013000 +0000" channel="95">
+    <title>Udhaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954409?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011013000 +0000" stop="20261011043000 +0000" channel="95">
+    <title>Chinna Durai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011043000 +0000" stop="20261011073000 +0000" channel="95">
+    <title>Aatta Nayagan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011073000 +0000" stop="20261011103000 +0000" channel="95">
+    <title>Thiru Moorthy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011103000 +0000" stop="20261011133000 +0000" channel="95">
+    <title>Parijatham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954413?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
