@@ -3,26 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261006083000 +0000" stop="20261006123000 +0000" channel="63">
-    <title>Repeat - Bangladesh tour of India 2024</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006173000 +0000" channel="63">
-    <title>Live - India vs West Indies - 1st T20I - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006183000 +0000" stop="20261006203000 +0000" channel="63">
     <title>Repeat - Super League 2026</title>
     <desc />
@@ -277,5 +257,23 @@
   <programme start="20261011093000 +0000" stop="20261011123000 +0000" channel="63">
     <title>Live - Wurth Drag Wars 2026</title>
     <desc />
+  </programme>
+  <programme start="20261011123000 +0000" stop="20261011133000 +0000" channel="63">
+    <title>Live - India vs West Indies - 3rd T20I - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261011133000 +0000" stop="20261011173000 +0000" channel="63">
+    <title>Repeat - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="63">
+    <title>Highlights -  NEXT XV Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

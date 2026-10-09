@@ -3,51 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="94">
-    <title>Arusuvai Neram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006123000 +0000" channel="94">
-    <title>Gamma Gamma Malai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952418?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="94">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="94">
-    <title>Dheivegam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953248?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="94">
-    <title>Enge Brahamanan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="94">
-    <title>Sani Bhagavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="94">
-    <title>Ketti Melam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="94">
-    <title>Sahana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006163000 +0000" channel="94">
-    <title>Autograph</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951064?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006163000 +0000" stop="20261006193000 +0000" channel="94">
     <title>Kodi Parakkuthu</title>
     <desc />
@@ -497,5 +452,35 @@
     <title>Madurey</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954616?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011123000 +0000" stop="20261011130000 +0000" channel="94">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011143000 +0000" channel="94">
+    <title>Madurey</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954616?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011143000 +0000" stop="20261011160000 +0000" channel="94">
+    <title>Jackpot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011160000 +0000" stop="20261011163000 +0000" channel="94">
+    <title>Autograph</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951064?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011163000 +0000" stop="20261011170000 +0000" channel="94">
+    <title>Palayathu Amman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/817813?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011170000 +0000" stop="20261011200000 +0000" channel="94">
+    <title>Iraivi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954615?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

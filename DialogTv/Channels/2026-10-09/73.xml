@@ -3,26 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261006100000 +0000" stop="20261006120000 +0000" channel="73">
-    <title>The Scorpion King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006141500 +0000" channel="73">
-    <title>Freedom Writers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006141500 +0000" stop="20261006163000 +0000" channel="73">
-    <title>An Officer And A Gentleman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006163000 +0000" stop="20261006183000 +0000" channel="73">
-    <title>Stop! Or My Mom Will Shoot</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006183000 +0000" stop="20261006203000 +0000" channel="73">
     <title>The Scorpion King</title>
     <desc />
@@ -267,5 +247,20 @@
     <title>The Blind Side</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011120000 +0000" stop="20261011140000 +0000" channel="73">
+    <title>The Usual Suspects</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011163000 +0000" channel="73">
+    <title>Red Dragon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011163000 +0000" stop="20261011184500 +0000" channel="73">
+    <title>Cat People</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950727?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

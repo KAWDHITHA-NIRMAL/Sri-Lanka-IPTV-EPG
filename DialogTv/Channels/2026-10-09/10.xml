@@ -3,41 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20261006100000 +0000" stop="20261006130000 +0000" channel="10">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949488?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949667?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="10">
-    <title>7.30 NEWS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="10">
-    <title>Jathiak Mehewara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006161500 +0000" stop="20261006170000 +0000" channel="10">
-    <title>Landline</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006170000 +0000" stop="20261006190000 +0000" channel="10">
     <title>End Of Transmission</title>
     <desc />
@@ -560,5 +525,40 @@
     <title>Drama - Uthum Pathum</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954669?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011123000 +0000" stop="20261011133000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011133000 +0000" stop="20261011140000 +0000" channel="10">
+    <title>Culture by Design</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952186?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011143000 +0000" channel="10">
+    <title>Face To Face</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949671?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011143000 +0000" stop="20261011153000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011161500 +0000" channel="10">
+    <title>AFL - Game Of The Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940569?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011161500 +0000" stop="20261011183000 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011213000 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50450?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

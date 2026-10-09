@@ -3,26 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20261006105500 +0000" stop="20261006131500 +0000" channel="69">
-    <title>Live WCL 2026 IND v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006131500 +0000" stop="20261006150000 +0000" channel="69">
-    <title>Live WCL 2026 IND v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006170500 +0000" channel="69">
-    <title>Live WCL 2026 PAK v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006170500 +0000" stop="20261006183000 +0000" channel="69">
-    <title>Live WCL 2026 PAK v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="69">
     <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
     <desc />
@@ -1173,6 +1153,22 @@
   </programme>
   <programme start="20261011105500 +0000" stop="20261011131500 +0000" channel="69">
     <title>Live WCL 2026 AUS v WI</title>
+    <desc />
+  </programme>
+  <programme start="20261011131500 +0000" stop="20261011150000 +0000" channel="69">
+    <title>Live WCL 2026 AUS v WI</title>
+    <desc />
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011170500 +0000" channel="69">
+    <title>Live WCL 2026 IND v BAN</title>
+    <desc />
+  </programme>
+  <programme start="20261011170500 +0000" stop="20261011183000 +0000" channel="69">
+    <title>Live WCL 2026 IND v BAN</title>
+    <desc />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="69">
+    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
     <desc />
   </programme>
 </tv>

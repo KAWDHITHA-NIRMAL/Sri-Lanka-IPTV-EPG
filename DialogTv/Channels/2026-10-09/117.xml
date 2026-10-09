@@ -3,26 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261006104500 +0000" stop="20261006122000 +0000" channel="117">
-    <title>Hostile Waters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006122000 +0000" stop="20261006140000 +0000" channel="117">
-    <title>Tag</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006153500 +0000" channel="117">
-    <title>Paranormal Activity 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951352?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006153500 +0000" stop="20261006171000 +0000" channel="117">
-    <title>Paranormal Activity 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951353?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006171000 +0000" stop="20261006183500 +0000" channel="117">
     <title>Paranormal Activity 4</title>
     <desc />
@@ -357,5 +337,25 @@
     <title>Recount</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011121500 +0000" stop="20261011140000 +0000" channel="117">
+    <title>Rampage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954370?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011140000 +0000" stop="20261011155500 +0000" channel="117">
+    <title>Scream 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954371?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011155500 +0000" stop="20261011171500 +0000" channel="117">
+    <title>Scary Movie 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954372?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011171500 +0000" stop="20261011183500 +0000" channel="117">
+    <title>Scary Movie 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954373?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

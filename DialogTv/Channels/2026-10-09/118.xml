@@ -3,21 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261006110500 +0000" stop="20261006130000 +0000" channel="118">
-    <title>Bumblebee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951281?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006150000 +0000" channel="118">
-    <title>Rob Peace</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951288?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006171000 +0000" channel="118">
-    <title>Fantastic Beasts And Where To Find Them</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951280?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006171000 +0000" stop="20261006184000 +0000" channel="118">
     <title>Alarum</title>
     <desc />
@@ -347,5 +332,25 @@
     <title>Harry Potter And The Half-Blood Prince</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953268?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011133500 +0000" stop="20261011150000 +0000" channel="118">
+    <title>The Naked Gun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011164000 +0000" channel="118">
+    <title>Epic: Elvis Presley In Concert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955199?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011164000 +0000" stop="20261011181000 +0000" channel="118">
+    <title>The Fallout</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011181000 +0000" stop="20261011200000 +0000" channel="118">
+    <title>Holiday Harmony</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953943?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,46 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261006113000 +0000" stop="20261006122000 +0000" channel="27">
-    <title>Wesak Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006122000 +0000" stop="20261006130000 +0000" channel="27">
-    <title>Sawasa Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="27">
-    <title>Shraddha News 6.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006143000 +0000" channel="27">
-    <title>Ama Damrasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006153000 +0000" channel="27">
-    <title>Asirimath Damsaka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006160000 +0000" channel="27">
-    <title>Milinda Prashnaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006173000 +0000" channel="27">
-    <title>Special Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951976?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="27">
     <title>Sathyakriyawa</title>
     <desc />
@@ -622,5 +582,40 @@
     <title>Punchi Ape Shraddha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952871?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011121000 +0000" stop="20261011130000 +0000" channel="27">
+    <title>Sathbudhu Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011133000 +0000" channel="27">
+    <title>Shraddha News 6.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011133000 +0000" stop="20261011150000 +0000" channel="27">
+    <title>Dham Saba Mandapaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011150000 +0000" stop="20261011170000 +0000" channel="27">
+    <title>Special Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011170000 +0000" stop="20261011173000 +0000" channel="27">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261006103000 +0000" stop="20261006133000 +0000" channel="95">
-    <title>Sindhamal Sidharamal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006170000 +0000" channel="95">
-    <title>Veeram Velaincha Mannu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954394?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261006170000 +0000" stop="20261006200000 +0000" channel="95">
     <title>Naadodi Thendral</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Parijatham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954413?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011133000 +0000" stop="20261011170000 +0000" channel="95">
+    <title>Mettukudi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954414?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011170000 +0000" stop="20261011200000 +0000" channel="95">
+    <title>Aatta Nayagan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954411?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
