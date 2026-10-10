@@ -3,46 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261006172000 +0000" stop="20261006190500 +0000" channel="133">
-    <title>John Wick</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006190500 +0000" stop="20261006211500 +0000" channel="133">
-    <title>Flesh &amp; Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006211500 +0000" stop="20261006231500 +0000" channel="133">
-    <title>Oblivion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006231500 +0000" stop="20261007005500 +0000" channel="133">
-    <title>Tai Chi Master</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951484?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007005500 +0000" stop="20261007030000 +0000" channel="133">
-    <title>Runaway Jury</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007030000 +0000" stop="20261007045500 +0000" channel="133">
-    <title>They Call Me Trinity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951483?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007045500 +0000" stop="20261007064000 +0000" channel="133">
-    <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951489?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007064000 +0000" stop="20261007081500 +0000" channel="133">
-    <title>The Legend 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007081500 +0000" stop="20261007094000 +0000" channel="133">
     <title>Jumper</title>
     <desc />
@@ -251,6 +211,7 @@
   <programme start="20261010125500 +0000" stop="20261010145500 +0000" channel="133">
     <title>Rider On The Rain</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955715?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261010145500 +0000" stop="20261010163500 +0000" channel="133">
     <title>Vampire Wars: Battle For The Universe</title>
@@ -325,5 +286,45 @@
     <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011191000 +0000" stop="20261011205500 +0000" channel="133">
+    <title>Vampire Wars: Battle For The Universe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011205500 +0000" stop="20261011222500 +0000" channel="133">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011222500 +0000" stop="20261012002500 +0000" channel="133">
+    <title>Rider On The Rain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012002500 +0000" stop="20261012020500 +0000" channel="133">
+    <title>Tai Chi Master</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951484?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012020500 +0000" stop="20261012041500 +0000" channel="133">
+    <title>Flesh &amp; Blood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012041500 +0000" stop="20261012055500 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012055500 +0000" stop="20261012075500 +0000" channel="133">
+    <title>My Name Is Nobody</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955446?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012075500 +0000" stop="20261012093000 +0000" channel="133">
+    <title>Death Ring</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951485?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

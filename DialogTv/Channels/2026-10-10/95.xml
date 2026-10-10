@@ -3,31 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261006170000 +0000" stop="20261006200000 +0000" channel="95">
-    <title>Naadodi Thendral</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954391?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006223000 +0000" channel="95">
-    <title>Chidambarathil Oru Appasamy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006223000 +0000" stop="20261007013000 +0000" channel="95">
-    <title>Sindhamal Sidharamal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007013000 +0000" stop="20261007043000 +0000" channel="95">
-    <title>Veeram Velaincha Mannu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954394?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007043000 +0000" stop="20261007073000 +0000" channel="95">
-    <title>Arasiyal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954395?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007073000 +0000" stop="20261007103000 +0000" channel="95">
     <title>Senthamizh Paattu</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Aatta Nayagan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011200000 +0000" stop="20261011223000 +0000" channel="95">
+    <title>Raja Mariyaadhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011223000 +0000" stop="20261012003000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012003000 +0000" stop="20261012033000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012033000 +0000" stop="20261012063000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012063000 +0000" stop="20261012093000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,86 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="105">
-    <title>G 11 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="105">
-    <title>G 10 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006220000 +0000" channel="105">
-    <title>G 10 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="105">
-    <title>G 10 Business &amp; Accounting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954594?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006230000 +0000" stop="20261007000000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="105">
-    <title>G 11 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007010000 +0000" stop="20261007013000 +0000" channel="105">
-    <title>Uda Nenasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950823?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007013000 +0000" stop="20261007020000 +0000" channel="105">
-    <title>Sathi Pasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007020000 +0000" stop="20261007030000 +0000" channel="105">
-    <title>G 10 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007030000 +0000" stop="20261007040000 +0000" channel="105">
-    <title>G 10 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951133?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="105">
-    <title>G 11 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="105">
-    <title>Asirimath Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007053000 +0000" stop="20261007063000 +0000" channel="105">
-    <title>G 11 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007063000 +0000" stop="20261007073000 +0000" channel="105">
-    <title>G 11 Geography</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007073000 +0000" stop="20261007080000 +0000" channel="105">
-    <title>Mihimadala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950829?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="105">
     <title>G 10 English</title>
     <desc />
@@ -702,5 +622,79 @@
     <title>G 11 Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951127?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011190000 +0000" stop="20261011200000 +0000" channel="105">
+    <title>G 11 Geography</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954622?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="105">
+    <title>G 10 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011210000 +0000" stop="20261011220000 +0000" channel="105">
+    <title>G 10 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011220000 +0000" stop="20261011230000 +0000" channel="105">
+    <title>G 10 Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954625?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011230000 +0000" stop="20261012000000 +0000" channel="105">
+    <title>G 11 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261012010000 +0000" channel="105">
+    <title>G 11 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951132?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012010000 +0000" stop="20261012020000 +0000" channel="105">
+    <title>English As A Life Skill</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012020000 +0000" stop="20261012030000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012030000 +0000" stop="20261012040000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012040000 +0000" stop="20261012050000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012050000 +0000" stop="20261012053000 +0000" channel="105">
+    <title>Agriculture</title>
+    <desc />
+  </programme>
+  <programme start="20261012053000 +0000" stop="20261012063000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012063000 +0000" stop="20261012073000 +0000" channel="105">
+    <title>Vision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

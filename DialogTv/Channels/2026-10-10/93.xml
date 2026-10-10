@@ -3,56 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20261006173000 +0000" stop="20261006210000 +0000" channel="93">
-    <title>Magamuni</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006233000 +0000" channel="93">
-    <title>Marattu Kaidi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006233000 +0000" stop="20261007000000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007000000 +0000" stop="20261007003000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007003000 +0000" stop="20261007010000 +0000" channel="93">
-    <title>Skandha Sashti Kavasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007010000 +0000" stop="20261007013000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007013000 +0000" stop="20261007020000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007020000 +0000" stop="20261007023000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007023000 +0000" stop="20261007040000 +0000" channel="93">
-    <title>Bigg Boss Tamil S10 Unseen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007040000 +0000" stop="20261007063000 +0000" channel="93">
-    <title>Jiivi 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007063000 +0000" stop="20261007093000 +0000" channel="93">
     <title>Hostel</title>
     <desc />
@@ -408,7 +358,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955379?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261010170000 +0000" stop="20261010203000 +0000" channel="93">
+  <programme start="20261010170000 +0000" stop="20261010183000 +0000" channel="93">
+    <title>Bhaskar The Rascal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010183000 +0000" stop="20261010203000 +0000" channel="93">
     <title>Bhaskar The Rascal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955380?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -473,9 +428,64 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955385?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261011173000 +0000" stop="20261011210000 +0000" channel="93">
+  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="93">
     <title>Aranmanai Kili</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952076?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011183000 +0000" stop="20261011210000 +0000" channel="93">
+    <title>Aranmanai Kili</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952076?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011210000 +0000" stop="20261011233000 +0000" channel="93">
+    <title>Buffoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955386?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011233000 +0000" stop="20261012000000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261012003000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012003000 +0000" stop="20261012010000 +0000" channel="93">
+    <title>Skandha Sashti Kavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012010000 +0000" stop="20261012013000 +0000" channel="93">
+    <title>Shri Venkateswara Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012013000 +0000" stop="20261012020000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012020000 +0000" stop="20261012023000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012023000 +0000" stop="20261012040000 +0000" channel="93">
+    <title>Bigg Boss Tamil S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012040000 +0000" stop="20261012063000 +0000" channel="93">
+    <title>Watchman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955387?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012063000 +0000" stop="20261012090000 +0000" channel="93">
+    <title>Velvet Nagaram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955388?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

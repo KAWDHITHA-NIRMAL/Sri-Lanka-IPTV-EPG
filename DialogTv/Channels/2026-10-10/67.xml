@@ -3,36 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261006183000 +0000" stop="20261006213000 +0000" channel="67">
-    <title>Big Cricket League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006213000 +0000" stop="20261006233000 +0000" channel="67">
-    <title>World Pickleball League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261006233000 +0000" stop="20261007013000 +0000" channel="67">
-    <title>MLS Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007013000 +0000" stop="20261007023000 +0000" channel="67">
-    <title>TNA Unfinished Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007023000 +0000" stop="20261007043000 +0000" channel="67">
-    <title>AEW Collision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951574?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007043000 +0000" stop="20261007063000 +0000" channel="67">
-    <title>WTT Grand Smash</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952294?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007063000 +0000" stop="20261007100000 +0000" channel="67">
     <title>TNA: Final Resolution</title>
     <desc />
@@ -326,5 +296,40 @@
     <title>Golden Trail World Series</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011210000 +0000" stop="20261012003000 +0000" channel="67">
+    <title>TNA Wrestling</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955315?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012003000 +0000" stop="20261012023000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012023000 +0000" stop="20261012043000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012043000 +0000" stop="20261012053000 +0000" channel="67">
+    <title>TNA Unfinished Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012053000 +0000" stop="20261012063000 +0000" channel="67">
+    <title>MotoGP Racing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012063000 +0000" stop="20261012070000 +0000" channel="67">
+    <title>AEW: WrestleDream</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953515?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012070000 +0000" stop="20261012150000 +0000" channel="67">
+    <title>Test Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
