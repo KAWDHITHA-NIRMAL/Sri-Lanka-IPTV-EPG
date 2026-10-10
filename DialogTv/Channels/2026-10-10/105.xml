@@ -3,61 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="105">
-    <title>G 10 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007090000 +0000" stop="20261007100000 +0000" channel="105">
-    <title>G 10 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951133?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007100000 +0000" stop="20261007110000 +0000" channel="105">
-    <title>G 11 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="105">
-    <title>Korean</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007120000 +0000" stop="20261007130000 +0000" channel="105">
-    <title>Tharu Mithuro</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954624?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007130000 +0000" stop="20261007133000 +0000" channel="105">
-    <title>Sathi Pasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007133000 +0000" stop="20261007140000 +0000" channel="105">
-    <title>Suwa Nenasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950821?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="105">
-    <title>G 11 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="105">
-    <title>G 11 Geography</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007160000 +0000" stop="20261007170000 +0000" channel="105">
-    <title>G 10 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007170000 +0000" stop="20261007180000 +0000" channel="105">
-    <title>G 10 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951133?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="105">
     <title>G 11 English</title>
     <desc />
@@ -696,5 +641,55 @@
     <title>G 10 Maths</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012093000 +0000" stop="20261012103000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012103000 +0000" stop="20261012113000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012113000 +0000" stop="20261012123000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012123000 +0000" stop="20261012133000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012173000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

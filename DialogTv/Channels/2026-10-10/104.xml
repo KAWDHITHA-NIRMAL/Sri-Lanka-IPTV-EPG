@@ -3,56 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20261007083000 +0000" stop="20261007093000 +0000" channel="104">
-    <title>G 12 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007093000 +0000" stop="20261007103000 +0000" channel="104">
-    <title>G 12 Bio System Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951630?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007103000 +0000" stop="20261007113000 +0000" channel="104">
-    <title>G 12 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007123000 +0000" channel="104">
-    <title>G 13 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007123000 +0000" stop="20261007133000 +0000" channel="104">
-    <title>G 13 Bio System Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951602?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007133000 +0000" stop="20261007143000 +0000" channel="104">
-    <title>G 13 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007153000 +0000" channel="104">
-    <title>G 12 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007163000 +0000" channel="104">
-    <title>G 12 Bio System Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951630?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007163000 +0000" stop="20261007173000 +0000" channel="104">
-    <title>G 12 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007173000 +0000" stop="20261007183000 +0000" channel="104">
-    <title>G 13 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951110?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007183000 +0000" stop="20261007193000 +0000" channel="104">
     <title>G 13 Bio System Technology</title>
     <desc />
@@ -632,5 +582,55 @@
     <title>G 12 Business Studies</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012093000 +0000" stop="20261012103000 +0000" channel="104">
+    <title>G 12 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951158?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012103000 +0000" stop="20261012113000 +0000" channel="104">
+    <title>G 12 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952215?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012113000 +0000" stop="20261012123000 +0000" channel="104">
+    <title>G 13 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012123000 +0000" stop="20261012133000 +0000" channel="104">
+    <title>G 13 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="104">
+    <title>G 13 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="104">
+    <title>G 12 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="104">
+    <title>G 12 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951158?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012173000 +0000" channel="104">
+    <title>G 12 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952215?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="104">
+    <title>G 13 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="104">
+    <title>G 13 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951157?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

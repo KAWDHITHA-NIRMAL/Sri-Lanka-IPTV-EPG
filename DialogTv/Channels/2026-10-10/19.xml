@@ -3,21 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261007083000 +0000" stop="20261007113000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007143000 +0000" channel="19">
-    <title>Thriweel Malli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007173000 +0000" channel="19">
-    <title>Yaddehi Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007173000 +0000" stop="20261007203000 +0000" channel="19">
     <title>Ape Kalaye Suba Saha Yasa</title>
     <desc />
@@ -232,5 +217,20 @@
     <title>Angana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012113000 +0000" stop="20261012143000 +0000" channel="19">
+    <title>Ahankara Nagare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955559?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012143000 +0000" stop="20261012173000 +0000" channel="19">
+    <title>Piththala Kondaruma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012173000 +0000" stop="20261012203000 +0000" channel="19">
+    <title>Nethu Piyana Thuru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955560?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

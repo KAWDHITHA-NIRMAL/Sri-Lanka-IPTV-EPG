@@ -3,21 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261007073000 +0000" stop="20261007112100 +0000" channel="91">
-    <title>Saajan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007112100 +0000" stop="20261007142600 +0000" channel="91">
-    <title>Judwaa 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954494?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007142600 +0000" stop="20261007182700 +0000" channel="91">
-    <title>Kal Ho Naa Ho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007182700 +0000" stop="20261007210200 +0000" channel="91">
     <title>Rajaji</title>
     <desc />
@@ -207,5 +192,25 @@
     <title>Khuda Gawah</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955548?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012111300 +0000" stop="20261012142500 +0000" channel="91">
+    <title>Kachche Dhaage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012142500 +0000" stop="20261012175600 +0000" channel="91">
+    <title>Goliyon Ki Raasleela Ram-Leela</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012175600 +0000" stop="20261012183000 +0000" channel="91">
+    <title>Chal Mere Bhai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012183000 +0000" stop="20261012213000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

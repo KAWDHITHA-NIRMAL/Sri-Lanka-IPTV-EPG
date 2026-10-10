@@ -3,41 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261007073000 +0000" stop="20261007092000 +0000" channel="125">
-    <title>Top 14 Bordeuax Begles v Lyon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007092000 +0000" stop="20261007111000 +0000" channel="125">
-    <title>Top 14 La Rochelle v Clermont</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007111000 +0000" stop="20261007130000 +0000" channel="125">
-    <title>United Rugby Championship Benetton v Connacht</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953562?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007130000 +0000" stop="20261007133000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007133000 +0000" stop="20261007152000 +0000" channel="125">
-    <title>United Rugby Championship Lions v Ospreys</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954176?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007152000 +0000" stop="20261007171000 +0000" channel="125">
-    <title>United Rugby Championship Dragons v Scarlets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953912?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007171000 +0000" stop="20261007181000 +0000" channel="125">
-    <title>URC in 60 Round 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955050?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007181000 +0000" stop="20261007200000 +0000" channel="125">
     <title>NRL Roosters v Knights</title>
     <desc />
@@ -431,6 +396,83 @@
   </programme>
   <programme start="20261012071000 +0000" stop="20261012090000 +0000" channel="125">
     <title>United Rugby Championship Stormers v Sharks</title>
+    <desc />
+  </programme>
+  <programme start="20261012090000 +0000" stop="20261012105000 +0000" channel="125">
+    <title>Gallagher Premiership Exeter v Newcastle</title>
+    <desc />
+  </programme>
+  <programme start="20261012105000 +0000" stop="20261012112000 +0000" channel="125">
+    <title>Top 14 Highlights Round 6</title>
+    <desc />
+  </programme>
+  <programme start="20261012112000 +0000" stop="20261012113500 +0000" channel="125">
+    <title>AFLW Highlights Bulldogs v Essendon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012113500 +0000" stop="20261012115000 +0000" channel="125">
+    <title>AFLW Highlights St Kilda v Collingwood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954765?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012115000 +0000" stop="20261012120500 +0000" channel="125">
+    <title>AFLW Highlights Port Adelaide v West Coast</title>
+    <desc />
+  </programme>
+  <programme start="20261012120500 +0000" stop="20261012122000 +0000" channel="125">
+    <title>AFLW Highlights Geelong v GWS Giants</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954766?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012122000 +0000" stop="20261012123500 +0000" channel="125">
+    <title>AFLW Highlights Richmond v Adelaide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012123500 +0000" stop="20261012125000 +0000" channel="125">
+    <title>AFLW Highlights Gold Coast v Melbourne</title>
+    <desc />
+  </programme>
+  <programme start="20261012125000 +0000" stop="20261012130500 +0000" channel="125">
+    <title>AFLW Highlights North Melbourne v Fremantle</title>
+    <desc />
+  </programme>
+  <programme start="20261012130500 +0000" stop="20261012132000 +0000" channel="125">
+    <title>AFLW Highlights Hawthorn v Brisbane Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012132000 +0000" stop="20261012134000 +0000" channel="125">
+    <title>AFLW Highlights Sydney v Carlton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954769?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012134000 +0000" stop="20261012153000 +0000" channel="125">
+    <title>Gallagher Premiership Leicester v Gloucester</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012153000 +0000" stop="20261012172000 +0000" channel="125">
+    <title>Gallagher Premiership Northampton v Bath</title>
+    <desc />
+  </programme>
+  <programme start="20261012172000 +0000" stop="20261012175000 +0000" channel="125">
+    <title>Top 14 Highlights Round 6</title>
+    <desc />
+  </programme>
+  <programme start="20261012175000 +0000" stop="20261012180500 +0000" channel="125">
+    <title>AFLW Highlights Bulldogs v Essendon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012180500 +0000" stop="20261012182000 +0000" channel="125">
+    <title>AFLW Highlights St Kilda v Collingwood</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954765?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012182000 +0000" stop="20261012183500 +0000" channel="125">
+    <title>AFLW Highlights Port Adelaide v West Coast</title>
     <desc />
   </programme>
 </tv>

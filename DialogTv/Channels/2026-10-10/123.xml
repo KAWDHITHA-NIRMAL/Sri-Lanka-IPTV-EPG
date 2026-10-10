@@ -3,51 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261007083000 +0000" stop="20261007090000 +0000" channel="123">
-    <title>AG 2026 Highlights (Recurve Mixed Teams and Mens Team Gold Medal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007090000 +0000" stop="20261007093000 +0000" channel="123">
-    <title>FIFA International friendlies 2026-India vs Uruguay Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007093000 +0000" stop="20261007113000 +0000" channel="123">
-    <title>UEFA Nations League 2026/27 England vs Czechia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954909?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007123000 +0000" channel="123">
-    <title>UNL 2026-27 MD4 MN3 Matchnight Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954059?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007123000 +0000" stop="20261007133000 +0000" channel="123">
-    <title>UNL 2026-27 MD4 Matchweek Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954059?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007133000 +0000" stop="20261007143000 +0000" channel="123">
-    <title>Asian Games Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954684?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007153000 +0000" channel="123">
-    <title>Laver Cup Review Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954060?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007173000 +0000" channel="123">
-    <title>FIFA International friendlies India vs Uruguay</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007173000 +0000" stop="20261007183000 +0000" channel="123">
-    <title>WWE Evolve</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007183000 +0000" stop="20261007223000 +0000" channel="123">
     <title>UFC 332 - Silva vs Wang</title>
     <desc />
@@ -368,18 +323,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954067?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261010183000 +0000" stop="20261010213000 +0000" channel="123">
+  <programme start="20261010183000 +0000" stop="20261010210000 +0000" channel="123">
     <title>UFC Fight Night - Nurmagomedov vs Song</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954078?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261010213000 +0000" stop="20261010220000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 1 Porto vs Manchester CityHighlights</title>
+  <programme start="20261010210000 +0000" stop="20261010213000 +0000" channel="123">
+    <title>FIFA International friendlies 2026-India vs Uruguay Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261010213000 +0000" stop="20261010220000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 1 Porto vs Manchester City Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955800?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261010220000 +0000" stop="20261010223000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 1 Barcelona vs FeyenoordHighlights</title>
+    <title>UCL 2026-27 League Phase MD 1 Barcelona vs Feyenoord Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955801?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261010223000 +0000" stop="20261010233000 +0000" channel="123">
     <title>UFC 332 - Silva vs Wang</title>
@@ -394,6 +356,7 @@
   <programme start="20261011000000 +0000" stop="20261011030000 +0000" channel="123">
     <title>Live UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955802?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261011030000 +0000" stop="20261011033000 +0000" channel="123">
     <title>AG 2026 Cricket (M) Gold Medal Match - India vs Pakistan Highlights</title>
@@ -416,6 +379,7 @@
   <programme start="20261011053000 +0000" stop="20261011083000 +0000" channel="123">
     <title>UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955812?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261011083000 +0000" stop="20261011103000 +0000" channel="123">
     <title>Indian Super League 2026-27 Bengaluru FC vs Sporting Club Delhi</title>
@@ -429,25 +393,20 @@
     <title>ISL 2026-27 Highlights-FC Goa vs Chennaiyin FC</title>
     <desc />
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011133000 +0000" channel="123">
-    <title>Live Indian Super League 2026-27 KSHI vs Kerala Blasters FC</title>
-    <desc />
-  </programme>
-  <programme start="20261011133000 +0000" stop="20261011140000 +0000" channel="123">
-    <title>ISL 2026-27 Highlights-Bengaluru FC vs Sporting Club Delhi</title>
-    <desc />
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011160000 +0000" channel="123">
-    <title>Live Indian Super League 2026-27 Churchill Brothers FC vs Mumbai City FC</title>
-    <desc />
-  </programme>
-  <programme start="20261011160000 +0000" stop="20261011163000 +0000" channel="123">
-    <title>ISL 2026-27 Highlights-FC Goa vs Chennaiyin FC</title>
-    <desc />
-  </programme>
-  <programme start="20261011163000 +0000" stop="20261011173000 +0000" channel="123">
+  <programme start="20261011113000 +0000" stop="20261011143000 +0000" channel="123">
     <title>UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955812?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011143000 +0000" stop="20261011153000 +0000" channel="123">
+    <title>UEL/UECL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011173000 +0000" channel="123">
+    <title>UEFA Nations League 2026/27 England vs Czechia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954909?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="123">
     <title>WWE Evolve</title>
@@ -457,13 +416,15 @@
   <programme start="20261011183000 +0000" stop="20261011213000 +0000" channel="123">
     <title>UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955812?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261011213000 +0000" stop="20261011220000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 1 Liverpool vs Atletico MadridHighlights</title>
+    <title>UCL 2026-27 League Phase MD 1 Liverpool vs Atletico Madrid Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955804?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261011220000 +0000" stop="20261011223000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 1 Napoli vs ArsenalHighlights</title>
+    <title>UCL 2026-27 League Phase MD 1 Napoli vs Arsenal Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953114?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
@@ -480,6 +441,7 @@
   <programme start="20261012000000 +0000" stop="20261012030000 +0000" channel="123">
     <title>Live UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955802?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261012030000 +0000" stop="20261012033000 +0000" channel="123">
     <title>AG 2026 Cricket (M) Gold Medal Match - India vs Pakistan Highlights</title>
@@ -502,9 +464,44 @@
   <programme start="20261012053000 +0000" stop="20261012083000 +0000" channel="123">
     <title>UFC Fight Night - Allen vs Duncan</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955812?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261012083000 +0000" stop="20261012103000 +0000" channel="123">
     <title>Indian Super League 2026-27 Bengaluru FC vs Sporting Club Delhi</title>
     <desc />
+  </programme>
+  <programme start="20261012103000 +0000" stop="20261012110000 +0000" channel="123">
+    <title>ISL 2026-27 Highlights-Bengaluru FC vs Sporting Club Delhi</title>
+    <desc />
+  </programme>
+  <programme start="20261012110000 +0000" stop="20261012113000 +0000" channel="123">
+    <title>ISL 2026-27 Highlights-FC Goa vs Chennaiyin FC</title>
+    <desc />
+  </programme>
+  <programme start="20261012113000 +0000" stop="20261012133000 +0000" channel="123">
+    <title>Live Indian Super League 2026-27 KSHI vs Kerala Blasters FC</title>
+    <desc />
+  </programme>
+  <programme start="20261012133000 +0000" stop="20261012140000 +0000" channel="123">
+    <title>ISL 2026-27 Highlights-Bengaluru FC vs Sporting Club Delhi</title>
+    <desc />
+  </programme>
+  <programme start="20261012140000 +0000" stop="20261012160000 +0000" channel="123">
+    <title>Live Indian Super League 2026-27 Churchill Brothers FC vs Mumbai City FC</title>
+    <desc />
+  </programme>
+  <programme start="20261012160000 +0000" stop="20261012163000 +0000" channel="123">
+    <title>ISL 2026-27 Highlights-FC Goa vs Chennaiyin FC</title>
+    <desc />
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012173000 +0000" channel="123">
+    <title>UFC Fight Night - Allen vs Duncan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955812?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012173000 +0000" stop="20261012184500 +0000" channel="123">
+    <title>WWE Evolve</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954067?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

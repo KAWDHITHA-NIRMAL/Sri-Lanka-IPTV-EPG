@@ -3,31 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261007073000 +0000" stop="20261007094500 +0000" channel="73">
-    <title>Freedom Writers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950036?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007094500 +0000" stop="20261007120000 +0000" channel="73">
-    <title>An Officer And A Gentleman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007120000 +0000" stop="20261007143000 +0000" channel="73">
-    <title>Red Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007143000 +0000" stop="20261007163000 +0000" channel="73">
-    <title>Resident Evil: Apocalypse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007163000 +0000" stop="20261007183000 +0000" channel="73">
-    <title>The Scorpion King</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950725?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007183000 +0000" stop="20261007203000 +0000" channel="73">
     <title>Stop! Or My Mom Will Shoot</title>
     <desc />
@@ -262,5 +237,25 @@
     <title>The Usual Suspects</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012091500 +0000" stop="20261012120000 +0000" channel="73">
+    <title>Anchors Aweigh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954706?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012120000 +0000" stop="20261012141500 +0000" channel="73">
+    <title>Meet The Fockers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012141500 +0000" stop="20261012170000 +0000" channel="73">
+    <title>Goodfellas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954708?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012170000 +0000" stop="20261012193000 +0000" channel="73">
+    <title>Red Dragon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

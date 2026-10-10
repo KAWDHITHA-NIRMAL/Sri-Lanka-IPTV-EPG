@@ -3,41 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261007080000 +0000" stop="20261007094600 +0000" channel="101">
-    <title>Lineman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951053?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007094600 +0000" stop="20261007100000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007100000 +0000" stop="20261007121500 +0000" channel="101">
-    <title>A1 Express</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007121500 +0000" stop="20261007123000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007123000 +0000" stop="20261007152400 +0000" channel="101">
-    <title>Ravanasura</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007152400 +0000" stop="20261007160000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007160000 +0000" stop="20261007180000 +0000" channel="101">
-    <title>Sillu Karuppatti</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951056?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007180000 +0000" stop="20261007193000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -297,5 +262,25 @@
     <title>Sisters</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955465?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012103000 +0000" stop="20261012130000 +0000" channel="101">
+    <title>Hotspot 2 Much</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955466?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012130000 +0000" stop="20261012160000 +0000" channel="101">
+    <title>Jawan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012160000 +0000" stop="20261012183000 +0000" channel="101">
+    <title>Ghosty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955468?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012183000 +0000" stop="20261012190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951028?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

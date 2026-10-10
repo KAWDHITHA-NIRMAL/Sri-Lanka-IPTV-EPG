@@ -3,36 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20261007083000 +0000" stop="20261007123000 +0000" channel="20">
-    <title>Repeat - Bangladesh tour of India 2024</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007123000 +0000" stop="20261007140000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007150000 +0000" stop="20261007153000 +0000" channel="20">
-    <title>Highlights - Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954878?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007153000 +0000" stop="20261007173000 +0000" channel="20">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007173000 +0000" stop="20261007183000 +0000" channel="20">
-    <title>Highlights - ICC Men's T20 World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949661?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007183000 +0000" stop="20261007203000 +0000" channel="20">
     <title>Repeat - Super League 2026</title>
     <desc />
@@ -267,5 +237,19 @@
     <title>Live - South Africa vs Australia - Day 04 - 1st Test  - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012123000 +0000" stop="20261012163000 +0000" channel="20">
+    <title>Live - South Africa vs Australia - Day 04 - 1st Test  - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="20">
+    <title>Repeat -  NEXT XV Rugby League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="20">
+    <title>Sports Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954666?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261007080000 +0000" stop="20261007110000 +0000" channel="90">
-    <title>Ghatak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007110000 +0000" stop="20261007140000 +0000" channel="90">
-    <title>Daraar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007140000 +0000" stop="20261007170900 +0000" channel="90">
-    <title>Josh (2000)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950994?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007170900 +0000" stop="20261007200500 +0000" channel="90">
     <title>Ranbanka</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Hatya: The Murder</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954736?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012110000 +0000" stop="20261012140000 +0000" channel="90">
+    <title>Taqdeer Ka Tamasha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954737?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012140000 +0000" stop="20261012170000 +0000" channel="90">
+    <title>Satya (1998)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954738?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012170000 +0000" stop="20261012200000 +0000" channel="90">
+    <title>Demon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954739?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

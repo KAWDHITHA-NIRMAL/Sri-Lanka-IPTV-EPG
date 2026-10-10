@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261007060000 +0000" stop="20261007090000 +0000" channel="92">
-    <title>Iqbal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952872?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007090000 +0000" stop="20261007120000 +0000" channel="92">
-    <title>Fukrey Returns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953209?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007120000 +0000" stop="20261007150000 +0000" channel="92">
-    <title>Darlings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953210?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261007150000 +0000" stop="20261007180000 +0000" channel="92">
-    <title>Murder 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261007180000 +0000" stop="20261007210000 +0000" channel="92">
     <title>Mard Ko Dard Nahi Hota</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Banjo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954742?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012090000 +0000" stop="20261012120000 +0000" channel="92">
+    <title>Batti Gul Meter Chalu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954743?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012120000 +0000" stop="20261012150000 +0000" channel="92">
+    <title>Gully Boy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954744?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012150000 +0000" stop="20261012180000 +0000" channel="92">
+    <title>Bholaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261012180000 +0000" stop="20261012210000 +0000" channel="92">
+    <title>Gold</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954028?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
