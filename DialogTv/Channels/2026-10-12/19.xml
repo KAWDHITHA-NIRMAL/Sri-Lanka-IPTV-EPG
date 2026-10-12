@@ -3,21 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261009083000 +0000" stop="20261009113000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009143000 +0000" channel="19">
-    <title>Ethuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952501?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009173000 +0000" channel="19">
-    <title>Wiman Dora</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009203000 +0000" channel="19">
     <title>Bala Binduma</title>
     <desc />
@@ -232,5 +217,20 @@
     <title>Angana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014143000 +0000" channel="19">
+    <title>Isiwarabhawaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955562?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014173000 +0000" channel="19">
+    <title>Piththala Kondaruma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955561?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014203000 +0000" channel="19">
+    <title>Nethu Piyana Thuru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955560?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

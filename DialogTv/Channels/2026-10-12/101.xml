@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261009103400 +0000" stop="20261009130000 +0000" channel="101">
-    <title>The Smile Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955453?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009161400 +0000" channel="101">
-    <title>Kolamaavu Kokila</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953782?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009161400 +0000" stop="20261009180800 +0000" channel="101">
     <title>Murder</title>
     <desc />
@@ -287,5 +277,15 @@
     <title>Kiss</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955480?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014160000 +0000" channel="101">
+    <title>Shivalinga</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014183000 +0000" channel="101">
+    <title>Desingu Raja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955482?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

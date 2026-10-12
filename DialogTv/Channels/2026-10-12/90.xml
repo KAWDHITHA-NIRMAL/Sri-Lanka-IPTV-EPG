@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261009110000 +0000" stop="20261009140000 +0000" channel="90">
-    <title>Baadshah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009170000 +0000" channel="90">
-    <title>Main Intequam Loonga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170000 +0000" stop="20261009200000 +0000" channel="90">
     <title>Kaise Kahoon Ke... Pyaar Hai</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Krantiveer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951937?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014170000 +0000" channel="90">
+    <title>Katilon Ke Kaatil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014200000 +0000" channel="90">
+    <title>Race (2019)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955190?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,71 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261009110000 +0000" stop="20261009113000 +0000" channel="14">
-    <title>Card News - Big Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949896?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009120000 +0000" channel="14">
-    <title>Big Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949895?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009123000 +0000" channel="14">
-    <title>Card News - Big Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949896?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009124000 +0000" channel="14">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009124000 +0000" stop="20261009130000 +0000" channel="14">
-    <title>Around The Ground</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009133000 +0000" channel="14">
-    <title>Siwdesa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949898?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009140000 +0000" channel="14">
-    <title>Gen Xyz</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009143000 +0000" channel="14">
-    <title>Gen Xyz</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009153000 +0000" channel="14">
-    <title>Prime Time News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009153000 +0000" stop="20261009160500 +0000" channel="14">
-    <title>First At 9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009160500 +0000" stop="20261009163000 +0000" channel="14">
-    <title>World News - English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009170000 +0000" channel="14">
-    <title>Nightly Business Report - English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009170000 +0000" stop="20261009173000 +0000" channel="14">
-    <title>Nightly Business Report - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009180000 +0000" channel="14">
     <title>Late Night News</title>
     <desc />
@@ -967,5 +902,70 @@
     <title>Card News - Big Focus</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014120000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014123000 +0000" channel="14">
+    <title>Card News - Big Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014124000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/76052?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014124000 +0000" stop="20261014130000 +0000" channel="14">
+    <title>Around The Ground</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="14">
+    <title>Siwdesa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949898?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="14">
+    <title>Get Real</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="14">
+    <title>Get Real</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="14">
+    <title>Prime Time News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014160500 +0000" channel="14">
+    <title>First At 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014160500 +0000" stop="20261014163000 +0000" channel="14">
+    <title>World News - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014170000 +0000" channel="14">
+    <title>Nightly Business Report - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="14">
+    <title>Nightly Business Report - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014180000 +0000" channel="14">
+    <title>Late Night News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949899?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

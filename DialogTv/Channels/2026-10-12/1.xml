@@ -3,46 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20261009103000 +0000" stop="20261009113000 +0000" channel="1">
-    <title>Radio One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437045?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009123000 +0000" channel="1">
-    <title>Sindu Choice</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009133000 +0000" channel="1">
-    <title>Ru Naari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009143000 +0000" channel="1">
-    <title>Kandula</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009150000 +0000" channel="1">
-    <title>Me Wasantha Kalayai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009153000 +0000" channel="1">
-    <title>Api Api Wage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009153000 +0000" stop="20261009163000 +0000" channel="1">
-    <title>20ta Kalin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954879?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009173000 +0000" channel="1">
-    <title>Radio One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/437045?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="1">
     <title>World Wide</title>
     <desc />
@@ -626,5 +586,45 @@
     <title>Anywhere Everything</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/750933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014123000 +0000" channel="1">
+    <title>Sindu Choice</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014133000 +0000" channel="1">
+    <title>Ru Naari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="1">
+    <title>Kandula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="1">
+    <title>Me Wasantha Kalayai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949478?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="1">
+    <title>Api Api Wage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="1">
+    <title>20ta Kalin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954879?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="1">
+    <title>Anywhere Everything</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/750933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="1">
+    <title>World Wide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949477?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

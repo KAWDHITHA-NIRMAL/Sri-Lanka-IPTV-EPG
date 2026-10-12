@@ -3,21 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261009100000 +0000" stop="20261009120000 +0000" channel="72">
-    <title>Shinjuku Incident</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009140000 +0000" channel="72">
-    <title>Black Knight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009160000 +0000" channel="72">
-    <title>Rob B Hood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009160000 +0000" stop="20261009180000 +0000" channel="72">
     <title>Rising Shaolin</title>
     <desc />
@@ -307,5 +292,20 @@
     <title>Backstabbing For Beginners</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950748?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014140000 +0000" channel="72">
+    <title>School Of Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014160000 +0000" channel="72">
+    <title>First Kill</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948961?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014180000 +0000" channel="72">
+    <title>Drone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950754?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

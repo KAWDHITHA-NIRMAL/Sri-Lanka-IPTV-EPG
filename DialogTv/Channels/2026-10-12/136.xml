@@ -3,36 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20261009110000 +0000" stop="20261009113000 +0000" channel="136">
-    <title>Un Si Grand Soleil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952718?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009123000 +0000" channel="136">
-    <title>Magazine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009125900 +0000" channel="136">
-    <title>Le Journal De France 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952985?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009125900 +0000" stop="20261009143200 +0000" channel="136">
-    <title>Le Crime Lui Va Si Bien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952984?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143200 +0000" stop="20261009150200 +0000" channel="136">
-    <title>Geopolitis</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953446?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150200 +0000" stop="20261009170100 +0000" channel="136">
-    <title>Magazine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170100 +0000" stop="20261009175200 +0000" channel="136">
     <title>Revolution Grise, Une Meche A La Fois</title>
     <desc />
@@ -1212,5 +1182,40 @@
     <title>Un Si Grand Soleil</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014123000 +0000" channel="136">
+    <title>Temps Present</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953427?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014130200 +0000" channel="136">
+    <title>Le Journal De France 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130200 +0000" stop="20261014145700 +0000" channel="136">
+    <title>Laissez-Vous Guider</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014145700 +0000" stop="20261014154900 +0000" channel="136">
+    <title>Destination Francophonie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953429?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014154900 +0000" stop="20261014163500 +0000" channel="136">
+    <title>Peuples Des Sommets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163500 +0000" stop="20261014170100 +0000" channel="136">
+    <title>Secrets De Nos Vallees</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014170100 +0000" stop="20261014183300 +0000" channel="136">
+    <title>Le Crime Lui Va Si Bien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952984?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261009100000 +0000" stop="20261009120000 +0000" channel="124">
-    <title>FIFA International friendlies India vs Brazil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953909?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009123000 +0000" channel="124">
-    <title>A G 2026 -Hockey(W) - Final Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955407?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009133000 +0000" channel="124">
-    <title>Sri Lanka v India 2008 - 2nd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954232?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009153000 +0000" channel="124">
-    <title>England vs India 2025 4th Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954233?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009153000 +0000" stop="20261009163000 +0000" channel="124">
-    <title>Coca-Cola Cup 1998 Hlts-Final-Aus vs Ind</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954234?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009173000 +0000" channel="124">
-    <title>DP World Asia Cup 2025 Highlights- - Super Four - India vs Bangladesh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009180000 +0000" channel="124">
     <title>England vs India 2022-3rd ODI Highlights</title>
     <desc />
@@ -561,5 +531,33 @@
     <title>New Zealand Vs India 2019 3rd ODI Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014133000 +0000" channel="124">
+    <title>UEFA Champions League 2026/27 Atletico Madrid vs Man United</title>
+    <desc />
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="124">
+    <title>Cricket Classics: Australia v Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="124">
+    <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954220?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="124">
+    <title>Sri Lanka v India 2008 - 4th ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954360?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="124">
+    <title>New Zealand Vs India 2019 3rd ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014180000 +0000" channel="124">
+    <title>UCL 2026-27 League Phase MD 2 Galatasaray vs Barcelona Highlights</title>
+    <desc />
   </programme>
 </tv>

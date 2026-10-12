@@ -3,15 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20261009100000 +0000" stop="20261009163000 +0000" channel="20">
-    <title>Live - South Africa vs Australia - Day 01 - 1st Test  - Australia tour of South Africa 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009173000 +0000" channel="20">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="20">
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
@@ -234,5 +225,20 @@
     <title>Repeat - West Indies tour of India 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955966?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014143000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014163000 +0000" channel="20">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014183000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

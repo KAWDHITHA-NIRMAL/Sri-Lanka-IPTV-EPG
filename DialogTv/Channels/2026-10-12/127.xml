@@ -3,20 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261009083000 +0000" stop="20261009123000 +0000" channel="127">
-    <title>Repeat - Bangladesh tour of India 2024</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="127">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009173000 +0000" channel="127">
-    <title>Live - India vs West Indies - 2nd T20I - West Indies tour of India 2026</title>
-    <desc />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="127">
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
@@ -248,6 +234,15 @@
   </programme>
   <programme start="20261014083000 +0000" stop="20261014123000 +0000" channel="127">
     <title>Repeat - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="127">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014180000 +0000" channel="127">
+    <title>Live - India vs West Indies - 4th T20I - West Indies tour of India 2026</title>
     <desc />
   </programme>
 </tv>

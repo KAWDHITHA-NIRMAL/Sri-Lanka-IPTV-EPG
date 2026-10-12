@@ -3,26 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261009102000 +0000" stop="20261009121000 +0000" channel="125">
-    <title>United Rugby Championship Sharks v Leinster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953899?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009121000 +0000" stop="20261009140000 +0000" channel="125">
-    <title>United Rugby Championship Munster v Bulls</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954171?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009143000 +0000" channel="125">
-    <title>Top 14 Highlights Round 5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009162000 +0000" channel="125">
-    <title>Super League Warrington v Wakefield</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009162000 +0000" stop="20261009181000 +0000" channel="125">
     <title>NRL Roosters v Knights</title>
     <desc />
@@ -538,5 +518,24 @@
     <title>United Rugby Championship Scarlets v Benetton</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955985?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="125">
+    <title>URC in 60 Round 3</title>
+    <desc />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014155000 +0000" channel="125">
+    <title>NRL Roosters v Knights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955196?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014155000 +0000" stop="20261014174000 +0000" channel="125">
+    <title>Top 14 Clermont Auvergne v Bordeaux</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955955?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261009110000 +0000" stop="20261009123500 +0000" channel="118">
-    <title>Epic: Elvis Presley In Concert</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955199?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123500 +0000" stop="20261009150000 +0000" channel="118">
-    <title>Transformers: Revenge Of The Fallen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953269?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009150000 +0000" stop="20261009173500 +0000" channel="118">
     <title>Harry Potter And The Half-Blood Prince</title>
     <desc />
@@ -352,5 +342,20 @@
     <title>Playing With Fire</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014125500 +0000" stop="20261014150000 +0000" channel="118">
+    <title>Downton Abbey: The Grand Finale</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014162500 +0000" channel="118">
+    <title>The Naked Gun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014162500 +0000" stop="20261014180500 +0000" channel="118">
+    <title>Caddo Lake</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953270?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

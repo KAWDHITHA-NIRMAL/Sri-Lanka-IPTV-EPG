@@ -3,16 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261009070000 +0000" stop="20261009150000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="67">
-    <title>TNA Wrestling: Pehalwani Patakha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009160000 +0000" stop="20261009180000 +0000" channel="67">
     <title>BWF World Tour Badminton</title>
     <desc />
@@ -295,5 +285,30 @@
   <programme start="20261014033000 +0000" stop="20261014120000 +0000" channel="67">
     <title>Women's One-Day International Cricket</title>
     <desc />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014123000 +0000" channel="67">
+    <title>AEW: WrestleDream</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953515?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014143000 +0000" channel="67">
+    <title>TNA Impact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="67">
+    <title>Test Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="67">
+    <title>MotoGP Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955316?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014183000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

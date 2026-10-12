@@ -3,21 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261009100000 +0000" stop="20261009120000 +0000" channel="73">
-    <title>Robocop 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953760?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009143000 +0000" channel="73">
-    <title>Samson And Delilah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009164500 +0000" channel="73">
-    <title>The Accused</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953887?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009164500 +0000" stop="20261009193000 +0000" channel="73">
     <title>Apollo 13</title>
     <desc />
@@ -262,5 +247,20 @@
     <title>The Specialist</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955177?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014141500 +0000" channel="73">
+    <title>The Frighteners</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955615?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014141500 +0000" stop="20261014161500 +0000" channel="73">
+    <title>Resident Evil: Extinction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955178?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014161500 +0000" stop="20261014174500 +0000" channel="73">
+    <title>Creature From The Black Lagoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955006?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

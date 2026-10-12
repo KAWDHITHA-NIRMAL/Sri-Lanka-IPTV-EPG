@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261009102000 +0000" stop="20261009121000 +0000" channel="117">
-    <title>Something The Lord Made</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953802?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009121000 +0000" stop="20261009140000 +0000" channel="117">
-    <title>The Legend Of Tarzan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009160000 +0000" channel="117">
-    <title>M3Gan 2.0</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955366?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009160000 +0000" stop="20261009175500 +0000" channel="117">
     <title>London Calling</title>
     <desc />
@@ -367,5 +352,20 @@
     <title>The Late Shift</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955215?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014120500 +0000" stop="20261014140000 +0000" channel="117">
+    <title>Dinner For Schmucks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014154500 +0000" channel="117">
+    <title>Gremlins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014154500 +0000" stop="20261014174000 +0000" channel="117">
+    <title>Blade Ii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955040?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

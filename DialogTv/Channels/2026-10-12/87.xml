@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261009090500 +0000" stop="20261009113500 +0000" channel="87">
-    <title>Dhol</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953744?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113500 +0000" stop="20261009141000 +0000" channel="87">
-    <title>Hungama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009141000 +0000" stop="20261009170000 +0000" channel="87">
-    <title>Kaala Patthar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170000 +0000" stop="20261009192500 +0000" channel="87">
     <title>Garam Masala (2005)</title>
     <desc />
@@ -272,5 +257,20 @@
     <title>Kahin Pyaar Na Ho Jaaye</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955158?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014131000 +0000" stop="20261014150000 +0000" channel="87">
+    <title>Dum Laga Ke Haisha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014170000 +0000" channel="87">
+    <title>Hichki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955160?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014195000 +0000" channel="87">
+    <title>Sultan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955161?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20261009103000 +0000" stop="20261009163000 +0000" channel="128">
-    <title>Live - South Africa vs Australia - Day 01 - 1st Test  - Australia tour of South Africa 2026</title>
-    <desc />
-  </programme>
   <programme start="20261009163000 +0000" stop="20261009180000 +0000" channel="128">
     <title>Repeat - Pakistan, Sri Lanka and Zimbabwe - T20I Tri Series</title>
     <desc />
@@ -273,5 +269,40 @@
     <title>Highlights - FFSL Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955728?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014123000 +0000" channel="128">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014133000 +0000" channel="128">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="128">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="128">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="128">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="128">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="128">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

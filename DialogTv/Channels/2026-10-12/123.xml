@@ -3,46 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261009093000 +0000" stop="20261009113000 +0000" channel="123">
-    <title>UEFA Nations League 2026/27 Portugal vs Norway</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009123000 +0000" channel="123">
-    <title>UCI Pro Series Czech Tour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954073?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="123">
-    <title>20th Asian Games 2026 Mens Gold Medal (Kabaddi) India Vs Iran Multi Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954685?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009133000 +0000" channel="123">
-    <title>AG 2026 Highlights (Recurve Mixed Teams and Mens Team Gold Medal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009143000 +0000" channel="123">
-    <title>UFC FIGHT O'CLOCK 2.0 - FEATHERWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009150000 +0000" channel="123">
-    <title>UEFA Nations League 2026-27 MD 4 France vs Belgium Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954682?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009153000 +0000" channel="123">
-    <title>UEFA Nations League 2026-27 MD 4 Italy vs Turkiye Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009153000 +0000" stop="20261009173000 +0000" channel="123">
-    <title>Live UEFA Nations League 2026/27 France vs Belgium</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954686?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="123">
     <title>WWE Evolve</title>
     <desc />
@@ -549,6 +509,22 @@
   </programme>
   <programme start="20261014110000 +0000" stop="20261014120000 +0000" channel="123">
     <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014140000 +0000" channel="123">
+    <title>Live UEFA Youth League 2026/27 Roma vs Real Madrid</title>
+    <desc />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014160000 +0000" channel="123">
+    <title>Live UEFA Youth League 2026/27 Manchester City vs PSG</title>
+    <desc />
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014164500 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 2 Atletico Madrid vs Man United Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="123">
+    <title>Live UEFA Champions League 2026/27 LASK vs Liverpool</title>
     <desc />
   </programme>
 </tv>

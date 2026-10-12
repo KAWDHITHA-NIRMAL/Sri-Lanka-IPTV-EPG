@@ -3,21 +3,6 @@
   <channel id="130">
     <display-name>Channel 2382</display-name>
   </channel>
-  <programme start="20261009105500 +0000" stop="20261009131500 +0000" channel="130">
-    <title>Live WCL 2026 AUS v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009131500 +0000" stop="20261009150000 +0000" channel="130">
-    <title>Live WCL 2026 AUS v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009170500 +0000" channel="130">
-    <title>Live WCL 2026 BAN v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170500 +0000" stop="20261009183000 +0000" channel="130">
     <title>Live WCL 2026 BAN v WI</title>
     <desc />
@@ -1177,6 +1162,18 @@
   </programme>
   <programme start="20261014105500 +0000" stop="20261014131500 +0000" channel="130">
     <title>Live WCL 2026 ENG v AUS</title>
+    <desc />
+  </programme>
+  <programme start="20261014131500 +0000" stop="20261014150000 +0000" channel="130">
+    <title>Live WCL 2026 ENG v AUS</title>
+    <desc />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014170500 +0000" channel="130">
+    <title>Live WCL 2026 BAN v SA</title>
+    <desc />
+  </programme>
+  <programme start="20261014170500 +0000" stop="20261014183000 +0000" channel="130">
+    <title>Live WCL 2026 BAN v SA</title>
     <desc />
   </programme>
 </tv>

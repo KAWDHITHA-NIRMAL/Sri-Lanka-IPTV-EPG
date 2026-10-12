@@ -3,21 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261009110500 +0000" stop="20261009130000 +0000" channel="114">
-    <title>The Huntsman: Winter's War</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="114">
-    <title>War S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009161000 +0000" channel="114">
-    <title>The Running Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953291?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009161000 +0000" stop="20261009180500 +0000" channel="114">
     <title>Reminders Of Him</title>
     <desc />
@@ -342,5 +327,25 @@
     <title>All The Devils Are Here</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951267?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014121500 +0000" stop="20261014140000 +0000" channel="114">
+    <title>You, Me &amp; Tuscany</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955692?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014145500 +0000" channel="114">
+    <title>The Pitt S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014145500 +0000" stop="20261014164500 +0000" channel="114">
+    <title>Final Destination Bloodlines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014164500 +0000" stop="20261014190000 +0000" channel="114">
+    <title>The Conjuring: Last Rites</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955203?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

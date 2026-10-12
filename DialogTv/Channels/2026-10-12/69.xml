@@ -3,21 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20261009105500 +0000" stop="20261009131500 +0000" channel="69">
-    <title>Live WCL 2026 AUS v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009131500 +0000" stop="20261009150000 +0000" channel="69">
-    <title>Live WCL 2026 AUS v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009170500 +0000" channel="69">
-    <title>Live WCL 2026 BAN v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170500 +0000" stop="20261009183000 +0000" channel="69">
     <title>Live WCL 2026 BAN v WI</title>
     <desc />
@@ -960,18 +945,22 @@
   <programme start="20261013105500 +0000" stop="20261013131500 +0000" channel="69">
     <title>Live WCL 2026 SA v ENG</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261013131500 +0000" stop="20261013150000 +0000" channel="69">
     <title>Live WCL 2026 SA v ENG</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261013150000 +0000" stop="20261013170500 +0000" channel="69">
     <title>Live WCL 2026 IND v WI</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956265?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261013170500 +0000" stop="20261013183000 +0000" channel="69">
     <title>Live WCL 2026 IND v WI</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956265?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261013183000 +0000" stop="20261013184500 +0000" channel="69">
     <title>Game Plan - IND v WI</title>
@@ -1177,6 +1166,18 @@
   </programme>
   <programme start="20261014105500 +0000" stop="20261014131500 +0000" channel="69">
     <title>Live WCL 2026 ENG v AUS</title>
+    <desc />
+  </programme>
+  <programme start="20261014131500 +0000" stop="20261014150000 +0000" channel="69">
+    <title>Live WCL 2026 ENG v AUS</title>
+    <desc />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014170500 +0000" channel="69">
+    <title>Live WCL 2026 BAN v SA</title>
+    <desc />
+  </programme>
+  <programme start="20261014170500 +0000" stop="20261014183000 +0000" channel="69">
+    <title>Live WCL 2026 BAN v SA</title>
     <desc />
   </programme>
 </tv>

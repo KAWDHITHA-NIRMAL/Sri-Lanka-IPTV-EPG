@@ -3,46 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="103">
-    <title>G8 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009120000 +0000" stop="20261009123000 +0000" channel="103">
-    <title>Nirmana kauluwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952209?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="103">
-    <title>Ragamadala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009133000 +0000" channel="103">
-    <title>Sathipasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009140000 +0000" channel="103">
-    <title>Suwa Nenasa-Jpu/OD</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951094?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="103">
-    <title>G9 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952302?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="103">
-    <title>G8 Civics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="103">
-    <title>G9 Music</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="103">
     <title>G6 ICT</title>
     <desc />
@@ -677,5 +637,40 @@
     <title>Korean</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954620?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014130000 +0000" channel="103">
+    <title>Tharu Mithuro</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="103">
+    <title>Sathipasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="103">
+    <title>Suwa Nenasa-Jpu/OD</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951094?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014150000 +0000" channel="103">
+    <title>G8 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014160000 +0000" channel="103">
+    <title>G9 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014170000 +0000" channel="103">
+    <title>G8 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952084?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014180000 +0000" channel="103">
+    <title>G8 Art</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951777?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

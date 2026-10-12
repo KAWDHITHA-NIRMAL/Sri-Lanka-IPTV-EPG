@@ -3,51 +3,6 @@
   <channel id="24">
     <display-name>Channel 30</display-name>
   </channel>
-  <programme start="20261009105000 +0000" stop="20261009113000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009113000 +0000" stop="20261009123000 +0000" channel="24">
-    <title>Ashirwadhathmaka Adhishtana Bodhi Poojawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="24">
-    <title>Bojjanga Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/52188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009130000 +0000" stop="20261009131000 +0000" channel="24">
-    <title>Rathnamali Gatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009131000 +0000" stop="20261009140300 +0000" channel="24">
-    <title>Sawasa Pujawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/51051?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009140300 +0000" stop="20261009143000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009143000 +0000" stop="20261009153000 +0000" channel="24">
-    <title>Dayakathva Dharma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009153000 +0000" stop="20261009163000 +0000" channel="24">
-    <title>Rathri DharmaDeshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35195?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261009163000 +0000" stop="20261009173000 +0000" channel="24">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="24">
     <title>Rathri Pirith Deshanaya</title>
     <desc />
@@ -707,5 +662,50 @@
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014123000 +0000" channel="24">
+    <title>Ashirwadhathmaka Adhishtana Bodhi Poojawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52126?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="24">
+    <title>Bojjanga Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014131000 +0000" channel="24">
+    <title>Rathnamali Gatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014131000 +0000" stop="20261014140300 +0000" channel="24">
+    <title>Sawasa Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51051?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014140300 +0000" stop="20261014143000 +0000" channel="24">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="24">
+    <title>Dayakathva Dharma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="24">
+    <title>Rathri DharmaDeshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35195?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="24">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="24">
+    <title>Rathri Pirith Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50407?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
