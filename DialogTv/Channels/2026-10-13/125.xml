@@ -3,36 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261010084000 +0000" stop="20261010103000 +0000" channel="125">
-    <title>NRL Roosters v Knights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955196?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010110000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2002 - Wales v France</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010110000 +0000" stop="20261010134500 +0000" channel="125">
-    <title>LIVE United Rugby Championship Bulls v Lions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955696?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010134500 +0000" stop="20261010140000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="125">
-    <title>LIVE Gallagher Premiership Northampton v Bath</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010160000 +0000" stop="20261010162500 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2004 - Scotland v France</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953934?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010162500 +0000" stop="20261010183000 +0000" channel="125">
     <title>LIVE Gallagher Premiership Saracens v Bristol</title>
     <desc />
@@ -567,5 +537,29 @@
   <programme start="20261015085000 +0000" stop="20261015110000 +0000" channel="125">
     <title>Live RLWC26 Australia v New Zealand</title>
     <desc />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2004 - Ireland v Scotland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956677?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015132000 +0000" channel="125">
+    <title>Gallagher Premiership Saracens v Bristol</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956994?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015132000 +0000" stop="20261015151000 +0000" channel="125">
+    <title>Top 14 Stade Francais v Montpellier</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956315?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015151000 +0000" stop="20261015170000 +0000" channel="125">
+    <title>RLWC26 Australia v New Zealand</title>
+    <desc />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015185000 +0000" channel="125">
+    <title>Bledisloe Cup New Zealand v Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

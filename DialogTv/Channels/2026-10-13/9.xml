@@ -3,41 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20261010083000 +0000" stop="20261010120000 +0000" channel="9">
-    <title>Weekend Afternoon Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953240?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010120000 +0000" stop="20261010123000 +0000" channel="9">
-    <title>News Line</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010123000 +0000" stop="20261010133000 +0000" channel="9">
-    <title>Shakthi Cine Verse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952853?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010143000 +0000" channel="9">
-    <title>The Debater</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010143000 +0000" stop="20261010150000 +0000" channel="9">
-    <title>News 1st Weekend</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953083?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010150000 +0000" stop="20261010163000 +0000" channel="9">
-    <title>Weekend Night Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762457?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010170000 +0000" channel="9">
-    <title>News 1st Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952850?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010170000 +0000" stop="20261010180000 +0000" channel="9">
     <title>Weekend Night Movie Cont</title>
     <desc />
@@ -428,12 +393,22 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952850?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261013170000 +0000" stop="20261013180000 +0000" channel="9">
-    <title>Movie</title>
+  <programme start="20261013170000 +0000" stop="20261013173000 +0000" channel="9">
+    <title>Nenjam Marappathillai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261013180000 +0000" stop="20261013235900 +0000" channel="9">
+  <programme start="20261013173000 +0000" stop="20261013183000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261013183000 +0000" stop="20261013213000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261013213000 +0000" stop="20261013235900 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -474,9 +449,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35144?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014030000 +0000" stop="20261014033000 +0000" channel="9">
-    <title>Movie</title>
+    <title>Nenjam Marappathillai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014033000 +0000" stop="20261014040000 +0000" channel="9">
     <title>Mayaththirai</title>
@@ -539,9 +514,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952967?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="9">
-    <title>Movie</title>
+    <title>Kayal</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958403?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="9">
     <title>Ethirneechal Thodargiradhu</title>
@@ -578,12 +553,22 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952850?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170000 +0000" stop="20261014180000 +0000" channel="9">
-    <title>Movie</title>
+  <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="9">
+    <title>Nenjam Marappathillai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014235900 +0000" channel="9">
+  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261014213000 +0000" stop="20261014235900 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -624,9 +609,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35144?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261015030000 +0000" stop="20261015033000 +0000" channel="9">
-    <title>Movie</title>
+    <title>Nenjam Marappathillai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="9">
     <title>Mayaththirai</title>
@@ -672,5 +657,70 @@
     <title>Weekday Afternoon Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="9">
+    <title>Toon Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015123000 +0000" channel="9">
+    <title>Shakthi Chat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/37096?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015130000 +0000" channel="9">
+    <title>Moondru Mudichu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="9">
+    <title>Kayal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="9">
+    <title>Ethirneechal Thodargiradhu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="9">
+    <title>Singapenne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952887?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="9">
+    <title>Shakthi News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="9">
+    <title>Chellame Chellame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="9">
+    <title>Lakshmi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015163000 +0000" channel="9">
+    <title>Annam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952974?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015170000 +0000" channel="9">
+    <title>News 1st Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="9">
+    <title>Nenjam Marappathillai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958402?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

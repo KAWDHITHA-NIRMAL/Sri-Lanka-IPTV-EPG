@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261010083300 +0000" stop="20261010103300 +0000" channel="101">
-    <title>Kadugu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955457?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103300 +0000" stop="20261010130800 +0000" channel="101">
-    <title>10 Hours</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955579?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010130800 +0000" stop="20261010161100 +0000" channel="101">
-    <title>Kather Basha Endra Muthuramalingam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955587?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010161100 +0000" stop="20261010180000 +0000" channel="101">
     <title>Kirumi</title>
     <desc />
@@ -297,5 +282,20 @@
     <title>Kaari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958034?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015130000 +0000" channel="101">
+    <title>Middle Class</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015160000 +0000" channel="101">
+    <title>Vetrivel</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955488?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015183000 +0000" channel="101">
+    <title>Mapla Singam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955489?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

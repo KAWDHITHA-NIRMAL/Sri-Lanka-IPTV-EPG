@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261010073000 +0000" stop="20261010103000 +0000" channel="95">
-    <title>Raja Mariyaadhai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954408?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010133000 +0000" channel="95">
-    <title>Udhaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010170000 +0000" channel="95">
-    <title>Chinna Durai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954410?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010170000 +0000" stop="20261010200000 +0000" channel="95">
     <title>Ettikku Potti</title>
     <desc />
@@ -212,5 +197,20 @@
     <title>Nee Naan Nizhal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957674?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015133000 +0000" channel="95">
+    <title>Vidiyum Varai Kaathiru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015170000 +0000" channel="95">
+    <title>Sema Ragalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957676?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015200000 +0000" channel="95">
+    <title>Sugamana Sumaigal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957673?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,91 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261010090000 +0000" stop="20261010093000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010093000 +0000" stop="20261010100000 +0000" channel="33">
-    <title>Inheritors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010101500 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010101500 +0000" stop="20261010110000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950085?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010110000 +0000" stop="20261010113000 +0000" channel="33">
-    <title>Asia Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950170?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010113000 +0000" stop="20261010120000 +0000" channel="33">
-    <title>Leaders Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950156?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010120000 +0000" stop="20261010121500 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010121500 +0000" stop="20261010130000 +0000" channel="33">
-    <title>China 24</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950148?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="33">
-    <title>Biz Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950155?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010143000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010143000 +0000" stop="20261010150000 +0000" channel="33">
-    <title>Assignment Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952290?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010150000 +0000" stop="20261010153000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010153000 +0000" stop="20261010160000 +0000" channel="33">
-    <title>Inheritors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950157?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010160000 +0000" stop="20261010163000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010170000 +0000" channel="33">
-    <title>The Agenda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010170000 +0000" stop="20261010173000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950085?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010173000 +0000" stop="20261010180000 +0000" channel="33">
     <title>Talk Africa</title>
     <desc />
@@ -1137,5 +1052,80 @@
     <title>The World Today</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015093000 +0000" stop="20261015100000 +0000" channel="33">
+    <title>The Vibe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015101500 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015101500 +0000" stop="20261015110000 +0000" channel="33">
+    <title>Africa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="33">
+    <title>Asia Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956423?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015120000 +0000" channel="33">
+    <title>Dialogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956281?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015121500 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015121500 +0000" stop="20261015130000 +0000" channel="33">
+    <title>China 24</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956680?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="33">
+    <title>The Hub With Wang Guan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="33">
+    <title>World Insight with Tian Wei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="33">
+    <title>The Vibe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015180000 +0000" channel="33">
+    <title>Africa Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

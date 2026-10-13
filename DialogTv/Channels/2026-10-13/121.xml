@@ -3,56 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261010090000 +0000" stop="20261010093000 +0000" channel="121">
-    <title>PL Highlights Liverpool v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010093000 +0000" stop="20261010094500 +0000" channel="121">
-    <title>PL Highlights Fulham v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950968?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010094500 +0000" stop="20261010100000 +0000" channel="121">
-    <title>PL Highlights Man City v Sunderland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947906?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010101500 +0000" channel="121">
-    <title>PL Highlights Bournemouth v Liverpool</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951424?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010101500 +0000" stop="20261010103000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Ipswich</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950963?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010112000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010112000 +0000" stop="20261010133000 +0000" channel="121">
-    <title>Live PL 2026-27 Arsenal v Leeds United</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955362?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010135000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010135000 +0000" stop="20261010160000 +0000" channel="121">
-    <title>Live PL 2026-27 Chelsea v Bournemouth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955583?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010160000 +0000" stop="20261010162000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010162000 +0000" stop="20261010183000 +0000" channel="121">
     <title>Live PL 2026-27 Man Utd v Tottenham Hotspur</title>
     <desc />
@@ -1279,5 +1229,137 @@
     <title>PL Highlights Leeds United v Man Utd</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015093000 +0000" stop="20261015094500 +0000" channel="121">
+    <title>PL Highlights Brighton v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951422?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015094500 +0000" stop="20261015100000 +0000" channel="121">
+    <title>PL Highlights Sunderland v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015101500 +0000" channel="121">
+    <title>PL Highlights Brentford v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015101500 +0000" stop="20261015103000 +0000" channel="121">
+    <title>PL Highlights Chelsea v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015104500 +0000" channel="121">
+    <title>PL Highlights Man Utd v Ipswich</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950963?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015104500 +0000" stop="20261015110000 +0000" channel="121">
+    <title>PL Highlights Fulham v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950968?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015111500 +0000" channel="121">
+    <title>PL Highlights Liverpool v Fulham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015111500 +0000" stop="20261015113000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015114500 +0000" channel="121">
+    <title>PL Highlights Man City v Coventry City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950974?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015114500 +0000" stop="20261015120000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015123000 +0000" channel="121">
+    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
+    <desc />
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015124500 +0000" channel="121">
+    <title>PL Highlights Brentford v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947581?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015124500 +0000" stop="20261015130000 +0000" channel="121">
+    <title>PL Highlights Chelsea v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="121">
+    <title>PL Match Highlights 2024/25 Chelsea v Liverpool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015134500 +0000" channel="121">
+    <title>PL Highlights Brighton v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951422?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015134500 +0000" stop="20261015140000 +0000" channel="121">
+    <title>PL Highlights Sunderland v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951415?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="121">
+    <title>PL Highlights Arsenal v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015144500 +0000" channel="121">
+    <title>PL Highlights Man Utd v Ipswich</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950963?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015144500 +0000" stop="20261015150000 +0000" channel="121">
+    <title>PL Highlights Fulham v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950968?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="121">
+    <title>PL Highlights Leeds United v Man Utd</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954874?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015154500 +0000" channel="121">
+    <title>PL Highlights Liverpool v Fulham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945850?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015154500 +0000" stop="20261015160000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015163000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Tottenham Hotspur</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015164500 +0000" channel="121">
+    <title>PL Highlights Man City v Coventry City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950974?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015164500 +0000" stop="20261015170000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="121">
+    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
+    <desc />
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015193000 +0000" channel="121">
+    <title>PL 2026-27 Chelsea v Bournemouth</title>
+    <desc />
   </programme>
 </tv>

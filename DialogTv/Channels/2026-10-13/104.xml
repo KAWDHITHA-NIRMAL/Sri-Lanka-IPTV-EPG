@@ -3,51 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20261010083000 +0000" stop="20261010093000 +0000" channel="104">
-    <title>G 12 Biology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010093000 +0000" stop="20261010103000 +0000" channel="104">
-    <title>G 12 Physics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951159?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010113000 +0000" channel="104">
-    <title>G 12 Chemistry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951149?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010113000 +0000" stop="20261010123000 +0000" channel="104">
-    <title>G 13 Biology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951103?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010123000 +0000" stop="20261010133000 +0000" channel="104">
-    <title>G 13 Physics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951104?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010143000 +0000" channel="104">
-    <title>G 13 Chemistry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951160?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010143000 +0000" stop="20261010153000 +0000" channel="104">
-    <title>G 12 Biology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010153000 +0000" stop="20261010163000 +0000" channel="104">
-    <title>G 12 Physics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951159?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010173000 +0000" channel="104">
-    <title>G 12 Chemistry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951149?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010173000 +0000" stop="20261010183000 +0000" channel="104">
     <title>G 13 Biology</title>
     <desc />
@@ -632,5 +587,50 @@
     <title>G 12 Combine Mathematics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015093000 +0000" stop="20261015103000 +0000" channel="104">
+    <title>G 12 Information Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015113000 +0000" channel="104">
+    <title>G 12 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956480?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015123000 +0000" channel="104">
+    <title>G 13 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956691?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015133000 +0000" channel="104">
+    <title>G 13 Information Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015143000 +0000" channel="104">
+    <title>G 13 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015153000 +0000" channel="104">
+    <title>G 12 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015163000 +0000" channel="104">
+    <title>G 12 Information Technology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015173000 +0000" channel="104">
+    <title>G 12 Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956480?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="104">
+    <title>G 13 Combine Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956691?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

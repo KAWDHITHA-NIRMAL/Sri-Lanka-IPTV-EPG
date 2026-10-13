@@ -3,26 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261010072000 +0000" stop="20261010100000 +0000" channel="87">
-    <title>Shamshera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954000?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010120500 +0000" channel="87">
-    <title>Highway</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954001?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010120500 +0000" stop="20261010142500 +0000" channel="87">
-    <title>Sunny Sanskari Ki Tulsi Kumari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954002?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010142500 +0000" stop="20261010170000 +0000" channel="87">
-    <title>Satte Pe Satta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954003?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010170000 +0000" stop="20261010202000 +0000" channel="87">
     <title>Raja Shivaji</title>
     <desc />
@@ -272,5 +252,20 @@
     <title>Kabhi Kabhie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015114500 +0000" stop="20261015141500 +0000" channel="87">
+    <title>Dhoom 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957522?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015141500 +0000" stop="20261015170000 +0000" channel="87">
+    <title>Ishq</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958154?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015193000 +0000" channel="87">
+    <title>OMG 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957523?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

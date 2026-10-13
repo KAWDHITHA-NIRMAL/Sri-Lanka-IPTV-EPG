@@ -3,41 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261010090000 +0000" stop="20261010103000 +0000" channel="15">
-    <title>Doovili Drama Ekapokurata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949687?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010110000 +0000" channel="15">
-    <title>Soba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/188656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010110000 +0000" stop="20261010113000 +0000" channel="15">
-    <title>Perawadana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010113000 +0000" stop="20261010123000 +0000" channel="15">
-    <title>Construction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952538?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010123000 +0000" stop="20261010133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010153000 +0000" channel="15">
-    <title>Voice Of Family</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949682?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010153000 +0000" stop="20261010163000 +0000" channel="15">
-    <title>Siyatha Live News @ 9.35</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915607?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010163000 +0000" stop="20261010183000 +0000" channel="15">
     <title>Siyatha Tharu Piri Rea Live</title>
     <desc />
@@ -561,5 +526,50 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015113000 +0000" channel="15">
+    <title>Studio One</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949680?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015123000 +0000" channel="15">
+    <title>Poddo Waddo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015133000 +0000" channel="15">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="15">
+    <title>Ola Mola Pure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956839?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="15">
+    <title>Eyath Lassanayi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956840?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="15">
+    <title>Doovily</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="15">
+    <title>Balaninna - Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015163000 +0000" channel="15">
+    <title>Siyatha Tv News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="15">
+    <title>Ravana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915602?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

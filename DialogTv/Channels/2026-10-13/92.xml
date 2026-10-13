@@ -3,16 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261010090000 +0000" stop="20261010120000 +0000" channel="92">
-    <title>Gold</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010120000 +0000" stop="20261010150000 +0000" channel="92">
-    <title>Bholaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010150000 +0000" stop="20261010180000 +0000" channel="92">
     <title>Chennai V/S China</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Badal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015150000 +0000" channel="92">
+    <title>Encounter Shankar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015180000 +0000" channel="92">
+    <title>Udta Punjab</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957197?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

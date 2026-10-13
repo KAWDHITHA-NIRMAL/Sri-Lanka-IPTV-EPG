@@ -3,46 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261010071000 +0000" stop="20261010100000 +0000" channel="6">
-    <title>Kshama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954477?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010112500 +0000" channel="6">
-    <title>Tea Party</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010112500 +0000" stop="20261010122500 +0000" channel="6">
-    <title>Sihina Thaala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010122500 +0000" stop="20261010132500 +0000" channel="6">
-    <title>Boarding Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010132500 +0000" stop="20261010140000 +0000" channel="6">
-    <title>Ada Derana @ 6.55 Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768124?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010153500 +0000" channel="6">
-    <title>Dream Star S13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955797?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010153500 +0000" stop="20261010163000 +0000" channel="6">
-    <title>Kolamba Kattiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010171000 +0000" channel="6">
-    <title>Ada Derana @ 10.00 Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010171000 +0000" stop="20261010183000 +0000" channel="6">
     <title>Champion Stars Unlimited</title>
     <desc />
@@ -616,5 +576,75 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015105500 +0000" channel="6">
+    <title>Soortin Martin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015105500 +0000" stop="20261015112500 +0000" channel="6">
+    <title>Zoom The White Dolphin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957168?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015112500 +0000" stop="20261015115500 +0000" channel="6">
+    <title>Amuthu Pasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015115500 +0000" stop="20261015122500 +0000" channel="6">
+    <title>Life With Derek</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015122500 +0000" stop="20261015125500 +0000" channel="6">
+    <title>Kodu Kaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015125500 +0000" stop="20261015132500 +0000" channel="6">
+    <title>Ehevu Hithaka Adarayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957997?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015132500 +0000" stop="20261015140000 +0000" channel="6">
+    <title>Ada Derana @ 6.55 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="6">
+    <title>Iskole</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="6">
+    <title>Sangeethe S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957171?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="6">
+    <title>Husmak Lagin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="6">
+    <title>Kolamba Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015163000 +0000" channel="6">
+    <title>Man Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956762?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015171000 +0000" channel="6">
+    <title>Ada Derana @ 10.00 Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957169?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015171000 +0000" stop="20261015183000 +0000" channel="6">
+    <title>Re Build Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957312?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

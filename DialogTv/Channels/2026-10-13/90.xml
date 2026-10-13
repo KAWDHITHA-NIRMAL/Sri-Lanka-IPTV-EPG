@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261010080000 +0000" stop="20261010110000 +0000" channel="90">
-    <title>Saajan Ki Saheli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010110000 +0000" stop="20261010140000 +0000" channel="90">
-    <title>Khel</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953983?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010171700 +0000" channel="90">
-    <title>Nazar Ke Samne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953984?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010171700 +0000" stop="20261010202200 +0000" channel="90">
     <title>Barah Aana</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Khel Khilari Ka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015140000 +0000" channel="90">
+    <title>Shehzaade</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015170000 +0000" channel="90">
+    <title>Mera Faisla (1984)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015200000 +0000" channel="90">
+    <title>Yeh Hai Judgement..</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958138?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

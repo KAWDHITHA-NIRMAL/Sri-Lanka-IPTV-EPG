@@ -3,36 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261010074500 +0000" stop="20261010092000 +0000" channel="75">
-    <title>Atomic Homefront</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010092000 +0000" stop="20261010101000 +0000" channel="75">
-    <title>Ferrell Takes The Field</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950786?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010101000 +0000" stop="20261010121500 +0000" channel="75">
-    <title>As You Like It</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950781?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010121500 +0000" stop="20261010140000 +0000" channel="75">
-    <title>Mountainhead</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945700?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="75">
-    <title>War S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010150000 +0000" stop="20261010164000 +0000" channel="75">
-    <title>The Moment</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010164000 +0000" stop="20261010181500 +0000" channel="75">
     <title>The Second Civil War</title>
     <desc />
@@ -422,5 +392,35 @@
     <title>Iron Jawed Angels</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957504?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015101500 +0000" stop="20261015111000 +0000" channel="75">
+    <title>Ferrell Takes The Field</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015111000 +0000" stop="20261015114000 +0000" channel="75">
+    <title>Youth S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015114000 +0000" stop="20261015140000 +0000" channel="75">
+    <title>In The Heights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953756?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015161000 +0000" channel="75">
+    <title>The Lovely Bones</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015161000 +0000" stop="20261015170000 +0000" channel="75">
+    <title>Dr. Death S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015184500 +0000" channel="75">
+    <title>Imagine That</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957505?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

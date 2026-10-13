@@ -3,91 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20261010090000 +0000" stop="20261010093000 +0000" channel="80">
-    <title>Fashion Teens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952774?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010093000 +0000" stop="20261010100000 +0000" channel="80">
-    <title>Fashion Teens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952774?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010103000 +0000" channel="80">
-    <title>Top Models</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010103000 +0000" stop="20261010110000 +0000" channel="80">
-    <title>Top Models</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010110000 +0000" stop="20261010113000 +0000" channel="80">
-    <title>Fashion From South Korea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37589?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010113000 +0000" stop="20261010120000 +0000" channel="80">
-    <title>Fashion From South Korea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37589?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010120000 +0000" stop="20261010123000 +0000" channel="80">
-    <title>Most Watched</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="80">
-    <title>Most Watched</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="80">
-    <title>Fashion News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="80">
-    <title>Fashion News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010140000 +0000" stop="20261010143000 +0000" channel="80">
-    <title>Valentino</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954024?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010143000 +0000" stop="20261010150000 +0000" channel="80">
-    <title>Valentino</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954024?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010150000 +0000" stop="20261010153000 +0000" channel="80">
-    <title>Fashion Magazines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952772?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010153000 +0000" stop="20261010160000 +0000" channel="80">
-    <title>Fashion Magazines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952772?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010160000 +0000" stop="20261010163000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010163000 +0000" stop="20261010170000 +0000" channel="80">
-    <title>Fashion Films</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35858?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010170000 +0000" stop="20261010173000 +0000" channel="80">
-    <title>Lingerie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010173000 +0000" stop="20261010180000 +0000" channel="80">
     <title>Lingerie</title>
     <desc />
@@ -1207,5 +1122,90 @@
     <title>Fashion Teens</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952774?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015093000 +0000" stop="20261015100000 +0000" channel="80">
+    <title>Fashion Teens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952774?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015103000 +0000" channel="80">
+    <title>Top Photoshoots</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952773?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015103000 +0000" stop="20261015110000 +0000" channel="80">
+    <title>Top Photoshoots</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952773?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="80">
+    <title>Fashion From China</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953177?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015113000 +0000" stop="20261015120000 +0000" channel="80">
+    <title>Fashion From China</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953177?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015123000 +0000" channel="80">
+    <title>Most Watched</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015130000 +0000" channel="80">
+    <title>Most Watched</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/158656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="80">
+    <title>Fashion News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="80">
+    <title>Fashion News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952866?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="80">
+    <title>The Kardashians</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="80">
+    <title>The Kardashians</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="80">
+    <title>Fashion Magazines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952772?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="80">
+    <title>Fashion Magazines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952772?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015163000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015163000 +0000" stop="20261015170000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
