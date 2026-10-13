@@ -3,54 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010013000 +0000" channel="123">
-    <title>UFC 326 - Holloway vs Oliveira 2 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010020000 +0000" channel="123">
-    <title>FIFA International friendlies 2026-India vs Uruguay Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010023000 +0000" channel="123">
-    <title>FIFA International friendlies 2026-India vs Brazil Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953519?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="123">
-    <title>AG 2026 Highlights (Recurve Mixed Teams and Mens Team Gold Medal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010033000 +0000" channel="123">
-    <title>AG 2026 Cricket (M) SF2 - India vs Sri Lanka Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010043000 +0000" channel="123">
-    <title>AG 2026 Cricket (M) SF2 - India vs Sri Lanka Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010063000 +0000" channel="123">
-    <title>UEFA Nations League 2026/27 England vs Czechia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954909?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010073000 +0000" channel="123">
-    <title>UFC FIGHT O'CLOCK 2.0 - FEATHERWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="123">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010080000 +0000" stop="20261010083000 +0000" channel="123">
-    <title>The Outdoor Sports Show 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954076?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010093000 +0000" channel="123">
     <title>WWE Evolve</title>
     <desc />
@@ -546,5 +498,34 @@
     <title>UFC Main Event 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956738?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015023000 +0000" channel="123">
+    <title>UFC FIGHT O'CLOCK 2.0 - LIGHTWEIGHT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 2 Roma vs Real Madrid Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015033000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 2 LASK vs Liverpool Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 2 Roma vs Real Madrid Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 2 LASK vs Liverpool Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015053000 +0000" channel="123">
+    <title>DP World India Championship 2026 - Preview</title>
+    <desc />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015113000 +0000" channel="123">
+    <title>Live DP World Tour 2026 DP World India Championship</title>
+    <desc />
   </programme>
 </tv>

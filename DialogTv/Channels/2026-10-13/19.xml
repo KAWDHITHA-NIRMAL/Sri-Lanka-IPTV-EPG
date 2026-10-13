@@ -3,26 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261009233000 +0000" stop="20261010013000 +0000" channel="19">
-    <title>Wasana Wewa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955557?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010053000 +0000" channel="19">
-    <title>Thimira</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955558?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010083000 +0000" channel="19">
-    <title>Bala Binduma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955556?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010113000 +0000" channel="19">
     <title>Angana</title>
     <desc />
@@ -232,5 +212,25 @@
     <title>Isiwarabhawaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956411?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015053000 +0000" channel="19">
+    <title>Piththala Kondaruma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956410?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015083000 +0000" channel="19">
+    <title>Dedunu Sihina</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015113000 +0000" channel="19">
+    <title>Angana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956409?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

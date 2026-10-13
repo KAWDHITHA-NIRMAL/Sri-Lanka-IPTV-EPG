@@ -3,56 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261010010000 +0000" stop="20261010013000 +0000" channel="105">
-    <title>Uda Nenasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950823?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010020000 +0000" channel="105">
-    <title>Sathi Pasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="105">
-    <title>G 10 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="105">
-    <title>G 10 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010053000 +0000" channel="105">
-    <title>Asirimath Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010063000 +0000" channel="105">
-    <title>G 11 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010073000 +0000" channel="105">
-    <title>G 10 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950825?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="105">
-    <title>Mihimadala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950829?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="105">
-    <title>G 10 Maths</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="105">
     <title>G 10 Business &amp; Accounting</title>
     <desc />
@@ -657,5 +607,42 @@
     <title>English As A Life Skill</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015030000 +0000" channel="105">
+    <title>G 10 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015040000 +0000" channel="105">
+    <title>G 10 Saivaneri</title>
+    <desc />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015050000 +0000" channel="105">
+    <title>G 10 Agriculture &amp; Food Tech</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956698?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015053000 +0000" channel="105">
+    <title>Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015063000 +0000" channel="105">
+    <title>G 11 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015073000 +0000" channel="105">
+    <title>G 11 Saivaneri</title>
+    <desc />
+  </programme>
+  <programme start="20261015073000 +0000" stop="20261015083000 +0000" channel="105">
+    <title>G 10 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015093000 +0000" channel="105">
+    <title>G 10 Saivaneri</title>
+    <desc />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="41">
     <display-name>Channel 47</display-name>
   </channel>
-  <programme start="20261010000000 +0000" stop="20261010040000 +0000" channel="41">
-    <title>Timeless Love</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952118?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010080000 +0000" channel="41">
-    <title>The Hug Of Dance</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951975?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010080000 +0000" stop="20261010120000 +0000" channel="41">
     <title>The Heaven Inside You</title>
     <desc />
@@ -157,5 +147,15 @@
     <title>Timeless Love</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956522?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015080000 +0000" channel="41">
+    <title>The Hug Of Dance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956523?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015120000 +0000" channel="41">
+    <title>The Heaven Inside You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957076?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

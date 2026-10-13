@@ -3,41 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261010000000 +0000" stop="20261010020000 +0000" channel="26">
-    <title>Sath Budu Kiri Ahara Poojawa - Sil Samada Karaveema</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949725?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="26">
-    <title>Arihath Guna Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="26">
-    <title>Arihath Guna Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="26">
-    <title>Sangayana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952263?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="26">
-    <title>Sarwagnna Dhaathu Poojaawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949727?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="26">
-    <title>Dhamma Sanganee Aththa Deepani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799548?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010083000 +0000" channel="26">
-    <title>Arihath Guna Waruna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010093000 +0000" channel="26">
     <title>Arihath Guna Waruna</title>
     <desc />
@@ -673,5 +638,50 @@
     <title>Vishesha Dharmadeshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015023000 +0000" channel="26">
+    <title>Pinbara Udesana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753059?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015033000 +0000" channel="26">
+    <title>Sasarin Niwanata By Ven.Thapowanaye Ariyadaja Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698978?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015043000 +0000" channel="26">
+    <title>Vibajjha Wadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952996?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015053000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015060000 +0000" channel="26">
+    <title>Sarwagnna Dhaathu Poojaawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015070000 +0000" channel="26">
+    <title>Uruma Yathra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952997?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015080000 +0000" channel="26">
+    <title>Colombo / Anu'pura Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956430?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015090000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015100000 +0000" channel="26">
+    <title>Ku'gala / Naranwala Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956491?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

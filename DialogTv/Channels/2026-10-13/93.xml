@@ -3,51 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20261010010000 +0000" stop="20261010013000 +0000" channel="93">
-    <title>Shri Venkateswara Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010020000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010023000 +0000" channel="93">
-    <title>Dardnashak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="93">
-    <title>Mahabharatham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950987?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010033000 +0000" channel="93">
-    <title>Mahabharatham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950987?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="93">
-    <title>Sri Vignesh Ad Agencey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="93">
-    <title>Kanmani Anbudan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952342?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010050000 +0000" channel="93">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010063000 +0000" channel="93">
-    <title>Bigg Boss Tamil S10 Unseen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010063000 +0000" stop="20261010093000 +0000" channel="93">
     <title>Psycho</title>
     <desc />
@@ -487,5 +442,35 @@
     <title>Shri Venkateswara Suprabhatam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015020000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015023000 +0000" channel="93">
+    <title>Dardnashak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015040000 +0000" channel="93">
+    <title>Bigg Boss Tamil S10 Unseen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015070000 +0000" channel="93">
+    <title>Vezham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015090000 +0000" channel="93">
+    <title>Miga Miga Avasaram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015123000 +0000" channel="93">
+    <title>Maara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955402?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

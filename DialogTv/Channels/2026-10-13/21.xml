@@ -3,46 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20261010010200 +0000" stop="20261010020000 +0000" channel="21">
-    <title>Sadaham Amadahara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010022000 +0000" channel="21">
-    <title>Buddhist Song</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949768?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010022000 +0000" stop="20261010023000 +0000" channel="21">
-    <title>Sadaham Sithuwilla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949767?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="21">
-    <title>Tikiri Sina Mal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949773?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010043000 +0000" channel="21">
-    <title>Children Film</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/814667?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010053000 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010063000 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010090000 +0000" channel="21">
-    <title>English Film</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010103000 +0000" channel="21">
     <title>Sath Samuduru Yata</title>
     <desc />
@@ -787,5 +747,40 @@
     <title>Dharma Deshanawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/51692?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020200 +0000" stop="20261015023200 +0000" channel="21">
+    <title>Buddhist Song</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956594?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023200 +0000" stop="20261015033200 +0000" channel="21">
+    <title>Tharunyata Darshanayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033200 +0000" stop="20261015040200 +0000" channel="21">
+    <title>Old Hindi Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957290?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040200 +0000" stop="20261015044200 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015044200 +0000" stop="20261015053200 +0000" channel="21">
+    <title>Sath Samuduru Yata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956592?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053200 +0000" stop="20261015063200 +0000" channel="21">
+    <title>Sinhala Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063200 +0000" stop="20261015092800 +0000" channel="21">
+    <title>English Film</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956870?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

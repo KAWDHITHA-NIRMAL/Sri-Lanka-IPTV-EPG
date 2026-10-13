@@ -3,41 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261010005000 +0000" stop="20261010013000 +0000" channel="7">
-    <title>Mul Pituwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010020000 +0000" channel="7">
-    <title>Mul Pituwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949511?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010020000 +0000" stop="20261010023000 +0000" channel="7">
-    <title>Loka Sithiyama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949526?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010043000 +0000" channel="7">
-    <title>Punchi Theatre</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949527?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010053000 +0000" channel="7">
-    <title>Master Chef</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946168?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010062000 +0000" channel="7">
-    <title>Film Eka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953960?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010062000 +0000" stop="20261010070000 +0000" channel="7">
-    <title>Swarnavahini News - Mid Day News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945952?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010070000 +0000" stop="20261010103000 +0000" channel="7">
     <title>Movie</title>
     <desc />
@@ -792,5 +757,65 @@
     <title>Mul Pituwa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015020000 +0000" channel="7">
+    <title>Mul Pituwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015023000 +0000" channel="7">
+    <title>Loka Sithiyama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956347?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="7">
+    <title>Ayubowan Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015033000 +0000" channel="7">
+    <title>Ayubowan Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="7">
+    <title>Ayubowan Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="7">
+    <title>Ayubowan Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015050000 +0000" channel="7">
+    <title>Bolt Anayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015053000 +0000" channel="7">
+    <title>Aluth Sir</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015060000 +0000" channel="7">
+    <title>Hada Rendi Peya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015062000 +0000" channel="7">
+    <title>Hada Rendi Peya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957202?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015062000 +0000" stop="20261015070000 +0000" channel="7">
+    <title>Swarnavahini News - Mid Day News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/945952?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015103000 +0000" channel="7">
+    <title>Tele Dahawala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949534?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

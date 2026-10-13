@@ -3,46 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261010010000 +0000" stop="20261010013000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010040000 +0000" channel="18">
-    <title>Dr Nawariyan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953140?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010050000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010053000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010080000 +0000" channel="18">
-    <title>Aladin Saha Puduma Pahana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010080000 +0000" stop="20261010083000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010083000 +0000" stop="20261010090000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010093000 +0000" channel="18">
     <title>Sabanda Pabiliss</title>
     <desc />
@@ -607,5 +567,45 @@
     <title>Wismaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015040000 +0000" channel="18">
+    <title>Visiata 28</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015050000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015053000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015080000 +0000" channel="18">
+    <title>Visiata 28</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015083000 +0000" channel="18">
+    <title>Wismaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015090000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015093000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

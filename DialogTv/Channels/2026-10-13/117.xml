@@ -3,26 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261010004500 +0000" stop="20261010023000 +0000" channel="117">
-    <title>Caddo Lake</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010042000 +0000" channel="117">
-    <title>The Good Liar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953801?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010042000 +0000" stop="20261010061000 +0000" channel="117">
-    <title>The Legend Of Tarzan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010061000 +0000" stop="20261010080000 +0000" channel="117">
-    <title>London Calling</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010080000 +0000" stop="20261010095000 +0000" channel="117">
     <title>Something The Lord Made</title>
     <desc />
@@ -367,5 +347,30 @@
     <title>Snakes On A Plane</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015011500 +0000" stop="20261015033500 +0000" channel="117">
+    <title>Anchorman 2: The Legend Continues</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951334?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033500 +0000" stop="20261015052500 +0000" channel="117">
+    <title>Dinner For Schmucks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955216?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015052500 +0000" stop="20261015071000 +0000" channel="117">
+    <title>Gremlins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015071000 +0000" stop="20261015085500 +0000" channel="117">
+    <title>In Pursuit Of Honor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951331?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015085500 +0000" stop="20261015103500 +0000" channel="117">
+    <title>The Late Shift</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955215?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

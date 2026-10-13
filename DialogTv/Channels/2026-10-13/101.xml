@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261010000000 +0000" stop="20261010023000 +0000" channel="101">
-    <title>Miss Shetty Mrs Polishetty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953919?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010050000 +0000" channel="101">
-    <title>Masooda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010083300 +0000" channel="101">
-    <title>Yaanai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950661?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083300 +0000" stop="20261010103300 +0000" channel="101">
     <title>Kadugu</title>
     <desc />
@@ -297,5 +282,20 @@
     <title>Zombie Reddy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958167?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015050000 +0000" channel="101">
+    <title>Kalavani 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953225?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015080000 +0000" channel="101">
+    <title>J Baby</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955485?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015103000 +0000" channel="101">
+    <title>Kaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958034?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

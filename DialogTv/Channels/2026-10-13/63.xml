@@ -3,31 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010013000 +0000" channel="63">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010033000 +0000" channel="63">
-    <title>Highlights - Pakistan Women tour of Sri Lanka 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010060000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010060000 +0000" stop="20261010073000 +0000" channel="63">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010080000 +0000" stop="20261010123000 +0000" channel="63">
     <title>Live - 20th Annual LC-BC Hockey Encounter 2026</title>
     <desc />
@@ -262,5 +237,14 @@
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015040000 +0000" channel="63">
+    <title>Highlights - 33rd Singer MCA Super Premiere League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015123000 +0000" channel="63">
+    <title>Live - HNB - A vs Colombo Aces - 33rd Singer MCA Super Premiere League 2026</title>
+    <desc />
   </programme>
 </tv>

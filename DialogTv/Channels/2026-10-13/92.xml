@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261010000000 +0000" stop="20261010030000 +0000" channel="92">
-    <title>Akele Hum Akele Tum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010030000 +0000" stop="20261010060000 +0000" channel="92">
-    <title>Bareilly Ki Barfi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954026?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010060000 +0000" stop="20261010090000 +0000" channel="92">
-    <title>Heropanti 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954027?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010120000 +0000" channel="92">
     <title>Gold</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Hamari Adhuri Kahani</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957027?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015060000 +0000" channel="92">
+    <title>Dhaakad</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956923?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015090000 +0000" channel="92">
+    <title>Love, Sitara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955459?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015120000 +0000" channel="92">
+    <title>Badal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957933?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

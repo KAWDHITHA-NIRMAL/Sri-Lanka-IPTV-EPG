@@ -3,46 +3,6 @@
   <channel id="25">
     <display-name>Channel 31</display-name>
   </channel>
-  <programme start="20261010010000 +0000" stop="20261010013000 +0000" channel="25">
-    <title>Nigrodhabimana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35471?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010023000 +0000" channel="25">
-    <title>Indrakeelaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949713?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010033000 +0000" channel="25">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010043000 +0000" channel="25">
-    <title>Challenge</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010050500 +0000" channel="25">
-    <title>Gewaththa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799541?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050500 +0000" stop="20261010063000 +0000" channel="25">
-    <title>Gamin Gamata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36040?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010073000 +0000" channel="25">
-    <title>Sathisbodhipakshika</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010083000 +0000" channel="25">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010093000 +0000" channel="25">
     <title>Indrakeelaya</title>
     <desc />
@@ -642,5 +602,50 @@
     <title>Nigrodhabimana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/35471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015023000 +0000" channel="25">
+    <title>Prathyaweksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33390?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015033000 +0000" channel="25">
+    <title>Arunella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956456?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="25">
+    <title>Craft Idea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956484?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="25">
+    <title>Suwethi Arunella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015053000 +0000" channel="25">
+    <title>Samapaththi Mulasita</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/38724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015063000 +0000" channel="25">
+    <title>Thathagatha Shri Saddarmaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956458?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015073000 +0000" channel="25">
+    <title>Sathishbodhipakshika</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015073000 +0000" stop="20261015083000 +0000" channel="25">
+    <title>Dayakathwa Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015093000 +0000" channel="25">
+    <title>Yathiwara Salakuna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956851?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

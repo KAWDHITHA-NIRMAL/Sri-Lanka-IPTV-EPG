@@ -3,26 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010033000 +0000" channel="115">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950246?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010045900 +0000" channel="115">
-    <title>Terminator: Dark Fate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955580?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010045900 +0000" stop="20261010061400 +0000" channel="115">
-    <title>Evil Dead (2013)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010061400 +0000" stop="20261010074300 +0000" channel="115">
-    <title>Inside Out</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955581?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010074300 +0000" stop="20261010094900 +0000" channel="115">
     <title>Blackberry</title>
     <desc />
@@ -299,6 +279,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261015003000 +0000" stop="20261015033000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015063000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015093000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />

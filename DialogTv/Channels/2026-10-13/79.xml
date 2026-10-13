@@ -3,21 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010033000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010063000 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010081400 +0000" channel="79">
-    <title>Vijay Raghavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010081400 +0000" stop="20261010113300 +0000" channel="79">
     <title>Hungama-2003</title>
     <desc />
@@ -242,5 +227,20 @@
     <title>Subham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957558?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015034500 +0000" stop="20261015061500 +0000" channel="79">
+    <title>Gopichand Chanakya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957559?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015061500 +0000" stop="20261015080000 +0000" channel="79">
+    <title>Guardian</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957560?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015110000 +0000" channel="79">
+    <title>ACP Shiva</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957561?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

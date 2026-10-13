@@ -3,56 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010023000 +0000" channel="4">
-    <title>Weekend Press</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949584?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010032500 +0000" channel="4">
-    <title>Studio One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954036?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010032500 +0000" stop="20261010033000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010042500 +0000" channel="4">
-    <title>The Hangout- Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954037?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010042500 +0000" stop="20261010043000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010050000 +0000" channel="4">
-    <title>Back To Back Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949568?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010063000 +0000" channel="4">
-    <title>Best Of Hits- Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954038?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010063000 +0000" stop="20261010070000 +0000" channel="4">
-    <title>Noon News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949556?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010082500 +0000" channel="4">
-    <title>Por Thozhil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954039?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010082500 +0000" stop="20261010083000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010092500 +0000" channel="4">
     <title>Por Thozhil</title>
     <desc />
@@ -886,5 +836,73 @@
     <title>Weekday Press</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949584?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015023000 +0000" channel="4">
+    <title>Hathveni Peya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="4">
+    <title>Deyyangema Pihitai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015032500 +0000" channel="4">
+    <title>Mal Bingun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949571?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015032500 +0000" stop="20261015033000 +0000" channel="4">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="4">
+    <title>Sihineka Thaniwela</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949572?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015042500 +0000" channel="4">
+    <title>Meesha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949548?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015042500 +0000" stop="20261015043000 +0000" channel="4">
+    <title>News Updae</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015052000 +0000" channel="4">
+    <title>Pini Viyana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949577?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015052000 +0000" stop="20261015053000 +0000" channel="4">
+    <title>Soopa Yathra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015063000 +0000" channel="4">
+    <title>Music @ 11-Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015070000 +0000" channel="4">
+    <title>Noon News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949556?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015082500 +0000" channel="4">
+    <title>Appuchi Graamam</title>
+    <desc />
+  </programme>
+  <programme start="20261015082500 +0000" stop="20261015083000 +0000" channel="4">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015092500 +0000" channel="4">
+    <title>Appuchi Graamam</title>
+    <desc />
   </programme>
 </tv>

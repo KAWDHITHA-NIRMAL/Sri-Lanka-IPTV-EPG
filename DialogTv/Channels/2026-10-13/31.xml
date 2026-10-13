@@ -3,65 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261010010000 +0000" stop="20261010014500 +0000" channel="31">
-    <title>Gardening Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954842?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010014500 +0000" stop="20261010021500 +0000" channel="31">
-    <title>The Streets With Dan Hong</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954850?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010021500 +0000" stop="20261010024000 +0000" channel="31">
-    <title>The Chef's Garden</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954851?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010024000 +0000" stop="20261010031000 +0000" channel="31">
-    <title>Dream Gardens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954852?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010031000 +0000" stop="20261010034000 +0000" channel="31">
-    <title>The Pacific</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010034000 +0000" stop="20261010041000 +0000" channel="31">
-    <title>That Pacific Sports Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950096?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010041000 +0000" stop="20261010050000 +0000" channel="31">
-    <title>The Hunt for The Family Court Kille</title>
-    <desc />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="31">
-    <title>ABC News with Joe O'Brien</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="31">
-    <title>Gardening Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954842?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010073000 +0000" channel="31">
-    <title>Abc National News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010082000 +0000" channel="31">
-    <title>Great Australian Road Trips</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954853?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010082000 +0000" stop="20261010090000 +0000" channel="31">
-    <title>On Country Kitchen</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954854?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010090000 +0000" stop="20261010093000 +0000" channel="31">
     <title>The World</title>
     <desc />
@@ -742,5 +683,55 @@
     <title>Four Corners</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956413?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015014500 +0000" stop="20261015023000 +0000" channel="31">
+    <title>Media Watch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953046?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015033000 +0000" channel="31">
+    <title>Alone Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956613?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015050000 +0000" channel="31">
+    <title>Corners of the Earth: Kamchatka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955308?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015060000 +0000" channel="31">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956408?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015063000 +0000" channel="31">
+    <title>The Cook Up With Adam Liaw</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956706?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015070000 +0000" channel="31">
+    <title>That Pacific Sports Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015073000 +0000" channel="31">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015073000 +0000" stop="20261015080000 +0000" channel="31">
+    <title>7.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956568?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015090000 +0000" channel="31">
+    <title>Grand Designs Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015095500 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

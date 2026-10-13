@@ -3,56 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261010003000 +0000" stop="20261010013000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951976?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010023000 +0000" channel="27">
-    <title>Today Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953385?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010033000 +0000" channel="27">
-    <title>Patichchasampadhaya Viggrahaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/769601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="27">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952841?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="27">
-    <title>Charity Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952889?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010053000 +0000" channel="27">
-    <title>Gandarwa Mandapaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952924?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010053000 +0000" stop="20261010060000 +0000" channel="27">
-    <title>Buddha Pujawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952687?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="27">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952928?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010070000 +0000" stop="20261010073000 +0000" channel="27">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952841?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010073000 +0000" stop="20261010083000 +0000" channel="27">
-    <title>Sasaraka Gamana Nawathana Nuwana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952925?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010083000 +0000" stop="20261010093000 +0000" channel="27">
     <title>Pujacha Pujaniyanan</title>
     <desc />
@@ -617,5 +567,45 @@
     <title>Pirith Chanting</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015013000 +0000" stop="20261015033000 +0000" channel="27">
+    <title>Dam Siha Nadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015033000 +0000" stop="20261015043000 +0000" channel="27">
+    <title>Sadaham Alokaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015043000 +0000" stop="20261015053000 +0000" channel="27">
+    <title>Manu Piyasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956473?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015060000 +0000" channel="27">
+    <title>Buddha Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015063000 +0000" channel="27">
+    <title>Damma Sermon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015063000 +0000" stop="20261015073000 +0000" channel="27">
+    <title>Dayakathwa Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015073000 +0000" stop="20261015083000 +0000" channel="27">
+    <title>Swakkatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952929?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015093000 +0000" channel="27">
+    <title>Pabasakara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952930?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

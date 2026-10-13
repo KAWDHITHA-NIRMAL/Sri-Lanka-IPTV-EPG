@@ -3,36 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261009233000 +0000" stop="20261010013000 +0000" channel="67">
-    <title>MLS Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010013000 +0000" stop="20261010023000 +0000" channel="67">
-    <title>TNA Unfinished Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010023000 +0000" stop="20261010024500 +0000" channel="67">
-    <title>MotoGP Racing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010024500 +0000" stop="20261010034500 +0000" channel="67">
-    <title>MotoGP Racing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010034500 +0000" stop="20261010044500 +0000" channel="67">
-    <title>Impact In 60</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010044500 +0000" stop="20261010070000 +0000" channel="67">
-    <title>MotoGP Racing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261010070000 +0000" stop="20261010150000 +0000" channel="67">
     <title>Test Cricket</title>
     <desc />
@@ -305,5 +275,40 @@
     <title>AEW Dynamite</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015030000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015040000 +0000" channel="67">
+    <title>Test Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015050000 +0000" channel="67">
+    <title>Impact In 60</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015050000 +0000" stop="20261015060000 +0000" channel="67">
+    <title>TNA Wrestling: Pehalwani Patakha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015070000 +0000" channel="67">
+    <title>Dutch League Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015083000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015103000 +0000" channel="67">
+    <title>TNA Impact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957431?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
