@@ -3,16 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261011164700 +0000" stop="20261011173400 +0000" channel="59">
-    <title>Pompeii: Out Of Time With Tom Hiddleston</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950553?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011173400 +0000" stop="20261011182400 +0000" channel="59">
-    <title>Air Crash Investigation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011182400 +0000" stop="20261011190700 +0000" channel="59">
     <title>Airport Security Rome</title>
     <desc />
@@ -846,5 +836,10 @@
     <title>Airport Security Madrid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183200 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="7">
-    <title>Hitha Illana Tharu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949528?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011191000 +0000" channel="7">
     <title>Swarnavahini News</title>
     <desc />
@@ -897,5 +892,15 @@
     <title>Shree Fm Sindu Sajje</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949524?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="7">
+    <title>Shree Fm Sindu Sajje</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949524?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

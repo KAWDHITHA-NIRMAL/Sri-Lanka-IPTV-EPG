@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261011171700 +0000" stop="20261011181000 +0000" channel="55">
-    <title>River Monsters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954927?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181000 +0000" stop="20261011185600 +0000" channel="55">
     <title>Surviving Earth</title>
     <desc />
@@ -691,5 +686,15 @@
     <title>Wild Italy: Top Predators</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016175500 +0000" stop="20261016183000 +0000" channel="55">
+    <title>Surviving The Drought</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955622?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016184900 +0000" channel="55">
+    <title>Surviving The Drought</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955622?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

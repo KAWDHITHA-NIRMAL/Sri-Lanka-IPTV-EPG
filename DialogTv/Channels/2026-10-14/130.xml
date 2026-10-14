@@ -3,11 +3,6 @@
   <channel id="130">
     <display-name>Channel 2382</display-name>
   </channel>
-  <programme start="20261011170500 +0000" stop="20261011183000 +0000" channel="130">
-    <title>Live WCL 2026 IND v BAN</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955964?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="130">
     <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
     <desc />
@@ -1179,5 +1174,10 @@
   <programme start="20261016170500 +0000" stop="20261016183000 +0000" channel="130">
     <title>Live WCL 2026</title>
     <desc />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016184500 +0000" channel="130">
+    <title>Game Plan - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948694?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

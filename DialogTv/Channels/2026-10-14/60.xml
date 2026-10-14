@@ -3,11 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261011171700 +0000" stop="20261011180900 +0000" channel="60">
-    <title>Cheetah Price Of Speed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180900 +0000" stop="20261011185400 +0000" channel="60">
     <title>Killer Safari</title>
     <desc />
@@ -742,5 +737,10 @@
     <title>Return of the Lion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183600 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

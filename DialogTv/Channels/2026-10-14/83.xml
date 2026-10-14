@@ -3,11 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20261011172800 +0000" stop="20261011181200 +0000" channel="83">
-    <title>Chasing Monsters S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953561?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181200 +0000" stop="20261011185800 +0000" channel="83">
     <title>Joanna Lumley's Danube: Europe's Mightiest River S1</title>
     <desc />
@@ -838,5 +833,10 @@
     <title>Inside The Factory: Ice Cream S6</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955662?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180600 +0000" stop="20261016190500 +0000" channel="83">
+    <title>South America With Simon Reeve S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950869?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

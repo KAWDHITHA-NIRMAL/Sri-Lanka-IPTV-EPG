@@ -3,11 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="121">
     <title>Live The Weekend Wrap</title>
     <desc />
@@ -1395,5 +1390,19 @@
     <title>Live PL Team Talk</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954782?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="121">
+    <title>PL Countdown 26/27</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955705?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="121">
+    <title>PL Highlights Liverpool v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="121">
+    <title>PL 2026-27 Arsenal v Leeds United</title>
+    <desc />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="36">
     <display-name>Channel 42</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011174300 +0000" channel="36">
-    <title>Bulletin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011174300 +0000" stop="20261011174500 +0000" channel="36">
-    <title>Introduction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011174500 +0000" stop="20261011180000 +0000" channel="36">
-    <title>People &amp; Profit</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952797?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011181500 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011181500 +0000" stop="20261011181600 +0000" channel="36">
-    <title>Introduction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011181600 +0000" stop="20261011183000 +0000" channel="36">
-    <title>The 51percent</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952890?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011184500 +0000" channel="36">
     <title>Bulletin</title>
     <desc />
@@ -3017,5 +2987,25 @@
     <title>The World This Week</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/709915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016181600 +0000" channel="36">
+    <title>Introduction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181600 +0000" stop="20261016183000 +0000" channel="36">
+    <title>People &amp; Profit</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016184500 +0000" channel="36">
+    <title>Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952592?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

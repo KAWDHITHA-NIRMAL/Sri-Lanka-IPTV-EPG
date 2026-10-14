@@ -3,11 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="29">
-    <title>Holy Rosary - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949620?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011200000 +0000" channel="29">
     <title>Gayamin Pasasamu</title>
     <desc />
@@ -865,5 +860,10 @@
     <title>Holy Rosary</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957386?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="29">
+    <title>Eucharistic Adoration</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957383?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

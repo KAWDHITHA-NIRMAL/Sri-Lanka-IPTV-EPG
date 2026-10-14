@@ -3,16 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="33">
-    <title>Faces of Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="33">
-    <title>Razor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950163?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="33">
     <title>Talk Africa</title>
     <desc />
@@ -1137,5 +1127,10 @@
     <title>Africa Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

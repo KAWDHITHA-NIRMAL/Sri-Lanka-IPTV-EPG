@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261011160000 +0000" stop="20261011175200 +0000" channel="101">
-    <title>Kho Kho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954333?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011175200 +0000" stop="20261011180000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011193000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -302,5 +292,10 @@
     <title>Diya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955777?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

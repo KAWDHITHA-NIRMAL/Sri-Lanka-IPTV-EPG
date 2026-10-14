@@ -3,11 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="31">
-    <title>That Pacific Sports Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950096?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="31">
     <title>Alone Australia</title>
     <desc />
@@ -740,5 +735,10 @@
     <title>The World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

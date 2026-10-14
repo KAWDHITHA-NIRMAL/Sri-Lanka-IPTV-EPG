@@ -3,16 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="16">
-    <title>Waga Perahuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="16">
     <title>Pirith</title>
     <desc />
@@ -742,5 +732,15 @@
     <title>A Park</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016233000 +0000" channel="16">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

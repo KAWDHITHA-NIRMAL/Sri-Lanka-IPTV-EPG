@@ -3,11 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="57">
-    <title>Ghost Adventures</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="57">
     <title>Haunted Towns</title>
     <desc />
@@ -727,5 +722,10 @@
     <title>Ghost Adventures</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="57">
+    <title>Haunted Towns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

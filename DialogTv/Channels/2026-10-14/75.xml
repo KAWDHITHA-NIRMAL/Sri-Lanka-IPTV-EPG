@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261011145000 +0000" stop="20261011173500 +0000" channel="75">
-    <title>Mission: Impossible - The Final Reckoning</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954005?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011173500 +0000" stop="20261011193500 +0000" channel="75">
     <title>Baywatch</title>
     <desc />
@@ -437,5 +432,10 @@
     <title>Lanterns S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956815?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016175000 +0000" stop="20261016193000 +0000" channel="75">
+    <title>Wifelike</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957775?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="104">
-    <title>G 13 Combine Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951155?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="104">
     <title>G 13 Information Technology</title>
     <desc />
@@ -632,5 +627,10 @@
     <title>G 13 Tamil</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="104">
+    <title>G 13 Political Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957719?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

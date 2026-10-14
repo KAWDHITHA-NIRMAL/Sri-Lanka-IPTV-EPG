@@ -3,11 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20261011170800 +0000" stop="20261011175300 +0000" channel="61">
-    <title>World War Ii With Tom Hanks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950298?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011175300 +0000" stop="20261011183700 +0000" channel="61">
     <title>The Unbelievable With Dan Aykroyd S03</title>
     <desc />
@@ -1052,5 +1047,10 @@
     <title>Kings Of Restoration S07</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/944754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016175300 +0000" stop="20261016183700 +0000" channel="61">
+    <title>History's Greatest Hiests With Pierce Brosnan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="26">
-    <title>Soothra Dham Desuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949734?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="26">
     <title>Wishesha Dharma Deshanaya</title>
     <desc />
@@ -682,5 +677,10 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="26">
+    <title>Sadaham Arana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957924?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

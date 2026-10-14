@@ -3,16 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="39">
-    <title>Late Night with Seth Meyers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="39">
-    <title>CNBC Originals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/816064?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="39">
     <title>Managing Asia</title>
     <desc />
@@ -1107,5 +1097,15 @@
     <title>The Exchange</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

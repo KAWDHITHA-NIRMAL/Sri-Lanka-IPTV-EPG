@@ -3,16 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011175600 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011175600 +0000" stop="20261011182300 +0000" channel="138">
-    <title>Kahiin To Hoga</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951991?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011182300 +0000" stop="20261011184600 +0000" channel="138">
     <title>Parineetii</title>
     <desc />
@@ -827,5 +817,15 @@
     <title>Naagin 6</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955719?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="138">
+    <title>Naagin 6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955719?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="138">
+    <title>Balika Vadhu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953823?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

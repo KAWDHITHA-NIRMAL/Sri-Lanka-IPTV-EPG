@@ -3,16 +3,6 @@
   <channel id="89">
     <display-name>Channel 96</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="89">
-    <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952057?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="89">
-    <title>Sayoneee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="89">
     <title>Yeh Rishta Kya Kehlata Hai</title>
     <desc />
@@ -1182,5 +1172,15 @@
     <title>Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="89">
+    <title>Sayoneee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="89">
+    <title>Yeh Rishta Kya Kehlata Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956295?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="86">
     <display-name>Channel 93</display-name>
   </channel>
-  <programme start="20261011132600 +0000" stop="20261011180600 +0000" channel="86">
-    <title>Animal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180600 +0000" stop="20261011194100 +0000" channel="86">
     <title>Anaconda</title>
     <desc />
@@ -224,6 +219,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261016153000 +0000" stop="20261016183000 +0000" channel="86">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016213000 +0000" channel="86">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />

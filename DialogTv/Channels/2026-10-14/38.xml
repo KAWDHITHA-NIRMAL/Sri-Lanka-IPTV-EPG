@@ -3,16 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="38">
-    <title>Bloomberg Wall Street Week</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949866?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="38">
-    <title>Leaders with Lacqua</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949507?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="38">
     <title>Leaders with Lacqua</title>
     <desc />
@@ -527,5 +517,10 @@
     <title>Bloomberg: Balance Of Power</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957940?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="38">
+    <title>Bloomberg Real Yield</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957419?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="49">
     <display-name>Channel 55</display-name>
   </channel>
-  <programme start="20261011172500 +0000" stop="20261011175000 +0000" channel="49">
-    <title>Henry Danger S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011175000 +0000" stop="20261011181000 +0000" channel="49">
-    <title>Danger Force S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953051?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181000 +0000" stop="20261011183500 +0000" channel="49">
     <title>The Thundermans: Undercover S01</title>
     <desc />
@@ -1732,5 +1722,15 @@
     <title>Henry Danger S04</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016175000 +0000" stop="20261016181500 +0000" channel="49">
+    <title>Danger Force S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956635?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016183500 +0000" channel="49">
+    <title>The Thundermans: Undercover S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956658?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

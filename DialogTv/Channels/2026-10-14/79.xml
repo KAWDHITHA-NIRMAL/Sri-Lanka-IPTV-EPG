@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261011150600 +0000" stop="20261011175200 +0000" channel="79">
-    <title>Bhagavanth Kesari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011175200 +0000" stop="20261011203500 +0000" channel="79">
     <title>Veera Simha Reddy</title>
     <desc />
@@ -231,5 +226,10 @@
     <title>Raid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957573?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016213000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

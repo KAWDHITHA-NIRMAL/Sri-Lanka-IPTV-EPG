@@ -3,11 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261011171700 +0000" stop="20261011181000 +0000" channel="110">
-    <title>River Monsters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951469?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181000 +0000" stop="20261011185600 +0000" channel="110">
     <title>Surviving Earth</title>
     <desc />
@@ -688,6 +683,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261016172800 +0000" stop="20261016182800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016182800 +0000" stop="20261016192000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />

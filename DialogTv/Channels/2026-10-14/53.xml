@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261011170100 +0000" stop="20261011173100 +0000" channel="53">
-    <title>Calm Songs &amp; Sweet Dreams!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011173100 +0000" stop="20261011175700 +0000" channel="53">
-    <title>Colors, Shapes &amp; Numbers!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762716?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011175700 +0000" stop="20261011183100 +0000" channel="53">
     <title>A Big Ocean Clean Up Day!</title>
     <desc />
@@ -1187,5 +1177,15 @@
     <title>Gentle Lessons &amp; Bedtime</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016175900 +0000" stop="20261016182700 +0000" channel="53">
+    <title>A Super Fun Underwater Sing-Along!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950381?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016182700 +0000" stop="20261016190000 +0000" channel="53">
+    <title>A Big Ocean Clean Up Day!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

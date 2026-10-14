@@ -3,11 +3,6 @@
   <channel id="108">
     <display-name>Channel 59</display-name>
   </channel>
-  <programme start="20261011172400 +0000" stop="20261011181200 +0000" channel="108">
-    <title>All-Star Best Thing I Ever Ate S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953636?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181200 +0000" stop="20261011190000 +0000" channel="108">
     <title>Bbq Brawl: Flay V. Anderson V. Voltaggio S5</title>
     <desc />
@@ -932,5 +927,10 @@
     <title>The Kitchen S33</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957766?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181200 +0000" stop="20261016190000 +0000" channel="108">
+    <title>All-Star Best Thing I Ever Ate S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957066?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

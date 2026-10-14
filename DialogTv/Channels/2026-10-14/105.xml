@@ -3,11 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="105">
-    <title>G 11 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="105">
     <title>G 11 Sinhala</title>
     <desc />
@@ -616,5 +611,10 @@
   <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="105">
     <title>G 11 2nd Language Sinhala</title>
     <desc />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="105">
+    <title>G 10 Geography</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956349?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

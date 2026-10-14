@@ -3,16 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="134">
-    <title>REV - The Global Auto and Mobility Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952808?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011181500 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181500 +0000" stop="20261011190000 +0000" channel="134">
     <title>DocFilm - Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</title>
     <desc />
@@ -1832,5 +1822,25 @@
     <title>Best Of DW Podcasts - Best Of DW Podcasts</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/885915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016180200 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180200 +0000" stop="20261016181500 +0000" channel="134">
+    <title>DW News Focus - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="134">
+    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952594?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="134">
+    <title>Eco Africa - The Environment Magazine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952809?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

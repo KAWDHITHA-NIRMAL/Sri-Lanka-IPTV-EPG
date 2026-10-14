@@ -3,11 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="1">
-    <title>Api Api Wage - Back To Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949483?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="1">
     <title>Channel One Highway</title>
     <desc />
@@ -671,5 +666,10 @@
     <title>World Wide</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="1">
+    <title>Channel One Highway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

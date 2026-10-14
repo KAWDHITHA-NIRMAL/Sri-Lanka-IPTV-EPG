@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261011160000 +0000" stop="20261011180000 +0000" channel="72">
-    <title>Maggie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953991?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011200000 +0000" channel="72">
     <title>I See You</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Alien Invasion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016200000 +0000" channel="72">
+    <title>Replicas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955343?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="14">
-    <title>Ada Derana 24 DocumentarySpecial</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949915?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949899?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="14">
     <title>Mojo</title>
     <desc />
@@ -927,5 +917,10 @@
     <title>Late Night News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="14">
+    <title>Gen Xyz</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957963?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011180000 +0000" channel="124">
-    <title>England vs India 2022-2nd T20I Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954361?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011180000 +0000" stop="20261011183000 +0000" channel="124">
-    <title>AG 2026 Highlights (Recurve Mixed Teams and Mens Team Gold Medal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954908?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011193000 +0000" channel="124">
     <title>New Zealand Vs India 2020 5th T20 Highlights</title>
     <desc />
@@ -561,5 +551,10 @@
   <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="124">
     <title>20th Asian Games 2026 Mens final (Kabaddi) India Vs Iran Multi Highlights</title>
     <desc />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="124">
+    <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

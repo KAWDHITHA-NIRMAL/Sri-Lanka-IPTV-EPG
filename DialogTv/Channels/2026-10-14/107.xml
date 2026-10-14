@@ -3,16 +3,6 @@
   <channel id="107">
     <display-name>Channel 69</display-name>
   </channel>
-  <programme start="20261011172000 +0000" stop="20261011174500 +0000" channel="107">
-    <title>House Hunters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911661?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011174500 +0000" stop="20261011181000 +0000" channel="107">
-    <title>My Lottery Dream Home</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953847?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011181000 +0000" stop="20261011183500 +0000" channel="107">
     <title>House Hunters</title>
     <desc />
@@ -1020,5 +1010,10 @@
     <title>Fix My Frankenhouse S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956686?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016181000 +0000" stop="20261016190000 +0000" channel="107">
+    <title>House Hunters Renovation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953848?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

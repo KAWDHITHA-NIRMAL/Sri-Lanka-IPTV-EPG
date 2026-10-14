@@ -3,11 +3,6 @@
   <channel id="140">
     <display-name>Channel 2381</display-name>
   </channel>
-  <programme start="20261011173000 +0000" stop="20261011183000 +0000" channel="140">
-    <title>Asia Cup 2023 : PAK v IND Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954117?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011183000 +0000" stop="20261011190000 +0000" channel="140">
     <title>Asian Games Cricket - Men's Gold Medal Match</title>
     <desc />
@@ -754,5 +749,15 @@
     <title>Asian Games 2026 Kabaddi (W) SF1 India vs Nepal Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956829?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="140">
+    <title>Asian Games 2026 Kabaddi (W) Gold Medal Match - India vs Iran Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="140">
+    <title>ACC Men's Asia Cup U19 2025: India vs UAE Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954112?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

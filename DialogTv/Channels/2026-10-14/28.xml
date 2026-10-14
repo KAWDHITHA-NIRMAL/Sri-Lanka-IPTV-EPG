@@ -3,11 +3,6 @@
   <channel id="28">
     <display-name>Channel 34</display-name>
   </channel>
-  <programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="28">
-    <title>Gateway Conference - Robert Morris</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63255?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011180000 +0000" stop="20261011190000 +0000" channel="28">
     <title>Documentary - I Am Mark</title>
     <desc />
@@ -1187,5 +1182,15 @@
     <title>ICF Only Jesus - Glynn Barrett</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="28">
+    <title>Parent Compass S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952104?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="28">
+    <title>My Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
