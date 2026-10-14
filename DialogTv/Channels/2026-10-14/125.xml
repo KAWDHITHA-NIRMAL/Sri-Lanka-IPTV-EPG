@@ -3,52 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261010162500 +0000" stop="20261010183000 +0000" channel="125">
-    <title>LIVE Gallagher Premiership Saracens v Bristol</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955698?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010183000 +0000" stop="20261010211500 +0000" channel="125">
-    <title>LIVE United Rugby Championship Leinster v Cardiff</title>
-    <desc />
-  </programme>
-  <programme start="20261010211500 +0000" stop="20261010214000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2001 - Ireland v France</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010214000 +0000" stop="20261010233000 +0000" channel="125">
-    <title>Bledisloe Cup New Zealand v Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010233000 +0000" stop="20261011000000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2003 - England v Scotland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011000000 +0000" stop="20261011015000 +0000" channel="125">
-    <title>United Rugby Championship Stormers v Sharks</title>
-    <desc />
-  </programme>
-  <programme start="20261011015000 +0000" stop="20261011034000 +0000" channel="125">
-    <title>United Rugby Championship Zebre Parma v Edinburgh</title>
-    <desc />
-  </programme>
-  <programme start="20261011034000 +0000" stop="20261011053000 +0000" channel="125">
-    <title>United Rugby Championship Scarlets v Benetton</title>
-    <desc />
-  </programme>
-  <programme start="20261011053000 +0000" stop="20261011060000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 1999 - Wales v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011060000 +0000" stop="20261011075000 +0000" channel="125">
-    <title>Top 14 Stade Francais v Montpellier</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955952?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011075000 +0000" stop="20261011094000 +0000" channel="125">
     <title>Top 14 Lyon v La Rochelle</title>
     <desc />
@@ -454,6 +408,7 @@
   <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="125">
     <title>URC in 60 Round 3</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958540?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014140000 +0000" stop="20261014155000 +0000" channel="125">
     <title>NRL Roosters v Knights</title>
@@ -478,6 +433,7 @@
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="125">
     <title>URC in 60 Round 3</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958540?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014210000 +0000" stop="20261014213000 +0000" channel="125">
     <title>Gallagher Premiership Gallagher Premiership</title>
@@ -561,5 +517,57 @@
     <title>Bledisloe Cup New Zealand v Australia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015185000 +0000" stop="20261015204000 +0000" channel="125">
+    <title>United Rugby Championship Glasgow Warriors v Connacht</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957728?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015204000 +0000" stop="20261015214000 +0000" channel="125">
+    <title>URC in 60 Round 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015214000 +0000" stop="20261015233000 +0000" channel="125">
+    <title>Gallagher Premiership Leicester v Gloucester</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015233000 +0000" stop="20261016012000 +0000" channel="125">
+    <title>Gallagher Premiership Northampton v Bath</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956996?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016012000 +0000" stop="20261016015000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1999 - Wales v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016015000 +0000" stop="20261016025000 +0000" channel="125">
+    <title>URC in 60 Round 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016025000 +0000" stop="20261016044000 +0000" channel="125">
+    <title>United Rugby Championship Dragons v Ospreys</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953931?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016044000 +0000" stop="20261016063000 +0000" channel="125">
+    <title>RLWC26 Australia v New Zealand</title>
+    <desc />
+  </programme>
+  <programme start="20261016063000 +0000" stop="20261016084000 +0000" channel="125">
+    <title>Live RLWC26 Samoa v France</title>
+    <desc />
+  </programme>
+  <programme start="20261016084000 +0000" stop="20261016085000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016085000 +0000" stop="20261016110000 +0000" channel="125">
+    <title>Live Women's RLWC 2026 Australia v Samoa</title>
+    <desc />
   </programme>
 </tv>

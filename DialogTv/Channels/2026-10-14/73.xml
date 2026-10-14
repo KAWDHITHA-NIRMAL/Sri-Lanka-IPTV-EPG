@@ -3,41 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261010164500 +0000" stop="20261010191500 +0000" channel="73">
-    <title>Notting Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010191500 +0000" stop="20261010213000 +0000" channel="73">
-    <title>The Accused</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953887?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010213000 +0000" stop="20261010234500 +0000" channel="73">
-    <title>The Frighteners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955615?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010234500 +0000" stop="20261011021500 +0000" channel="73">
-    <title>The Blind Side</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953995?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011021500 +0000" stop="20261011043000 +0000" channel="73">
-    <title>Cat People</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950727?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011043000 +0000" stop="20261011071500 +0000" channel="73">
-    <title>Apollo 13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953758?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011071500 +0000" stop="20261011093000 +0000" channel="73">
-    <title>The Frighteners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955615?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011093000 +0000" stop="20261011120000 +0000" channel="73">
     <title>The Blind Side</title>
     <desc />
@@ -267,5 +232,35 @@
     <title>The Frighteners</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015193000 +0000" stop="20261015221500 +0000" channel="73">
+    <title>Executive Decision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015221500 +0000" stop="20261016010000 +0000" channel="73">
+    <title>The Matrix Reloaded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957492?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016010000 +0000" stop="20261016033000 +0000" channel="73">
+    <title>Samson And Delilah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016033000 +0000" stop="20261016063000 +0000" channel="73">
+    <title>Anatomy Of A Murder</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955658?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016063000 +0000" stop="20261016091500 +0000" channel="73">
+    <title>Executive Decision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016091500 +0000" stop="20261016120000 +0000" channel="73">
+    <title>The Matrix Reloaded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957492?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

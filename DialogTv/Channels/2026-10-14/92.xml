@@ -3,36 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261010150000 +0000" stop="20261010180000 +0000" channel="92">
-    <title>Chennai V/S China</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953213?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010180000 +0000" stop="20261010210000 +0000" channel="92">
-    <title>Apna Sapna Money Money</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953212?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010210000 +0000" stop="20261011000000 +0000" channel="92">
-    <title>Gold</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011000000 +0000" stop="20261011030000 +0000" channel="92">
-    <title>Bholaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011030000 +0000" stop="20261011060000 +0000" channel="92">
-    <title>102 Not Out</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954342?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011060000 +0000" stop="20261011090000 +0000" channel="92">
-    <title>Sarkar 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954343?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011090000 +0000" stop="20261011120000 +0000" channel="92">
     <title>Runway 34</title>
     <desc />
@@ -207,5 +177,35 @@
     <title>Udta Punjab</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957197?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015210000 +0000" channel="92">
+    <title>Swatantra Veer Savarkar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957654?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015210000 +0000" stop="20261016000000 +0000" channel="92">
+    <title>Love, Sitara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955459?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="92">
+    <title>Badal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016030000 +0000" stop="20261016060000 +0000" channel="92">
+    <title>Encounter Shankar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016060000 +0000" stop="20261016090000 +0000" channel="92">
+    <title>Spyder</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958043?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016090000 +0000" stop="20261016120000 +0000" channel="92">
+    <title>Nafrat Ki Aandhi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955769?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

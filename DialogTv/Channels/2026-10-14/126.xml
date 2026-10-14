@@ -3,35 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20261010163000 +0000" stop="20261010183000 +0000" channel="126">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010183000 +0000" stop="20261010203000 +0000" channel="126">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261010203000 +0000" stop="20261011003000 +0000" channel="126">
-    <title>Repeat - ICC Men's T20 World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011003000 +0000" stop="20261011030000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011030000 +0000" stop="20261011040000 +0000" channel="126">
-    <title>Highlights - Pakistan tour of Bangladesh 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955784?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011040000 +0000" stop="20261011093000 +0000" channel="126">
-    <title>Live - Hayleys - A  vs CDB - A - 33rd Singer MCA Super Premiere League 2026</title>
-    <desc />
-  </programme>
   <programme start="20261011093000 +0000" stop="20261011121500 +0000" channel="126">
     <title>Live - Hayleys - A  vs CDB - A - 33rd Singer MCA Super Premiere League 2026</title>
     <desc />
@@ -184,6 +155,7 @@
   <programme start="20261014033000 +0000" stop="20261014113000 +0000" channel="126">
     <title>Live - Australia vs Bangladesh - 3rd ODI - Bangladesh Women tour of Australia  2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958533?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014113000 +0000" stop="20261014123000 +0000" channel="126">
     <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
@@ -193,6 +165,7 @@
   <programme start="20261014123000 +0000" stop="20261014180000 +0000" channel="126">
     <title>Live - India vs West Indies - 4th T20I - West Indies tour of India 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958417?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014180000 +0000" stop="20261014183000 +0000" channel="126">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -240,5 +213,38 @@
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261016003000 +0000" channel="126">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016003000 +0000" stop="20261016020000 +0000" channel="126">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016020000 +0000" stop="20261016030000 +0000" channel="126">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016030000 +0000" stop="20261016043000 +0000" channel="126">
+    <title>Highlights - 33rd Singer MCA Super Premiere League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261016043000 +0000" stop="20261016070000 +0000" channel="126">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016070000 +0000" stop="20261016123000 +0000" channel="126">
+    <title>Live - Denmark Open 2026 - Quarter Finals - Court 01</title>
+    <desc />
   </programme>
 </tv>
