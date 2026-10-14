@@ -3,36 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261011093000 +0000" stop="20261011103000 +0000" channel="15">
-    <title>Siyatha Kelibima</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952228?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011103000 +0000" stop="20261011113000 +0000" channel="15">
-    <title>Million Views</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011123000 +0000" channel="15">
-    <title>Siyatha Rasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949690?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011123000 +0000" stop="20261011133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011133000 +0000" stop="20261011153000 +0000" channel="15">
-    <title>'Prime Studio Musical</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949691?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011153000 +0000" stop="20261011163000 +0000" channel="15">
-    <title>Siyatha Live News @ 9.35</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915607?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="15">
     <title>Old Is Gold</title>
     <desc />
@@ -577,5 +547,40 @@
     <title>Siyatha Tharupiri Re</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958002?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016113000 +0000" channel="15">
+    <title>Studio One</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949680?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016123000 +0000" channel="15">
+    <title>Poddo Waddo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016133000 +0000" channel="15">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016153000 +0000" channel="15">
+    <title>Voice Of Family</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016163000 +0000" channel="15">
+    <title>Siyatha Tv News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="15">
+    <title>Miss World 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958080?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016183000 +0000" channel="15">
+    <title>Siyatha Sadde</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957970?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261011092800 +0000" stop="20261011112600 +0000" channel="74">
-    <title>Jumanji: The Next Level</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011112600 +0000" stop="20261011134100 +0000" channel="74">
-    <title>Blade Runner 2049</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951564?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011134100 +0000" stop="20261011153000 +0000" channel="74">
-    <title>Kraven The Hunter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011153000 +0000" stop="20261011174100 +0000" channel="74">
     <title>Spider-Man 3</title>
     <desc />
@@ -357,5 +342,30 @@
     <title>Harold &amp; The Purple Crayon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016104800 +0000" stop="20261016122700 +0000" channel="74">
+    <title>Monster Hunter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016122700 +0000" stop="20261016134000 +0000" channel="74">
+    <title>Sisu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016134000 +0000" stop="20261016153000 +0000" channel="74">
+    <title>Uncharted</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016171700 +0000" channel="74">
+    <title>Ghostbusters: Frozen Empire</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016171700 +0000" stop="20261016191300 +0000" channel="74">
+    <title>Bad Boys For Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958454?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

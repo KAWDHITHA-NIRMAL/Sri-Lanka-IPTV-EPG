@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261011083300 +0000" stop="20261011103300 +0000" channel="101">
-    <title>Kuttrame Thandanai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011103300 +0000" stop="20261011130300 +0000" channel="101">
-    <title>Trending</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953778?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011130300 +0000" stop="20261011160000 +0000" channel="101">
-    <title>Saaho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011160000 +0000" stop="20261011175200 +0000" channel="101">
     <title>Kho Kho</title>
     <desc />
@@ -302,5 +287,20 @@
     <title>Picket 43</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958035?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016130000 +0000" channel="101">
+    <title>Annapoorani</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958036?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016163000 +0000" channel="101">
+    <title>2.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="101">
+    <title>Diya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955777?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

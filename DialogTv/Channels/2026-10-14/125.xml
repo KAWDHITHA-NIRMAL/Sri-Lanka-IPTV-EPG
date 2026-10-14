@@ -3,36 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261011075000 +0000" stop="20261011094000 +0000" channel="125">
-    <title>Top 14 Lyon v La Rochelle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955954?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011094000 +0000" stop="20261011113000 +0000" channel="125">
-    <title>Top 14 Clermont Auvergne v Bordeaux</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955955?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011113000 +0000" stop="20261011120000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2009 - Italy v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011120000 +0000" stop="20261011135500 +0000" channel="125">
-    <title>Bledisloe Cup New Zealand v Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011135500 +0000" stop="20261011160000 +0000" channel="125">
-    <title>LIVE Gallagher Premiership Exeter v Newcastle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011160000 +0000" stop="20261011163000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2007 - Scotland v Italy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951961?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="125">
     <title>AFLW Geelong v GWS Giants</title>
     <desc />
@@ -569,5 +539,33 @@
   <programme start="20261016085000 +0000" stop="20261016110000 +0000" channel="125">
     <title>Live Women's RLWC 2026 Australia v Samoa</title>
     <desc />
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016113000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016132000 +0000" channel="125">
+    <title>United Rugby Championship Stormers v Sharks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956748?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016132000 +0000" stop="20261016151000 +0000" channel="125">
+    <title>Women's RLWC 2026 Australia v Samoa</title>
+    <desc />
+  </programme>
+  <programme start="20261016151000 +0000" stop="20261016170000 +0000" channel="125">
+    <title>RLWC26 Samoa v France</title>
+    <desc />
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="125">
+    <title>Top 14 Highlights Round 6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

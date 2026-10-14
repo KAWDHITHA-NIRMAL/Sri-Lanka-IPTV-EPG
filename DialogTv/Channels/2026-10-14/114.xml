@@ -3,21 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261011083000 +0000" stop="20261011103500 +0000" channel="114">
-    <title>Stardust</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011103500 +0000" stop="20261011130000 +0000" channel="114">
-    <title>Wonder Woman 1984</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011130000 +0000" stop="20261011153500 +0000" channel="114">
-    <title>One Battle After Another</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954356?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011153500 +0000" stop="20261011174500 +0000" channel="114">
     <title>Lee Cronin'S The Mummy</title>
     <desc />
@@ -357,5 +342,25 @@
     <title>Indiana Jones And The Raiders Of The Lost Ark</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016110500 +0000" stop="20261016130000 +0000" channel="114">
+    <title>Green Lantern</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955031?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="114">
+    <title>War S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016155500 +0000" channel="114">
+    <title>Mortal Kombat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016155500 +0000" stop="20261016181000 +0000" channel="114">
+    <title>Lee Cronin'S The Mummy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953670?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

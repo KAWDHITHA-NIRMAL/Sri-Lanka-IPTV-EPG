@@ -3,26 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261011091500 +0000" stop="20261011111500 +0000" channel="133">
-    <title>Oblivion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011111500 +0000" stop="20261011125500 +0000" channel="133">
-    <title>Rambo 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011125500 +0000" stop="20261011150500 +0000" channel="133">
-    <title>White House Down</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955959?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011150500 +0000" stop="20261011172500 +0000" channel="133">
-    <title>Mulholland Dr</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011172500 +0000" stop="20261011191000 +0000" channel="133">
     <title>Shaolin Vs. Evil Dead 2: Ultimate Power</title>
     <desc />
@@ -322,5 +302,25 @@
     <title>Rider On The Rain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016125500 +0000" channel="133">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016125500 +0000" stop="20261016143000 +0000" channel="133">
+    <title>A Reason To Live, A Reason To Die</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016161000 +0000" channel="133">
+    <title>Vampire Wars: Battle For The Universe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016161000 +0000" stop="20261016183000 +0000" channel="133">
+    <title>Mulholland Dr</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951486?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

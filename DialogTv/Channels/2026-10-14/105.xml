@@ -3,56 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261011090000 +0000" stop="20261011100000 +0000" channel="105">
-    <title>G 10 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="105">
-    <title>G 10 Music</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011110000 +0000" stop="20261011120000 +0000" channel="105">
-    <title>G 11 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951131?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011120000 +0000" stop="20261011123000 +0000" channel="105">
-    <title>Poddanta Nenasen Idak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011123000 +0000" stop="20261011130000 +0000" channel="105">
-    <title>Raga Madala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951129?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011130000 +0000" stop="20261011133000 +0000" channel="105">
-    <title>Sathi Pasala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950824?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011133000 +0000" stop="20261011140000 +0000" channel="105">
-    <title>Suwa Nenasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950821?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011150000 +0000" channel="105">
-    <title>G 11 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011150000 +0000" stop="20261011160000 +0000" channel="105">
-    <title>G 10 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951125?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011160000 +0000" stop="20261011170000 +0000" channel="105">
-    <title>G 10 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951133?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011170000 +0000" stop="20261011180000 +0000" channel="105">
     <title>G 11 English</title>
     <desc />
@@ -630,5 +580,41 @@
     <title>G 10 Art</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016113000 +0000" channel="105">
+    <title>G 11 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016123000 +0000" channel="105">
+    <title>G 11 Design &amp; Construction Tech</title>
+    <desc />
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016133000 +0000" channel="105">
+    <title>G 11 2nd Language Sinhala</title>
+    <desc />
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016143000 +0000" channel="105">
+    <title>G 10 Geography</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016153000 +0000" channel="105">
+    <title>G 10 Art</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016163000 +0000" channel="105">
+    <title>G 11 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016173000 +0000" channel="105">
+    <title>G 11 Design &amp; Construction Tech</title>
+    <desc />
+  </programme>
+  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="105">
+    <title>G 11 2nd Language Sinhala</title>
+    <desc />
   </programme>
 </tv>

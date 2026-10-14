@@ -3,31 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261011084500 +0000" stop="20261011102000 +0000" channel="117">
-    <title>Last Breath</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011102000 +0000" stop="20261011121500 +0000" channel="117">
-    <title>Recount</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011121500 +0000" stop="20261011140000 +0000" channel="117">
-    <title>Rampage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955862?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011155500 +0000" channel="117">
-    <title>Scream 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954371?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011155500 +0000" stop="20261011171500 +0000" channel="117">
-    <title>Scary Movie 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954372?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011171500 +0000" stop="20261011183500 +0000" channel="117">
     <title>Scary Movie 3</title>
     <desc />
@@ -377,5 +352,25 @@
     <title>Path To War</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953264?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016121000 +0000" stop="20261016140000 +0000" channel="117">
+    <title>Wanted</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016152000 +0000" channel="117">
+    <title>Lights Out</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016152000 +0000" stop="20261016165500 +0000" channel="117">
+    <title>Alarum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954803?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016165500 +0000" stop="20261016182500 +0000" channel="117">
+    <title>Dracula Ii: Ascension</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

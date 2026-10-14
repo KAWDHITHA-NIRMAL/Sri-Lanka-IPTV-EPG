@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261011080500 +0000" stop="20261011110800 +0000" channel="90">
-    <title>Mr. Natwarlal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011110800 +0000" stop="20261011141400 +0000" channel="90">
-    <title>Insaniyat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954338?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011141400 +0000" stop="20261011171400 +0000" channel="90">
-    <title>Ram Balram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954339?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011171400 +0000" stop="20261011200000 +0000" channel="90">
     <title>Shiva Shakti</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Kab? Kyoon?Aur Kahan?</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958121?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016140000 +0000" channel="90">
+    <title>Guddu Ki Gun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958104?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016170000 +0000" channel="90">
+    <title>Jung ka Maidan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955674?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016200000 +0000" channel="90">
+    <title>Papi Gudia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957587?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

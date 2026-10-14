@@ -3,16 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261011090700 +0000" stop="20261011122500 +0000" channel="79">
-    <title>The Warriorr</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955641?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011122500 +0000" stop="20261011150600 +0000" channel="79">
-    <title>Inttelligent</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011150600 +0000" stop="20261011175200 +0000" channel="79">
     <title>Bhagavanth Kesari</title>
     <desc />
@@ -226,5 +216,20 @@
     <title>Devara: Part 1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957570?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016111500 +0000" stop="20261016150000 +0000" channel="79">
+    <title>Tiger Zinda Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957571?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016173000 +0000" channel="79">
+    <title>Kali Kitaab</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957572?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="79">
+    <title>Raid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957573?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

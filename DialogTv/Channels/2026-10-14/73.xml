@@ -3,21 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261011093000 +0000" stop="20261011120000 +0000" channel="73">
-    <title>The Blind Side</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953995?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011120000 +0000" stop="20261011140000 +0000" channel="73">
-    <title>The Usual Suspects</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011163000 +0000" channel="73">
-    <title>Red Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011163000 +0000" stop="20261011184500 +0000" channel="73">
     <title>Cat People</title>
     <desc />
@@ -262,5 +247,20 @@
     <title>The Matrix Reloaded</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957492?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016120000 +0000" stop="20261016141500 +0000" channel="73">
+    <title>Sands Of Iwo Jima</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016141500 +0000" stop="20261016161500 +0000" channel="73">
+    <title>The Usual Suspects</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016161500 +0000" stop="20261016184500 +0000" channel="73">
+    <title>Samson And Delilah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956805?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

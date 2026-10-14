@@ -3,16 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261011090000 +0000" stop="20261011120000 +0000" channel="92">
-    <title>Runway 34</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011120000 +0000" stop="20261011150000 +0000" channel="92">
-    <title>Waqt: The Race Against Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011150000 +0000" stop="20261011180000 +0000" channel="92">
     <title>Akele Hum Akele Tum</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Nafrat Ki Aandhi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955769?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016120000 +0000" stop="20261016150000 +0000" channel="92">
+    <title>Talaash: The Answer Lies Within</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016180000 +0000" channel="92">
+    <title>Dhaakad</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956923?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

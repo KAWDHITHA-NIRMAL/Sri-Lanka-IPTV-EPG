@@ -3,81 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20261011093000 +0000" stop="20261011103000 +0000" channel="2">
-    <title>Kreeda Visithuru - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011103000 +0000" stop="20261011110000 +0000" channel="2">
-    <title>Musical Programme - Filler Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/685996?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011110000 +0000" stop="20261011120000 +0000" channel="2">
-    <title>Target</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011120000 +0000" stop="20261011123000 +0000" channel="2">
-    <title>Ayubowewa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802362?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011123000 +0000" stop="20261011130000 +0000" channel="2">
-    <title>Ethera Methera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952206?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011130000 +0000" stop="20261011131800 +0000" channel="2">
-    <title>Govibimata Arunalu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/802364?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011131800 +0000" stop="20261011132500 +0000" channel="2">
-    <title>Trailers &amp; Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011132500 +0000" stop="20261011133000 +0000" channel="2">
-    <title>News Headlines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011133000 +0000" stop="20261011140000 +0000" channel="2">
-    <title>Soba Dhara S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949614?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011142900 +0000" channel="2">
-    <title>Knockout</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949618?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011142900 +0000" stop="20261011143000 +0000" channel="2">
-    <title>Theme - News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949619?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011143000 +0000" stop="20261011143100 +0000" channel="2">
-    <title>News Studio &amp; Headline - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949603?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011143100 +0000" stop="20261011150000 +0000" channel="2">
-    <title>News And Weather Report - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35091?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011150000 +0000" stop="20261011153000 +0000" channel="2">
-    <title>Dorakada Dewola</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952243?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011153000 +0000" stop="20261011160000 +0000" channel="2">
-    <title>Dlb Lottery Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011160000 +0000" stop="20261011180000 +0000" channel="2">
     <title>Piyum Neela Wila</title>
     <desc />
@@ -992,5 +917,95 @@
     <title>Round The Twist S3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956804?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016102500 +0000" channel="2">
+    <title>Gigirum Danavuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957214?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016102500 +0000" stop="20261016103000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956809?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016113000 +0000" channel="2">
+    <title>Jathika Pasala - O/L Exam - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016115700 +0000" channel="2">
+    <title>Sirilaka Katusu Parapura</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958102?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016115700 +0000" stop="20261016122500 +0000" channel="2">
+    <title>Animal's World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/773377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016122500 +0000" stop="20261016123000 +0000" channel="2">
+    <title>News - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956809?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016124500 +0000" channel="2">
+    <title>Trailers &amp; Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016124500 +0000" stop="20261016130000 +0000" channel="2">
+    <title>Mihikatha Dinuvo - Agriculture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016132600 +0000" channel="2">
+    <title>Janahithakami Rejiniya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957207?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016132600 +0000" stop="20261016133000 +0000" channel="2">
+    <title>News Headlines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016140000 +0000" channel="2">
+    <title>Janahithakami Rejiniya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957207?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016142900 +0000" channel="2">
+    <title>Ve Diya Mankada</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016142900 +0000" stop="20261016143000 +0000" channel="2">
+    <title>Theme - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016143100 +0000" channel="2">
+    <title>News Studio &amp; Headline - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949603?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143100 +0000" stop="20261016150000 +0000" channel="2">
+    <title>News And Weather Report - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957232?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="2">
+    <title>Amuthu Sankranthiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939165?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="2">
+    <title>Dlb Lottery Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956388?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016174500 +0000" channel="2">
+    <title>Healthy Food Happy Life</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956812?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

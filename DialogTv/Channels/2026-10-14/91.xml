@@ -3,16 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261011084300 +0000" stop="20261011112600 +0000" channel="91">
-    <title>Dulhan Hum Le Jayenge</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955541?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011112600 +0000" stop="20261011142500 +0000" channel="91">
-    <title>Shershaah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011142500 +0000" stop="20261011183600 +0000" channel="91">
     <title>Hum Dil De Chuke Sanam</title>
     <desc />
@@ -143,37 +133,37 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958494?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014204500 +0000" stop="20261014223000 +0000" channel="91">
+  <programme start="20261014204500 +0000" stop="20261014223500 +0000" channel="91">
     <title>Uriyadi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958495?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014223000 +0000" stop="20261015010000 +0000" channel="91">
+  <programme start="20261014223500 +0000" stop="20261015010600 +0000" channel="91">
     <title>Jab Pyaar Kisi Se Hota Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958633?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261015010000 +0000" stop="20261015043000 +0000" channel="91">
+  <programme start="20261015010600 +0000" stop="20261015043100 +0000" channel="91">
     <title>Kya Yehi Pyaar Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954505?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261015043000 +0000" stop="20261015080000 +0000" channel="91">
+  <programme start="20261015043100 +0000" stop="20261015075700 +0000" channel="91">
     <title>Brahmastra: Part One Shiva</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958634?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261015080000 +0000" stop="20261015111500 +0000" channel="91">
+  <programme start="20261015075700 +0000" stop="20261015111600 +0000" channel="91">
     <title>Hello Brother</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958635?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261015111500 +0000" stop="20261015143000 +0000" channel="91">
+  <programme start="20261015111600 +0000" stop="20261015142500 +0000" channel="91">
     <title>Teri Baaton Mein Aisa Uljha Jiya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958636?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261015143000 +0000" stop="20261015183000 +0000" channel="91">
+  <programme start="20261015142500 +0000" stop="20261015183000 +0000" channel="91">
     <title>Devdas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958637?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -207,5 +197,15 @@
     <title>Tere Naam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016111500 +0000" stop="20261016143000 +0000" channel="91">
+    <title>Garam Masala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958644?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016181500 +0000" channel="91">
+    <title>Om Shanti Om</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958645?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

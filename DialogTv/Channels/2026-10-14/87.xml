@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261011084500 +0000" stop="20261011114500 +0000" channel="87">
-    <title>Dil To Pagal Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954308?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011114500 +0000" stop="20261011141500 +0000" channel="87">
-    <title>Welcome Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951610?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011141500 +0000" stop="20261011170000 +0000" channel="87">
-    <title>Do Aur Do Paanch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954310?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011170000 +0000" stop="20261011194500 +0000" channel="87">
     <title>Dangal</title>
     <desc />
@@ -272,5 +257,20 @@
     <title>Tere Naam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957527?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016140500 +0000" channel="87">
+    <title>Ms Dhoni - The Untold Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957528?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016140500 +0000" stop="20261016170000 +0000" channel="87">
+    <title>Happy New Year</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957529?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016191500 +0000" channel="87">
+    <title>Pink</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950707?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

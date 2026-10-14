@@ -3,61 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261011085300 +0000" stop="20261011093800 +0000" channel="60">
-    <title>Croc Wars: Grumeti Vs Mara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011093800 +0000" stop="20261011102500 +0000" channel="60">
-    <title>Leopard Kingdom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011102500 +0000" stop="20261011110900 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011110900 +0000" stop="20261011115600 +0000" channel="60">
-    <title>Jaguars Vs. Crocs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/695917?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011115600 +0000" stop="20261011124700 +0000" channel="60">
-    <title>Creative Killers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011124700 +0000" stop="20261011133400 +0000" channel="60">
-    <title>Cheetahs Up Close With Bertie Gregory</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/916244?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011133400 +0000" stop="20261011143000 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011143000 +0000" stop="20261011151800 +0000" channel="60">
-    <title>Shadow Cats</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950456?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011151800 +0000" stop="20261011160400 +0000" channel="60">
-    <title>The Way Of The Cheetah</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950481?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011160400 +0000" stop="20261011162900 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011162900 +0000" stop="20261011171700 +0000" channel="60">
-    <title>Tales From Wildlands</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011171700 +0000" stop="20261011180900 +0000" channel="60">
     <title>Cheetah Price Of Speed</title>
     <desc />
@@ -752,5 +697,50 @@
     <title>Eternal Enemies</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951807?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016113000 +0000" channel="60">
+    <title>Shadow Cats</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950456?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016113000 +0000" stop="20261016123000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016133000 +0000" channel="60">
+    <title>Sri Lanka: Leopard Dynasty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952476?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016143000 +0000" channel="60">
+    <title>Lions: The Hunt for Survival</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955578?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016153000 +0000" channel="60">
+    <title>Killer Safari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016163000 +0000" channel="60">
+    <title>Wild Transylvania: Dracula's Hidden Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="60">
+    <title>Extreme Animal Transport</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="60">
+    <title>Life in the Animal Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="60">
+    <title>Return of the Lion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955981?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

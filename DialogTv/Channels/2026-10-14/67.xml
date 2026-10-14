@@ -3,21 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261011070000 +0000" stop="20261011150000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011150000 +0000" stop="20261011153000 +0000" channel="67">
-    <title>WWE's Greatest Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011153000 +0000" stop="20261011163000 +0000" channel="67">
-    <title>TNA Xplosion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="67">
     <title>AEW Collision</title>
     <desc />
@@ -302,5 +287,30 @@
     <title>Professional Fighters League</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953514?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016123000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016133000 +0000" channel="67">
+    <title>Impact In 60</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016133000 +0000" stop="20261016143000 +0000" channel="67">
+    <title>TNA Wrestling: Pehalwani Patakha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016163000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
