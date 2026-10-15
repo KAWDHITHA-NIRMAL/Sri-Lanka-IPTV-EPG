@@ -3,51 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261011171500 +0000" stop="20261011183500 +0000" channel="117">
-    <title>Scary Movie 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954373?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011183500 +0000" stop="20261011200000 +0000" channel="117">
-    <title>Watchmen: Chapter Ii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/945884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011200000 +0000" stop="20261011220500 +0000" channel="117">
-    <title>Joker</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011220500 +0000" stop="20261011234000 +0000" channel="117">
-    <title>Clear History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011234000 +0000" stop="20261012011500 +0000" channel="117">
-    <title>Pu-239</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954369?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012011500 +0000" stop="20261012025000 +0000" channel="117">
-    <title>Drop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954368?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012025000 +0000" stop="20261012043000 +0000" channel="117">
-    <title>Changing Lanes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954799?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012043000 +0000" stop="20261012061500 +0000" channel="117">
-    <title>Rampage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955862?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012061500 +0000" stop="20261012080000 +0000" channel="117">
-    <title>Stop-Loss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954800?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012080000 +0000" stop="20261012095500 +0000" channel="117">
     <title>Recount</title>
     <desc />
@@ -377,5 +332,40 @@
     <title>Dracula Iii: Legacy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="117">
+    <title>M3Gan 2.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261016233500 +0000" channel="117">
+    <title>Starter For 10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016233500 +0000" stop="20261017005500 +0000" channel="117">
+    <title>Scary Movie 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954373?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017005500 +0000" stop="20261017022000 +0000" channel="117">
+    <title>A.C.O.D.</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958055?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017022000 +0000" stop="20261017042500 +0000" channel="117">
+    <title>Jurassic Park</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957060?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017042500 +0000" stop="20261017061000 +0000" channel="117">
+    <title>Wanted</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017061000 +0000" stop="20261017085000 +0000" channel="117">
+    <title>Path To War</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

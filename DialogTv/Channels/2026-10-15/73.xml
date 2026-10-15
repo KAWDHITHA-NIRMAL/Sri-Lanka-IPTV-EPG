@@ -3,36 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261011163000 +0000" stop="20261011184500 +0000" channel="73">
-    <title>Cat People</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950727?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011184500 +0000" stop="20261011213000 +0000" channel="73">
-    <title>Apollo 13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953758?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011213000 +0000" stop="20261011233000 +0000" channel="73">
-    <title>The Usual Suspects</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261011233000 +0000" stop="20261012020000 +0000" channel="73">
-    <title>Red Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953696?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012020000 +0000" stop="20261012044500 +0000" channel="73">
-    <title>Man On Fire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012044500 +0000" stop="20261012071500 +0000" channel="73">
-    <title>Notting Hill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012071500 +0000" stop="20261012091500 +0000" channel="73">
     <title>The Usual Suspects</title>
     <desc />
@@ -262,5 +232,40 @@
     <title>Samson And Delilah</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016184500 +0000" stop="20261016214500 +0000" channel="73">
+    <title>Anatomy Of A Murder</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955658?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016214500 +0000" stop="20261017000000 +0000" channel="73">
+    <title>Sands Of Iwo Jima</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017000000 +0000" stop="20261017020000 +0000" channel="73">
+    <title>The Usual Suspects</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017020000 +0000" stop="20261017033000 +0000" channel="73">
+    <title>Creature From The Black Lagoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955006?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017033000 +0000" stop="20261017054500 +0000" channel="73">
+    <title>The Frighteners</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017054500 +0000" stop="20261017080000 +0000" channel="73">
+    <title>Sands Of Iwo Jima</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="73">
+    <title>The Usual Suspects</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957418?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
