@@ -3,11 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="127">
-    <title>Repeat -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949504?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012203000 +0000" channel="127">
     <title>Repeat - FFSL Super League 2026</title>
     <desc />
@@ -241,5 +236,9 @@
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="127">
+    <title>Repeat -Dialog Play Super League 2026</title>
+    <desc />
   </programme>
 </tv>

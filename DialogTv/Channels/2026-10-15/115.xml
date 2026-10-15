@@ -3,11 +3,6 @@
   <channel id="115">
     <display-name>Channel 121</display-name>
   </channel>
-  <programme start="20261012165400 +0000" stop="20261012182600 +0000" channel="115">
-    <title>Lake Placid: Legacy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956185?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012182600 +0000" stop="20261012204100 +0000" channel="115">
     <title>The Chronicles of Narnia: Prince Caspian</title>
     <desc />
@@ -279,6 +274,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017153000 +0000" stop="20261017183000 +0000" channel="115">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017213000 +0000" channel="115">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />

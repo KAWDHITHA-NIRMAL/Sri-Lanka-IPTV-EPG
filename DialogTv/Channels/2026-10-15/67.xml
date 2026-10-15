@@ -3,16 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="67">
-    <title>WWE LFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951970?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="67">
-    <title>WWE's Greatest Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012211500 +0000" channel="67">
     <title>Trail World Series</title>
     <desc />
@@ -316,5 +306,15 @@
     <title>TNA Wrestling: Pehalwani Patakha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017174500 +0000" stop="20261017183000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017194500 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

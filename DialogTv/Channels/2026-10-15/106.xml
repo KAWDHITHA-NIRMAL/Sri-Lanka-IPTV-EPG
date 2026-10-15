@@ -3,11 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="106">
-    <title>G6 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="106">
     <title>G7Tamil</title>
     <desc />
@@ -625,5 +620,10 @@
     <title>G9 Science</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="106">
+    <title>G 8 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958537?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

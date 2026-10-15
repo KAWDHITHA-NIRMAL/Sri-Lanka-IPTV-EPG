@@ -3,11 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261012170000 +0000" stop="20261012183000 +0000" channel="8">
-    <title>Tba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952942?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -731,6 +726,10 @@
     <desc />
   </programme>
   <programme start="20261017170000 +0000" stop="20261017183000 +0000" channel="8">
+    <title>Yak Bandi Gedara</title>
+    <desc />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017232900 +0000" channel="8">
     <title>Yak Bandi Gedara</title>
     <desc />
   </programme>

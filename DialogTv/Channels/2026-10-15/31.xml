@@ -3,11 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012180000 +0000" channel="31">
-    <title>Offsiders</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012180000 +0000" stop="20261012210000 +0000" channel="31">
     <title>News Breakfast</title>
     <desc />
@@ -714,5 +709,15 @@
     <title>Australian Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017183000 +0000" channel="31">
+    <title>The World This Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956531?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="31">
+    <title>Foreign Correspondent</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956435?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

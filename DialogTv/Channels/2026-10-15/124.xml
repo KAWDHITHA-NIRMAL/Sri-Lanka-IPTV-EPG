@@ -3,11 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012180000 +0000" channel="124">
-    <title>A G 2026 -Hockey (M) - Final</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954196?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012180000 +0000" stop="20261012190000 +0000" channel="124">
     <title>UCL 2026-27 : League Phase MD 1 - MN Highlights</title>
     <desc />
@@ -563,5 +558,10 @@
     <title>A G 2026 -Hockey (M) - Final</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954196?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="124">
+    <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

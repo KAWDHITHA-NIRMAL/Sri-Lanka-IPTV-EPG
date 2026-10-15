@@ -3,11 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261012171000 +0000" stop="20261012183000 +0000" channel="6">
-    <title>360 Degree Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954473?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012230500 +0000" channel="6">
     <title>Filler</title>
     <desc />
@@ -637,5 +632,10 @@
     <title>Champion Stars Unlimited</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949444?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017230500 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

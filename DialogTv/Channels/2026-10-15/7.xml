@@ -3,16 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012180000 +0000" channel="7">
-    <title>Naadiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949533?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="7">
-    <title>Naadiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949533?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012191000 +0000" channel="7">
     <title>Swarnavahini News</title>
     <desc />
@@ -865,5 +855,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

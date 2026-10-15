@@ -3,11 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261012162500 +0000" stop="20261012175500 +0000" channel="116">
-    <title>Hotel Barcelona</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951252?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012175500 +0000" stop="20261012192500 +0000" channel="116">
     <title>Keep Calm And Curry On</title>
     <desc />
@@ -362,5 +357,10 @@
     <title>The Human Factor</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957817?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180500 +0000" stop="20261017201000 +0000" channel="116">
+    <title>NR24</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

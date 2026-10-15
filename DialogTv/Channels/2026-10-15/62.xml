@@ -3,11 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="62">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012203000 +0000" channel="62">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
@@ -335,5 +330,10 @@
   <programme start="20261017152200 +0000" stop="20261017183000 +0000" channel="62">
     <title>Live - Bangladesh v Zimbabwe - Match 01 - ODI Tri-Nation Series 2026</title>
     <desc />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261018013000 +0000" channel="62">
+    <title>Highlights - Dialog Schools Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958659?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

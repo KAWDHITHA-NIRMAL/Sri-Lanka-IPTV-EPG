@@ -3,11 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261012171000 +0000" stop="20261012180500 +0000" channel="110">
-    <title>Animal Attack Rate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012180500 +0000" stop="20261012185100 +0000" channel="110">
     <title>Surviving Earth</title>
     <desc />
@@ -689,5 +684,15 @@
     <title>Aussie Snake Wranglers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017174600 +0000" stop="20261017180900 +0000" channel="110">
+    <title>Aussie Snake Wranglers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180900 +0000" stop="20261017190600 +0000" channel="110">
+    <title>Rise Of Jaguars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958796?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

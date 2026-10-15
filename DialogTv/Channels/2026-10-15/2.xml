@@ -3,11 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="2">
-    <title>Way Forward - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949628?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012184300 +0000" channel="2">
     <title>Seth Pirith</title>
     <desc />
@@ -977,5 +972,15 @@
     <title>Geethma 2025 - Nalanda College</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017174500 +0000" stop="20261017175800 +0000" channel="2">
+    <title>Seth Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017175800 +0000" stop="20261018000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

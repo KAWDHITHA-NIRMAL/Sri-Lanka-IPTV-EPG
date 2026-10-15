@@ -3,11 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261012155000 +0000" stop="20261012173500 +0000" channel="114">
-    <title>The Phoenician Scheme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954762?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012173500 +0000" stop="20261012200000 +0000" channel="114">
     <title>Eddington</title>
     <desc />
@@ -362,5 +357,10 @@
     <title>Fantastic Beasts: The Crimes Of Grindelwald</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017181500 +0000" stop="20261017200000 +0000" channel="114">
+    <title>Dirty Angels</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953292?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

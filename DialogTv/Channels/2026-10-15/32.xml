@@ -3,16 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012180000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012190000 +0000" channel="32">
     <title>The Security Brief LIVE</title>
     <desc />
@@ -1296,5 +1286,15 @@
     <title>TBA</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017183000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="32">
+    <title>Tech Now</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/147288?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

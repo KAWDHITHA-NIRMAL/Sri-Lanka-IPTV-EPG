@@ -3,11 +3,6 @@
   <channel id="107">
     <display-name>Channel 69</display-name>
   </channel>
-  <programme start="20261012172000 +0000" stop="20261012181000 +0000" channel="107">
-    <title>Home Town</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012181000 +0000" stop="20261012190000 +0000" channel="107">
     <title>Sin City Rehab S1</title>
     <desc />
@@ -1018,5 +1013,10 @@
     <title>Lakefront Bargain Hunt Renovation S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017181000 +0000" stop="20261017183500 +0000" channel="107">
+    <title>Neighbourhood Watch S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944642?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

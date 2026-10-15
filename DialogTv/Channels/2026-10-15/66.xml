@@ -3,11 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="66">
-    <title>UFC FIGHT O'CLOCK 2.0 - LIGHTWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956152?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="66">
     <title>UFC Fight Night - Allen vs Duncan</title>
     <desc />
@@ -525,5 +520,9 @@
     <title>UFC FIGHT O'CLOCK 2.0 - LIGHTWEIGHT</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="66">
+    <title>UEFA Champions League 2026/27 LASK vs Liverpool</title>
+    <desc />
   </programme>
 </tv>

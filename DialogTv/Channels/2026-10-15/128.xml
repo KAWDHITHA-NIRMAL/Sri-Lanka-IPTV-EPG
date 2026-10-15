@@ -3,11 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="128">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012203000 +0000" channel="128">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
@@ -338,5 +333,10 @@
     <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="128">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

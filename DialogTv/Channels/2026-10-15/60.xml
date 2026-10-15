@@ -3,11 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261012172700 +0000" stop="20261012181400 +0000" channel="60">
-    <title>Predator V Prey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012181400 +0000" stop="20261012185900 +0000" channel="60">
     <title>Animal Fight Club</title>
     <desc />
@@ -794,6 +789,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950484?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017172200 +0000" stop="20261017181000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017181000 +0000" stop="20261017185400 +0000" channel="60">
     <title>Animal Fight Club</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />

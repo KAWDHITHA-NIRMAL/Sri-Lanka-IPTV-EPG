@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261012172900 +0000" stop="20261012180000 +0000" channel="53">
-    <title>Super Creative Day Of Play</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950397?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012182700 +0000" channel="53">
-    <title>A Super Fun Underwater Sing-Along!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950381?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012182700 +0000" stop="20261012190100 +0000" channel="53">
     <title>Underwater Problems &amp; Clever Fixes</title>
     <desc />
@@ -1172,5 +1162,10 @@
     <title>Colors, Shapes &amp; Numbers!</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017175900 +0000" stop="20261017183300 +0000" channel="53">
+    <title>A Big Ocean Clean Up Day!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

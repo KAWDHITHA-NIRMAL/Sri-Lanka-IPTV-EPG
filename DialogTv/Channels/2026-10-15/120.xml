@@ -3,21 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012174500 +0000" channel="120">
-    <title>Muthoot Fincorp 2nd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012174500 +0000" stop="20261012180000 +0000" channel="120">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="120">
-    <title>Cricket Countdown - IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012190000 +0000" channel="120">
     <title>BKT Tyres 3rd ODI HLs AUS v IND</title>
     <desc />
@@ -1452,5 +1437,24 @@
   <programme start="20261017173000 +0000" stop="20261017175000 +0000" channel="120">
     <title>Out - Not Out 2026</title>
     <desc />
+  </programme>
+  <programme start="20261017175000 +0000" stop="20261017182000 +0000" channel="120">
+    <title>Muthoot Fincorp 5th T20I HLs IND v WI</title>
+    <desc />
+  </programme>
+  <programme start="20261017182000 +0000" stop="20261017182500 +0000" channel="120">
+    <title>Cricket Fillers - Others</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017182500 +0000" stop="20261017183000 +0000" channel="120">
+    <title>Cricket Fillers - Others</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="120">
+    <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950334?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

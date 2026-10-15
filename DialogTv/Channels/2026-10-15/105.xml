@@ -3,11 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="105">
-    <title>G 11 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="105">
     <title>G 11 Maths</title>
     <desc />
@@ -624,5 +619,10 @@
     <title>G 10 Business Studies</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017193000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956751?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

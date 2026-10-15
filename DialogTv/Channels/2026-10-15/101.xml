@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261012160200 +0000" stop="20261012181600 +0000" channel="101">
-    <title>Ghosty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955468?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012181600 +0000" stop="20261012183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951625?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012192800 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -302,5 +292,10 @@
     <title>Katteri</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956005?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

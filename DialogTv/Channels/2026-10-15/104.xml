@@ -3,11 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="104">
-    <title>G 13 Business Studies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="104">
     <title>G 13 Economics</title>
     <desc />
@@ -632,5 +627,10 @@
     <title>G 13 Biology</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957048?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017193000 +0000" channel="104">
+    <title>G 13 Physics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957049?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

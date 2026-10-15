@@ -3,21 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012174500 +0000" channel="122">
-    <title>PL Highlights Arsenal v Chelsea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944246?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012174500 +0000" stop="20261012180000 +0000" channel="122">
-    <title>PL Highlights Aston villa v Arsenal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943082?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="122">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012203000 +0000" channel="122">
     <title>PL 2026-27 Brentford v Sunderland</title>
     <desc />
@@ -1292,5 +1277,25 @@
   <programme start="20261017173000 +0000" stop="20261017174500 +0000" channel="122">
     <title>Muthoot Fincorp 1st T20I Women's HLs IND v ZIM</title>
     <desc />
+  </programme>
+  <programme start="20261017174500 +0000" stop="20261017180000 +0000" channel="122">
+    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017181500 +0000" channel="122">
+    <title>PL Highlights Arsenal v Leeds United</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952559?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017181500 +0000" stop="20261017183000 +0000" channel="122">
+    <title>PL Highlights Chelsea v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="122">
+    <title>PL 2026-27 Bournemouth v Brentford</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958522?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

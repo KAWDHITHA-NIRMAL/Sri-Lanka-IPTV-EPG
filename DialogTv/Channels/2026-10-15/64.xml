@@ -3,11 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="64">
-    <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012193000 +0000" channel="64">
     <title>New Zealand Vs India 2020 4th T20 Highlights</title>
     <desc />
@@ -751,5 +746,15 @@
     <title>Asian Games 2026 Cricket (W) Gold Medal Match - India vs Sri Lanka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017183000 +0000" channel="64">
+    <title>Asian Games 2026 Cricket (M) Gold Medal Match - India vs Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="64">
+    <title>ACC Men's Asia Cup U19 2025: India vs Pakistan Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954121?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

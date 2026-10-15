@@ -3,11 +3,6 @@
   <channel id="141">
     <display-name>Channel 2082</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="141">
-    <title>England vs India 2026 - 3rd ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954088?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012203000 +0000" channel="141">
     <title>Sri Lanka vs England 2018 1st Test Highlights</title>
     <desc />
@@ -582,5 +577,10 @@
     <title>England vs India 2026 - 1st ODI Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="141">
+    <title>Sri Lanka V South Africa 2018 1st Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954105?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

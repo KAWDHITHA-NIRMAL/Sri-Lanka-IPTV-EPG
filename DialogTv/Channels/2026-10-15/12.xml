@@ -3,16 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20261012173000 +0000" stop="20261012180000 +0000" channel="12">
-    <title>CNA On TV Supreme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012180000 +0000" stop="20261012183000 +0000" channel="12">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012183000 +0000" stop="20261012213000 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -760,5 +750,15 @@
     <title>CNA On TV Supreme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017183000 +0000" channel="12">
+    <title>CNA On TV Supreme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017213000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

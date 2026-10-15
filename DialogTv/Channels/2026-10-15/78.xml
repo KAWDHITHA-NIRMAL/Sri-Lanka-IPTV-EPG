@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="78">
-    <title>Knight Rider S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954256?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012180000 +0000" stop="20261012190000 +0000" channel="78">
     <title>CSI S7</title>
     <desc />
@@ -737,5 +732,10 @@
     <title>Married With Children S4</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017190000 +0000" channel="78">
+    <title>North And South Book II</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957932?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
