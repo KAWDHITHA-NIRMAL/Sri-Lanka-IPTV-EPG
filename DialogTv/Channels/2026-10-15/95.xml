@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261012063000 +0000" stop="20261012093000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012093000 +0000" stop="20261012123000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012123000 +0000" stop="20261012153000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012153000 +0000" stop="20261012183000 +0000" channel="95">
     <title>Movie</title>
     <desc />
@@ -212,5 +197,20 @@
     <title>Veetula Raman Veliyila Krishnan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957682?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017133000 +0000" channel="95">
+    <title>Idhayathai Thirudathe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017170000 +0000" channel="95">
+    <title>Autograph</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957684?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017200000 +0000" channel="95">
+    <title>Namma Veetu Kalyanam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957681?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

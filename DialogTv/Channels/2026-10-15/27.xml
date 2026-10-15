@@ -3,56 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="27">
-    <title>Pabasakara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952930?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012093000 +0000" stop="20261012103000 +0000" channel="27">
-    <title>Asirimath Maggama Nikaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012103000 +0000" stop="20261012113000 +0000" channel="27">
-    <title>Sampasadhini</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012113000 +0000" stop="20261012122000 +0000" channel="27">
-    <title>Wesak Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012122000 +0000" stop="20261012130000 +0000" channel="27">
-    <title>Sawasa Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012130000 +0000" stop="20261012133000 +0000" channel="27">
-    <title>Shraddha News 6.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="27">
-    <title>Ama Damrasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="27">
-    <title>Asirimath Damsaka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012153000 +0000" stop="20261012160000 +0000" channel="27">
-    <title>Milinda Prashnaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012160000 +0000" stop="20261012173000 +0000" channel="27">
-    <title>Special Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="27">
     <title>Pirith Chanting</title>
     <desc />
@@ -617,5 +567,50 @@
     <title>Pujacha Pujaniyanan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952926?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017093000 +0000" stop="20261017103000 +0000" channel="27">
+    <title>Nuwanesa Padana Siri Sadhaham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/769603?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017113000 +0000" channel="27">
+    <title>Sampasadhini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017113000 +0000" stop="20261017121000 +0000" channel="27">
+    <title>Punchi Ape Shraddha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952871?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017121000 +0000" stop="20261017130000 +0000" channel="27">
+    <title>Sathbudhu Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953238?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017133000 +0000" channel="27">
+    <title>Shraddha News 6.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017150000 +0000" channel="27">
+    <title>Dham Saba Mandapaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017150000 +0000" stop="20261017170000 +0000" channel="27">
+    <title>Special Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017173000 +0000" channel="27">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261012083000 +0000" stop="20261012103000 +0000" channel="101">
-    <title>Sisters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955465?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012103000 +0000" stop="20261012130200 +0000" channel="101">
-    <title>Hotspot 2 Much</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955466?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012130200 +0000" stop="20261012160200 +0000" channel="101">
-    <title>Jawaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956205?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012160200 +0000" stop="20261012181600 +0000" channel="101">
     <title>Ghosty</title>
     <desc />
@@ -302,5 +287,20 @@
     <title>Dhuruvangal Pathinaaru</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951037?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017130000 +0000" channel="101">
+    <title>Maargan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951744?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017160000 +0000" channel="101">
+    <title>Kadaisi Nodigal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957634?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="101">
+    <title>Katteri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956005?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

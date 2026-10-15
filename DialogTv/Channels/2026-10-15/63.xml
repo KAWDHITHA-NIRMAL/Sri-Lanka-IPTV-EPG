@@ -3,36 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="63">
-    <title>Highlights - FFSL Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012093000 +0000" stop="20261012123000 +0000" channel="63">
-    <title>Live - Sea Hawks FC vs Colombo FC  - FFSL Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956222?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012123000 +0000" stop="20261012133000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="63">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="63">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="63">
     <title>Repeat -  NEXT XV Rugby League 2026</title>
     <desc />
@@ -216,7 +186,16 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261016143000 +0000" stop="20261016163000 +0000" channel="63">
+  <programme start="20261016143000 +0000" stop="20261016150000 +0000" channel="63">
+    <title>Segment - Sports Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958861?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="63">
+    <title>Segment - Pre-Show | Asia Rugby Emirates Sevens Series 2026 - Leg 02</title>
+    <desc />
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016163000 +0000" channel="63">
     <title>Highlights - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -245,16 +224,26 @@
     <title>Highlights - Asia Rugby Emirates Sevens Series 2025</title>
     <desc />
   </programme>
-  <programme start="20261017021500 +0000" stop="20261017043000 +0000" channel="63">
-    <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
-    <desc />
-  </programme>
-  <programme start="20261017043000 +0000" stop="20261017083000 +0000" channel="63">
+  <programme start="20261017021500 +0000" stop="20261017083000 +0000" channel="63">
     <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
     <desc />
   </programme>
   <programme start="20261017083000 +0000" stop="20261017123000 +0000" channel="63">
     <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
     <desc />
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017130000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017173000 +0000" channel="63">
+    <title>Live - India vs West Indies - 5th T20I - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

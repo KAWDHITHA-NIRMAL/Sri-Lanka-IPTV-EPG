@@ -3,40 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20261012085200 +0000" stop="20261012105100 +0000" channel="44">
-    <title>Yeh Shaadi Nahi Ho Sakti</title>
-    <desc />
-  </programme>
-  <programme start="20261012105100 +0000" stop="20261012114500 +0000" channel="44">
-    <title>Pyaar Tune Kya Kiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012114500 +0000" stop="20261012121200 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012121200 +0000" stop="20261012130300 +0000" channel="44">
-    <title>Pyaar Tune Kya Kiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012130300 +0000" stop="20261012133000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="44">
-    <title>Pyaar Tune Kya Kiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012163000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012163000 +0000" stop="20261012184900 +0000" channel="44">
     <title>Fear Files</title>
     <desc />
@@ -580,5 +546,50 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017113000 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017113000 +0000" stop="20261017120000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017120000 +0000" stop="20261017130000 +0000" channel="44">
+    <title>Pyaar Tune Kya Kiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017133000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017143000 +0000" stop="20261017163000 +0000" channel="44">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017163000 +0000" stop="20261017173000 +0000" channel="44">
+    <title>Fear Files</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="44">
+    <title>Fear Files</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

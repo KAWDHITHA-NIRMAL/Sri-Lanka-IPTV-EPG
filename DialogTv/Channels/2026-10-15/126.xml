@@ -3,26 +3,6 @@
   <channel id="126">
     <display-name>Channel 132</display-name>
   </channel>
-  <programme start="20261012083000 +0000" stop="20261012123000 +0000" channel="126">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012123000 +0000" stop="20261012143000 +0000" channel="126">
-    <title>Live - Men's F Division Final - 34th MSBA 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="126">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="126">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="126">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
@@ -232,5 +212,23 @@
   <programme start="20261017063000 +0000" stop="20261017093000 +0000" channel="126">
     <title>Live - Saints' Quadrangular Tournament 2026 - Day 1</title>
     <desc />
+  </programme>
+  <programme start="20261017093000 +0000" stop="20261017123000 +0000" channel="126">
+    <title>Live - Saints' Quadrangular Tournament 2026 - Day 1</title>
+    <desc />
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017130000 +0000" channel="126">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017173000 +0000" channel="126">
+    <title>Live - India vs West Indies - 5th T20I - West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="126">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261012070000 +0000" stop="20261012150000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012150000 +0000" stop="20261012170000 +0000" channel="67">
-    <title>MLS Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012170000 +0000" stop="20261012180000 +0000" channel="67">
     <title>WWE LFG</title>
     <desc />
@@ -301,5 +291,30 @@
     <title>TNA Xplosion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="67">
+    <title>WWE LFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017130000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017150000 +0000" channel="67">
+    <title>British Superbike Championship Series</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957436?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017150000 +0000" stop="20261017170000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017174500 +0000" channel="67">
+    <title>TNA Wrestling: Pehalwani Patakha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

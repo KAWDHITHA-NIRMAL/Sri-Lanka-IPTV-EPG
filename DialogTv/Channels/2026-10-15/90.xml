@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012110000 +0000" channel="90">
-    <title>Hatya: The Murder</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012110000 +0000" stop="20261012140000 +0000" channel="90">
-    <title>Taqdeer Ka Tamasha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954737?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012140000 +0000" stop="20261012170000 +0000" channel="90">
-    <title>Satya (1998)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954738?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012170000 +0000" stop="20261012200000 +0000" channel="90">
     <title>Demon</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Majaal (1987)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957042?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017140000 +0000" channel="90">
+    <title>Geet</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957043?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017140000 +0000" stop="20261017170000 +0000" channel="90">
+    <title>Haisiyat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017200000 +0000" channel="90">
+    <title>Teri Kasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958130?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

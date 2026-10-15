@@ -3,56 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261012090000 +0000" stop="20261012103000 +0000" channel="15">
-    <title>Balaninna Ekapokurata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012103000 +0000" stop="20261012113000 +0000" channel="15">
-    <title>Studio One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949680?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012113000 +0000" stop="20261012123000 +0000" channel="15">
-    <title>Poddo Waddo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/692266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012123000 +0000" stop="20261012133000 +0000" channel="15">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012133000 +0000" stop="20261012140000 +0000" channel="15">
-    <title>Ola Mola Pure</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949676?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012140000 +0000" stop="20261012143000 +0000" channel="15">
-    <title>Eyath Lassanayi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949677?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012150000 +0000" channel="15">
-    <title>Doovily</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955968?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012150000 +0000" stop="20261012153000 +0000" channel="15">
-    <title>Balaninna - Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949678?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="15">
-    <title>Siyatha Tv News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012163000 +0000" stop="20261012173000 +0000" channel="15">
-    <title>Prime Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949693?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012173000 +0000" stop="20261012183000 +0000" channel="15">
     <title>Family Hits</title>
     <desc />
@@ -581,5 +531,40 @@
     <title>Doovili Drama Ekapokurata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017110000 +0000" channel="15">
+    <title>Soba</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/188656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017113000 +0000" channel="15">
+    <title>Perawadana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017113000 +0000" stop="20261017123000 +0000" channel="15">
+    <title>Construction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017133000 +0000" channel="15">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017133000 +0000" stop="20261017153000 +0000" channel="15">
+    <title>Voice Of Family</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017163000 +0000" channel="15">
+    <title>Siyatha Live News @ 9.35</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915607?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017163000 +0000" stop="20261017183000 +0000" channel="15">
+    <title>Siyatha Tharu Piri Rea Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

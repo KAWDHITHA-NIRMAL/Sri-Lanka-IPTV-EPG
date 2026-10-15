@@ -3,31 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20261012083000 +0000" stop="20261012123000 +0000" channel="128">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012123000 +0000" stop="20261012133000 +0000" channel="128">
-    <title>Highlights - FFSL Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012133000 +0000" stop="20261012143000 +0000" channel="128">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="128">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012153000 +0000" stop="20261012163000 +0000" channel="128">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="128">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
@@ -350,5 +325,18 @@
   <programme start="20261017070000 +0000" stop="20261017093000 +0000" channel="128">
     <title>Live - Denmark Open 2026 - Semi Finals</title>
     <desc />
+  </programme>
+  <programme start="20261017093000 +0000" stop="20261017123000 +0000" channel="128">
+    <title>Live - Denmark Open 2026 - Semi Finals</title>
+    <desc />
+  </programme>
+  <programme start="20261017123000 +0000" stop="20261017173000 +0000" channel="128">
+    <title>Live - Denmark Open 2026 - Semi Finals</title>
+    <desc />
+  </programme>
+  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="128">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

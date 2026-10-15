@@ -3,26 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261012071500 +0000" stop="20261012091500 +0000" channel="73">
-    <title>The Usual Suspects</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012091500 +0000" stop="20261012120000 +0000" channel="73">
-    <title>Anchors Aweigh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954706?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012120000 +0000" stop="20261012141500 +0000" channel="73">
-    <title>Meet The Fockers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954707?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012141500 +0000" stop="20261012170000 +0000" channel="73">
-    <title>Goodfellas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954708?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012170000 +0000" stop="20261012193000 +0000" channel="73">
     <title>Red Dragon</title>
     <desc />
@@ -267,5 +247,25 @@
     <title>The Usual Suspects</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017120000 +0000" channel="73">
+    <title>Rush Hour 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017120000 +0000" stop="20261017141500 +0000" channel="73">
+    <title>The Ring</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017141500 +0000" stop="20261017164500 +0000" channel="73">
+    <title>Coach Carter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017164500 +0000" stop="20261017191500 +0000" channel="73">
+    <title>Red Dragon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958098?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
