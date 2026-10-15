@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261012053000 +0000" stop="20261012083000 +0000" channel="19">
-    <title>Nethu Piyana Thuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955560?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012113000 +0000" channel="19">
     <title>Angana</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Dedunu Sihina</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017113000 +0000" channel="19">
+    <title>Diya Sithuwam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958145?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

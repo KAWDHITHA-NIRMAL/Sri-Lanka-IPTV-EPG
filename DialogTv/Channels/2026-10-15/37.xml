@@ -3,16 +3,6 @@
   <channel id="37">
     <display-name>Channel 43</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="37">
-    <title>Europe Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951969?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="37">
-    <title>Euronews Now</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012091600 +0000" channel="37">
     <title>Euronews Now</title>
     <desc />
@@ -1952,5 +1942,25 @@
     <title>The Ring</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017082900 +0000" stop="20261017083400 +0000" channel="37">
+    <title>5 Minutes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952831?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083400 +0000" stop="20261017090000 +0000" channel="37">
+    <title>The Ring</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017090500 +0000" channel="37">
+    <title>5 Minutes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952831?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090500 +0000" stop="20261017093000 +0000" channel="37">
+    <title>12 Minutes With</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956283?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="136">
-    <title>Chateau !</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/880302?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="136">
-    <title>Secrets De Nos Vallees</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012090000 +0000" stop="20261012090500 +0000" channel="136">
-    <title>Max Et Lapin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953006?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012090500 +0000" stop="20261012091100 +0000" channel="136">
-    <title>Max Et Lapin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953006?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012091100 +0000" stop="20261012092200 +0000" channel="136">
     <title>Idefix Et Les Irreductibles</title>
     <desc />
@@ -1227,5 +1207,15 @@
     <title>Magazine</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="136">
+    <title>Hep Taxi !</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017094900 +0000" channel="136">
+    <title>Cousu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952847?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949681?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="30">
-    <title>Talk To Al Jazeera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953065?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="30">
     <title>News Live</title>
     <desc />
@@ -929,6 +919,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="30">
+    <title>Counting The Cost</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952757?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="30">
     <title>News Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />

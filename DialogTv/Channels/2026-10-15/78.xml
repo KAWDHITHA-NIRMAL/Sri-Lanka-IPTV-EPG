@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="78">
-    <title>The Waltons S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/941171?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="78">
     <title>Knight Rider S2</title>
     <desc />
@@ -732,5 +727,10 @@
     <title>Law &amp; Order Special Victims Unit S11</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="78">
+    <title>Knight Rider S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956854?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

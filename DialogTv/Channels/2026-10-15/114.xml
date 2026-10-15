@@ -3,11 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261012062500 +0000" stop="20261012085500 +0000" channel="114">
-    <title>Wonder Woman 1984</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012085500 +0000" stop="20261012113000 +0000" channel="114">
     <title>One Battle After Another</title>
     <desc />
@@ -362,5 +357,10 @@
     <title>Mortal Kombat</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956986?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085000 +0000" stop="20261017104000 +0000" channel="114">
+    <title>Rango</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957955?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

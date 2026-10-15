@@ -3,16 +3,6 @@
   <channel id="22">
     <display-name>Channel 28</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="22">
-    <title>Date With Danu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="22">
-    <title>Date With Danu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="22">
     <title>Classic Music</title>
     <desc />
@@ -857,5 +847,15 @@
     <title>Hi Events</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="22">
+    <title>Hi Events</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956827?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="22">
+    <title>Fashion Forward</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957363?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

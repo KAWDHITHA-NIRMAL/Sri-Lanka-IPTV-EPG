@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261012072500 +0000" stop="20261012082000 +0000" channel="55">
-    <title>Mediterranean Hunters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012082000 +0000" stop="20261012091500 +0000" channel="55">
     <title>Leopard Dynasty: The Rise of Rana</title>
     <desc />
@@ -691,5 +686,10 @@
     <title>Search For The King Cobra</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950608?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090800 +0000" stop="20261017100400 +0000" channel="55">
+    <title>Golden Eagle: Call of the Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958797?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

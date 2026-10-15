@@ -3,11 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="63">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949652?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="63">
     <title>Highlights - FFSL Super League 2026</title>
     <desc />
@@ -255,6 +250,10 @@
     <desc />
   </programme>
   <programme start="20261017043000 +0000" stop="20261017083000 +0000" channel="63">
+    <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
+    <desc />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017123000 +0000" channel="63">
     <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
     <desc />
   </programme>

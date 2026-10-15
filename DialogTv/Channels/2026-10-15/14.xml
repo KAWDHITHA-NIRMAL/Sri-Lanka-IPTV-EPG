@@ -3,16 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="14">
-    <title>Card News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/191647?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="14">
-    <title>Hourly Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949917?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="14">
     <title>Card News</title>
     <desc />
@@ -927,5 +917,15 @@
     <title>To The Point</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="14">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="14">
+    <title>Mojo Force</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957315?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="52">
     <display-name>Channel 58</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012084000 +0000" channel="52">
-    <title>Barbapapa - One Big Happy Family! S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012084000 +0000" stop="20261012090000 +0000" channel="52">
-    <title>Barbapapa - One Big Happy Family! S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/745683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012092500 +0000" channel="52">
     <title>Mr. Crocodile S01</title>
     <desc />
@@ -2072,5 +2062,15 @@
     <title>Barbapapa - One Big Happy Family! S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084000 +0000" stop="20261017090000 +0000" channel="52">
+    <title>Barbapapa - One Big Happy Family! S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017092500 +0000" channel="52">
+    <title>Mr. Crocodile S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/872001?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

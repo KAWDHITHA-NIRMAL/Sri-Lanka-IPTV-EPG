@@ -3,11 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261012050000 +0000" stop="20261012083000 +0000" channel="101">
-    <title>Rathnam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952135?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012103000 +0000" channel="101">
     <title>Sisters</title>
     <desc />
@@ -302,5 +297,10 @@
     <title>Kantara: A Legend Chapter-1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017103000 +0000" channel="101">
+    <title>Dhuruvangal Pathinaaru</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951037?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

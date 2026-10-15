@@ -3,26 +3,6 @@
   <channel id="36">
     <display-name>Channel 42</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012083000 +0000" channel="36">
-    <title>Chroniqueur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952769?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012084500 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012084500 +0000" stop="20261012085000 +0000" channel="36">
-    <title>Focus Semaine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952741?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012085000 +0000" stop="20261012090000 +0000" channel="36">
-    <title>Sports Matin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012091500 +0000" channel="36">
     <title>News</title>
     <desc />
@@ -2912,5 +2892,40 @@
     <title>Access Asia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/709913?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017084400 +0000" channel="36">
+    <title>Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952592?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084400 +0000" stop="20261017084500 +0000" channel="36">
+    <title>Introduction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084500 +0000" stop="20261017085100 +0000" channel="36">
+    <title>The Observers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51326?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085100 +0000" stop="20261017090000 +0000" channel="36">
+    <title>Focus Week End</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952823?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017090900 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090900 +0000" stop="20261017091000 +0000" channel="36">
+    <title>Introduction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017091000 +0000" stop="20261017093000 +0000" channel="36">
+    <title>Revisited</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/51077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

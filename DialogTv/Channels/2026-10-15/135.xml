@@ -3,11 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="135">
-    <title>L'Appartamento Sold Out 7a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951514?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="135">
     <title>L'Eredita Summer</title>
     <desc />
@@ -727,5 +722,10 @@
     <title>L'Eredita Summer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017104500 +0000" channel="135">
+    <title>Cristianita</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957871?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

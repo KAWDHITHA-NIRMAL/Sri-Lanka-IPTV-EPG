@@ -3,11 +3,6 @@
   <channel id="54">
     <display-name>Channel 2086</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012084500 +0000" channel="54">
-    <title>Bahubali Friends : Rise Of Aparshatru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956060?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012084500 +0000" stop="20261012093000 +0000" channel="54">
     <title>Ls Bahubali Friends Revenge Of Aparshatru</title>
     <desc />
@@ -1092,5 +1087,10 @@
     <title>Little Singham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950646?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="54">
+    <title>Grizzy And The Lemmings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950642?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

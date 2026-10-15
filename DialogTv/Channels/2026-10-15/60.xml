@@ -3,11 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261012081200 +0000" stop="20261012085800 +0000" channel="60">
-    <title>Katavi: Africa's Fallen Paradise</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950465?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012085800 +0000" stop="20261012094700 +0000" channel="60">
     <title>Cheetah The Masai Brotherhood</title>
     <desc />
@@ -797,5 +792,10 @@
     <title>Cobra Mafia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085800 +0000" stop="20261017093500 +0000" channel="60">
+    <title>Secrets of the Elephants</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

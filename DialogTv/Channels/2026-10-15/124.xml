@@ -3,11 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="124">
-    <title>England vs India 2025 2nd Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954215?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="124">
     <title>New Zealand Vs India 2020 1st T20 Highlights</title>
     <desc />
@@ -564,5 +559,10 @@
     <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="124">
+    <title>New Zealand Vs India 2020 5th T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

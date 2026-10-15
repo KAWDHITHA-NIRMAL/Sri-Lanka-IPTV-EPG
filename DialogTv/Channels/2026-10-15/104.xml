@@ -3,11 +3,6 @@
   <channel id="104">
     <display-name>Channel 111</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="104">
-    <title>Vision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="104">
     <title>G 12 Business Studies</title>
     <desc />
@@ -632,5 +627,10 @@
     <title>English As A Life Skils</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="104">
+    <title>G 12 Biology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957696?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

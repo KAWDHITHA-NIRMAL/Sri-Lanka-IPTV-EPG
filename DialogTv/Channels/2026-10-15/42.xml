@@ -3,11 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="42">
-    <title>Simply Strings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="42">
     <title>Tenors &amp; Divas</title>
     <desc />
@@ -477,5 +472,20 @@
     <title>Funny Videos</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017083500 +0000" channel="42">
+    <title>Event Highlight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083500 +0000" stop="20261017085000 +0000" channel="42">
+    <title>Vlogs (Internantional)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957110?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085000 +0000" stop="20261017092000 +0000" channel="42">
+    <title>C-Mix</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956904?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

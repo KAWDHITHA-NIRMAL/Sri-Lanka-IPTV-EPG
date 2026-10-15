@@ -3,11 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012085000 +0000" channel="131">
-    <title>Salvage Hunters: Classic Cars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012085000 +0000" stop="20261012094000 +0000" channel="131">
     <title>Overhaulin</title>
     <desc />
@@ -812,5 +807,10 @@
     <title>Salvage Hunters: Classic Cars</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085000 +0000" stop="20261017094100 +0000" channel="131">
+    <title>Bitchin' Rides: Road to the Ridler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090500 +0000" channel="31">
-    <title>Our Medicine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090500 +0000" stop="20261012093000 +0000" channel="31">
     <title>Roads Unknown India</title>
     <desc />
@@ -721,5 +716,15 @@
     <title>Great Australian Road Trips</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954853?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017082000 +0000" stop="20261017090000 +0000" channel="31">
+    <title>On Country Kitchen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="31">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

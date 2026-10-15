@@ -3,16 +3,6 @@
   <channel id="80">
     <display-name>Channel 87</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="80">
-    <title>Top Photoshoots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952773?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="80">
-    <title>Top Photoshoots</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952773?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="80">
     <title>Fashion Teens</title>
     <desc />
@@ -1207,5 +1197,15 @@
     <title>Designers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="80">
+    <title>Designers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="80">
+    <title>Fashion Teens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952774?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

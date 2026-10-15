@@ -3,31 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012081800 +0000" channel="45">
-    <title>Jolly Jesters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952610?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012081800 +0000" stop="20261012083300 +0000" channel="45">
-    <title>One Stop Science Shop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952574?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083300 +0000" stop="20261012084800 +0000" channel="45">
-    <title>Briko</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952879?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012084800 +0000" stop="20261012090000 +0000" channel="45">
-    <title>Critters TV</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952764?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012090000 +0000" stop="20261012090900 +0000" channel="45">
-    <title>Marvellous Makes Lab</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952881?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090900 +0000" stop="20261012092400 +0000" channel="45">
     <title>Doki</title>
     <desc />
@@ -2682,5 +2657,20 @@
     <title>Marvellous Makes Lab</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952881?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017081800 +0000" stop="20261017083000 +0000" channel="45">
+    <title>Zoe and Milo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017085400 +0000" channel="45">
+    <title>Bajillionaires</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952867?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017085400 +0000" stop="20261017092400 +0000" channel="45">
+    <title>Operation Ouch!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952726?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

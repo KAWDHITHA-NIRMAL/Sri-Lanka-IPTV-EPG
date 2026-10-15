@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261012075900 +0000" stop="20261012082900 +0000" channel="53">
-    <title>An Adventure, Pedals, Rescue &amp; Stars!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950394?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012082900 +0000" stop="20261012085800 +0000" channel="53">
-    <title>Fruits, Cupcakes, Snacks &amp; Ice Cream!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950389?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012085800 +0000" stop="20261012093000 +0000" channel="53">
     <title>High-Flying Fun!</title>
     <desc />
@@ -1177,5 +1167,15 @@
     <title>Let's Ride The School Bus!</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017082300 +0000" stop="20261017084900 +0000" channel="53">
+    <title>Let's Make Music!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084900 +0000" stop="20261017092800 +0000" channel="53">
+    <title>Sing-Along &amp; Farm Fun!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950385?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="69">
-    <title>WCL 2026 HLs IND v BAN</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012084500 +0000" channel="69">
-    <title>Follow The Blues</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012084500 +0000" stop="20261012090000 +0000" channel="69">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="69">
     <title>ICC Men's ODI WC 2023 hlts. SA v AUS</title>
     <desc />
@@ -1204,5 +1189,20 @@
   <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="69">
     <title>WCL 2026 HLs</title>
     <desc />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017084500 +0000" channel="69">
+    <title>Follow The Blues</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084500 +0000" stop="20261017090000 +0000" channel="69">
+    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="69">
+    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

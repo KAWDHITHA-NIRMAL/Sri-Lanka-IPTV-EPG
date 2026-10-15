@@ -3,16 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="32">
     <title>BBC News</title>
     <desc />
@@ -1318,6 +1308,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955601?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="32">
     <title>BBC News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />

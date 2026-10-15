@@ -3,16 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="88">
-    <title>Mahadev &amp; Sons</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="88">
-    <title>Tuu Juliet Jatt Di</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952638?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="88">
     <title>Seher Hone Ko Hai</title>
     <desc />
@@ -1077,5 +1067,10 @@
     <title>Dhamaal With Pati Patni Aur Panga S02</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="88">
+    <title>108 Base Hospital -Uri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952778?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012082200 +0000" channel="61">
-    <title>Pawn Stars S24</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950065?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012082200 +0000" stop="20261012090600 +0000" channel="61">
-    <title>The Unbelievable With Dan Aykroyd S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950061?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090600 +0000" stop="20261012093000 +0000" channel="61">
     <title>Omg! Yeh Mera India S06</title>
     <desc />
@@ -1042,5 +1032,15 @@
     <title>Storage Wars S18</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/911217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017082200 +0000" stop="20261017090600 +0000" channel="61">
+    <title>Ancient Aliens S14</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090600 +0000" stop="20261017093000 +0000" channel="61">
+    <title>Omg! Yeh Mera India S06</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956980?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

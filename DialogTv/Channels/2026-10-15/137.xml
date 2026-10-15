@@ -3,11 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="137">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="137">
     <title>Storyteller</title>
     <desc />
@@ -1137,5 +1132,15 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="137">
+    <title>Bigger Than Five</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="137">
+    <title>The Newsmakers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957135?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012083000 +0000" channel="122">
-    <title>PL Highlights Chelsea v Bournemouth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954873?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012084500 +0000" channel="122">
-    <title>PL Highlights Arsenal v Coventry City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012084500 +0000" stop="20261012090000 +0000" channel="122">
-    <title>PL Highlights Arsenal v Chelsea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944246?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="122">
     <title>ONE : Championship Classics</title>
     <desc />
@@ -1314,5 +1299,20 @@
     <title>PL Highlights Fulham v Man Utd</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950968?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017084500 +0000" channel="122">
+    <title>PL Highlights Arsenal v Leeds United</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952559?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084500 +0000" stop="20261017090000 +0000" channel="122">
+    <title>PL Highlights Chelsea v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

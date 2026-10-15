@@ -3,16 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="64">
-    <title>New Zealand vs India 2019 1st ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950524?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="64">
-    <title>Asian Games 2026 Cricket (W) Gold Medal Match - India vs Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="64">
     <title>Asian Games 2026 Cricket (M) Gold Medal Match - India vs Pakistan</title>
     <desc />
@@ -754,5 +744,14 @@
     <title>New Zealand vs India 2019 3rd ODI Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950524?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="64">
+    <title>A G 2026 Archery Gold Medal Match - Recurve Mixed Teams and Mens Team Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="64">
+    <title>Asian Games 2026 Volleyball (M) - India vs Qatar Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954760?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

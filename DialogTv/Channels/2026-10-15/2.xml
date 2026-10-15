@@ -3,21 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20261012070000 +0000" stop="20261012082500 +0000" channel="2">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949595?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012082500 +0000" stop="20261012083000 +0000" channel="2">
-    <title>News - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="2">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949595?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="2">
     <title>NHK Documentary</title>
     <desc />
@@ -997,5 +982,10 @@
     <title>Peo Legend</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958074?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="2">
+    <title>Rataa - Magazine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957219?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

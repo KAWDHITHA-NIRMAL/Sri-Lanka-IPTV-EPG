@@ -3,11 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261012071000 +0000" stop="20261012090000 +0000" channel="125">
-    <title>United Rugby Championship Stormers v Sharks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955986?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012105000 +0000" channel="125">
     <title>Gallagher Premiership Exeter v Newcastle</title>
     <desc />
@@ -582,5 +577,9 @@
     <title>5 &amp; 6 Nations Classic Tries</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084500 +0000" stop="20261017113000 +0000" channel="125">
+    <title>Live RLWC26 England v Tonga</title>
+    <desc />
   </programme>
 </tv>

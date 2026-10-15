@@ -3,16 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="103">
-    <title>G6 Hpe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951092?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="103">
-    <title>VISION</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="103">
     <title>G6 Sinhala</title>
     <desc />
@@ -702,5 +692,10 @@
     <title>G9 Mathematics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956950?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="103">
+    <title>G9 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957457?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

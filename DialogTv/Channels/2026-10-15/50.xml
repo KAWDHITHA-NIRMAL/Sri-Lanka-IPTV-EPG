@@ -3,16 +3,6 @@
   <channel id="50">
     <display-name>Channel 56</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="50">
-    <title>Exploring With Walter &amp; Dude</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/749007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="50">
-    <title>Discovering with Gee-Raffa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="50">
     <title>Play &amp; Learn With Bug'N'Play To The Rescue</title>
     <desc />
@@ -1182,5 +1172,15 @@
     <title>Exploring With Walter &amp; Dude</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/749007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="50">
+    <title>Discovering With Charlie &amp; The Numbers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/680602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="50">
+    <title>Play &amp; Learn With Songs &amp; Rhymes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952749?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

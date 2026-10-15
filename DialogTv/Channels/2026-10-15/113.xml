@@ -3,11 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="113">
-    <title>FBI S9 - Rendition</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955414?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="113">
     <title>Celebrity Family Feud S12</title>
     <desc />
@@ -632,5 +627,10 @@
     <title>MasterChef S16: Global Gauntlet - Finale Part 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/818383?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017110000 +0000" channel="113">
+    <title>The Garfield Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956928?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

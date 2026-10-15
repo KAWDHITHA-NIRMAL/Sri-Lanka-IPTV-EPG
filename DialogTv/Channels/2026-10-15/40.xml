@@ -3,16 +3,6 @@
   <channel id="40">
     <display-name>Channel 46</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="40">
-    <title>Bollywood Bang Bang</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952250?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="40">
-    <title>Solid Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950025?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="40">
     <title>Boom Box</title>
     <desc />
@@ -522,5 +512,10 @@
     <title>Bajao</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="40">
+    <title>Solid Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950025?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

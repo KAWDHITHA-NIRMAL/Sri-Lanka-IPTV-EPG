@@ -3,16 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20261012063000 +0000" stop="20261012083000 +0000" channel="16">
-    <title>Haritha Thaksalawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952583?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="16">
     <title>A Park</title>
     <desc />
@@ -752,5 +742,15 @@
     <title>Pas Go Rasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952903?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="16">
+    <title>Mind Your Body</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956370?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="16">
+    <title>Lions Quest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953001?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

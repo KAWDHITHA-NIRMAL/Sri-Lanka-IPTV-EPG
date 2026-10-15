@@ -3,11 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="65">
-    <title>Sri Lanka V South Africa 2018 1st T20i Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954275?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="65">
     <title>DP World Asia Cup 2025 - Super Four - Pakistan vs Bangladesh Highlights</title>
     <desc />
@@ -582,5 +577,10 @@
     <title>Sri Lanka V South Africa 2018 1st T20i Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="65">
+    <title>DP World Asia Cup 2025 - Super Four - Pakistan vs Bangladesh Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953412?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

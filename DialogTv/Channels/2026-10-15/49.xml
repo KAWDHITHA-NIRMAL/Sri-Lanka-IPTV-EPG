@@ -3,21 +3,6 @@
   <channel id="49">
     <display-name>Channel 55</display-name>
   </channel>
-  <programme start="20261012080500 +0000" stop="20261012083000 +0000" channel="49">
-    <title>The Loud House S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012085000 +0000" channel="49">
-    <title>The Loud House S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012085000 +0000" stop="20261012090000 +0000" channel="49">
-    <title>Spongebob Squarepants S13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="49">
     <title>Spongebob Squarepants S13</title>
     <desc />
@@ -1722,5 +1707,15 @@
     <title>The Marsupilamis S01</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017084000 +0000" stop="20261017090500 +0000" channel="49">
+    <title>The Loud House S03</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090500 +0000" stop="20261017092500 +0000" channel="49">
+    <title>The Loud House S06</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956654?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

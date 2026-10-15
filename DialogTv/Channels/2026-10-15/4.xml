@@ -3,16 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261012070000 +0000" stop="20261012082500 +0000" channel="4">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954661?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012082500 +0000" stop="20261012083000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012092500 +0000" channel="4">
     <title>Movie</title>
     <desc />
@@ -899,6 +889,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949556?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017070000 +0000" stop="20261017082500 +0000" channel="4">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954661?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017082500 +0000" stop="20261017083000 +0000" channel="4">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017092500 +0000" channel="4">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954661?accessKey=WkVjNWNscFhORDBLCg==" />

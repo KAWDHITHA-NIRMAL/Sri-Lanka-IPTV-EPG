@@ -3,16 +3,6 @@
   <channel id="28">
     <display-name>Channel 34</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012083000 +0000" channel="28">
-    <title>Cfan Tv</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949942?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="28">
-    <title>Jewish Voice - Rabbi Bernis</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="28">
     <title>God's Path To Prosperity</title>
     <desc />
@@ -1162,5 +1152,10 @@
     <title>ORU Chapel</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957345?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="28">
+    <title>Desire Of All Nations</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957346?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

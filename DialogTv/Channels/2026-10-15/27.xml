@@ -3,11 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="27">
-    <title>Swakkatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952929?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="27">
     <title>Pabasakara</title>
     <desc />
@@ -617,5 +612,10 @@
     <title>Sasaraka Gamana Nawathana Nuwana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952925?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="27">
+    <title>Pujacha Pujaniyanan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952926?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261012060000 +0000" stop="20261012090000 +0000" channel="92">
-    <title>Banjo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954742?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012120000 +0000" channel="92">
     <title>Batti Gul Meter Chalu</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Murder Mubarak</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956924?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017120000 +0000" channel="92">
+    <title>Saaho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954332?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

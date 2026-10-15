@@ -3,11 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="26">
-    <title>Kandy Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="26">
     <title>Ku'gala / Naranwala Daayaka Bana</title>
     <desc />
@@ -664,6 +659,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/799548?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017070000 +0000" stop="20261017083000 +0000" channel="26">
+    <title>Arihath Guna Waruna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="26">
     <title>Arihath Guna Waruna</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956547?accessKey=WkVjNWNscFhORDBLCg==" />

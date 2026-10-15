@@ -3,11 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012090000 +0000" channel="15">
-    <title>Olamola Pure- Drama Eka Pokurata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012103000 +0000" channel="15">
     <title>Balaninna Ekapokurata</title>
     <desc />
@@ -581,5 +576,10 @@
     <title>Eyath Lassanayi Drama Ekapokurata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957256?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017103000 +0000" channel="15">
+    <title>Doovili Drama Ekapokurata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958017?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

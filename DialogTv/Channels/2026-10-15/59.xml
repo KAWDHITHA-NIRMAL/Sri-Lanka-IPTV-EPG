@@ -3,11 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261012081400 +0000" stop="20261012085900 +0000" channel="59">
-    <title>Primal Survivor: Over The Andes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950551?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012085900 +0000" stop="20261012094400 +0000" channel="59">
     <title>The Great Human Race</title>
     <desc />
@@ -867,5 +862,15 @@
     <title>Airport Security Madrid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017091200 +0000" channel="59">
+    <title>Last Of The Giants: Wild Fish</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017091200 +0000" stop="20261017093500 +0000" channel="59">
+    <title>On The Brink</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950554?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261012073000 +0000" stop="20261012083000 +0000" channel="58">
-    <title>MasterChef Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950502?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012083000 +0000" stop="20261012093000 +0000" channel="58">
     <title>Food Paradise</title>
     <desc />
@@ -705,5 +700,10 @@
     <title>Restaurant: Impossible</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/871443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017093000 +0000" channel="58">
+    <title>Food Paradise</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/137663?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

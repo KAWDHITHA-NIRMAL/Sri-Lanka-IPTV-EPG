@@ -3,11 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012090000 +0000" channel="33">
-    <title>Global Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="33">
     <title>The World Today</title>
     <desc />
@@ -1109,6 +1104,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956426?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="33">
+    <title>Biz Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956573?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017093000 +0000" channel="33">
     <title>The World Today</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />

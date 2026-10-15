@@ -3,16 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20261012081500 +0000" stop="20261012090000 +0000" channel="134">
-    <title>DocFilm - Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261012090000 +0000" stop="20261012090200 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951902?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090200 +0000" stop="20261012091500 +0000" channel="134">
     <title>Sports Life - Overcoming Challenges with Sports</title>
     <desc />
@@ -1837,5 +1827,20 @@
     <title>Reporter - On Location</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952802?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="134">
+    <title>In Good Shape - The Health Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017090200 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090200 +0000" stop="20261017091500 +0000" channel="134">
+    <title>Best Of Dw-Online Content - Best Of Dw-Online Content</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952594?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

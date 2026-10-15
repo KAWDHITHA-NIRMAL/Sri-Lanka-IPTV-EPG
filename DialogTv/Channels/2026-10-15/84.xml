@@ -3,11 +3,6 @@
   <channel id="84">
     <display-name>Channel 91</display-name>
   </channel>
-  <programme start="20261012080000 +0000" stop="20261012090000 +0000" channel="84">
-    <title>Savdhaan India - India Fights Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="84">
     <title>Savdhaan India - India Fights Back</title>
     <desc />
@@ -922,5 +917,10 @@
     <title>Savdhaan India</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953195?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="84">
+    <title>Savdhaan India - India Fights Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
