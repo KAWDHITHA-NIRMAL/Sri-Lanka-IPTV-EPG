@@ -3,36 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261013170000 +0000" stop="20261013200000 +0000" channel="95">
-    <title>Kannodu Kann</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957663?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013200000 +0000" stop="20261013223000 +0000" channel="95">
-    <title>Veettula Yeli Veliyile Puli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957667?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013223000 +0000" stop="20261014013000 +0000" channel="95">
-    <title>Thalaiyatti Bommaigal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014013000 +0000" stop="20261014043000 +0000" channel="95">
-    <title>Dharma Chakkaram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014043000 +0000" stop="20261014073000 +0000" channel="95">
-    <title>Marudhani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957669?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014073000 +0000" stop="20261014103000 +0000" channel="95">
-    <title>Dhavani Kanavugal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014103000 +0000" stop="20261014133000 +0000" channel="95">
     <title>Iramana Rojave</title>
     <desc />
@@ -207,5 +177,35 @@
     <title>Aarilirunthu Arubathuvarai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957685?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018200000 +0000" stop="20261018223000 +0000" channel="95">
+    <title>Veetula Raman Veliyila Krishnan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957682?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018223000 +0000" stop="20261019013000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019013000 +0000" stop="20261019043000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019043000 +0000" stop="20261019073000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019073000 +0000" stop="20261019103000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019103000 +0000" stop="20261019133000 +0000" channel="95">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

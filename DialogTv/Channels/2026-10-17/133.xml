@@ -3,56 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261013165000 +0000" stop="20261013181500 +0000" channel="133">
-    <title>Jumper</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013181500 +0000" stop="20261013201500 +0000" channel="133">
-    <title>Rider On The Rain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955715?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013201500 +0000" stop="20261013221000 +0000" channel="133">
-    <title>They Call Me Trinity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957774?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013221000 +0000" stop="20261014000000 +0000" channel="133">
-    <title>Knight And Day</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953300?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014000000 +0000" stop="20261014013500 +0000" channel="133">
-    <title>Death Ring</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957510?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014013500 +0000" stop="20261014030500 +0000" channel="133">
-    <title>Rambo: First Blood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944317?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014030500 +0000" stop="20261014044500 +0000" channel="133">
-    <title>Rambo 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951493?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014044500 +0000" stop="20261014065500 +0000" channel="133">
-    <title>White House Down</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014065500 +0000" stop="20261014091500 +0000" channel="133">
-    <title>Mulholland Dr</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014091500 +0000" stop="20261014110500 +0000" channel="133">
-    <title>Total Recall (1990)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955225?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014110500 +0000" stop="20261014125500 +0000" channel="133">
     <title>Knight And Day</title>
     <desc />
@@ -320,5 +270,53 @@
     <title>Dante's Peak</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018183000 +0000" stop="20261018204000 +0000" channel="133">
+    <title>White House Down</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018204000 +0000" stop="20261018221500 +0000" channel="133">
+    <title>Attack Force Z</title>
+    <desc />
+  </programme>
+  <programme start="20261018221500 +0000" stop="20261018235500 +0000" channel="133">
+    <title>John Wick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018235500 +0000" stop="20261019013500 +0000" channel="133">
+    <title>Universal Soldier</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019013500 +0000" stop="20261019033000 +0000" channel="133">
+    <title>They Call Me Trinity</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957774?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019033000 +0000" stop="20261019053000 +0000" channel="133">
+    <title>Rider On The Rain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019053000 +0000" stop="20261019073500 +0000" channel="133">
+    <title>Runaway Jury</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951482?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019073500 +0000" stop="20261019091000 +0000" channel="133">
+    <title>A Reason To Live, A Reason To Die</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957857?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019091000 +0000" stop="20261019112000 +0000" channel="133">
+    <title>White House Down</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019112000 +0000" stop="20261019125500 +0000" channel="133">
+    <title>Attack Force Z</title>
+    <desc />
   </programme>
 </tv>

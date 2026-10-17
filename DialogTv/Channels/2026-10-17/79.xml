@@ -3,50 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261013150500 +0000" stop="20261013175700 +0000" channel="79">
-    <title>Stree 2: Sarkate Ka Aatank</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013175700 +0000" stop="20261013195700 +0000" channel="79">
-    <title>Custody</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956238?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013195700 +0000" stop="20261013223000 +0000" channel="79">
-    <title>Jack</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957548?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261013223000 +0000" stop="20261014010000 +0000" channel="79">
-    <title>Zindagi Ek Sangharsh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014010000 +0000" stop="20261014011600 +0000" channel="79">
-    <title>Program</title>
-    <desc />
-  </programme>
-  <programme start="20261014011600 +0000" stop="20261014035900 +0000" channel="79">
-    <title>Saindhav</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014035900 +0000" stop="20261014072100 +0000" channel="79">
-    <title>Seetharamam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957551?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014072100 +0000" stop="20261014095200 +0000" channel="79">
-    <title>Revolver Rita</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957552?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014095200 +0000" stop="20261014123400 +0000" channel="79">
-    <title>Aatma Ka Ghar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957553?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014123400 +0000" stop="20261014150000 +0000" channel="79">
     <title>Aatma Ka Ghar 2</title>
     <desc />
@@ -172,35 +128,45 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017033000 +0000" stop="20261017063000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017033000 +0000" stop="20261017033300 +0000" channel="79">
+    <title>Ram Ki Jung</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959206?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017063000 +0000" stop="20261017093000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017033300 +0000" stop="20261017062300 +0000" channel="79">
+    <title>Buddy</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959207?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017093000 +0000" stop="20261017123000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017062300 +0000" stop="20261017091700 +0000" channel="79">
+    <title>Mohini</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959208?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017123000 +0000" stop="20261017153000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017091700 +0000" stop="20261017112800 +0000" channel="79">
+    <title>Zombie Reddy</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959209?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017153000 +0000" stop="20261017194500 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017112800 +0000" stop="20261017150000 +0000" channel="79">
+    <title>Dhruva</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959210?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261017194500 +0000" stop="20261017213600 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261017150000 +0000" stop="20261017174300 +0000" channel="79">
+    <title>Tiger Nageswara Rao</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017174300 +0000" stop="20261017195600 +0000" channel="79">
+    <title>Mera Insaaf</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959212?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261017195600 +0000" stop="20261017213600 +0000" channel="79">
+    <title>Ghayal Khiladi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959213?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261017213600 +0000" stop="20261017233300 +0000" channel="79">
     <title>Movie</title>
@@ -238,6 +204,46 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261018150000 +0000" stop="20261018174100 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018174100 +0000" stop="20261018200500 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018200500 +0000" stop="20261018215400 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018215400 +0000" stop="20261018232100 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261018232100 +0000" stop="20261019023500 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019023500 +0000" stop="20261019052400 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019052400 +0000" stop="20261019083000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019083000 +0000" stop="20261019113200 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019113200 +0000" stop="20261019150000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
