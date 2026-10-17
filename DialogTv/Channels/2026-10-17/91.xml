@@ -3,11 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261014112200 +0000" stop="20261014142500 +0000" channel="91">
-    <title>Baaghi 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014142500 +0000" stop="20261014183200 +0000" channel="91">
     <title>Dilwale Dulhania Le Jayenge</title>
     <desc />
@@ -207,5 +202,15 @@
     <title>Duplicate</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959368?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019142500 +0000" stop="20261019183000 +0000" channel="91">
+    <title>Mohabbatein</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959369?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019213000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

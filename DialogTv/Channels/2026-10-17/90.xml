@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261014110000 +0000" stop="20261014140000 +0000" channel="90">
-    <title>Krantiveer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958045?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014170000 +0000" channel="90">
-    <title>Katilon Ke Kaatil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014170000 +0000" stop="20261014200000 +0000" channel="90">
     <title>Race (2019)</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Sultanat</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958299?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019170000 +0000" channel="90">
+    <title>16 December</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958300?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019200000 +0000" channel="90">
+    <title>100 Days Of Love</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958301?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

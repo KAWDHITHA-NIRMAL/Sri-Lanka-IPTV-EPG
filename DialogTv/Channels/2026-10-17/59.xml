@@ -3,46 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261014122100 +0000" stop="20261014130600 +0000" channel="59">
-    <title>Primal Survivor: Extreme African Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955631?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130600 +0000" stop="20261014135000 +0000" channel="59">
-    <title>Last Of The Giants: Wild Fish</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014135000 +0000" stop="20261014141300 +0000" channel="59">
-    <title>Snakes SOS: Goa's Wildest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950541?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014141300 +0000" stop="20261014145800 +0000" channel="59">
-    <title>India's Megakitchens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950543?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014145800 +0000" stop="20261014154600 +0000" channel="59">
-    <title>Primal Survivor: Escape The Amazon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950559?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014154600 +0000" stop="20261014163300 +0000" channel="59">
-    <title>Primal Survivor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163300 +0000" stop="20261014172100 +0000" channel="59">
-    <title>Destruction Decoded</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014172100 +0000" stop="20261014180700 +0000" channel="59">
-    <title>Airport Security Madrid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014180700 +0000" stop="20261014184900 +0000" channel="59">
     <title>Airport Security Brazil</title>
     <desc />
@@ -885,5 +845,50 @@
     <title>India - India's Mega Kitchens</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019131900 +0000" stop="20261019140700 +0000" channel="59">
+    <title>Primal Survivor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140700 +0000" stop="20261019142800 +0000" channel="59">
+    <title>Edge Of The Unknown With Jimmy Chin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958923?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019142800 +0000" stop="20261019145400 +0000" channel="59">
+    <title>RESQ Squad</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019145400 +0000" stop="20261019153900 +0000" channel="59">
+    <title>Construction Fails</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950544?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153900 +0000" stop="20261019162700 +0000" channel="59">
+    <title>Primal Survivor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019162700 +0000" stop="20261019171500 +0000" channel="59">
+    <title>Destruction Decoded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019171500 +0000" stop="20261019180000 +0000" channel="59">
+    <title>Snakes In The City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="59">
+    <title>Chilean Mine Rescue: Race Against Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955630?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="59">
+    <title>Airport Security Madrid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

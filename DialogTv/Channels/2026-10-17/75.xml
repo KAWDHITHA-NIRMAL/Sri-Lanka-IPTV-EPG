@@ -3,26 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261014111500 +0000" stop="20261014130000 +0000" channel="75">
-    <title>Breslin And Hamill: Deadline Artists</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="75">
-    <title>Charlie Hustle &amp; The Matter Of Pete Rose S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014162000 +0000" channel="75">
-    <title>Superman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954297?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014162000 +0000" stop="20261014175500 +0000" channel="75">
-    <title>Sully</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014175500 +0000" stop="20261014193500 +0000" channel="75">
     <title>Prime Minister</title>
     <desc />
@@ -442,5 +422,24 @@
     <title>Atomic Homefront</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958159?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="75">
+    <title>Youth S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019162000 +0000" channel="75">
+    <title>American Made</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019162000 +0000" stop="20261019175000 +0000" channel="75">
+    <title>Baltimore Rising</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956977?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019175000 +0000" stop="20261019195500 +0000" channel="75">
+    <title>The Bride!</title>
+    <desc />
   </programme>
 </tv>

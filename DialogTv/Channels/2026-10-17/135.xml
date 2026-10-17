@@ -3,26 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014141500 +0000" channel="135">
-    <title>Fiction: Che Dio Ci Aiuti 7 4a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="135">
-    <title>TG1 Ore 16.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014170000 +0000" channel="135">
-    <title>Vita In Diretta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014181500 +0000" channel="135">
-    <title>Reazione A Catena</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014181500 +0000" stop="20261014184500 +0000" channel="135">
     <title>TG1 Ore 20.00</title>
     <desc />
@@ -707,5 +687,25 @@
     <title>Fiction: Che Dio Ci Aiuti 7 2a Puntata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953312?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019141500 +0000" stop="20261019143000 +0000" channel="135">
+    <title>TG1 Ore 16.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019170000 +0000" channel="135">
+    <title>Vita In Diretta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956711?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019181500 +0000" channel="135">
+    <title>Reazione A Catena</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019181500 +0000" stop="20261019184500 +0000" channel="135">
+    <title>TG1 Ore 20.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

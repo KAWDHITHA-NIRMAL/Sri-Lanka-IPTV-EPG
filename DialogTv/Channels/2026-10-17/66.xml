@@ -3,21 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20261014120000 +0000" stop="20261014140000 +0000" channel="66">
-    <title>Live UEFA Youth League 2026/27 Roma vs Real Madrid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014160000 +0000" channel="66">
-    <title>Live UEFA Youth League 2026/27 Manchester City vs PSG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014160000 +0000" stop="20261014164500 +0000" channel="66">
-    <title>UCL 2026-27 League Phase MD 2 Atletico Madrid vs Man United Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956820?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="66">
     <title>Live UEFA Champions League 2026/27 LASK vs Liverpool</title>
     <desc />
@@ -513,5 +498,40 @@
     <title>UCL 2026-27 : League Phase MD 1 - MN Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019143000 +0000" channel="66">
+    <title>UFC Fight Night - Allen vs Duncan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955803?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="66">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="66">
+    <title>UEL/UECL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160000 +0000" stop="20261019163000 +0000" channel="66">
+    <title>UCL 2026-27 League Phase MD 1 Barcelona vs Feyenoord Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955801?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019173000 +0000" channel="66">
+    <title>UCL 2026-27 : League Phase MD 1 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="66">
+    <title>UFC FIGHT O'CLOCK 2.0 - LIGHTWEIGHT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="66">
+    <title>UFC Fight Night - Allen vs Duncan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955803?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

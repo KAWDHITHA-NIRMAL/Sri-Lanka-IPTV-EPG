@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261014120500 +0000" stop="20261014140000 +0000" channel="117">
-    <title>Dinner For Schmucks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014154500 +0000" channel="117">
-    <title>Gremlins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014154500 +0000" stop="20261014174000 +0000" channel="117">
-    <title>Blade Ii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955040?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014174000 +0000" stop="20261014192500 +0000" channel="117">
     <title>Blade: Trinity</title>
     <desc />
@@ -350,5 +335,19 @@
     <title>Contagion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019160500 +0000" channel="117">
+    <title>Hellraiser</title>
+    <desc />
+  </programme>
+  <programme start="20261019160500 +0000" stop="20261019174500 +0000" channel="117">
+    <title>Mortal Kombat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958335?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019174500 +0000" stop="20261019193500 +0000" channel="117">
+    <title>Death Of A Unicorn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958336?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

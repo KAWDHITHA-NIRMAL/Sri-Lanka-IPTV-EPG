@@ -3,56 +3,6 @@
   <channel id="11">
     <display-name>Channel 17</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="11">
-    <title>Hadata Hathakmai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952231?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014132500 +0000" channel="11">
-    <title>Siri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/887489?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014132500 +0000" stop="20261014140000 +0000" channel="11">
-    <title>Hiru Tv News 6.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956311?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="11">
-    <title>Akurata Yana Welawe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="11">
-    <title>Paata Kurullo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="11">
-    <title>Ron Soya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014155500 +0000" channel="11">
-    <title>Aththamai Man Oyata Adarei</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956662?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014155500 +0000" stop="20261014162500 +0000" channel="11">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952863?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014162500 +0000" stop="20261014170000 +0000" channel="11">
-    <title>Hiru Tv News 9.55 - Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949812?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014183000 +0000" channel="11">
-    <title>Muragala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="11">
     <title>Filler</title>
     <desc />
@@ -822,5 +772,55 @@
     <title>Hadata Hathakmai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019132500 +0000" channel="11">
+    <title>Siri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/887489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019132500 +0000" stop="20261019140000 +0000" channel="11">
+    <title>Hiru Tv News 6.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956311?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="11">
+    <title>Akurata Yana Welawe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="11">
+    <title>Paata Kurullo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952273?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="11">
+    <title>Ron Soya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949811?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019155500 +0000" channel="11">
+    <title>Aththamai Man Oyata Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956662?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019155500 +0000" stop="20261019162500 +0000" channel="11">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019162500 +0000" stop="20261019170000 +0000" channel="11">
+    <title>Hiru Tv News 9.55 - Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949812?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019183000 +0000" channel="11">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019213000 +0000" channel="11">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014133000 +0000" channel="105">
-    <title>G 10 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956617?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="105">
-    <title>G 10 Dancing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957262?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="105">
-    <title>G 11 Business Studies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958538?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="105">
-    <title>G 11 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="105">
-    <title>G 11 Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="105">
-    <title>G 10 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956617?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="105">
     <title>G 10 Dancing</title>
     <desc />
@@ -634,5 +604,40 @@
     <title>Raga Madala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="105">
+    <title>Sathi Pasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958317?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="105">
+    <title>Suwa Nenasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958320?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957910?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956300?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956569?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="105">
+    <title>G 11 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="105">
+    <title>G 10 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957910?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

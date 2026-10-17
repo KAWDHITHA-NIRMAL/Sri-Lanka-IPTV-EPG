@@ -3,46 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="31">
-    <title>7.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956568?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="31">
-    <title>Landline</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="31">
-    <title>Back Roads</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="31">
-    <title>Australian Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014163500 +0000" channel="31">
-    <title>Gardening Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956582?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163500 +0000" stop="20261014170000 +0000" channel="31">
-    <title>Extraordinary Animals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956369?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014180000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014180000 +0000" stop="20261014210000 +0000" channel="31">
     <title>News Breakfast</title>
     <desc />
@@ -713,5 +673,30 @@
     <title>Our Medicine</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="31">
+    <title>Roads Unknown India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957782?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019163000 +0000" channel="31">
+    <title>Landline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956724?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019173000 +0000" channel="31">
+    <title>Insiders</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956586?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="31">
+    <title>Offsiders</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

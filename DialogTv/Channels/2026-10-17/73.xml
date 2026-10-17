@@ -3,21 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261014120000 +0000" stop="20261014141500 +0000" channel="73">
-    <title>The Frighteners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957519?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014141500 +0000" stop="20261014161500 +0000" channel="73">
-    <title>Resident Evil: Extinction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957898?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014161500 +0000" stop="20261014174500 +0000" channel="73">
-    <title>Creature From The Black Lagoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955006?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014174500 +0000" stop="20261014200000 +0000" channel="73">
     <title>The Specialist</title>
     <desc />
@@ -253,5 +238,15 @@
     <title>Little Fockers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="73">
+    <title>Passenger 57</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160000 +0000" stop="20261019184500 +0000" channel="73">
+    <title>Sweet Charity</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958281?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

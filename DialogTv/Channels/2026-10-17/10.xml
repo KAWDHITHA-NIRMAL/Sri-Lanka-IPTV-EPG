@@ -3,46 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20261014120000 +0000" stop="20261014130000 +0000" channel="10">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956440?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="10">
-    <title>7.30 NEWS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="10">
-    <title>Face To Face</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014161500 +0000" stop="20261014170000 +0000" channel="10">
-    <title>Ilakkaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956588?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014183000 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="10">
     <title>End Of Transmission</title>
     <desc />
@@ -567,5 +527,45 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="10">
+    <title>Dawasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956440?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="10">
+    <title>News 1st - Sinhala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="10">
+    <title>ABC Late News Weekend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/405453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="10">
+    <title>Jathiak Mehewara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957107?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019161500 +0000" channel="10">
+    <title>News 1st - English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959195?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019161500 +0000" stop="20261019170000 +0000" channel="10">
+    <title>Australian Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956800?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019183000 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019213000 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

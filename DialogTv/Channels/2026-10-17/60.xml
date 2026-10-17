@@ -3,46 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261014120600 +0000" stop="20261014125700 +0000" channel="60">
-    <title>Braveheart: The Leopardess</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950454?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014125700 +0000" stop="20261014134300 +0000" channel="60">
-    <title>Secrets of the Elephants</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014134300 +0000" stop="20261014143100 +0000" channel="60">
-    <title>Snake Attack-Tics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143100 +0000" stop="20261014151800 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014151800 +0000" stop="20261014160500 +0000" channel="60">
-    <title>King Of The Mountain Baboon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/738822?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014160500 +0000" stop="20261014165100 +0000" channel="60">
-    <title>Leopard Kingdom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014165100 +0000" stop="20261014174000 +0000" channel="60">
-    <title>Queens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014174000 +0000" stop="20261014182700 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014182700 +0000" stop="20261014191700 +0000" channel="60">
     <title>Cheetah Price Of Speed</title>
     <desc />
@@ -742,5 +702,35 @@
     <title>Cat Attack-Tics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950482?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019143000 +0000" channel="60">
+    <title>Wild Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019163000 +0000" channel="60">
+    <title>Lion Dynasty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950445?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019173000 +0000" channel="60">
+    <title>Secrets Of The Penguins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="60">
+    <title>Killer Safari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

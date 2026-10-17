@@ -3,41 +3,6 @@
   <channel id="102">
     <display-name>Channel 109</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="102">
-    <title>Suwa Nena</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956960?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="102">
-    <title>Poddanta Nenasen Idak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="102">
-    <title>G 12 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957031?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="102">
-    <title>G 13 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956833?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="102">
-    <title>G 13 Bio System Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="102">
-    <title>G 13 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="102">
-    <title>G 12 Engineering Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956959?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="102">
     <title>G 12 Bio System Technology</title>
     <desc />
@@ -697,5 +662,40 @@
     <title>Suwa Nena</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956960?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="102">
+    <title>Poddanata Nenasen Idak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954749?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019143000 +0000" channel="102">
+    <title>G 12 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957729?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="102">
+    <title>G 13 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958125?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019163000 +0000" channel="102">
+    <title>G 13 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019173000 +0000" channel="102">
+    <title>G 13 Accounting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="102">
+    <title>G 12 Business Studies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957029?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="102">
+    <title>G 12 Economics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956639?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

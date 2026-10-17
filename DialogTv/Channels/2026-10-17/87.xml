@@ -3,21 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261014102500 +0000" stop="20261014131000 +0000" channel="87">
-    <title>Kahin Pyaar Na Ho Jaaye</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957647?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014131000 +0000" stop="20261014150000 +0000" channel="87">
-    <title>Dum Laga Ke Haisha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955159?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014170000 +0000" channel="87">
-    <title>Hichki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014170000 +0000" stop="20261014195000 +0000" channel="87">
     <title>Sultan</title>
     <desc />
@@ -261,5 +246,15 @@
     <title>Yamla Pagla Deewana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958270?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019170000 +0000" channel="87">
+    <title>Haseena Maan Jaayegi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958271?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019190500 +0000" channel="87">
+    <title>Neerja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953152?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

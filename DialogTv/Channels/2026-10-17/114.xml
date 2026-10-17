@@ -3,21 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261014121500 +0000" stop="20261014140000 +0000" channel="114">
-    <title>You, Me &amp; Tuscany</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014145500 +0000" channel="114">
-    <title>The Pitt S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014145500 +0000" stop="20261014164500 +0000" channel="114">
-    <title>Final Destination Bloodlines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014164500 +0000" stop="20261014190000 +0000" channel="114">
     <title>The Conjuring: Last Rites</title>
     <desc />
@@ -346,5 +331,25 @@
     <title>The Golden Compass</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019150500 +0000" channel="114">
+    <title>Jurassic World: Fallen Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150500 +0000" stop="20261019160500 +0000" channel="114">
+    <title>War S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160500 +0000" stop="20261019174000 +0000" channel="114">
+    <title>Final Destination</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019174000 +0000" stop="20261019190500 +0000" channel="114">
+    <title>Final Destination 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

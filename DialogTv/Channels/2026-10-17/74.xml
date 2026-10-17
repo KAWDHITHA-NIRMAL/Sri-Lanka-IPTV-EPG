@@ -3,21 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261014121500 +0000" stop="20261014135900 +0000" channel="74">
-    <title>The Water Horse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958430?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014135900 +0000" stop="20261014153000 +0000" channel="74">
-    <title>Venom: Let There Be Carnage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958431?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014170000 +0000" channel="74">
-    <title>Anacondas: The Hunt For The Blood Orchid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958432?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014170000 +0000" stop="20261014191000 +0000" channel="74">
     <title>Godzilla</title>
     <desc />
@@ -360,5 +345,20 @@
     <title>Until Dawn</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958105?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019135700 +0000" stop="20261019153000 +0000" channel="74">
+    <title>Zombieland: Double Tap</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946794?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019172200 +0000" channel="74">
+    <title>Spider-Man: Into The Spider-Verse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959063?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019172200 +0000" stop="20261019184700 +0000" channel="74">
+    <title>Hotel Transylvania</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958953?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

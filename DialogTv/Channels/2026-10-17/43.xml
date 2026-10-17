@@ -3,36 +3,6 @@
   <channel id="43">
     <display-name>Channel 49</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014133000 +0000" channel="43">
-    <title>Connect</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950004?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014143000 +0000" channel="43">
-    <title>Pattu Thalaivan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="43">
-    <title>Tucker Pattu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="43">
-    <title>Love 2 Kadhal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950005?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014173000 +0000" channel="43">
-    <title>Iravin Madiyil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/185015?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014173000 +0000" stop="20261014183000 +0000" channel="43">
-    <title>Gramaphone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950015?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="43">
     <title>Rajathi Raja</title>
     <desc />
@@ -532,5 +502,35 @@
     <title>Connect</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950004?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019143000 +0000" channel="43">
+    <title>Pattu Thalaivan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="43">
+    <title>Tucker Pattu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950009?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019163000 +0000" channel="43">
+    <title>Love 2 Kadhal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950005?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019173000 +0000" channel="43">
+    <title>Iravin Madiyil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/185015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="43">
+    <title>Gramaphone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="43">
+    <title>Rajathi Raja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950011?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

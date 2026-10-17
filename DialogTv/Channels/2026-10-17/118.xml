@@ -3,26 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261014111500 +0000" stop="20261014125500 +0000" channel="118">
-    <title>Playing With Fire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954353?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014125500 +0000" stop="20261014150000 +0000" channel="118">
-    <title>Downton Abbey: The Grand Finale</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953271?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014162500 +0000" channel="118">
-    <title>The Naked Gun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014162500 +0000" stop="20261014180500 +0000" channel="118">
-    <title>Caddo Lake</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953270?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014180500 +0000" stop="20261014202000 +0000" channel="118">
     <title>Shutter Island</title>
     <desc />
@@ -325,5 +305,20 @@
     <title>Transformers: Dark Of The Moon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956984?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019150000 +0000" channel="118">
+    <title>A Hollywood Christmas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019165000 +0000" channel="118">
+    <title>Black Phone 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953155?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019165000 +0000" stop="20261019184000 +0000" channel="118">
+    <title>Salem'S Lot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958188?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,31 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="125">
-    <title>URC in 60 Round 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014155000 +0000" channel="125">
-    <title>NRL Roosters v Knights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956327?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014155000 +0000" stop="20261014174000 +0000" channel="125">
-    <title>Top 14 Clermont Auvergne v Bordeaux</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957468?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014174000 +0000" stop="20261014181000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014181000 +0000" stop="20261014200000 +0000" channel="125">
     <title>Top 14 Toulouse v Bayonne</title>
     <desc />
@@ -393,5 +368,52 @@
     <title>AFLW Highlights Melbourne v Richmond</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958342?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019125500 +0000" stop="20261019131000 +0000" channel="125">
+    <title>AFLW Highlights Adelaide v Gold Coast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958343?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019131000 +0000" stop="20261019132500 +0000" channel="125">
+    <title>AFLW Highlights Carlton v Bulldogs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958344?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019132500 +0000" stop="20261019134000 +0000" channel="125">
+    <title>AFLW Highlights Brisbane v Port Adelaide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958345?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019134000 +0000" stop="20261019135500 +0000" channel="125">
+    <title>AFLW Highlights West Coast v Geelong</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958346?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019135500 +0000" stop="20261019141000 +0000" channel="125">
+    <title>AFLW Highlights Collingwood v Sydney</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958347?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019141000 +0000" stop="20261019142500 +0000" channel="125">
+    <title>AFLW Highlights GWS Giants v Hawthorn</title>
+    <desc />
+  </programme>
+  <programme start="20261019142500 +0000" stop="20261019144000 +0000" channel="125">
+    <title>AFLW Highlights Essendon v North Melbourne</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019144000 +0000" stop="20261019150000 +0000" channel="125">
+    <title>AFLW Highlights Fremantle v St Kilda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019165000 +0000" channel="125">
+    <title>EPCR Challenge Cup Harlequins v Vannes</title>
+    <desc />
+  </programme>
+  <programme start="20261019165000 +0000" stop="20261019184000 +0000" channel="125">
+    <title>Champions Cup Pau v Leicester</title>
+    <desc />
   </programme>
 </tv>

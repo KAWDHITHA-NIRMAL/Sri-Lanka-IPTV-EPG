@@ -3,41 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="94">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="94">
-    <title>Nalam Tharum Navarathiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="94">
-    <title>Enge Brahamanan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="94">
-    <title>Sani Bhagavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="94">
-    <title>Ketti Melam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952907?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="94">
-    <title>Sahana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="94">
-    <title>Muzik Vibe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957747?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014163000 +0000" stop="20261014193000 +0000" channel="94">
     <title>Kadal Pookal</title>
     <desc />
@@ -507,5 +472,40 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="94">
+    <title>Nalam Tharum Navarathiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="94">
+    <title>Enge Brahamanan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953249?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="94">
+    <title>Sani Bhagavan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952120?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="94">
+    <title>Ketti Melam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="94">
+    <title>Sahana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952918?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019163000 +0000" channel="94">
+    <title>Nanga Vera Mathiri</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958324?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019193000 +0000" channel="94">
+    <title>Gandhi Pirantha Mann</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958323?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

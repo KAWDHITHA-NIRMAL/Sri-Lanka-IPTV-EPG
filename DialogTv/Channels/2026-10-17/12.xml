@@ -3,71 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="12">
-    <title>Music Mix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957284?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014132000 +0000" channel="12">
-    <title>Sport Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014132000 +0000" stop="20261014135000 +0000" channel="12">
-    <title>Tv Supreme News | Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014135000 +0000" stop="20261014135500 +0000" channel="12">
-    <title>180 Pulse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956512?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014135500 +0000" stop="20261014140500 +0000" channel="12">
-    <title>Kasu Kusu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/912510?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140500 +0000" stop="20261014141500 +0000" channel="12">
-    <title>Parliament Today | World News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948422?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="12">
-    <title>CNA On TV Supreme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="12">
-    <title>CNA On TV Supreme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="12">
-    <title>Corporate Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014160000 +0000" channel="12">
-    <title>Tv Supreme News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957283?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014160000 +0000" stop="20261014170000 +0000" channel="12">
-    <title>Machan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014180000 +0000" channel="12">
-    <title>Me Saumya Rathree</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956849?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014180000 +0000" stop="20261014183000 +0000" channel="12">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -730,5 +665,70 @@
     <title>Music Mix</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019132000 +0000" channel="12">
+    <title>Sport Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019132000 +0000" stop="20261019135000 +0000" channel="12">
+    <title>Tv Supreme News | Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019135000 +0000" stop="20261019135500 +0000" channel="12">
+    <title>180 Pulse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019135500 +0000" stop="20261019140500 +0000" channel="12">
+    <title>Kasu Kusu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912510?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140500 +0000" stop="20261019141500 +0000" channel="12">
+    <title>Parliament Today | World News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948422?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019141500 +0000" stop="20261019143000 +0000" channel="12">
+    <title>CNA On TV Supreme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="12">
+    <title>Pop Corn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/912512?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="12">
+    <title>Space Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956848?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019160000 +0000" channel="12">
+    <title>Tv Supreme News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160000 +0000" stop="20261019173000 +0000" channel="12">
+    <title>Aththa Kiyana  Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958231?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="12">
+    <title>CNA On TV Supreme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019213000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

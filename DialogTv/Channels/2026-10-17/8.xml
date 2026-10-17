@@ -3,56 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="8">
-    <title>The Y Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/706552?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="8">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014140000 +0000" stop="20261014143000 +0000" channel="8">
-    <title>Neela Samanalie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952814?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014143000 +0000" stop="20261014150000 +0000" channel="8">
-    <title>Aaley</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957191?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014153000 +0000" channel="8">
-    <title>Mayavee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014160000 +0000" channel="8">
-    <title>Ahankara Adare</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/759788?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014160000 +0000" stop="20261014163000 +0000" channel="8">
-    <title>Prema Dadayama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/753049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014170000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014183000 +0000" channel="8">
-    <title>Illakaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183000 +0000" stop="20261014232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -660,5 +610,55 @@
     <title>The Y Show</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/706552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="8">
+    <title>Dawasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="8">
+    <title>Neela Samanalie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="8">
+    <title>Aaley</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957191?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="8">
+    <title>Mayavee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019160000 +0000" channel="8">
+    <title>Ahankara Adare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/759788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019160000 +0000" stop="20261019163000 +0000" channel="8">
+    <title>Prema Dadayama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019183000 +0000" channel="8">
+    <title>Drama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958199?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
