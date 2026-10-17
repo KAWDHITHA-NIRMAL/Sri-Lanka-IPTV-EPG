@@ -3,11 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261014181000 +0000" stop="20261014200000 +0000" channel="125">
-    <title>Top 14 Toulouse v Bayonne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="125">
     <title>URC in 60 Round 3</title>
     <desc />
@@ -415,5 +410,15 @@
   <programme start="20261019165000 +0000" stop="20261019184000 +0000" channel="125">
     <title>Champions Cup Pau v Leicester</title>
     <desc />
+  </programme>
+  <programme start="20261019184000 +0000" stop="20261019203000 +0000" channel="125">
+    <title>Champions Cup Toulouse v Exeter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019204500 +0000" channel="125">
+    <title>AFLW Highlights Melbourne v Richmond</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958342?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

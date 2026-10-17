@@ -3,11 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261014180500 +0000" stop="20261014202000 +0000" channel="118">
-    <title>Shutter Island</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953809?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014202000 +0000" stop="20261014225000 +0000" channel="118">
     <title>Transformers: Revenge Of The Fallen</title>
     <desc />
@@ -320,5 +315,15 @@
     <title>Salem'S Lot</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184000 +0000" stop="20261019191000 +0000" channel="118">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019191000 +0000" stop="20261019213000 +0000" channel="118">
+    <title>Fantastic Beasts: The Secrets Of Dumbledore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950949?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

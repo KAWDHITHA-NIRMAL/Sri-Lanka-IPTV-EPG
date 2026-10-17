@@ -417,21 +417,6 @@
   <channel id="141">
     <display-name>Channel 2082</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014191000 +0000" channel="7">
-    <title>Swarnavahini News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191000 +0000" stop="20261014194000 +0000" channel="7">
-    <title>Bolt Anayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956792?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194000 +0000" stop="20261014201000 +0000" channel="7">
-    <title>Hiri Poda Wessa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014201000 +0000" stop="20261014204000 +0000" channel="7">
     <title>Amuthu Kalliya</title>
     <desc />
@@ -1185,6 +1170,21 @@
     <title>Swarnavahini News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019191000 +0000" stop="20261019194000 +0000" channel="7">
+    <title>Bolt Anayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019194000 +0000" stop="20261019201000 +0000" channel="7">
+    <title>Hiri Poda Wessa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201000 +0000" stop="20261019204000 +0000" channel="7">
+    <title>Amuthu Kalliya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956348?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183000 +0000" stop="20261014232900 +0000" channel="8">
     <title>End Of Transmission</title>
@@ -3079,21 +3079,6 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="1">
-    <title>Channel One Highway</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="1">
-    <title>Me Wasantha Kalayai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="1">
-    <title>Api Api Wage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957035?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="1">
     <title>Suwa Arana</title>
     <desc />
@@ -3729,10 +3714,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014184300 +0000" channel="2">
-    <title>Seth Pirith</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="1">
+    <title>Me Wasantha Kalayai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="1">
+    <title>Api Api Wage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957035?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="1">
+    <title>Mathaka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954880?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014184300 +0000" stop="20261015000100 +0000" channel="2">
     <title>End Of Transmission</title>
@@ -4674,6 +4669,11 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
+  <programme start="20261019184300 +0000" stop="20261020000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
   <programme start="20261014173600 +0000" stop="20261015002900 +0000" channel="3">
     <title>End Of Transmission</title>
     <desc />
@@ -5358,11 +5358,6 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014183600 +0000" channel="4">
-    <title>Mora Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949553?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183600 +0000" stop="20261014233000 +0000" channel="4">
     <title>Close Of Transmission</title>
@@ -6232,6 +6227,16 @@
     <title>Doramandalawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952427?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019190600 +0000" channel="4">
+    <title>Mora Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949553?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190600 +0000" stop="20261019233000 +0000" channel="4">
+    <title>Close Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949554?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="5">
     <title>Filler</title>
@@ -8233,11 +8238,6 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949814?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="20">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="20">
     <title>Repeat - ICC Men's T20 World Cup 2026</title>
     <desc />
@@ -8501,6 +8501,11 @@
   <programme start="20261019183000 +0000" stop="20261019203000 +0000" channel="20">
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="20">
+    <title>Repeat - ICC Men's T20 World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="13">
     <title>Seth Pirith</title>
@@ -9376,16 +9381,6 @@
     <title>Seth Pirith</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="14">
-    <title>Get Real</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957994?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014203000 +0000" channel="14">
-    <title>Wadapitiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957995?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="14">
     <title>Around The Ground</title>
@@ -10342,10 +10337,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958226?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="15">
-    <title>End Of Transmission</title>
+  <programme start="20261019190000 +0000" stop="20261019203000 +0000" channel="14">
+    <title>Jeewitha Sawara</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/160347?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="14">
+    <title>Around The Ground</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014232400 +0000" channel="15">
     <title>End Of Transmission</title>
@@ -10872,6 +10872,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958217?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261019183000 +0000" stop="20261019203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019232400 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -12221,16 +12226,6 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173000 +0000" stop="20261014200000 +0000" channel="18">
-    <title>Hero Nero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="18">
-    <title>Wismaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949660?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="18">
     <title>Wismaya</title>
     <desc />
@@ -12826,10 +12821,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952884?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173000 +0000" stop="20261014203000 +0000" channel="19">
-    <title>Nethu Piyana Thuru</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957998?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014233000 +0000" channel="19">
     <title>Angana</title>
@@ -13055,6 +13055,11 @@
     <title>Tharu Piri Ahasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="19">
+    <title>Dhawala Kadulla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="12">
     <title>End of Transmission</title>
@@ -15439,11 +15444,6 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956828?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193500 +0000" channel="23">
-    <title>Ven. Kiriwattuduwe Ariyadassana Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014193500 +0000" stop="20261014210000 +0000" channel="23">
     <title>Ven. Angangoda Pannawansa Thero - Dharma Deshanaya</title>
     <desc />
@@ -16108,6 +16108,21 @@
     <title>Dayakathawa Anumodana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956485?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019183500 +0000" stop="20261019193000 +0000" channel="23">
+    <title>Ven. Puhulwelle Sarada Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="23">
+    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213500 +0000" channel="23">
+    <title>Ven. Thalalle Chandakiththi Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953014?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="24">
     <title>Filler</title>
@@ -17444,16 +17459,6 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956856?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="26">
-    <title>Saddharmapprabha- Ven.Balangoda Radha Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953406?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="26">
-    <title>Kandy Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="26">
     <title>Colombo Daayaka Bana</title>
     <desc />
@@ -18115,15 +18120,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952993?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957650?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="27">
-    <title>Bhawanawa</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952855?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014193000 +0000" stop="20261014233000 +0000" channel="27">
     <title>Dharma Sermons</title>
@@ -18730,25 +18735,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="28">
-    <title>Courts of Heaven - Robert Henderson</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="27">
+    <title>Bhawanawa</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949930?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952855?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="28">
-    <title>Counsel Culture with Bishop O'Neal</title>
+  <programme start="20261019193000 +0000" stop="20261019233000 +0000" channel="27">
+    <title>Dharma Sermons</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63760?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="28">
-    <title>Revive Nations with Shyju Mathew</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957328?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="28">
-    <title>Jewish Jesus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957947?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952786?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="28">
     <title>The Cry with Betty King</title>
@@ -19855,20 +19850,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/33472?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="29">
-    <title>Eucharistic Adoration</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="28">
+    <title>Order My Steps</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957383?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="29">
-    <title>Samindun Pasasamu</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="28">
+    <title>Today With J John</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957380?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957356?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="29">
-    <title>Pesum Padal</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="28">
+    <title>Elevation - Steven Furtick</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949857?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957324?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="28">
+    <title>Pure Gold With Steven Brooks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958146?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="29">
     <title>Yadum Hamuwa</title>
@@ -20722,20 +20722,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958902?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="30">
-    <title>Newshour</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="29">
+    <title>Samindun Pasasamu</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958904?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="30">
-    <title>News Live</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="29">
+    <title>Paadi Thuthipom</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958233?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="30">
-    <title>The Listening Post</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="29">
+    <title>U Turen</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953071?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958234?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="30">
     <title>Witness</title>
@@ -21652,6 +21652,21 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="30">
+    <title>Al Jazeera Explains</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="30">
+    <title>Let's Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
   <programme start="20261014180000 +0000" stop="20261014210000 +0000" channel="31">
     <title>News Breakfast</title>
     <desc />
@@ -22347,26 +22362,6 @@
     <title>News Breakfast</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="32">
-    <title>The Context USA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952959?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="32">
-    <title>The Context USA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952959?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="32">
-    <title>The Context</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952900?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="32">
     <title>The Context</title>
@@ -23588,25 +23583,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="33">
-    <title>Global Business</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="32">
+    <title>Newscast</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953061?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="33">
-    <title>The World Today</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="32">
+    <title>BBC News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="33">
-    <title>World Insight with Tian Wei</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="32">
+    <title>Talking Business</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956452?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952892?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="33">
-    <title>The World Today</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="32">
+    <title>Newsday</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952573?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="33">
     <title>Dialogue</title>
@@ -24708,15 +24703,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="34">
-    <title>Isa Soares Tonight</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="33">
+    <title>The World Today</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="34">
-    <title>What We Know With Max Foster</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="33">
+    <title>World Insight with Tian Wei</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="33">
+    <title>Dialogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956281?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014213000 +0000" channel="34">
     <title>Quest Means Business</title>
@@ -25268,25 +25273,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="35">
-    <title>Mic ON Hai</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="34">
+    <title>What We Know With Max Foster</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950178?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="35">
-    <title>Sponsored Show</title>
+  <programme start="20261019200000 +0000" stop="20261019213000 +0000" channel="34">
+    <title>Quest Means Business</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="35">
-    <title>Sponsored Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="35">
-    <title>News NDTV India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950180?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="35">
     <title>Sawaal India Ka</title>
@@ -26461,60 +26456,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950178?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014184500 +0000" channel="36">
-    <title>News</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="35">
+    <title>Sponsored Show</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184500 +0000" stop="20261014185100 +0000" channel="36">
-    <title>Truth Or Fake</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="35">
+    <title>Sponsored Show</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709897?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185100 +0000" stop="20261014190000 +0000" channel="36">
-    <title>Focus Prod B</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="35">
+    <title>News NDTV India</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952707?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950180?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014192000 +0000" channel="36">
-    <title>News</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="35">
+    <title>Sawaal India Ka</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014192000 +0000" stop="20261014193000 +0000" channel="36">
-    <title>Business Prod B</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950074?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014194000 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194000 +0000" stop="20261014200000 +0000" channel="36">
-    <title>Eye On Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50965?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014201500 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014201500 +0000" stop="20261014202100 +0000" channel="36">
-    <title>Business Prod B</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950074?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014202100 +0000" stop="20261014203000 +0000" channel="36">
-    <title>Truth Or Fake</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014203000 +0000" stop="20261014203200 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950181?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203200 +0000" stop="20261014204400 +0000" channel="36">
     <title>A Propos</title>
@@ -29451,40 +29411,60 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182900 +0000" stop="20261014185200 +0000" channel="37">
-    <title>The Ring</title>
+  <programme start="20261019184500 +0000" stop="20261019185100 +0000" channel="36">
+    <title>Truth Or Fake</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956285?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185200 +0000" stop="20261014190000 +0000" channel="37">
-    <title>The Ring</title>
+  <programme start="20261019185100 +0000" stop="20261019190000 +0000" channel="36">
+    <title>Focus Prod B</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956285?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952707?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014191500 +0000" channel="37">
-    <title>The European Debrief</title>
+  <programme start="20261019190000 +0000" stop="20261019192000 +0000" channel="36">
+    <title>News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191500 +0000" stop="20261014193000 +0000" channel="37">
-    <title>The European Debrief</title>
+  <programme start="20261019192000 +0000" stop="20261019193000 +0000" channel="36">
+    <title>Business Prod B</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950074?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="37">
-    <title>The European Debrief</title>
+  <programme start="20261019193000 +0000" stop="20261019194000 +0000" channel="36">
+    <title>News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014201500 +0000" channel="37">
-    <title>The European Debrief</title>
+  <programme start="20261019194000 +0000" stop="20261019200000 +0000" channel="36">
+    <title>Eye On Africa</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50965?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014201500 +0000" stop="20261014203000 +0000" channel="37">
-    <title>The European Debrief</title>
+  <programme start="20261019200000 +0000" stop="20261019201500 +0000" channel="36">
+    <title>News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019202100 +0000" channel="36">
+    <title>Business Prod B</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950074?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202100 +0000" stop="20261019203000 +0000" channel="36">
+    <title>Truth Or Fake</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019203200 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203200 +0000" stop="20261019204400 +0000" channel="36">
+    <title>A Propos</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/709900?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="37">
     <title>The European Debrief</title>
@@ -31681,10 +31661,45 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="38">
-    <title>Bloomberg Markets</title>
+  <programme start="20261019183100 +0000" stop="20261019184500 +0000" channel="37">
+    <title>News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956621?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956422?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184500 +0000" stop="20261019190000 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019191500 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019191500 +0000" stop="20261019193000 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019201500 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019203000 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019204600 +0000" channel="37">
+    <title>The European Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014213000 +0000" channel="38">
     <title>Bloomberg Markets: The Close</title>
@@ -32411,25 +32426,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956621?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="39">
-    <title>Power Lunch</title>
+  <programme start="20261019190000 +0000" stop="20261019213000 +0000" channel="38">
+    <title>Bloomberg Markets: The Close</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="39">
-    <title>Closing Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="39">
-    <title>Closing Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="39">
-    <title>Closing Bell: Overtime</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957278?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="39">
     <title>Closing Bell: Overtime</title>
@@ -33405,10 +33405,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="40">
-    <title>Bajao</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="39">
+    <title>Closing Bell</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950029?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014233000 +0000" channel="40">
     <title>Bajao</title>
@@ -33975,10 +33990,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950029?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014160000 +0000" stop="20261014200000 +0000" channel="41">
-    <title>Speechless Love</title>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="40">
+    <title>Bajao</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956734?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950029?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261015000000 +0000" channel="41">
     <title>Romantico Memories</title>
@@ -34130,10 +34145,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956734?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
+  <programme start="20261019200000 +0000" stop="20261020000000 +0000" channel="41">
+    <title>Romantico Memories</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957118?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014220000 +0000" channel="42">
     <title>Evening Encore</title>
@@ -34855,10 +34870,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="43">
-    <title>Rajathi Raja</title>
+  <programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="42">
+    <title>Evening Encore</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950011?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957978?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014193000 +0000" stop="20261014213000 +0000" channel="43">
     <title>Kollywood Retro</title>
@@ -35385,25 +35400,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950011?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014163000 +0000" stop="20261014185500 +0000" channel="44">
-    <title>Fear Files</title>
+  <programme start="20261019193000 +0000" stop="20261019213000 +0000" channel="43">
+    <title>Kollywood Retro</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185500 +0000" stop="20261014191800 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191800 +0000" stop="20261014193000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/185007?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="44">
     <title>Yolo Hits</title>
@@ -35920,50 +35920,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014185400 +0000" channel="45">
-    <title>Siyaya - Wildest Cape</title>
+  <programme start="20261019185500 +0000" stop="20261019203000 +0000" channel="44">
+    <title>Yolo Hits</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952742?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185400 +0000" stop="20261014191800 +0000" channel="45">
-    <title>Siyaya - Wildest Cape</title>
+  <programme start="20261019203000 +0000" stop="20261019223000 +0000" channel="44">
+    <title>Yolo Hits</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952742?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191800 +0000" stop="20261014193600 +0000" channel="45">
-    <title>A Week to Beat the World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193600 +0000" stop="20261014195100 +0000" channel="45">
-    <title>A Week to Beat the World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014195100 +0000" stop="20261014200300 +0000" channel="45">
-    <title>A Week to Beat the World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200300 +0000" stop="20261014201200 +0000" channel="45">
-    <title>Zoe and Milo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014201200 +0000" stop="20261014201800 +0000" channel="45">
-    <title>Zoe and Milo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014201800 +0000" stop="20261014202400 +0000" channel="45">
-    <title>Zoe and Milo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014202400 +0000" stop="20261014203300 +0000" channel="45">
-    <title>Zoe and Milo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203300 +0000" stop="20261014204200 +0000" channel="45">
     <title>ScienceXplosion</title>
@@ -38480,65 +38445,50 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953057?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014185500 +0000" channel="46">
-    <title>Playtime Towers</title>
+  <programme start="20261019185400 +0000" stop="20261019191800 +0000" channel="45">
+    <title>Siyaya - Come Wild With Us</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952913?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953057?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185500 +0000" stop="20261014190200 +0000" channel="46">
-    <title>Hey Duggee</title>
+  <programme start="20261019191800 +0000" stop="20261019193600 +0000" channel="45">
+    <title>A Week to Beat the World</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190200 +0000" stop="20261014190900 +0000" channel="46">
-    <title>Hey Duggee</title>
+  <programme start="20261019193600 +0000" stop="20261019195100 +0000" channel="45">
+    <title>A Week to Beat the World</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190900 +0000" stop="20261014191500 +0000" channel="46">
-    <title>Hey Duggee</title>
+  <programme start="20261019195100 +0000" stop="20261019200300 +0000" channel="45">
+    <title>A Week to Beat the World</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956441?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191500 +0000" stop="20261014192500 +0000" channel="46">
-    <title>Go Jetters</title>
+  <programme start="20261019200300 +0000" stop="20261019201200 +0000" channel="45">
+    <title>Zoe and Milo</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952015?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014192500 +0000" stop="20261014194000 +0000" channel="46">
-    <title>Go Jetters</title>
+  <programme start="20261019201200 +0000" stop="20261019201800 +0000" channel="45">
+    <title>Zoe and Milo</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952015?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014194000 +0000" stop="20261014195000 +0000" channel="46">
-    <title>Thomas &amp; Friends</title>
+  <programme start="20261019201800 +0000" stop="20261019202400 +0000" channel="45">
+    <title>Zoe and Milo</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952575?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014195000 +0000" stop="20261014195700 +0000" channel="46">
-    <title>Sarah and Duck</title>
+  <programme start="20261019202400 +0000" stop="20261019203300 +0000" channel="45">
+    <title>Zoe and Milo</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952598?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014195700 +0000" stop="20261014200500 +0000" channel="46">
-    <title>Sarah and Duck</title>
+  <programme start="20261019203300 +0000" stop="20261019203900 +0000" channel="45">
+    <title>ScienceXplosion</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200500 +0000" stop="20261014201100 +0000" channel="46">
-    <title>Stan Can</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014201100 +0000" stop="20261014202000 +0000" channel="46">
-    <title>Stan Can</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014202000 +0000" stop="20261014202500 +0000" channel="46">
-    <title>Funny Talking Animals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952714?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956362?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202500 +0000" stop="20261014203800 +0000" channel="46">
     <title>JoJo &amp; Gran Gran</title>
@@ -42745,15 +42695,65 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952913?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="47">
-    <title>Ben 10</title>
+  <programme start="20261019185500 +0000" stop="20261019190200 +0000" channel="46">
+    <title>Hey Duggee</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="47">
-    <title>Ben 10</title>
+  <programme start="20261019190200 +0000" stop="20261019190900 +0000" channel="46">
+    <title>Hey Duggee</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190900 +0000" stop="20261019191500 +0000" channel="46">
+    <title>Hey Duggee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019191500 +0000" stop="20261019192500 +0000" channel="46">
+    <title>Go Jetters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019192500 +0000" stop="20261019194000 +0000" channel="46">
+    <title>Go Jetters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019194000 +0000" stop="20261019195000 +0000" channel="46">
+    <title>Thomas &amp; Friends</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195000 +0000" stop="20261019195700 +0000" channel="46">
+    <title>Sarah and Duck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195700 +0000" stop="20261019200500 +0000" channel="46">
+    <title>Sarah and Duck</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200500 +0000" stop="20261019201100 +0000" channel="46">
+    <title>Stan Can</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201100 +0000" stop="20261019202000 +0000" channel="46">
+    <title>Stan Can</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952710?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202000 +0000" stop="20261019202500 +0000" channel="46">
+    <title>Funny Talking Animals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202500 +0000" stop="20261019203800 +0000" channel="46">
+    <title>JoJo &amp; Gran Gran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952715?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="47">
     <title>Ben 10</title>
@@ -43366,6 +43366,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="47">
+    <title>Ben 10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="47">
+    <title>Ben 10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="47">
     <title>Ben 10</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -44074,31 +44084,6 @@
     <title>Baby Relaxation</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014181500 +0000" stop="20261014183500 +0000" channel="49">
-    <title>The Thundermans: Undercover S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183500 +0000" stop="20261014190000 +0000" channel="49">
-    <title>That Girl Lay Lay S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014192500 +0000" channel="49">
-    <title>Icarly S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014192500 +0000" stop="20261014195000 +0000" channel="49">
-    <title>Icarly S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014195000 +0000" stop="20261014201500 +0000" channel="49">
-    <title>Victorious S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957424?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014201500 +0000" stop="20261014203500 +0000" channel="49">
     <title>Sam &amp; Cat S01</title>
@@ -45740,25 +45725,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/706599?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="50">
-    <title>Dreamy Nights</title>
+  <programme start="20261019183500 +0000" stop="20261019190000 +0000" channel="49">
+    <title>That Girl Lay Lay S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952768?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947498?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="50">
-    <title>Moon And Stars</title>
+  <programme start="20261019190000 +0000" stop="20261019192500 +0000" channel="49">
+    <title>Icarly S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952737?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958912?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="50">
-    <title>Soothing Sounds</title>
+  <programme start="20261019192500 +0000" stop="20261019195000 +0000" channel="49">
+    <title>Icarly S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952738?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958912?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="50">
-    <title>From Night To Day</title>
+  <programme start="20261019195000 +0000" stop="20261019201500 +0000" channel="49">
+    <title>Victorious S03</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952739?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957154?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019203500 +0000" channel="49">
+    <title>Sam &amp; Cat S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957155?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="50">
     <title>From Night To Day</title>
@@ -46945,20 +46935,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952768?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180700 +0000" stop="20261014184900 +0000" channel="59">
-    <title>Airport Security Brazil</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="50">
+    <title>Moon And Stars</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874932?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952737?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184900 +0000" stop="20261014193300 +0000" channel="59">
-    <title>Airport Security Rome</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="50">
+    <title>Soothing Sounds</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952738?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193300 +0000" stop="20261014201600 +0000" channel="59">
-    <title>Trafficked With Mariana Van Zeller</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="50">
+    <title>From Night To Day</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952739?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="50">
+    <title>From Night To Day</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952739?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014201600 +0000" stop="20261014210000 +0000" channel="59">
     <title>Trafficked: Underworlds With Mariana Van Zeller</title>
@@ -47833,6 +47828,21 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="59">
+    <title>Trafficked: Underworlds With Mariana Van Zeller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
   <programme start="20261014173000 +0000" stop="20261014213000 +0000" channel="51">
     <title>Lion Guard</title>
     <desc />
@@ -48162,36 +48172,6 @@
     <title>Lion Guard</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950047?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014184000 +0000" channel="52">
-    <title>Paw Patrol S13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184000 +0000" stop="20261014185500 +0000" channel="52">
-    <title>PAW Patrol S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950425?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185500 +0000" stop="20261014191500 +0000" channel="52">
-    <title>Rubble &amp; Crew S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950429?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191500 +0000" stop="20261014194000 +0000" channel="52">
-    <title>Rubble &amp; Crew S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950429?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194000 +0000" stop="20261014200000 +0000" channel="52">
-    <title>Dora S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014202500 +0000" channel="52">
-    <title>Dora S05</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956771?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202500 +0000" stop="20261014204500 +0000" channel="52">
     <title>Barbapapa - One Big Happy Family! S02</title>
@@ -50198,15 +50178,35 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182700 +0000" stop="20261014191700 +0000" channel="60">
-    <title>Cheetah Price Of Speed</title>
+  <programme start="20261019184000 +0000" stop="20261019185500 +0000" channel="52">
+    <title>PAW Patrol S10</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950425?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191700 +0000" stop="20261014200500 +0000" channel="60">
-    <title>Queens</title>
+  <programme start="20261019185500 +0000" stop="20261019191500 +0000" channel="52">
+    <title>Rubble &amp; Crew S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/406148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019191500 +0000" stop="20261019194000 +0000" channel="52">
+    <title>Rubble &amp; Crew S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/406148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019194000 +0000" stop="20261019200000 +0000" channel="52">
+    <title>Dora S05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019202500 +0000" channel="52">
+    <title>Dora S05</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956771?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202500 +0000" stop="20261019204500 +0000" channel="52">
+    <title>Barbapapa - One Big Happy Family! S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956767?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200500 +0000" stop="20261014204800 +0000" channel="60">
     <title>The Real Black Panther</title>
@@ -50928,15 +50928,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181800 +0000" stop="20261014191400 +0000" channel="55">
-    <title>The Kill</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="60">
+    <title>Leopard &amp; Hyena: Strange Alliance</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955296?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957507?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191400 +0000" stop="20261014200700 +0000" channel="55">
-    <title>Deadliest Snakes Of South Africa</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="60">
+    <title>Savage Kingdom Compilations</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958366?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956200?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200700 +0000" stop="20261014210300 +0000" channel="55">
     <title>Big Cat Tales</title>
@@ -51627,15 +51627,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958470?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014172200 +0000" stop="20261014185800 +0000" channel="56">
-    <title>Naked And Afraid</title>
+  <programme start="20261019184800 +0000" stop="20261019194400 +0000" channel="55">
+    <title>Italy: The Last Wilderness Year 1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958928?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185800 +0000" stop="20261014194500 +0000" channel="56">
-    <title>Naked And Afraid: Aadimanav</title>
+  <programme start="20261019194400 +0000" stop="20261019203900 +0000" channel="55">
+    <title>Iberian Vipers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958931?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014194500 +0000" stop="20261014210500 +0000" channel="56">
     <title>Naked And Afraid</title>
@@ -52405,15 +52405,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945481?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="57">
-    <title>Haunted Towns</title>
+  <programme start="20261019195100 +0000" stop="20261019205100 +0000" channel="56">
+    <title>Naked And Afraid: Aadimanav</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="57">
-    <title>The Face Doctors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957515?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="57">
     <title>Food Factory</title>
@@ -53105,15 +53100,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="58">
-    <title>Say Yes To The Dress</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="57">
+    <title>You Have Been Warned</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954144?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="58">
-    <title>Harry Potter: Wizards of Baking</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="57">
+    <title>Food Factory</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950498?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949979?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="58">
     <title>Restaurant: Impossible</title>
@@ -53795,25 +53790,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014175300 +0000" stop="20261014183700 +0000" channel="61">
-    <title>Leepu &amp; Pitbull</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="58">
+    <title>Say Yes To The Dress</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950067?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183700 +0000" stop="20261014191900 +0000" channel="61">
-    <title>Pawn Stars S24</title>
+  <programme start="20261019193000 +0000" stop="20261019213000 +0000" channel="58">
+    <title>Halloween Baking Championship</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950065?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191900 +0000" stop="20261014194000 +0000" channel="61">
-    <title>The Fast History Of S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194000 +0000" stop="20261014202200 +0000" channel="61">
-    <title>History's Greatest Escapes with Morgan Freeman S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952543?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958468?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202200 +0000" stop="20261014210400 +0000" channel="61">
     <title>Forged In Fire: Beat The Judges</title>
@@ -54840,25 +54825,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950060?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182800 +0000" stop="20261014185900 +0000" channel="53">
-    <title>Underwater Learning Adventures!</title>
+  <programme start="20261019183700 +0000" stop="20261019191900 +0000" channel="61">
+    <title>Pawn Stars: Out &amp; About S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950304?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014185900 +0000" stop="20261014192900 +0000" channel="53">
-    <title>A Fun Day of Games &amp; Construction</title>
+  <programme start="20261019191900 +0000" stop="20261019194000 +0000" channel="61">
+    <title>Kings Of Restoration S06</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950353?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950286?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014192900 +0000" stop="20261014195900 +0000" channel="53">
-    <title>A Big Day Of Rescues &amp; Learning!</title>
+  <programme start="20261019194000 +0000" stop="20261019202200 +0000" channel="61">
+    <title>History's Greatest Escapes with Morgan Freeman S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950366?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952543?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014195900 +0000" stop="20261014203000 +0000" channel="53">
-    <title>Songs About Feeling Good &amp; Staying Safe!</title>
+  <programme start="20261019202200 +0000" stop="20261019210400 +0000" channel="61">
+    <title>American Pickers S15</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956557?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/939296?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="53">
     <title>When Everything Goes Hilariously Wrong!</title>
@@ -55996,10 +55981,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950366?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="63">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
+  <programme start="20261019183500 +0000" stop="20261019185800 +0000" channel="53">
+    <title>A Super Fun Underwater Sing-Along!</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950381?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019185800 +0000" stop="20261019192800 +0000" channel="53">
+    <title>A Fun Day of Games &amp; Construction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019192800 +0000" stop="20261019195800 +0000" channel="53">
+    <title>A Big Day Of Rescues &amp; Learning!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195800 +0000" stop="20261019203000 +0000" channel="53">
+    <title>Let's Play All The Best Games!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="53">
+    <title>Animals, Numbers, Abcs &amp; More Fun!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950398?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="63">
     <title>Repeat - ICC Men's T20 World Cup 2026</title>
@@ -56268,15 +56273,10 @@
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
   </programme>
-  <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="64">
-    <title>Live UEFA Champions League 2026/27 Feyenoord vs Como</title>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="63">
+    <title>Repeat - ICC Men's T20 World Cup 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958370?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="64">
-    <title>Snippet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950139?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="64">
     <title>Live UEFA Champions League 2026/27 Man City vs Paris</title>
@@ -57036,10 +57036,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="65">
-    <title>Sri Lanka vs England 2018 3rd Test Highlights</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="64">
+    <title>New Zealand Vs India 2020 5th T20 Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="64">
+    <title>ACC Men's Asia Cup U19 2025: India vs UAE Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954112?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="65">
     <title>New Zealand vs West Indies 2025 3rd T20i Highlights</title>
@@ -57616,15 +57621,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="66">
-    <title>Live UEFA Champions League 2026/27 LASK vs Liverpool</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="65">
+    <title>New Zealand vs England 2025 3rd ODI Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="66">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943433?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="66">
     <title>Live UEFA Champions League 2026/27 Roma vs Real Madrid</title>
@@ -58147,6 +58147,11 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955803?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
+  <programme start="20261019193000 +0000" stop="20261019223000 +0000" channel="66">
+    <title>NOCHE UFC - Rodriguez vs Silva</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
   <programme start="20261014183000 +0000" stop="20261014204500 +0000" channel="67">
     <title>Fim Speedway Grand Prix</title>
     <desc />
@@ -58452,26 +58457,6 @@
     <title>Big Cricket League</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="68">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="68">
-    <title>ICC Men's T20I World Cup Hlts AFG v IND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="68">
-    <title>ICC CWC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="68">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="68">
     <title>2013 ICC Champions Trophy - Hlts</title>
@@ -59884,25 +59869,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950334?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="69">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="68">
+    <title>ICC Champions Trophy 2025 HLTS IND v AUS</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950331?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="69">
-    <title>ICC Men's ODI WC 2023 hlts. IND v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="69">
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="68">
     <title>ICC CWC Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="69">
-    <title>Australia v India T20 Series 2020 HLTS AUS v IND</title>
+  <programme start="20261019200000 +0000" stop="20261019201500 +0000" channel="68">
+    <title>ICC Men's T20 WC HLs IND v WI</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950332?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019203000 +0000" channel="68">
+    <title>South Africa vs India T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="68">
+    <title>ICC CT 2017 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950316?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="69">
     <title>CHAMPIONS TROPHY 2006 Hlts IND v ENG</title>
@@ -61208,15 +61198,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949508?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014175500 +0000" stop="20261014193500 +0000" channel="75">
-    <title>Prime Minister</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="69">
+    <title>ICC CWC Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950775?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193500 +0000" stop="20261014203000 +0000" channel="75">
-    <title>The Gilded Age S1</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="69">
+    <title>ICC CWC Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956728?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="69">
+    <title>IDFC FIRST Bank IND v AFG 3rd T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="69">
+    <title>ICC WT20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014221000 +0000" channel="75">
     <title>Friendship</title>
@@ -61647,25 +61647,10 @@
     <title>The Bride!</title>
     <desc />
   </programme>
-  <programme start="20261014182700 +0000" stop="20261014184900 +0000" channel="71">
-    <title>Ben 10: Alien Force S2</title>
+  <programme start="20261019195500 +0000" stop="20261019210000 +0000" channel="75">
+    <title>The Gilded Age S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953762?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184900 +0000" stop="20261014191200 +0000" channel="71">
-    <title>Ben 10: Alien Force S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953762?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191200 +0000" stop="20261014194000 +0000" channel="71">
-    <title>Ben 10: Alien Force S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953762?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194000 +0000" stop="20261014202500 +0000" channel="71">
-    <title>Suits La S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956735?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956728?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202500 +0000" stop="20261014211500 +0000" channel="71">
     <title>Funny Woman S02</title>
@@ -62827,10 +62812,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/946253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014200000 +0000" channel="72">
-    <title>Reprisal</title>
+  <programme start="20261019184500 +0000" stop="20261019190700 +0000" channel="71">
+    <title>Ben 10: Alien Force S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955001?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190700 +0000" stop="20261019192900 +0000" channel="71">
+    <title>Ben 10: Alien Force S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019192900 +0000" stop="20261019195000 +0000" channel="71">
+    <title>Ben 10: Alien Force S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195000 +0000" stop="20261019202000 +0000" channel="71">
+    <title>Ben 10: Alien Force S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202000 +0000" stop="20261019210500 +0000" channel="71">
+    <title>Suits La S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956735?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014220000 +0000" channel="72">
     <title>Savage Man</title>
@@ -63132,10 +63137,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956103?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014174500 +0000" stop="20261014200000 +0000" channel="73">
-    <title>The Specialist</title>
+  <programme start="20261019200000 +0000" stop="20261019220000 +0000" channel="72">
+    <title>Higher Power</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957897?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958276?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014221500 +0000" channel="73">
     <title>The Frighteners</title>
@@ -63378,10 +63383,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958281?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170000 +0000" stop="20261014191000 +0000" channel="74">
-    <title>Godzilla</title>
+  <programme start="20261019184500 +0000" stop="20261019213000 +0000" channel="73">
+    <title>Apollo 13</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952017?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953758?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014191000 +0000" stop="20261014204800 +0000" channel="74">
     <title>Morbius</title>
@@ -63736,15 +63741,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958953?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="78">
-    <title>CSI S7</title>
+  <programme start="20261019184700 +0000" stop="20261019203700 +0000" channel="74">
+    <title>Men In Black: International</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956712?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="78">
-    <title>Law &amp; Order Special Victims Unit S11</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957143?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957546?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="78">
     <title>Mission Impossible S3</title>
@@ -64469,15 +64469,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956712?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="76">
-    <title>Temptation Island S03</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="78">
+    <title>Law &amp; Order Special Victims Unit S11</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="76">
-    <title>When The Weather Is Fine</title>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="78">
+    <title>Mission Impossible S3</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958485?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956855?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="76">
     <title>Pretty Little Liars S05</title>
@@ -65203,25 +65203,15 @@
     <title>Temptation Island S04</title>
     <desc />
   </programme>
-  <programme start="20261014182000 +0000" stop="20261014184500 +0000" channel="77">
-    <title>Impractical Jokers S5</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="76">
+    <title>When The Weather Is Fine</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956899?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958911?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184500 +0000" stop="20261014191000 +0000" channel="77">
-    <title>Impractical Jokers S5</title>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="76">
+    <title>Pretty Little Liars S05</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956899?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191000 +0000" stop="20261014193500 +0000" channel="77">
-    <title>Storage Hunters S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956889?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193500 +0000" stop="20261014200000 +0000" channel="77">
-    <title>Storage Hunters S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956889?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/946525?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014205000 +0000" channel="77">
     <title>Er S2</title>
@@ -66142,35 +66132,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956899?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014184500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
+  <programme start="20261019184500 +0000" stop="20261019191000 +0000" channel="77">
+    <title>Impractical Jokers S5</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956899?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="70">
-    <title>IND v NZ T20I HLs</title>
+  <programme start="20261019191000 +0000" stop="20261019193500 +0000" channel="77">
+    <title>Storage Hunters S2</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950315?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956889?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="70">
-    <title>ICC Men's ODI WC 2023 hlts. NZ v SA</title>
+  <programme start="20261019193500 +0000" stop="20261019200000 +0000" channel="77">
+    <title>Storage Hunters S2</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954524?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956889?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014194500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
+  <programme start="20261019200000 +0000" stop="20261019205000 +0000" channel="77">
+    <title>Er S2</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949543?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194500 +0000" stop="20261014200000 +0000" channel="70">
-    <title>PL Highlights Hull City v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="70">
-    <title>2013 ICC Champions Trophy - Hlts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950335?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954108?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="70">
     <title>IDFC FIRST Bank 2nd ODI HLTS IND v ENG</title>
@@ -67717,10 +67697,9 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014172400 +0000" stop="20261014195000 +0000" channel="79">
-    <title>Yudh Ek Jung</title>
+  <programme start="20261019184500 +0000" stop="20261019210000 +0000" channel="70">
+    <title>Live PL 2026-27 Tottenham Hotspur v Coventry City</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957555?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014195000 +0000" stop="20261015003000 +0000" channel="79">
     <title>Arjun Reddy</title>
@@ -67966,26 +67945,6 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="80">
-    <title>Swimwear</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952827?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="80">
-    <title>Top Models</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="80">
-    <title>Top Models</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="80">
-    <title>Lingerie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="80">
     <title>Lingerie</title>
@@ -69172,10 +69131,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952827?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173000 +0000" stop="20261014193000 +0000" channel="81">
-    <title>Liv And Maddie</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="80">
+    <title>Top Models</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="80">
+    <title>Top Models</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="80">
+    <title>Lingerie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33649?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014193000 +0000" stop="20261014213000 +0000" channel="81">
     <title>Stuck In The Middle</title>
@@ -69716,25 +69690,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950813?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182200 +0000" stop="20261014183500 +0000" channel="82">
-    <title>73 Questions With Roger Federer Vogue</title>
+  <programme start="20261019193000 +0000" stop="20261019213000 +0000" channel="81">
+    <title>Stuck In The Middle</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957619?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183500 +0000" stop="20261014200000 +0000" channel="82">
-    <title>Hotel Normandy (2013)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955184?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014200700 +0000" channel="82">
-    <title>73 Questions With Margot Robbie Vogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956990?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200700 +0000" stop="20261014202000 +0000" channel="82">
-    <title>73 Questions With Roger Federer Vogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957619?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202000 +0000" stop="20261014214500 +0000" channel="82">
     <title>High Rise Life The Movie (2012)</title>
@@ -70671,20 +70630,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948979?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180600 +0000" stop="20261014184900 +0000" channel="83">
-    <title>World's Most Amazing Walks With Robson Green S1</title>
+  <programme start="20261019192900 +0000" stop="20261019193700 +0000" channel="82">
+    <title>73 Questions With Michael B. Jordan Vogue</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957434?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/801589?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184900 +0000" stop="20261014193500 +0000" channel="83">
-    <title>The Misadventures Of Romesh Ranganathan S2</title>
+  <programme start="20261019193700 +0000" stop="20261019194500 +0000" channel="82">
+    <title>73 Questions With Michael B. Jordan Vogue</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953574?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/801589?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193500 +0000" stop="20261014202000 +0000" channel="83">
-    <title>Wonders Of The Moon With Dara O Briain S1</title>
+  <programme start="20261019194500 +0000" stop="20261019212200 +0000" channel="82">
+    <title>Laugh Wars - The Gigiles Awaken</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957590?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/802528?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202000 +0000" stop="20261014211900 +0000" channel="83">
     <title>Inside The Factory S10</title>
@@ -71451,15 +71410,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957434?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="84">
-    <title>Savdhaan India - India Fights Back</title>
+  <programme start="20261019184400 +0000" stop="20261019194300 +0000" channel="83">
+    <title>The Misadventures Of Romesh Ranganathan S3</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958959?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="84">
-    <title>Savdhaan India - India Fights Back</title>
+  <programme start="20261019194300 +0000" stop="20261019203100 +0000" channel="83">
+    <title>Ganges S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959245?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203100 +0000" stop="20261019213000 +0000" channel="83">
+    <title>Inside The Factory S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950870?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="84">
     <title>Savdhaan India - India Fights Back</title>
@@ -72300,10 +72264,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952780?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181000 +0000" stop="20261014191000 +0000" channel="85">
-    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="84">
+    <title>Savdhaan India - India Fights Back</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="84">
+    <title>Savdhaan India - India Fights Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952055?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014191000 +0000" stop="20261014205000 +0000" channel="85">
     <title>Crime Patrol 2023</title>
@@ -72860,10 +72829,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950832?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170200 +0000" stop="20261014192500 +0000" channel="86">
-    <title>Ramabanam</title>
+  <programme start="20261019191000 +0000" stop="20261019203000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954699?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019205000 +0000" channel="85">
+    <title>Best Of Crime Patrol - Crime Patrol Satark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950272?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014192500 +0000" stop="20261014212800 +0000" channel="86">
     <title>Krishnarjuna Yudham</title>
@@ -73089,11 +73063,6 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014195000 +0000" channel="87">
-    <title>Sultan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958153?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014195000 +0000" stop="20261014221000 +0000" channel="87">
     <title>Fan</title>
@@ -73344,25 +73313,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953152?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="88">
-    <title>Shayad Yahi Hai Pyaar</title>
+  <programme start="20261019190500 +0000" stop="20261019215500 +0000" channel="87">
+    <title>Fanaa</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956292?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="88">
-    <title>Dr. Aarambhi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956343?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="88">
-    <title>Mannat Harr Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958272?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="88">
     <title>Tuu Juliet Jatt Di</title>
@@ -74309,25 +74263,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956292?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="89">
-    <title>Yeh Rishta Kya Kehlata Hai</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="88">
+    <title>Dr. Aarambhi</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956295?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956343?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="89">
-    <title>Yeh Fitoor Tera</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="88">
+    <title>Mannat Harr Khushi Paane Ki</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956902?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959043?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="89">
-    <title>Oh Humnava Tum Dena Saath Mera</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="88">
+    <title>Seher Hone Ko Hai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/757164?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="89">
-    <title>Sayoneee</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="88">
+    <title>Tuu Juliet Jatt Di</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952638?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="89">
     <title>Anupamaa</title>
@@ -75444,10 +75398,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956295?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170000 +0000" stop="20261014200000 +0000" channel="90">
-    <title>Race (2019)</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="89">
+    <title>Yeh Fitoor Tera</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955190?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="89">
+    <title>Oh Humnava Tum Dena Saath Mera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/757164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="89">
+    <title>Sayoneee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="89">
+    <title>Anupamaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952629?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014230000 +0000" channel="90">
     <title>Dildaar</title>
@@ -75649,10 +75618,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958301?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014142500 +0000" stop="20261014183200 +0000" channel="91">
-    <title>Dilwale Dulhania Le Jayenge</title>
+  <programme start="20261019200000 +0000" stop="20261019230000 +0000" channel="90">
+    <title>Marshal (2019)</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958377?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953230?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183200 +0000" stop="20261014204500 +0000" channel="91">
     <title>Ek Tha Tiger</title>
@@ -76063,11 +76032,6 @@
     <title>Saaho</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014200000 +0000" channel="93">
-    <title>Kannitheevu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951622?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014233000 +0000" channel="93">
     <title>Rowdy Inspector</title>
@@ -76539,15 +76503,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958993?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014163000 +0000" stop="20261014193000 +0000" channel="94">
-    <title>Kadal Pookal</title>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="93">
+    <title>Carbon</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="94">
-    <title>Hit List</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958994?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014233000 +0000" channel="94">
     <title>Paravaigal Palavitham</title>
@@ -77044,10 +77003,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958323?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170000 +0000" stop="20261014200000 +0000" channel="95">
-    <title>Marudhani</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="94">
+    <title>Hit List</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957669?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="94">
+    <title>Oru Thalai Raagam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958322?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014223000 +0000" channel="95">
     <title>Aaha Enna Porutham</title>
@@ -77253,26 +77217,6 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="96">
-    <title>Azhagae Azhagu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="96">
-    <title>Kanmani Anbudan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951190?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="96">
-    <title>Thendrale Mella Pesu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951191?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="96">
-    <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748308?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="96">
     <title>Chinna Marumagal Panirendaam Vaguppu</title>
@@ -78049,15 +77993,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014153000 +0000" stop="20261014190000 +0000" channel="97">
-    <title>Uyire</title>
+  <programme start="20261019190000 +0000" stop="20261019203000 +0000" channel="96">
+    <title>TBA</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955905?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955677?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014203000 +0000" channel="97">
-    <title>Inthavaara Kalakalappu</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="96">
+    <title>Chinna Marumagal Panirendaam Vaguppu</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951192?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014230000 +0000" channel="97">
     <title>Uliyin Osai</title>
@@ -78584,25 +78528,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959170?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="98">
-    <title>Vaagai Sooda Vaa</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950510?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="98">
-    <title>Ayali</title>
+  <programme start="20261019203000 +0000" stop="20261019230000 +0000" channel="97">
+    <title>Sonna Puriyathu</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951216?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959171?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="98">
     <title>Free Ticket</title>
@@ -79473,6 +79407,26 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950510?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="98">
+    <title>Ayali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
   <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="99">
     <title>Vidiyum Varai Siringal</title>
     <desc />
@@ -80012,26 +79966,6 @@
     <title>Vidiyum Varai Siringal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951076?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="100">
-    <title>Top 100 News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="100">
     <title>Top 100 News</title>
@@ -81218,15 +81152,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="54">
-    <title>Smashing Simmba S01</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="100">
+    <title>Top 100 News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950632?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="54">
-    <title>Smashing Simmba</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="100">
+    <title>Top 100 News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950632?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="100">
+    <title>Top 100 News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952087?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014204200 +0000" channel="54">
     <title>Smashing Simmba S03</title>
@@ -82372,10 +82316,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950632?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="62">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="54">
+    <title>Smashing Simmba S02</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950633?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019204200 +0000" channel="54">
+    <title>Smashing Simmba S03</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950632?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="62">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
@@ -82666,15 +82615,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014172200 +0000" stop="20261014185800 +0000" channel="109">
-    <title>Naked And Afraid</title>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="62">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185800 +0000" stop="20261014194500 +0000" channel="109">
-    <title>Naked And Afraid: Aadimanav</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014194500 +0000" stop="20261014210500 +0000" channel="109">
     <title>Naked And Afraid</title>
@@ -83444,20 +83388,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945481?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181200 +0000" stop="20261014190000 +0000" channel="108">
-    <title>Bbq Brawl: Flay V. Anderson V. Voltaggio S5</title>
+  <programme start="20261019195100 +0000" stop="20261019205100 +0000" channel="109">
+    <title>Naked And Afraid: Aadimanav</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014195000 +0000" channel="108">
-    <title>The Kitchen S33</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957766?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014195000 +0000" stop="20261014201500 +0000" channel="108">
-    <title>Diners, Drive-Ins, And Dives S41</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956967?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014201500 +0000" stop="20261014204000 +0000" channel="108">
     <title>Diners, Drive-Ins, And Dives S41</title>
@@ -84389,20 +84323,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957066?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181000 +0000" stop="20261014183500 +0000" channel="107">
-    <title>Neighbourhood Watch S1</title>
+  <programme start="20261019190000 +0000" stop="20261019195000 +0000" channel="108">
+    <title>Restaurant: Impossible S14</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944642?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957065?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183500 +0000" stop="20261014190000 +0000" channel="107">
-    <title>Neighbourhood Watch S1</title>
+  <programme start="20261019195000 +0000" stop="20261019210500 +0000" channel="108">
+    <title>Halloween Wars S16</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014195000 +0000" channel="107">
-    <title>Building Roots S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956308?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956966?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014195000 +0000" stop="20261014204000 +0000" channel="107">
     <title>Building Roots S1</title>
@@ -85378,10 +85307,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953850?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014192700 +0000" channel="101">
-    <title>Free Ticket</title>
+  <programme start="20261019190000 +0000" stop="20261019195000 +0000" channel="107">
+    <title>Unsellable Houses S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957072?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195000 +0000" stop="20261019204000 +0000" channel="107">
+    <title>Unsellable Houses S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957072?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014192700 +0000" stop="20261014214100 +0000" channel="101">
     <title>Kathar Basha Endra Muthuramalingam</title>
@@ -85673,15 +85607,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="102">
-    <title>G 12 Bio System Technology</title>
+  <programme start="20261019192800 +0000" stop="20261019214500 +0000" channel="101">
+    <title>Movie</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="102">
-    <title>G 12 Science for Technology</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957031?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958302?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="102">
     <title>G 13 Engineering Technology</title>
@@ -86368,15 +86297,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956639?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="103">
-    <title>G6 Science</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="102">
+    <title>G 12 Accounting</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956951?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957729?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="103">
-    <title>G7 Science</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="102">
+    <title>G 13 Business Studies</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957052?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958125?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="103">
     <title>G8 Science</title>
@@ -87043,15 +86972,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956945?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="104">
-    <title>G 13 Bio System Technology</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="103">
+    <title>G8 Sinhala</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956835?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957051?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="104">
-    <title>G 13 Science for Technology</title>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="103">
+    <title>G9 Sinhala</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956938?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958152?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="104">
     <title>G 12 Engineering Technology</title>
@@ -87673,15 +87602,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957720?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="105">
-    <title>G 10 Dancing</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="104">
+    <title>G 13 Accounting</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957262?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958160?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="105">
-    <title>G 11 Business Studies</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="104">
+    <title>G 12 Business Studies</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958538?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957802?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="105">
     <title>G 11 History</title>
@@ -88310,15 +88239,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957910?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="106">
-    <title>G8 Science</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="105">
+    <title>G 10 Maths</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956676?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956300?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="106">
-    <title>G9 Science</title>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="105">
+    <title>G 11 Science</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957457?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="106">
     <title>G 8 English</title>
@@ -89009,15 +88938,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958311?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181800 +0000" stop="20261014191400 +0000" channel="110">
-    <title>The Kill</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="106">
+    <title>G5 Mathematics</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955296?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958312?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191400 +0000" stop="20261014200700 +0000" channel="110">
-    <title>Deadliest Snakes Of South Africa</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="106">
+    <title>G2 Tamil</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958517?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958305?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="106">
+    <title>G2 Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="106">
+    <title>G3 Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958307?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200700 +0000" stop="20261014210300 +0000" channel="110">
     <title>Big Cat Tales</title>
@@ -89706,15 +89645,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958518?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182000 +0000" stop="20261014191500 +0000" channel="111">
-    <title>Hudson &amp; Rex S8</title>
+  <programme start="20261019184800 +0000" stop="20261019194400 +0000" channel="110">
+    <title>Italy: The Last Wilderness Year 1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956641?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958928?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191500 +0000" stop="20261014201000 +0000" channel="111">
-    <title>S.W.A.T. S7</title>
+  <programme start="20261019194400 +0000" stop="20261019203900 +0000" channel="110">
+    <title>Iberian Vipers</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951437?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958931?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014201000 +0000" stop="20261014210500 +0000" channel="111">
     <title>The Amazing Race S35</title>
@@ -90371,20 +90310,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956641?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173000 +0000" stop="20261014183500 +0000" channel="112">
-    <title>DOC - In Your Hands S2</title>
+  <programme start="20261019191500 +0000" stop="20261019201000 +0000" channel="111">
+    <title>S.W.A.T. S7</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956368?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951437?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183500 +0000" stop="20261014193500 +0000" channel="112">
-    <title>DOC - In Your Hands S2</title>
+  <programme start="20261019201000 +0000" stop="20261019210500 +0000" channel="111">
+    <title>The Amazing Race S35</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956368?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193500 +0000" stop="20261014202500 +0000" channel="112">
-    <title>NCIS: Tony &amp; Ziva</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953283?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951434?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202500 +0000" stop="20261014211500 +0000" channel="112">
     <title>NCIS: Tony &amp; Ziva</title>
@@ -91177,15 +91111,20 @@
     <title>Law &amp; Order: Special Victims Unit S28</title>
     <desc />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="113">
-    <title>Shark Tank S16</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="112">
+    <title>Cobra Kai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812727?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956364?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="113">
-    <title>Matlock S1 - Tricks of the Trade - Part 2</title>
+  <programme start="20261019193000 +0000" stop="20261019200500 +0000" channel="112">
+    <title>Cobra Kai</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956640?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956364?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200500 +0000" stop="20261019204500 +0000" channel="112">
+    <title>Cobra Kai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956364?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="113">
     <title>Sheriff Country S2 - Cyclone</title>
@@ -91801,10 +91740,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957008?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014164500 +0000" stop="20261014190000 +0000" channel="114">
-    <title>The Conjuring: Last Rites</title>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="113">
+    <title>MasterChef S16: Global Gauntlet - Finale Part 2</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955203?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818383?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014205500 +0000" channel="114">
     <title>Save The Last Dance</title>
@@ -92150,10 +92089,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956077?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173200 +0000" stop="20261014193300 +0000" channel="115">
-    <title>TRON: Legacy</title>
+  <programme start="20261019190500 +0000" stop="20261019203500 +0000" channel="114">
+    <title>The Astronaut</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958506?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944149?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014193300 +0000" stop="20261014213000 +0000" channel="115">
     <title>Seven Swords</title>
@@ -92409,16 +92348,6 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014185000 +0000" channel="116">
-    <title>Not My Type</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185000 +0000" stop="20261014202500 +0000" channel="116">
-    <title>Coureur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955211?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202500 +0000" stop="20261014220000 +0000" channel="116">
     <title>Death Comes to Venice</title>
@@ -92761,10 +92690,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958325?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014174000 +0000" stop="20261014192500 +0000" channel="117">
-    <title>Blade: Trinity</title>
+  <programme start="20261019184500 +0000" stop="20261019204000 +0000" channel="116">
+    <title>Our River...Our Sky</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955218?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958326?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014192500 +0000" stop="20261014205500 +0000" channel="117">
     <title>Dangerous Game: The Legacy Murders</title>
@@ -93108,10 +93037,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958336?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180500 +0000" stop="20261014202000 +0000" channel="118">
-    <title>Shutter Island</title>
+  <programme start="20261019193500 +0000" stop="20261019200500 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953809?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200500 +0000" stop="20261019220000 +0000" channel="117">
+    <title>What Men Want</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202000 +0000" stop="20261014225000 +0000" channel="118">
     <title>Transformers: Revenge Of The Fallen</title>
@@ -93426,15 +93360,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958188?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170800 +0000" stop="20261014184100 +0000" channel="119">
-    <title>The Overnight</title>
+  <programme start="20261019184000 +0000" stop="20261019191000 +0000" channel="118">
+    <title>Hollywood On Set S1</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958512?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184100 +0000" stop="20261014195300 +0000" channel="119">
-    <title>Mutant Python</title>
+  <programme start="20261019191000 +0000" stop="20261019213000 +0000" channel="118">
+    <title>Fantastic Beasts: The Secrets Of Dumbledore</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958513?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950949?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014195300 +0000" stop="20261014210900 +0000" channel="119">
     <title>Mojin The Dragon Labyrinth</title>
@@ -93744,26 +93678,6 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="120">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="120">
-    <title>ICC Men's T20I World Cup Hlts AFG v IND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="120">
-    <title>ICC CWC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="120">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="120">
     <title>2013 ICC Champions Trophy - Hlts</title>
@@ -95176,20 +95090,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950334?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014173000 +0000" stop="20261014193000 +0000" channel="121">
-    <title>PL 2026-27 Liverpool v Man City</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="120">
+    <title>ICC Champions Trophy 2025 HLTS IND v AUS</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958519?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950331?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="121">
-    <title>Muthoot Fincorp 2nd T20I HLs IND v WI</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="120">
+    <title>ICC CWC Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="121">
-    <title>PL Netbusters</title>
+  <programme start="20261019200000 +0000" stop="20261019201500 +0000" channel="120">
+    <title>ICC Men's T20 WC HLs IND v WI</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951410?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019203000 +0000" channel="120">
+    <title>South Africa vs India T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942901?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="120">
+    <title>ICC CT 2017 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950316?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014223000 +0000" channel="121">
     <title>PL 2026-27 Coventry City v Hull City</title>
@@ -96437,10 +96361,9 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="122">
-    <title>PL 2026-27 Nottm Forest v Tottenham Hotspur</title>
+  <programme start="20261019185000 +0000" stop="20261019210000 +0000" channel="121">
+    <title>Live PL 2026-27 Tottenham Hotspur v Coventry City</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957849?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="122">
     <title>CHAMPIONS TROPHY 2002 Hlts ENG v IND</title>
@@ -97691,15 +97614,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959026?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="123">
-    <title>Live UEFA Champions League 2026/27 LASK vs Liverpool</title>
+  <programme start="20261019203000 +0000" stop="20261019204500 +0000" channel="122">
+    <title>PL Highlights Liverpool v Man City</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="123">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="123">
     <title>Live UEFA Champions League 2026/27 Roma vs Real Madrid</title>
@@ -98222,10 +98140,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955803?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="124">
-    <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
+  <programme start="20261019193000 +0000" stop="20261019223000 +0000" channel="123">
+    <title>NOCHE UFC - Rodriguez vs Silva</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954071?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="124">
     <title>Live UEFA Champions League 2026/27 Bodo/Glimt vs B. Dortmund</title>
@@ -98780,10 +98698,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956050?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181000 +0000" stop="20261014200000 +0000" channel="125">
-    <title>Top 14 Toulouse v Bayonne</title>
+  <programme start="20261019190000 +0000" stop="20261019210000 +0000" channel="124">
+    <title>Sri Lanka v India - Compaq Cup Final (2009)</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957162?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957003?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="125">
     <title>URC in 60 Round 3</title>
@@ -99193,10 +99111,15 @@
     <title>Champions Cup Pau v Leicester</title>
     <desc />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="126">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+  <programme start="20261019184000 +0000" stop="20261019203000 +0000" channel="125">
+    <title>Champions Cup Toulouse v Exeter</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019204500 +0000" channel="125">
+    <title>AFLW Highlights Melbourne v Richmond</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958342?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="126">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
@@ -99451,10 +99374,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="127">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="126">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="127">
     <title>Repeat - ICC Men's T20 World Cup 2026</title>
@@ -99723,20 +99646,10 @@
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="137">
-    <title>Across The Balkans</title>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="127">
+    <title>Repeat - ICC Men's T20 World Cup 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="137">
-    <title>Newshour - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="137">
     <title>Beyond The Game</title>
@@ -100903,25 +100816,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953201?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="134">
-    <title>The 77 Percent - The Magazine For Africa's Youth</title>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="137">
+    <title>Newshour - London</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761456?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="134">
-    <title>DW News</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="137">
+    <title>News - London</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="134">
-    <title>The Day - News in Review</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="137">
+    <title>Markets Of The World</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014200300 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953323?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200300 +0000" stop="20261014210000 +0000" channel="134">
     <title>DocFilm - Drugged and Abused - Demanding Justice for Sexual Assault Survivors</title>
@@ -102778,20 +102686,30 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/885915?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014181500 +0000" stop="20261014184500 +0000" channel="135">
-    <title>TG1 Ore 20.00</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="134">
+    <title>DW News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184500 +0000" stop="20261014194500 +0000" channel="135">
-    <title>Elisir 2025/26 59a Puntata Sottotitolata</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="134">
+    <title>The Day - News in Review</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956684?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956374?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014194500 +0000" stop="20261014201500 +0000" channel="135">
-    <title>Fiction 1atv: Nathan K 1a Puntata</title>
+  <programme start="20261019200000 +0000" stop="20261019200200 +0000" channel="134">
+    <title>DW News</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956682?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200200 +0000" stop="20261019201500 +0000" channel="134">
+    <title>DW News Focus - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019210000 +0000" channel="134">
+    <title>DocFilm - Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014201500 +0000" stop="20261014210000 +0000" channel="135">
     <title>Geo 2026 14a Puntata Sottotitolata</title>
@@ -103483,35 +103401,20 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="139">
-    <title>Phoenix Financial Daily Report</title>
+  <programme start="20261019184500 +0000" stop="20261019194500 +0000" channel="135">
+    <title>Elisir 2025/26 57a Puntata Sottotitolata</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956684?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014192700 +0000" channel="139">
-    <title>News on the Hour</title>
+  <programme start="20261019194500 +0000" stop="20261019201500 +0000" channel="135">
+    <title>L'Appartamento Sold Out 7a Puntata</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014192700 +0000" stop="20261014193000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
+  <programme start="20261019201500 +0000" stop="20261019210000 +0000" channel="135">
+    <title>Geo 2026 12a Puntata Sottotitolata</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="139">
-    <title>Chief Editor's Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014202700 +0000" channel="139">
-    <title>News on the Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014202700 +0000" stop="20261014203000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958356?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014205700 +0000" channel="139">
     <title>News on the Hour</title>
@@ -105083,30 +104986,35 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014170100 +0000" stop="20261014183300 +0000" channel="136">
-    <title>Le Crime Lui Va Si Bien</title>
+  <programme start="20261019190000 +0000" stop="20261019192700 +0000" channel="139">
+    <title>News on the Hour</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952984?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183300 +0000" stop="20261014190000 +0000" channel="136">
-    <title>Tendance Xxi</title>
+  <programme start="20261019192700 +0000" stop="20261019193000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953345?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014192600 +0000" channel="136">
-    <title>64' Actu</title>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="139">
+    <title>Chief Editor's Time</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956651?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014192600 +0000" stop="20261014195000 +0000" channel="136">
-    <title>64' Debat</title>
+  <programme start="20261019200000 +0000" stop="20261019202700 +0000" channel="139">
+    <title>News on the Hour</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014195000 +0000" stop="20261014200000 +0000" channel="136">
-    <title>L'Invite</title>
+  <programme start="20261019202700 +0000" stop="20261019203000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952717?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019205700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="136">
     <title>Temps Present</title>
@@ -106308,20 +106216,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953344?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014182400 +0000" stop="20261014184700 +0000" channel="138">
-    <title>Parineetii</title>
+  <programme start="20261019190000 +0000" stop="20261019192600 +0000" channel="136">
+    <title>64' Actu</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014184700 +0000" stop="20261014191100 +0000" channel="138">
-    <title>Parineetii</title>
+  <programme start="20261019192600 +0000" stop="20261019195000 +0000" channel="136">
+    <title>64' Debat</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014191100 +0000" stop="20261014193200 +0000" channel="138">
-    <title>Parineetii</title>
+  <programme start="20261019195000 +0000" stop="20261019200000 +0000" channel="136">
+    <title>L'Invite</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="136">
+    <title>Au Bout De L'Enquete, La Fin Du Crime Parfait ?</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953341?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014193200 +0000" stop="20261014203800 +0000" channel="138">
     <title>Meri Aashuiqi Tumse Hi</title>
@@ -107158,10 +107071,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951992?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="141">
-    <title>Sri Lanka vs England 2018 3rd Test Highlights</title>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="138">
+    <title>Parineetii</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019230000 +0000" channel="138">
+    <title>Divya Sanskaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950923?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="141">
     <title>New Zealand vs West Indies 2025 3rd T20i Highlights</title>
@@ -107738,25 +107656,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014180600 +0000" stop="20261014183200 +0000" channel="131">
-    <title>All Girls Garage</title>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="141">
+    <title>New Zealand vs England 2025 3rd ODI Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183200 +0000" stop="20261014185400 +0000" channel="131">
-    <title>All Girls Garage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185400 +0000" stop="20261014192500 +0000" channel="131">
-    <title>Car Fix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014192500 +0000" stop="20261014202000 +0000" channel="131">
-    <title>Faster With Finnegan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955924?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943433?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014202000 +0000" stop="20261014211500 +0000" channel="131">
     <title>Salvage Hunters: Classic Cars</title>
@@ -108563,10 +108466,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="128">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+  <programme start="20261019193000 +0000" stop="20261019202000 +0000" channel="131">
+    <title>Bitchin' Rides: Road to the Ridler</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202000 +0000" stop="20261019211500 +0000" channel="131">
+    <title>Salvage Hunters: Classic Cars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="128">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
@@ -108879,15 +108787,10 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014164500 +0000" stop="20261014184500 +0000" channel="140">
-    <title>Live UEFA Champions League 2026/27 Feyenoord vs Como</title>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="128">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958370?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="140">
-    <title>Snippet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950139?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="140">
     <title>Live UEFA Champions League 2026/27 Man City vs Paris</title>
@@ -109647,25 +109550,15 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="130">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="140">
+    <title>New Zealand Vs India 2020 5th T20 Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="130">
-    <title>ICC Men's ODI WC 2023 hlts. IND v SA</title>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="140">
+    <title>ACC Men's Asia Cup U19 2025: India vs UAE Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955337?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="130">
-    <title>ICC CWC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="130">
-    <title>Australia v India T20 Series 2020 HLTS AUS v IND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950332?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954112?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="130">
     <title>CHAMPIONS TROPHY 2006 Hlts IND v ENG</title>
@@ -110975,10 +110868,25 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949508?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261014163000 +0000" stop="20261014183500 +0000" channel="133">
-    <title>Cape Fear</title>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="130">
+    <title>ICC CWC Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957123?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="130">
+    <title>ICC CWC Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="130">
+    <title>IDFC FIRST Bank IND v AFG 3rd T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="130">
+    <title>ICC WT20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950318?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261014183500 +0000" stop="20261014205500 +0000" channel="133">
     <title>Mulholland Dr</title>
@@ -111295,5 +111203,10 @@
     <title>Universal Soldier</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019220500 +0000" channel="133">
+    <title>Cape Fear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957123?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

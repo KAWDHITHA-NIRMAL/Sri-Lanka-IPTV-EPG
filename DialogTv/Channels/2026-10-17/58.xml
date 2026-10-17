@@ -3,16 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="58">
-    <title>Say Yes To The Dress</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="58">
-    <title>Harry Potter: Wizards of Baking</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="58">
     <title>Restaurant: Impossible</title>
     <desc />
@@ -692,5 +682,15 @@
     <title>Say Yes To The Dress</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="58">
+    <title>Say Yes To The Dress</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019213000 +0000" channel="58">
+    <title>Halloween Baking Championship</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958468?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

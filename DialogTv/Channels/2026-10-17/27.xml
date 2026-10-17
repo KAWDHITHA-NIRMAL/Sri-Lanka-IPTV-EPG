@@ -3,16 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="27">
-    <title>Sathyakriyawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="27">
-    <title>Bhawanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952855?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014193000 +0000" stop="20261014233000 +0000" channel="27">
     <title>Dharma Sermons</title>
     <desc />
@@ -617,5 +607,15 @@
     <title>Sathyakriyawa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="27">
+    <title>Bhawanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952855?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019233000 +0000" channel="27">
+    <title>Dharma Sermons</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952786?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

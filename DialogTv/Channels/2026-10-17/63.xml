@@ -3,11 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="63">
-    <title>Highlights - NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261015003000 +0000" channel="63">
     <title>Repeat - ICC Men's T20 World Cup 2026</title>
     <desc />
@@ -274,5 +269,10 @@
   <programme start="20261019183000 +0000" stop="20261019203000 +0000" channel="63">
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261020003000 +0000" channel="63">
+    <title>Repeat - ICC Men's T20 World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

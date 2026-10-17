@@ -3,21 +3,6 @@
   <channel id="138">
     <display-name>Channel 1837</display-name>
   </channel>
-  <programme start="20261014182400 +0000" stop="20261014184700 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184700 +0000" stop="20261014191100 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191100 +0000" stop="20261014193200 +0000" channel="138">
-    <title>Parineetii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014193200 +0000" stop="20261014203800 +0000" channel="138">
     <title>Meri Aashuiqi Tumse Hi</title>
     <desc />
@@ -852,5 +837,15 @@
     <title>Meri Aashuiqi Tumse Hi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951992?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="138">
+    <title>Parineetii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019230000 +0000" channel="138">
+    <title>Divya Sanskaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950923?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

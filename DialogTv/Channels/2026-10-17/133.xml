@@ -3,11 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261014163000 +0000" stop="20261014183500 +0000" channel="133">
-    <title>Cape Fear</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014183500 +0000" stop="20261014205500 +0000" channel="133">
     <title>Mulholland Dr</title>
     <desc />
@@ -323,5 +318,10 @@
     <title>Universal Soldier</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019220500 +0000" channel="133">
+    <title>Cape Fear</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957123?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="1">
-    <title>Channel One Highway</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="1">
-    <title>Me Wasantha Kalayai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="1">
-    <title>Api Api Wage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957035?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="1">
     <title>Suwa Arana</title>
     <desc />
@@ -652,5 +637,20 @@
     <title>Channel One Highway</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="1">
+    <title>Me Wasantha Kalayai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="1">
+    <title>Api Api Wage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957035?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="1">
+    <title>Mathaka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954880?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

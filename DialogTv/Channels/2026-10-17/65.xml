@@ -3,11 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014203000 +0000" channel="65">
-    <title>Sri Lanka vs England 2018 3rd Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="65">
     <title>New Zealand vs West Indies 2025 3rd T20i Highlights</title>
     <desc />
@@ -582,5 +577,10 @@
     <title>Sri Lanka vs England 2018 1st Test Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="65">
+    <title>New Zealand vs England 2025 3rd ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943433?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

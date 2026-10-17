@@ -3,26 +3,6 @@
   <channel id="35">
     <display-name>Channel 41</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="35">
-    <title>Mic ON Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950178?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="35">
-    <title>Sponsored Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="35">
-    <title>Sponsored Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="35">
-    <title>News NDTV India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950180?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="35">
     <title>Sawaal India Ka</title>
     <desc />
@@ -1195,5 +1175,25 @@
     <title>Mic ON Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950178?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="35">
+    <title>Sponsored Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="35">
+    <title>Sponsored Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950179?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="35">
+    <title>News NDTV India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950180?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="35">
+    <title>Sawaal India Ka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950181?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

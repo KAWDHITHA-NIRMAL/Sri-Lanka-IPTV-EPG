@@ -3,26 +3,6 @@
   <channel id="89">
     <display-name>Channel 96</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="89">
-    <title>Yeh Rishta Kya Kehlata Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="89">
-    <title>Yeh Fitoor Tera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956902?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="89">
-    <title>Oh Humnava Tum Dena Saath Mera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/757164?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="89">
-    <title>Sayoneee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="89">
     <title>Anupamaa</title>
     <desc />
@@ -1137,5 +1117,25 @@
     <title>Yeh Rishta Kya Kehlata Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="89">
+    <title>Yeh Fitoor Tera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="89">
+    <title>Oh Humnava Tum Dena Saath Mera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/757164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="89">
+    <title>Sayoneee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952632?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="89">
+    <title>Anupamaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952629?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

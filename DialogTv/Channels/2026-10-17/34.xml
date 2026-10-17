@@ -3,16 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="34">
-    <title>Isa Soares Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="34">
-    <title>What We Know With Max Foster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200000 +0000" stop="20261014213000 +0000" channel="34">
     <title>Quest Means Business</title>
     <desc />
@@ -562,5 +552,15 @@
     <title>Isa Soares Tonight</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="34">
+    <title>What We Know With Max Foster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019213000 +0000" channel="34">
+    <title>Quest Means Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

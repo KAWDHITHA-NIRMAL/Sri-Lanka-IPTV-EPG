@@ -3,16 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="14">
-    <title>Get Real</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957994?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014203000 +0000" channel="14">
-    <title>Wadapitiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957995?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="14">
     <title>Around The Ground</title>
     <desc />
@@ -967,5 +957,15 @@
     <title>Nature-Englis</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958226?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019203000 +0000" channel="14">
+    <title>Jeewitha Sawara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/160347?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="14">
+    <title>Around The Ground</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

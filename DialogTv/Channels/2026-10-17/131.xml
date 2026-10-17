@@ -3,26 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20261014180600 +0000" stop="20261014183200 +0000" channel="131">
-    <title>All Girls Garage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014183200 +0000" stop="20261014185400 +0000" channel="131">
-    <title>All Girls Garage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185400 +0000" stop="20261014192500 +0000" channel="131">
-    <title>Car Fix</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/911702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014192500 +0000" stop="20261014202000 +0000" channel="131">
-    <title>Faster With Finnegan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955924?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014202000 +0000" stop="20261014211500 +0000" channel="131">
     <title>Salvage Hunters: Classic Cars</title>
     <desc />
@@ -827,5 +807,15 @@
     <title>All Girls Garage</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019202000 +0000" channel="131">
+    <title>Bitchin' Rides: Road to the Ridler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202000 +0000" stop="20261019211500 +0000" channel="131">
+    <title>Salvage Hunters: Classic Cars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

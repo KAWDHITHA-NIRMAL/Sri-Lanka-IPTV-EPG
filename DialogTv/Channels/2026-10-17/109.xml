@@ -3,16 +3,6 @@
   <channel id="109">
     <display-name>Channel 8</display-name>
   </channel>
-  <programme start="20261014172200 +0000" stop="20261014185800 +0000" channel="109">
-    <title>Naked And Afraid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185800 +0000" stop="20261014194500 +0000" channel="109">
-    <title>Naked And Afraid: Aadimanav</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014194500 +0000" stop="20261014210500 +0000" channel="109">
     <title>Naked And Afraid</title>
     <desc />
@@ -780,5 +770,10 @@
     <title>Naked and Afraid: Global Showdown</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/945481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019195100 +0000" stop="20261019205100 +0000" channel="109">
+    <title>Naked And Afraid: Aadimanav</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958480?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

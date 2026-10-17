@@ -3,16 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261014182700 +0000" stop="20261014191700 +0000" channel="60">
-    <title>Cheetah Price Of Speed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191700 +0000" stop="20261014200500 +0000" channel="60">
-    <title>Queens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200500 +0000" stop="20261014204800 +0000" channel="60">
     <title>The Real Black Panther</title>
     <desc />
@@ -732,5 +722,15 @@
     <title>Killer Safari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="60">
+    <title>Leopard &amp; Hyena: Strange Alliance</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957507?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="60">
+    <title>Savage Kingdom Compilations</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956200?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

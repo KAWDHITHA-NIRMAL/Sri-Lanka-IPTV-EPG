@@ -3,11 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261014180000 +0000" stop="20261014190000 +0000" channel="124">
-    <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="124">
     <title>Live UEFA Champions League 2026/27 Bodo/Glimt vs B. Dortmund</title>
     <desc />
@@ -560,5 +555,10 @@
     <title>UCL 2026-27 : League Phase MD 1 - MN Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019210000 +0000" channel="124">
+    <title>Sri Lanka v India - Compaq Cup Final (2009)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957003?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

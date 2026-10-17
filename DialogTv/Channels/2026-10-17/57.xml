@@ -3,16 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="57">
-    <title>Haunted Towns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="57">
-    <title>The Face Doctors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957515?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="57">
     <title>Food Factory</title>
     <desc />
@@ -702,5 +692,15 @@
     <title>Haunted Towns</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="57">
+    <title>You Have Been Warned</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="57">
+    <title>Food Factory</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949979?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="113">
-    <title>Shark Tank S16</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/812727?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="113">
-    <title>Matlock S1 - Tricks of the Trade - Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956640?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="113">
     <title>Sheriff Country S2 - Cyclone</title>
     <desc />
@@ -626,5 +616,10 @@
     <title>Survivor S51</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="113">
+    <title>MasterChef S16: Global Gauntlet - Finale Part 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/818383?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

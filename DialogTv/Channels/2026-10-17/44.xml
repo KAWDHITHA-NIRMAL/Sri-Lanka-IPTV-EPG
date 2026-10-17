@@ -3,26 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20261014163000 +0000" stop="20261014185500 +0000" channel="44">
-    <title>Fear Files</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185500 +0000" stop="20261014191800 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191800 +0000" stop="20261014193000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="44">
-    <title>Yolo Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="44">
     <title>Yolo Hits</title>
     <desc />
@@ -537,5 +517,15 @@
     <title>Fear Files</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019185500 +0000" stop="20261019203000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019223000 +0000" channel="44">
+    <title>Yolo Hits</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

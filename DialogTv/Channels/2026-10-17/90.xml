@@ -3,11 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261014170000 +0000" stop="20261014200000 +0000" channel="90">
-    <title>Race (2019)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955190?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200000 +0000" stop="20261014230000 +0000" channel="90">
     <title>Dildaar</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>100 Days Of Love</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958301?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019230000 +0000" channel="90">
+    <title>Marshal (2019)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953230?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

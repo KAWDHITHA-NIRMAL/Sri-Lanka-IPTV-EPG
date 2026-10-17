@@ -3,11 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261014170000 +0000" stop="20261014191000 +0000" channel="74">
-    <title>Godzilla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014191000 +0000" stop="20261014204800 +0000" channel="74">
     <title>Morbius</title>
     <desc />
@@ -360,5 +355,10 @@
     <title>Hotel Transylvania</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184700 +0000" stop="20261019203700 +0000" channel="74">
+    <title>Men In Black: International</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957546?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

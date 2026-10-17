@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261014173000 +0000" stop="20261014203000 +0000" channel="19">
-    <title>Nethu Piyana Thuru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957998?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014233000 +0000" channel="19">
     <title>Angana</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Tharu Piri Ahasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="19">
+    <title>Dhawala Kadulla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

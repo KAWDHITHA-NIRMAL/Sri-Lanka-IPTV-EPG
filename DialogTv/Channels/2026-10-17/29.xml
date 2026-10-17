@@ -3,21 +3,6 @@
   <channel id="29">
     <display-name>Channel 35</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="29">
-    <title>Eucharistic Adoration</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957383?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="29">
-    <title>Samindun Pasasamu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="29">
-    <title>Pesum Padal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949857?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="29">
     <title>Yadum Hamuwa</title>
     <desc />
@@ -869,5 +854,20 @@
     <title>Eucharistic Adoration</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958902?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="29">
+    <title>Samindun Pasasamu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="29">
+    <title>Paadi Thuthipom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958233?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="29">
+    <title>U Turen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958234?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

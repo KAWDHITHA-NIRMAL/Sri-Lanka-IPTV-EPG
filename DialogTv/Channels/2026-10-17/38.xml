@@ -3,11 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="38">
-    <title>Bloomberg Markets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014190000 +0000" stop="20261014213000 +0000" channel="38">
     <title>Bloomberg Markets: The Close</title>
     <desc />
@@ -732,5 +727,10 @@
     <title>Bloomberg Markets</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956621?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019213000 +0000" channel="38">
+    <title>Bloomberg Markets: The Close</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957278?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

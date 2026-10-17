@@ -3,21 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261014180700 +0000" stop="20261014184900 +0000" channel="59">
-    <title>Airport Security Brazil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/874932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184900 +0000" stop="20261014193300 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193300 +0000" stop="20261014201600 +0000" channel="59">
-    <title>Trafficked With Mariana Van Zeller</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014201600 +0000" stop="20261014210000 +0000" channel="59">
     <title>Trafficked: Underworlds With Mariana Van Zeller</title>
     <desc />
@@ -890,5 +875,20 @@
     <title>Airport Security Madrid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="59">
+    <title>Trafficked: Underworlds With Mariana Van Zeller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

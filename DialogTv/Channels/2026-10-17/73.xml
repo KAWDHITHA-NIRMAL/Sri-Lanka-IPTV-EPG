@@ -3,11 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261014174500 +0000" stop="20261014200000 +0000" channel="73">
-    <title>The Specialist</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200000 +0000" stop="20261014221500 +0000" channel="73">
     <title>The Frighteners</title>
     <desc />
@@ -248,5 +243,10 @@
     <title>Sweet Charity</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958281?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184500 +0000" stop="20261019213000 +0000" channel="73">
+    <title>Apollo 13</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953758?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

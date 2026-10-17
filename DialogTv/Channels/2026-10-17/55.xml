@@ -3,16 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261014181800 +0000" stop="20261014191400 +0000" channel="55">
-    <title>The Kill</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955296?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014191400 +0000" stop="20261014200700 +0000" channel="55">
-    <title>Deadliest Snakes Of South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958366?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200700 +0000" stop="20261014210300 +0000" channel="55">
     <title>Big Cat Tales</title>
     <desc />
@@ -701,5 +691,15 @@
     <title>Big Cats Small World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184800 +0000" stop="20261019194400 +0000" channel="55">
+    <title>Italy: The Last Wilderness Year 1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019194400 +0000" stop="20261019203900 +0000" channel="55">
+    <title>Iberian Vipers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958931?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

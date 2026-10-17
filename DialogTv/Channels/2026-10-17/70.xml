@@ -3,36 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014184500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014184500 +0000" stop="20261014190000 +0000" channel="70">
-    <title>IND v NZ T20I HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950315?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="70">
-    <title>ICC Men's ODI WC 2023 hlts. NZ v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954524?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014194500 +0000" channel="70">
-    <title>IDFC FIRST Bank IND v BAN T20I HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949543?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014194500 +0000" stop="20261014200000 +0000" channel="70">
-    <title>PL Highlights Hull City v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950979?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014203000 +0000" channel="70">
-    <title>2013 ICC Champions Trophy - Hlts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014210000 +0000" channel="70">
     <title>IDFC FIRST Bank 2nd ODI HLTS IND v ENG</title>
     <desc />
@@ -1577,5 +1547,9 @@
     <title>ICC Men's T20 WC HLs IND v WI</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184500 +0000" stop="20261019210000 +0000" channel="70">
+    <title>Live PL 2026-27 Tottenham Hotspur v Coventry City</title>
+    <desc />
   </programme>
 </tv>

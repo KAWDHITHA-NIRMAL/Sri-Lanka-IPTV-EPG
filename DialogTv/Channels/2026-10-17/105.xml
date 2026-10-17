@@ -3,16 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="105">
-    <title>G 10 Dancing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957262?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="105">
-    <title>G 11 Business Studies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958538?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="105">
     <title>G 11 History</title>
     <desc />
@@ -639,5 +629,15 @@
     <title>G 10 Science</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957910?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019200000 +0000" channel="105">
+    <title>G 10 Maths</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956300?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019210000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261014163000 +0000" stop="20261014193000 +0000" channel="94">
-    <title>Kadal Pookal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="94">
-    <title>Hit List</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014233000 +0000" channel="94">
     <title>Paravaigal Palavitham</title>
     <desc />
@@ -507,5 +497,15 @@
     <title>Gandhi Pirantha Mann</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958323?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019233000 +0000" channel="94">
+    <title>Oru Thalai Raagam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958322?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

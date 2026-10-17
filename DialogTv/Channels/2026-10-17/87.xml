@@ -3,11 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261014170000 +0000" stop="20261014195000 +0000" channel="87">
-    <title>Sultan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958153?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014195000 +0000" stop="20261014221000 +0000" channel="87">
     <title>Fan</title>
     <desc />
@@ -256,5 +251,10 @@
     <title>Neerja</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953152?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190500 +0000" stop="20261019215500 +0000" channel="87">
+    <title>Fanaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958272?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

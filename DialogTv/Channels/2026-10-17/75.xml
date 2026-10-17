@@ -3,16 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261014175500 +0000" stop="20261014193500 +0000" channel="75">
-    <title>Prime Minister</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193500 +0000" stop="20261014203000 +0000" channel="75">
-    <title>The Gilded Age S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014221000 +0000" channel="75">
     <title>Friendship</title>
     <desc />
@@ -441,5 +431,10 @@
   <programme start="20261019175000 +0000" stop="20261019195500 +0000" channel="75">
     <title>The Bride!</title>
     <desc />
+  </programme>
+  <programme start="20261019195500 +0000" stop="20261019210000 +0000" channel="75">
+    <title>The Gilded Age S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956728?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

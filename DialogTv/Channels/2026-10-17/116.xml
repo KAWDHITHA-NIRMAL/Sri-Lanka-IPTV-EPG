@@ -3,16 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261014170000 +0000" stop="20261014185000 +0000" channel="116">
-    <title>Not My Type</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014185000 +0000" stop="20261014202500 +0000" channel="116">
-    <title>Coureur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014202500 +0000" stop="20261014220000 +0000" channel="116">
     <title>Death Comes to Venice</title>
     <desc />
@@ -353,5 +343,10 @@
     <title>180 Degree Rule</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958325?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019184500 +0000" stop="20261019204000 +0000" channel="116">
+    <title>Our River...Our Sky</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958326?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

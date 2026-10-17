@@ -3,16 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014193000 +0000" channel="26">
-    <title>Saddharmapprabha- Ven.Balangoda Radha Thero</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953406?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014203000 +0000" channel="26">
-    <title>Kandy Daayaka Bana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014213000 +0000" channel="26">
     <title>Colombo Daayaka Bana</title>
     <desc />
@@ -673,5 +663,15 @@
     <title>Dhammanupassana - By Ven.Thalalle Chandakiththi Thero &amp; Mirahawatte Pngasiri Thero</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952993?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="26">
+    <title>Kandy Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="26">
+    <title>Colombo Daayaka Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/52148?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

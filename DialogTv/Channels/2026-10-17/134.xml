@@ -3,26 +3,6 @@
   <channel id="134">
     <display-name>Channel 1833</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="134">
-    <title>The 77 Percent - The Magazine For Africa's Youth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/761456?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="134">
-    <title>The Day - News in Review</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014200300 +0000" channel="134">
-    <title>DW News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014200300 +0000" stop="20261014210000 +0000" channel="134">
     <title>DocFilm - Drugged and Abused - Demanding Justice for Sexual Assault Survivors</title>
     <desc />
@@ -1877,5 +1857,30 @@
     <title>Best Of DW Podcasts - Best Of DW Podcasts</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/885915?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="134">
+    <title>The Day - News in Review</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019200200 +0000" channel="134">
+    <title>DW News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200200 +0000" stop="20261019201500 +0000" channel="134">
+    <title>DW News Focus - News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019201500 +0000" stop="20261019210000 +0000" channel="134">
+    <title>DocFilm - Voyage Around a Volcano - A Train Trip to Italy's Mount Etna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

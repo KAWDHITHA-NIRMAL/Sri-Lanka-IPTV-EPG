@@ -3,16 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20261014153000 +0000" stop="20261014190000 +0000" channel="97">
-    <title>Uyire</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014203000 +0000" channel="97">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014230000 +0000" channel="97">
     <title>Uliyin Osai</title>
     <desc />
@@ -537,5 +527,15 @@
     <title>Miss You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019230000 +0000" channel="97">
+    <title>Sonna Puriyathu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959171?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

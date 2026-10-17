@@ -3,36 +3,6 @@
   <channel id="139">
     <display-name>Channel 1835</display-name>
   </channel>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="139">
-    <title>Phoenix Financial Daily Report</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014192700 +0000" channel="139">
-    <title>News on the Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014192700 +0000" stop="20261014193000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="139">
-    <title>Chief Editor's Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956651?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014202700 +0000" channel="139">
-    <title>News on the Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261014202700 +0000" stop="20261014203000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261014203000 +0000" stop="20261014205700 +0000" channel="139">
     <title>News on the Hour</title>
     <desc />
@@ -1602,5 +1572,35 @@
     <title>Phoenix Financial Daily Report</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019192700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019192700 +0000" stop="20261019193000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="139">
+    <title>Chief Editor's Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019200000 +0000" stop="20261019202700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019202700 +0000" stop="20261019203000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261019203000 +0000" stop="20261019205700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
