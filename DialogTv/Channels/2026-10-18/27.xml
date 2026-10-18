@@ -3,11 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="27">
     <title>Sathyakriyawa</title>
     <desc />
@@ -617,5 +612,10 @@
     <title>Pirith Chanting</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

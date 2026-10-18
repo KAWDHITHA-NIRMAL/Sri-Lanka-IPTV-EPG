@@ -3,16 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261015164300 +0000" stop="20261015173100 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015173100 +0000" stop="20261015181900 +0000" channel="59">
-    <title>Inside The Cia: Secrets &amp; Spies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015181900 +0000" stop="20261015190400 +0000" channel="59">
     <title>To Catch A Smuggler</title>
     <desc />
@@ -865,5 +855,10 @@
     <title>To Catch A Smuggler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950535?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="59">
+    <title>Destruction Decoded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950549?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261015164500 +0000" stop="20261015173100 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015173100 +0000" stop="20261015181800 +0000" channel="60">
-    <title>Thailand's Wild Cats</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015181800 +0000" stop="20261015190200 +0000" channel="60">
     <title>Big Cat Games</title>
     <desc />
@@ -772,5 +762,10 @@
     <title>Queens</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="60">
+    <title>Secrets of the Elephants</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950460?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

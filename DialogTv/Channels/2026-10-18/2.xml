@@ -3,16 +3,6 @@
   <channel id="2">
     <display-name>Channel 12</display-name>
   </channel>
-  <programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="2">
-    <title>Alakamandawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952966?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015181300 +0000" channel="2">
-    <title>Seth Pirith</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015181300 +0000" stop="20261016000100 +0000" channel="2">
     <title>End Of Transmission</title>
     <desc />
@@ -932,5 +922,10 @@
     <title>Musical Programme - Filler Songs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/685996?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020175800 +0000" stop="20261021000100 +0000" channel="2">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

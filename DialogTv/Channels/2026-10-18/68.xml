@@ -3,21 +3,6 @@
   <channel id="68">
     <display-name>Channel 75</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015174500 +0000" channel="68">
-    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015174500 +0000" stop="20261015180000 +0000" channel="68">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="68">
-    <title>ICC Men's ODI WC 2023 hlts. NZ v SA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954524?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="68">
     <title>IDFC FIRST Bank 2nd ODI HLTS IND v ENG</title>
     <desc />
@@ -1427,5 +1412,19 @@
   <programme start="20261020173000 +0000" stop="20261020174500 +0000" channel="68">
     <title>Game Plan:TATA WPL Auction Special</title>
     <desc />
+  </programme>
+  <programme start="20261020174500 +0000" stop="20261020181500 +0000" channel="68">
+    <title>Cricket Countdown - IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950413?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020181500 +0000" stop="20261020183000 +0000" channel="68">
+    <title>Game Plan:TATA WPL Auction Special</title>
+    <desc />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="68">
+    <title>IDFC FIRST Bank India v Australia 2nd ODI HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

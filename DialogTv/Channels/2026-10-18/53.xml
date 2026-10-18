@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261015172700 +0000" stop="20261015175800 +0000" channel="53">
-    <title>Colors, Shapes &amp; Numbers!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762716?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015175800 +0000" stop="20261015182800 +0000" channel="53">
-    <title>A Big Ocean Clean Up Day!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015182800 +0000" stop="20261015190200 +0000" channel="53">
     <title>Underwater Problems &amp; Clever Fixes</title>
     <desc />
@@ -1158,5 +1148,20 @@
     <title>Gentle Lessons &amp; Bedtime</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020173200 +0000" stop="20261020175800 +0000" channel="53">
+    <title>A Big Day Of Games &amp; Fun!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020175800 +0000" stop="20261020182900 +0000" channel="53">
+    <title>Underwater Learning Adventures!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020182900 +0000" stop="20261020190000 +0000" channel="53">
+    <title>A Big Ocean Clean Up Day!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

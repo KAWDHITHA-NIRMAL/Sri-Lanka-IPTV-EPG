@@ -3,16 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261015163100 +0000" stop="20261015173100 +0000" channel="110">
-    <title>Jurassic Sharks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015173100 +0000" stop="20261015181400 +0000" channel="110">
-    <title>Desert Dinosaurs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015181400 +0000" stop="20261015191000 +0000" channel="110">
     <title>Hot Life Africa</title>
     <desc />
@@ -705,6 +695,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020172800 +0000" stop="20261020182800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020182800 +0000" stop="20261021003000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />

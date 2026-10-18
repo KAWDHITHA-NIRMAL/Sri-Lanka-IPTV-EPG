@@ -3,11 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20261015164700 +0000" stop="20261015174800 +0000" channel="83">
-    <title>Inside The Factory S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950870?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015174800 +0000" stop="20261015183100 +0000" channel="83">
     <title>World's Most Amazing Walks With Robson Green S1</title>
     <desc />
@@ -777,5 +772,10 @@
     <title>Chasing Monsters S5</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959230?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020181400 +0000" stop="20261020185600 +0000" channel="83">
+    <title>World's Most Dangerous Roads S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959231?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

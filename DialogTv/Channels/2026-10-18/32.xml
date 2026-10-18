@@ -3,16 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="32">
-    <title>The World Today With Maryam Moshiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950113?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="32">
     <title>The World Today With Maryam Moshiri</title>
     <desc />
@@ -1247,5 +1237,10 @@
     <title>BBC World News America</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953063?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

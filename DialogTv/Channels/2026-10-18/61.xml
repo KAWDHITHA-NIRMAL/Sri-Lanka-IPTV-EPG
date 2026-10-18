@@ -3,11 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015175300 +0000" channel="61">
-    <title>Kings Of Restoration S07</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015175300 +0000" stop="20261015183700 +0000" channel="61">
     <title>History's Greatest Escapes with Morgan Freeman S02</title>
     <desc />
@@ -1047,5 +1042,10 @@
     <title>Counting Cars S04</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950291?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020175300 +0000" stop="20261020183700 +0000" channel="61">
+    <title>Forged In Fire S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950060?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

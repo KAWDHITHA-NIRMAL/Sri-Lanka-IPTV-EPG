@@ -3,11 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261015142700 +0000" stop="20261015182300 +0000" channel="91">
-    <title>Devdas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958637?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015182300 +0000" stop="20261015204200 +0000" channel="91">
     <title>Heropanti</title>
     <desc />
@@ -204,6 +199,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020153000 +0000" stop="20261020183000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020213000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />

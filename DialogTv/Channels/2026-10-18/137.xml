@@ -3,21 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="137">
-    <title>Strait Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956360?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015181500 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015181500 +0000" stop="20261015183000 +0000" channel="137">
-    <title>Newsfeed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="137">
     <title>Nexus</title>
     <desc />
@@ -1182,5 +1167,20 @@
     <title>Inside America</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020181500 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020181500 +0000" stop="20261020183000 +0000" channel="137">
+    <title>Newsfeed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="137">
+    <title>Strait Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956360?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

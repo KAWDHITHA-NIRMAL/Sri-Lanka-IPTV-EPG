@@ -3,11 +3,6 @@
   <channel id="99">
     <display-name>Channel 106</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="99">
-    <title>Night Show Nagaichuvai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955023?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015213000 +0000" channel="99">
     <title>Vidiyum Varai Siringal</title>
     <desc />
@@ -505,5 +500,10 @@
     <title>Night Show Nagaichuvai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261021003000 +0000" channel="99">
+    <title>Vidiyum Varai Siringal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951076?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

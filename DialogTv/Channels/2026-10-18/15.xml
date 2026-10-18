@@ -3,11 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261015163000 +0000" stop="20261015183000 +0000" channel="15">
-    <title>Ravana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/915602?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -541,5 +536,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

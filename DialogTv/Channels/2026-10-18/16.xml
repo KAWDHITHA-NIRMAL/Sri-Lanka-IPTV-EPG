@@ -3,16 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="16">
-    <title>Forign Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015233000 +0000" channel="16">
     <title>Pirith</title>
     <desc />
@@ -782,5 +772,15 @@
     <title>Foreign Program</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956564?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020233000 +0000" channel="16">
+    <title>Pirith</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

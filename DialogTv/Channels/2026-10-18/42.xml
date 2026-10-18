@@ -3,11 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261015170000 +0000" stop="20261015180000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015180000 +0000" stop="20261015190000 +0000" channel="42">
     <title>Hall Of Fame</title>
     <desc />
@@ -727,5 +722,10 @@
     <title>Tenors &amp; Divas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

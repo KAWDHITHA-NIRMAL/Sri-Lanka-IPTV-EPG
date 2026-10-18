@@ -3,11 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="105">
-    <title>G 10 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="105">
     <title>G 10 Saivaneri</title>
     <desc />
@@ -654,5 +649,10 @@
     <title>G 10 Business &amp; Accounting</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958607?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020190000 +0000" channel="105">
+    <title>G 11 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

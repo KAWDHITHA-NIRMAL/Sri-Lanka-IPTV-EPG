@@ -3,11 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261015170000 +0000" stop="20261015183000 +0000" channel="8">
-    <title>Mawatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -679,5 +674,10 @@
     <title>Tba</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952942?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

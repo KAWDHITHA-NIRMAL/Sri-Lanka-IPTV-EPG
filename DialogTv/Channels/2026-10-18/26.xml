@@ -3,11 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="26">
-    <title>Soothra Dham Desuma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956546?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="26">
     <title>Sasarin Niwanata By Ven.Thapowanaye Ariyadaja Thero</title>
     <desc />
@@ -673,5 +668,10 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="26">
+    <title>Saddharma Sagaraya - By Ven.Doloswala Udithadeera Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952953?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

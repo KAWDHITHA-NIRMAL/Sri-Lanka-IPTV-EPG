@@ -3,16 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="88">
-    <title>Mannat Harr Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="88">
     <title>Shayad Yahi Hai Pyaar</title>
     <desc />
@@ -967,5 +957,15 @@
     <title>Mannat Harr Khushi Paane Ki</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959043?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="88">
+    <title>Seher Hone Ko Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="88">
+    <title>Shayad Yahi Hai Pyaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956292?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

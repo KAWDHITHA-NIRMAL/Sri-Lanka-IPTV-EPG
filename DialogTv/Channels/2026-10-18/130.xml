@@ -3,16 +3,6 @@
   <channel id="130">
     <display-name>Channel 2382</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="130">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="130">
-    <title>ICC CT 2017 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="130">
     <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
     <desc />
@@ -1347,5 +1337,15 @@
     <title>Cricket Countdown - IND v WI</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="130">
+    <title>2013 ICC Champions Trophy - Hlts</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950335?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="130">
+    <title>IDFC FIRST Bank 2nd ODI HLTS IND v ENG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950966?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

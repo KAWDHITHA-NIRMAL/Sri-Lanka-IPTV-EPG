@@ -3,11 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="113">
-    <title>Celebrity Wheel of Fortune S5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953459?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="113">
     <title>Who Wants to Be a Millionaire S4</title>
     <desc />
@@ -605,6 +600,10 @@
   </programme>
   <programme start="20261020173000 +0000" stop="20261020183000 +0000" channel="113">
     <title>Sheriff Country S2 - Family Trust</title>
+    <desc />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="113">
+    <title>Fire Country S5 - Fire Under Fire</title>
     <desc />
   </programme>
 </tv>

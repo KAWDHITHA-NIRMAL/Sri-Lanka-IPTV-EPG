@@ -3,11 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261015150000 +0000" stop="20261015180000 +0000" channel="92">
-    <title>Udta Punjab</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957197?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015180000 +0000" stop="20261015210000 +0000" channel="92">
     <title>Swatantra Veer Savarkar</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Love Hostel</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020210000 +0000" channel="92">
+    <title>Koyla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957656?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

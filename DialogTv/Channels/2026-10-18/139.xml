@@ -3,21 +3,6 @@
   <channel id="139">
     <display-name>Channel 1835</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="139">
-    <title>Financial Journal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015182700 +0000" channel="139">
-    <title>News on the Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015182700 +0000" stop="20261015183000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="139">
     <title>Phoenix Financial Daily Report</title>
     <desc />
@@ -1602,5 +1587,20 @@
     <title>Financial Journal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956346?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020182700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020182700 +0000" stop="20261020183000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="139">
+    <title>Phoenix Financial Daily Report</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/742419?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="12">
-    <title>Republica</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958722?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="12">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015213000 +0000" channel="12">
     <title>End of Transmission</title>
     <desc />
@@ -715,5 +705,15 @@
     <title>Me Saumya Rathree</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956849?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020213000 +0000" channel="12">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

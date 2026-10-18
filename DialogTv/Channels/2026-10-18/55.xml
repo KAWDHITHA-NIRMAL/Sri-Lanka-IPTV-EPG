@@ -3,16 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261015163100 +0000" stop="20261015173100 +0000" channel="55">
-    <title>Jurassic Sharks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015173100 +0000" stop="20261015181400 +0000" channel="55">
-    <title>Desert Dinosaurs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015181400 +0000" stop="20261015191000 +0000" channel="55">
     <title>Hot Life Africa</title>
     <desc />
@@ -721,5 +711,10 @@
     <title>Zambia Untamed</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952025?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020182200 +0000" stop="20261020190800 +0000" channel="55">
+    <title>Life Among Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953977?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

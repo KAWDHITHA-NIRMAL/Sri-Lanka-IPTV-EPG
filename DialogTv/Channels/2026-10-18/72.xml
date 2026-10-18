@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="72">
-    <title>School Of Life</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015180000 +0000" stop="20261015200000 +0000" channel="72">
     <title>First Kill</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Taxi 5</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020200000 +0000" channel="72">
+    <title>47 Meters Down Uncaged</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958280?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

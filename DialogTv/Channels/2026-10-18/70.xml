@@ -3,21 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015174500 +0000" channel="70">
-    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015174500 +0000" stop="20261015180000 +0000" channel="70">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="70">
-    <title>Muthoot Fincorp 4th T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015184500 +0000" channel="70">
     <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
     <desc />
@@ -1576,5 +1561,15 @@
     <title>IDFC FIRST Bank India v Australia 2nd ODI HLs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950337?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="70">
+    <title>PL NetBusters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020184500 +0000" channel="70">
+    <title>South Africa vs India T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/942901?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

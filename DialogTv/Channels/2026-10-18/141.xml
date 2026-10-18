@@ -3,11 +3,6 @@
   <channel id="141">
     <display-name>Channel 2082</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="141">
-    <title>Ireland vs India 2026 1st T20I Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015203000 +0000" channel="141">
     <title>Sri Lanka vs Pakistan 2023 1st Test Highlights</title>
     <desc />
@@ -617,5 +612,15 @@
     <title>New Zealand vs Australia 2025 3rd T20i Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="141">
+    <title>Sri Lanka vs Bangladesh 2025 2nd ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959555?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="141">
+    <title>Sri Lanka vs West Indies 2021 2nd Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959556?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

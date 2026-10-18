@@ -3,11 +3,6 @@
   <channel id="9">
     <display-name>Channel 6</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="9">
-    <title>End of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015213000 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
@@ -669,6 +664,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958895?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020173000 +0000" stop="20261020183000 +0000" channel="9">
+    <title>End of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020213000 +0000" channel="9">
     <title>End of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />

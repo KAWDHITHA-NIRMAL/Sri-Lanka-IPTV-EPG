@@ -3,26 +3,6 @@
   <channel id="36">
     <display-name>Channel 42</display-name>
   </channel>
-  <programme start="20261015171000 +0000" stop="20261015175300 +0000" channel="36">
-    <title>The Debate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/709896?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015175300 +0000" stop="20261015180000 +0000" channel="36">
-    <title>Short Cuts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950076?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015182000 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015182000 +0000" stop="20261015183000 +0000" channel="36">
-    <title>Sports Prod B</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015184500 +0000" channel="36">
     <title>News</title>
     <desc />
@@ -2987,5 +2967,25 @@
     <title>The Debate</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/709896?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020175300 +0000" stop="20261020180000 +0000" channel="36">
+    <title>Short Cuts</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950076?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020182000 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020182000 +0000" stop="20261020183000 +0000" channel="36">
+    <title>Sports Prod B</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020184500 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

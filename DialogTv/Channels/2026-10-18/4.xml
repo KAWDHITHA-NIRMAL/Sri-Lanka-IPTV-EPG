@@ -3,11 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261015170000 +0000" stop="20261015183000 +0000" channel="4">
-    <title>Karaliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015183600 +0000" channel="4">
     <title>Jaya Piritha</title>
     <desc />
@@ -876,5 +871,10 @@
     <title>On Air Politics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957237?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020183600 +0000" channel="4">
+    <title>Jaya Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949583?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

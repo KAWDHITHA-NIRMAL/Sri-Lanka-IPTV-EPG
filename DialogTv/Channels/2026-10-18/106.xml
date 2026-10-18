@@ -3,11 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015183000 +0000" channel="106">
-    <title>G7 History</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="106">
     <title>G8 History</title>
     <desc />
@@ -811,5 +806,15 @@
     <title>G4 Environment</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="106">
+    <title>G5 Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958311?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="106">
+    <title>G5 Environment</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958605?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
