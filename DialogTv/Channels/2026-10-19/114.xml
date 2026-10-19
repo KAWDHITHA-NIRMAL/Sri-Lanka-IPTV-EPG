@@ -3,11 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261016155500 +0000" stop="20261016181000 +0000" channel="114">
-    <title>Lee Cronin'S The Mummy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016181000 +0000" stop="20261016202500 +0000" channel="114">
     <title>Fantastic Beasts: The Crimes Of Grindelwald</title>
     <desc />
@@ -341,5 +336,10 @@
     <title>Final Destination 3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956987?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021182000 +0000" stop="20261021194500 +0000" channel="114">
+    <title>The Woman In The Yard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953290?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

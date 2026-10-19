@@ -3,26 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="120">
-    <title>Cricket Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016174500 +0000" channel="120">
-    <title>Game Plan - IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948694?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016174500 +0000" stop="20261016180000 +0000" channel="120">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="120">
-    <title>IND v AUS ODI 2013 Hlts.</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958654?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="120">
     <title>IDFC FIRST Bank IND v SA ODI 2025 HLs</title>
     <desc />
@@ -1503,5 +1483,29 @@
     <title>ICC Champions Trophy 2025 HLTS IND v PAK</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958551?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021174500 +0000" channel="120">
+    <title>Muthoot Fincorp 3rd T20I Women's HLs IND v ZIM</title>
+    <desc />
+  </programme>
+  <programme start="20261021174500 +0000" stop="20261021180000 +0000" channel="120">
+    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021181500 +0000" channel="120">
+    <title>Game Plan:TATA WPL Auction Special</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959773?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021181500 +0000" stop="20261021183000 +0000" channel="120">
+    <title>ICC Men's ODI WC 2023 hlts. SA v NED</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955984?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="120">
+    <title>IDFC FIRST Bank India v Australia 1st ODI HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950406?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

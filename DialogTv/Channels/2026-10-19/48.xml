@@ -3,21 +3,6 @@
   <channel id="48">
     <display-name>Channel 54</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016173000 +0000" channel="48">
-    <title>Mr. World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956605?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="48">
-    <title>Uncle Toy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957416?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="48">
-    <title>Little Icon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957139?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016233000 +0000" channel="48">
     <title>Baby Relaxation</title>
     <desc />
@@ -687,5 +672,20 @@
     <title>Mr. World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956605?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="48">
+    <title>A Plus Radio</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950118?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="48">
+    <title>Milo Sports Academy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021233000 +0000" channel="48">
+    <title>Baby Relaxation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957413?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

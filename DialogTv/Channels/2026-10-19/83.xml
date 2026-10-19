@@ -3,11 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20261016165800 +0000" stop="20261016180000 +0000" channel="83">
-    <title>Inside The Factory S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950870?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016184300 +0000" channel="83">
     <title>World's Most Amazing Walks With Robson Green S1</title>
     <desc />
@@ -782,5 +777,10 @@
     <title>Inside The Factory: Socks S6</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955174?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021175100 +0000" stop="20261021184900 +0000" channel="83">
+    <title>Incredible Journeys With Simon Reeve S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958741?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

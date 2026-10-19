@@ -3,16 +3,6 @@
   <channel id="131">
     <display-name>Channel 2085</display-name>
   </channel>
-  <programme start="20261016171000 +0000" stop="20261016180300 +0000" channel="131">
-    <title>Seduced by Speed</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180300 +0000" stop="20261016182800 +0000" channel="131">
-    <title>All Girls Garage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016182800 +0000" stop="20261016185100 +0000" channel="131">
     <title>All Girls Garage</title>
     <desc />
@@ -782,5 +772,10 @@
     <title>Diesel Brothers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180600 +0000" stop="20261021185400 +0000" channel="131">
+    <title>All Girls Garage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/137377?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="121">
-    <title>Live PL Team Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954782?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="121">
-    <title>PL Countdown 26/27</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955705?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="121">
-    <title>PL Highlights Liverpool v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951382?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="121">
     <title>PL 2026-27 Arsenal v Leeds United</title>
     <desc />
@@ -1344,5 +1329,15 @@
     <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="121">
+    <title>PL 2026-27 Arsenal v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="121">
+    <title>Sports Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951426?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

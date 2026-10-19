@@ -3,11 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261016153000 +0000" stop="20261016174000 +0000" channel="116">
-    <title>Manta Manta: Legacy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016174000 +0000" stop="20261016191500 +0000" channel="116">
     <title>Latin For All</title>
     <desc />
@@ -359,5 +354,10 @@
     <title>A Far Shore</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957497?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173500 +0000" stop="20261021192000 +0000" channel="116">
+    <title>Copperman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="34">
-    <title>Amanpour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="34">
     <title>Isa Soares Tonight</title>
     <desc />
@@ -572,5 +567,10 @@
     <title>Amanpour</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952844?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="34">
+    <title>Isa Soares Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

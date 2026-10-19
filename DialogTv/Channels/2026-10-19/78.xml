@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="78">
-    <title>North And South Book II</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="78">
     <title>North And South Book II</title>
     <desc />
@@ -737,5 +732,10 @@
     <title>Knight Rider S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956854?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="78">
+    <title>CSI S7</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956712?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

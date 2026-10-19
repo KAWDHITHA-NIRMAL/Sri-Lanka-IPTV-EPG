@@ -3,11 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="20">
     <title>Highlights -  NEXT XV Rugby League 2026</title>
     <desc />
@@ -267,5 +262,10 @@
     <title>Highlights - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="20">
+    <title>Repeat -Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959745?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

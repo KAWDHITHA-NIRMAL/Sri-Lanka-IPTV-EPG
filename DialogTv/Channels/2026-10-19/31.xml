@@ -3,11 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016210000 +0000" channel="31">
     <title>News Breakfast</title>
     <desc />
@@ -718,5 +713,10 @@
     <title>The World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

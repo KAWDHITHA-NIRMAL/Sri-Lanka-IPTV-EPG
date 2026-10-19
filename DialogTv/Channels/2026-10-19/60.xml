@@ -3,11 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016174400 +0000" channel="60">
-    <title>Return of the Lion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955981?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016174400 +0000" stop="20261016183100 +0000" channel="60">
     <title>Africa's Deadliest</title>
     <desc />
@@ -722,5 +717,15 @@
     <title>Africa's Deadliest</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="60">
+    <title>Sri Lanka: Leopard Dynasty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952476?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="60">
+    <title>Jade Eyed Leopard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950457?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

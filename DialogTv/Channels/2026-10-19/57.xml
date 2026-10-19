@@ -3,16 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016173000 +0000" channel="57">
-    <title>Deadliest Catch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/702314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="57">
-    <title>Ghost Adventures</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="57">
     <title>Haunted Towns</title>
     <desc />
@@ -672,5 +662,15 @@
     <title>Bering Sea Gold</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953523?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="57">
+    <title>Ghost Adventures</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="57">
+    <title>Haunted Towns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

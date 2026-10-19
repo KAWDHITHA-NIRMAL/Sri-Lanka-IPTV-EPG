@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261016164500 +0000" stop="20261016175000 +0000" channel="75">
-    <title>Lanterns S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956815?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016175000 +0000" stop="20261016193000 +0000" channel="75">
     <title>Wifelike</title>
     <desc />
@@ -422,5 +417,10 @@
     <title>Imagine That</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173500 +0000" stop="20261021194500 +0000" channel="75">
+    <title>Jurassic World Rebirth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958749?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

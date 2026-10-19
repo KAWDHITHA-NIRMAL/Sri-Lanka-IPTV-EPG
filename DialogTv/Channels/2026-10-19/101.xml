@@ -3,16 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016180900 +0000" channel="101">
-    <title>Dhiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958965?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180900 +0000" stop="20261016183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -293,6 +283,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />

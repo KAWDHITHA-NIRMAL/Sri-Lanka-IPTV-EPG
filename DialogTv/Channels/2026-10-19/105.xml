@@ -3,14 +3,6 @@
   <channel id="105">
     <display-name>Channel 112</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016173000 +0000" channel="105">
-    <title>G 11 Design &amp; Construction Tech</title>
-    <desc />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="105">
-    <title>G 11 2nd Language Sinhala</title>
-    <desc />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="105">
     <title>G 10 Geography</title>
     <desc />
@@ -673,5 +665,10 @@
     <title>G 10 Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958772?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="105">
+    <title>G 11 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956302?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

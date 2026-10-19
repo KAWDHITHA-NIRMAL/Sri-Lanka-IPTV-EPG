@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261016171600 +0000" stop="20261016181100 +0000" channel="55">
-    <title>The Brothers Pride</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955299?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016181100 +0000" stop="20261016190700 +0000" channel="55">
     <title>Hot Life Africa</title>
     <desc />
@@ -730,5 +725,10 @@
     <title>Wild Africa: Rivers Of Life</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173500 +0000" stop="20261021183400 +0000" channel="55">
+    <title>Zambia Untamed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952025?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

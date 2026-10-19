@@ -3,16 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="14">
-    <title>Nightly Business Report - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="14">
     <title>Gen Xyz</title>
     <desc />
@@ -967,5 +957,15 @@
     <title>Nightly Business Report - Sinhala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="14">
+    <title>Late Night News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="14">
+    <title>Get Real</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957994?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261016170700 +0000" stop="20261016175200 +0000" channel="59">
-    <title>Airport Security Madrid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016175200 +0000" stop="20261016183600 +0000" channel="59">
     <title>Air Crash Investigation</title>
     <desc />
@@ -827,5 +822,20 @@
     <title>Primal Survivor</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950550?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="59">
+    <title>Destruction Decoded</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950549?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="59">
+    <title>Airport Security Rome</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="59">
+    <title>Airport Security Brazil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/874932?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

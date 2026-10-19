@@ -3,16 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="125">
-    <title>Top 14 Highlights Round 6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016213000 +0000" channel="125">
     <title>LIVE Champions Cup Gloucester v Bordeaux Begles</title>
     <desc />
@@ -484,5 +474,10 @@
     <title>Bledisloe Cup Australia v New Zealand</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021172000 +0000" stop="20261021191000 +0000" channel="125">
+    <title>EPCR Challenge Cup Edinburgh v Toulon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959836?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,10 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261016165500 +0000" stop="20261016182500 +0000" channel="117">
-    <title>Dracula Ii: Ascension</title>
-    <desc />
-  </programme>
   <programme start="20261016182500 +0000" stop="20261016200000 +0000" channel="117">
     <title>Dracula Iii: Legacy</title>
     <desc />
@@ -350,5 +346,10 @@
     <title>Man With No Past</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958787?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021174500 +0000" stop="20261021191500 +0000" channel="117">
+    <title>The Ruins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958788?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

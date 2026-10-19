@@ -3,21 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261016171500 +0000" stop="20261016173000 +0000" channel="122">
-    <title>PL Highlights Chelsea v Brighton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="122">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="122">
-    <title>PL Highlights Arsenal v Crystal Palace</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957853?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="122">
     <title>PL 2026-27 Arsenal v Chelsea</title>
     <desc />
@@ -1337,5 +1322,30 @@
     <title>PL Highlights Man Utd v Newcastle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959262?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021174500 +0000" channel="122">
+    <title>Muthoot Fincorp 3rd T20I Women's HLs IND v ZIM</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021174500 +0000" stop="20261021180000 +0000" channel="122">
+    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021181500 +0000" channel="122">
+    <title>PL Highlights Arsenal v Coventry City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021181500 +0000" stop="20261021183000 +0000" channel="122">
+    <title>PL Highlights Nottm Forest v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="122">
+    <title>Sports Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951394?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,15 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016173000 +0000" channel="106">
-    <title>G9 Health</title>
-    <desc />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="106">
-    <title>G6 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="106">
     <title>G7 Ict</title>
     <desc />
@@ -924,5 +915,20 @@
     <title>G4 Tamil</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958309?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="106">
+    <title>G4 Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958310?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="106">
+    <title>G5 Tamil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958311?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="106">
+    <title>G5 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958778?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

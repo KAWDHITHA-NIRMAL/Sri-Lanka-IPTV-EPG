@@ -3,16 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="42">
-    <title>A Classical Christmas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="42">
     <title>C-Mix</title>
     <desc />
@@ -727,5 +717,10 @@
     <title>A Classical Christmas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

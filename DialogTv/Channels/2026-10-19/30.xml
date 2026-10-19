@@ -3,16 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="30">
     <title>Newshour</title>
     <desc />
@@ -932,5 +922,15 @@
     <title>News Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="30">
+    <title>Inside Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

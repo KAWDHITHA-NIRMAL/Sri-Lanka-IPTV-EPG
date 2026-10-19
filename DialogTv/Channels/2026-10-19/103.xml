@@ -3,11 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="103">
-    <title>G6 ICT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="103">
     <title>G7 ICT</title>
     <desc />
@@ -672,5 +667,10 @@
     <title>G8 Art</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="103">
+    <title>G6 Science</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956951?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

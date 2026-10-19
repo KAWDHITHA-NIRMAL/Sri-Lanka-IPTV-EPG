@@ -3,11 +3,6 @@
   <channel id="86">
     <display-name>Channel 93</display-name>
   </channel>
-  <programme start="20261016142000 +0000" stop="20261016174300 +0000" channel="86">
-    <title>Sitaare Zameen Par</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016174300 +0000" stop="20261016200800 +0000" channel="86">
     <title>Ramarao On Duty</title>
     <desc />
@@ -209,6 +204,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021153000 +0000" stop="20261021183000 +0000" channel="86">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021213000 +0000" channel="86">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />

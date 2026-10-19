@@ -3,16 +3,6 @@
   <channel id="76">
     <display-name>Channel 83</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="76">
-    <title>Food Wars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="76">
-    <title>Food Wars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="76">
     <title>Temptation Island S04</title>
     <desc />
@@ -782,5 +772,15 @@
     <title>Food Wars</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="76">
+    <title>Food Wars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="76">
+    <title>Temptation Island S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

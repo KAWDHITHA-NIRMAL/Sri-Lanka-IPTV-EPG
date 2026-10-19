@@ -3,26 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="32">
-    <title>Newsnight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953064?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="32">
-    <title>BBC World News America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953063?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="32">
-    <title>The President's Path</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="32">
-    <title>BBC News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="32">
     <title>BBC News</title>
     <desc />
@@ -1257,5 +1237,15 @@
     <title>Newsnight</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953064?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="32">
+    <title>BBC World News America</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953063?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

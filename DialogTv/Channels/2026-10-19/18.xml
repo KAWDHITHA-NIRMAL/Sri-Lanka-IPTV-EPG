@@ -3,11 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016173000 +0000" stop="20261016200000 +0000" channel="18">
     <title>Visiata 28</title>
     <desc />
@@ -607,5 +602,10 @@
     <title>Sabanda Pabiliss</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021200000 +0000" channel="18">
+    <title>Hero Nero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952882?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

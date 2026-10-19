@@ -3,16 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="93">
-    <title>Mahabharatham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950987?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016183000 +0000" channel="93">
-    <title>Vellivizha Nayagan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955680?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="93">
     <title>Vellivizha Nayagan</title>
     <desc />
@@ -427,5 +417,15 @@
     <title>Mahabharatham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950987?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="93">
+    <title>Muthukalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959004?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="93">
+    <title>Muthukalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959004?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="16">
     <display-name>Channel 22</display-name>
   </channel>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="16">
-    <title>Mind Your Body</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956370?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="16">
-    <title>A Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952830?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="16">
-    <title>Songs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016183000 +0000" stop="20261016233000 +0000" channel="16">
     <title>Pirith</title>
     <desc />
@@ -782,5 +767,20 @@
     <title>A Park</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="16">
+    <title>Hela Wedaduru Watha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="16">
+    <title>Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021233000 +0000" channel="16">
+    <title>Lions Quest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953001?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
