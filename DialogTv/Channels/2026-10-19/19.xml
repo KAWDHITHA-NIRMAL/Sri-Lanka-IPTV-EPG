@@ -3,46 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261015173000 +0000" stop="20261015203000 +0000" channel="19">
-    <title>Dedunu Sihina</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015203000 +0000" stop="20261015233000 +0000" channel="19">
-    <title>Angana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956409?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015233000 +0000" stop="20261016013000 +0000" channel="19">
-    <title>Isiwarabhawaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016013000 +0000" stop="20261016023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016023000 +0000" stop="20261016053000 +0000" channel="19">
-    <title>Sandaluthale Geethikawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957104?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016053000 +0000" stop="20261016083000 +0000" channel="19">
-    <title>Dedunu Sihina</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016083000 +0000" stop="20261016113000 +0000" channel="19">
-    <title>Diya Sithuwam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958145?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016113000 +0000" stop="20261016143000 +0000" channel="19">
-    <title>Isiwarabhawaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016143000 +0000" stop="20261016173000 +0000" channel="19">
     <title>Sandaluthale Geethikawa</title>
     <desc />
@@ -232,5 +192,45 @@
     <title>Tharu Piri Ahasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020203000 +0000" stop="20261020233000 +0000" channel="19">
+    <title>Dhawala Kadulla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021013000 +0000" channel="19">
+    <title>Swetha Gantheera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021013000 +0000" stop="20261021023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021053000 +0000" channel="19">
+    <title>Samanaliyak Iki Binda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021083000 +0000" channel="19">
+    <title>Tharu Piri Ahasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021113000 +0000" channel="19">
+    <title>Dhawala Kadulla</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021113000 +0000" stop="20261021143000 +0000" channel="19">
+    <title>Swetha Gantheera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021173000 +0000" channel="19">
+    <title>Samanaliyak Iki Binda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958545?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

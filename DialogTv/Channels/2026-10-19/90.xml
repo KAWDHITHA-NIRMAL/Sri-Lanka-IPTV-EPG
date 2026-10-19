@@ -3,46 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261015170000 +0000" stop="20261015200000 +0000" channel="90">
-    <title>Yeh Hai Judgement..</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958138?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015230000 +0000" channel="90">
-    <title>James Pondu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957586?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261015230000 +0000" stop="20261016020000 +0000" channel="90">
-    <title>Ek Taaqatwar - The Mighty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955669?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016020000 +0000" stop="20261016050000 +0000" channel="90">
-    <title>Jigri Dost</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016050000 +0000" stop="20261016080000 +0000" channel="90">
-    <title>Lashkar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957145?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016080000 +0000" stop="20261016110000 +0000" channel="90">
-    <title>Kab? Kyoon?Aur Kahan?</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958121?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016110000 +0000" stop="20261016140000 +0000" channel="90">
-    <title>Guddu Ki Gun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958104?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016140000 +0000" stop="20261016170000 +0000" channel="90">
-    <title>Jung ka Maidan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955674?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261016170000 +0000" stop="20261016200000 +0000" channel="90">
     <title>Papi Gudia</title>
     <desc />
@@ -207,5 +167,40 @@
     <title>Viduthalai Part 1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958601?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020200000 +0000" stop="20261020230000 +0000" channel="90">
+    <title>Ohm Shanti Oshaana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="90">
+    <title>Khatarnak Khel</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021050900 +0000" channel="90">
+    <title>Anari Ishq</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953785?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021050900 +0000" stop="20261021081200 +0000" channel="90">
+    <title>Naya Kadam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958768?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021081200 +0000" stop="20261021112000 +0000" channel="90">
+    <title>Kahani Kismat Ki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021112000 +0000" stop="20261021141200 +0000" channel="90">
+    <title>Juaari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958769?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021141200 +0000" stop="20261021172300 +0000" channel="90">
+    <title>Chak DE Phatte Hockey Ke Dum Pe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
