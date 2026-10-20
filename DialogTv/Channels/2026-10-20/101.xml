@@ -3,26 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261017103300 +0000" stop="20261017130700 +0000" channel="101">
-    <title>Maargan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951744?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017130700 +0000" stop="20261017160700 +0000" channel="101">
-    <title>Kadaisi Nodigal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957634?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017160700 +0000" stop="20261017175900 +0000" channel="101">
-    <title>Katteri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956005?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017175900 +0000" stop="20261017183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017183000 +0000" stop="20261017193000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -291,5 +271,40 @@
     <title>Cocktail</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022153000 +0000" channel="101">
+    <title>Madrasi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022163000 +0000" stop="20261022170000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022173000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

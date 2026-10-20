@@ -3,16 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261017103000 +0000" stop="20261017133000 +0000" channel="95">
-    <title>Idhayathai Thirudathe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017133000 +0000" stop="20261017170000 +0000" channel="95">
-    <title>Autograph</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957684?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017170000 +0000" stop="20261017200000 +0000" channel="95">
     <title>Namma Veetu Kalyanam</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Oo La La Laa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959719?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022133000 +0000" stop="20261022170000 +0000" channel="95">
+    <title>Dum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959720?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022200000 +0000" channel="95">
+    <title>Unnai Kann Theduthe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959717?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

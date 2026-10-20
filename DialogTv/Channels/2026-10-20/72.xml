@@ -3,26 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261017100000 +0000" stop="20261017120000 +0000" channel="72">
-    <title>Hardball</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017120000 +0000" stop="20261017140000 +0000" channel="72">
-    <title>Renegades (The Lake)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017140000 +0000" stop="20261017160000 +0000" channel="72">
-    <title>Poseidon Rex</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955833?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="72">
-    <title>Under Siege</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957890?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017180000 +0000" stop="20261017200000 +0000" channel="72">
     <title>Cold Skin</title>
     <desc />
@@ -307,5 +287,25 @@
     <title>Destroyer</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959095?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022120000 +0000" stop="20261022140000 +0000" channel="72">
+    <title>Follow Me</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959096?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022140000 +0000" stop="20261022160000 +0000" channel="72">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022160000 +0000" stop="20261022180000 +0000" channel="72">
+    <title>Please Stand By</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958760?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022200000 +0000" channel="72">
+    <title>Wrong Place</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958761?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

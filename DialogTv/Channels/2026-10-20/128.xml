@@ -3,19 +3,6 @@
   <channel id="128">
     <display-name>Channel 2236</display-name>
   </channel>
-  <programme start="20261017070000 +0000" stop="20261017123000 +0000" channel="128">
-    <title>Live - Denmark Open 2026 - Semi Finals</title>
-    <desc />
-  </programme>
-  <programme start="20261017123000 +0000" stop="20261017173000 +0000" channel="128">
-    <title>Live - Denmark Open 2026 - Semi Finals</title>
-    <desc />
-  </programme>
-  <programme start="20261017173000 +0000" stop="20261017183000 +0000" channel="128">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="128">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
@@ -277,5 +264,24 @@
   <programme start="20261022071500 +0000" stop="20261022123000 +0000" channel="128">
     <title>Live - South Africa vs Australia - Day 05 - 2nd Test  - Australia tour of South Africa 2026</title>
     <desc />
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022163000 +0000" channel="128">
+    <title>Live - South Africa vs Australia - Day 05 - 2nd Test  - Australia tour of South Africa 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261022163000 +0000" stop="20261022180000 +0000" channel="128">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022183000 +0000" channel="128">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022183000 +0000" stop="20261022193000 +0000" channel="128">
+    <title>Sports Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954666?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

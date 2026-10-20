@@ -3,16 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261017113000 +0000" stop="20261017143000 +0000" channel="19">
-    <title>Mahogaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957105?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017143000 +0000" stop="20261017173000 +0000" channel="19">
-    <title>Awarjana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956417?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017173000 +0000" stop="20261017203000 +0000" channel="19">
     <title>Dedunu Sihina</title>
     <desc />
@@ -232,5 +222,15 @@
     <title>Swetha Gantheera</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022143000 +0000" stop="20261022173000 +0000" channel="19">
+    <title>Samanaliyak Iki Binda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022203000 +0000" channel="19">
+    <title>Tharu Piri Ahasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

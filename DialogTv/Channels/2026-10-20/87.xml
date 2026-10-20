@@ -3,16 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261017113000 +0000" stop="20261017143500 +0000" channel="87">
-    <title>Kabhi Alvida Naa Kehna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017143500 +0000" stop="20261017170000 +0000" channel="87">
-    <title>Partner</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955991?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017170000 +0000" stop="20261017201000 +0000" channel="87">
     <title>Dilwale Dulhania Le Jayenge</title>
     <desc />
@@ -256,5 +246,20 @@
     <title>Badmaash Company</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959111?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022124000 +0000" stop="20261022144000 +0000" channel="87">
+    <title>Babli Bouncer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959112?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022144000 +0000" stop="20261022170000 +0000" channel="87">
+    <title>Kis Kisko Pyaar Karoon 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955339?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022194000 +0000" channel="87">
+    <title>Shivaay</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959113?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,51 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261017111500 +0000" stop="20261017120100 +0000" channel="60">
-    <title>Hippo Vs Croc</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950480?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017120100 +0000" stop="20261017124600 +0000" channel="60">
-    <title>Mashatu: Land Of Leopard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/791189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017124600 +0000" stop="20261017133300 +0000" channel="60">
-    <title>Wild India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952421?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017133300 +0000" stop="20261017142300 +0000" channel="60">
-    <title>Queens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017142300 +0000" stop="20261017150900 +0000" channel="60">
-    <title>Leopard Kingdom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017150900 +0000" stop="20261017155600 +0000" channel="60">
-    <title>Cobra Mafia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950479?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017155600 +0000" stop="20261017164100 +0000" channel="60">
-    <title>Croc Wars: Grumeti Vs Mara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017164100 +0000" stop="20261017172800 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017172800 +0000" stop="20261017182100 +0000" channel="60">
-    <title>Creative Killers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950127?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017182100 +0000" stop="20261017190600 +0000" channel="60">
     <title>Cheetahs Up Close With Bertie Gregory</title>
     <desc />
@@ -732,5 +687,40 @@
     <title>Secrets Of The Penguins</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022133000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022133000 +0000" stop="20261022143000 +0000" channel="60">
+    <title>Superpride</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022143000 +0000" stop="20261022153000 +0000" channel="60">
+    <title>Cobra Mafia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950479?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022153000 +0000" stop="20261022163000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022163000 +0000" stop="20261022173000 +0000" channel="60">
+    <title>Cecil: The Legacy Of A King</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022183000 +0000" channel="60">
+    <title>Eternal Enemies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022183000 +0000" stop="20261022193000 +0000" channel="60">
+    <title>Lions: The Hunt for Survival</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955578?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

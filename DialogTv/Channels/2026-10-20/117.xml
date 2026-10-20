@@ -3,26 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261017102500 +0000" stop="20261017120000 +0000" channel="117">
-    <title>Journey 2: The Mysterious Island</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955915?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017120000 +0000" stop="20261017140000 +0000" channel="117">
-    <title>Justice League</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017140000 +0000" stop="20261017161000 +0000" channel="117">
-    <title>It</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957956?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017161000 +0000" stop="20261017181000 +0000" channel="117">
-    <title>Joker</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017181000 +0000" stop="20261017201000 +0000" channel="117">
     <title>M3Gan 2.0</title>
     <desc />
@@ -362,5 +342,25 @@
     <title>61*</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022121000 +0000" stop="20261022140000 +0000" channel="117">
+    <title>Collateral Damage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959128?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022140000 +0000" stop="20261022152500 +0000" channel="117">
+    <title>The Ruins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022152500 +0000" stop="20261022174000 +0000" channel="117">
+    <title>The Matrix</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959129?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022174000 +0000" stop="20261022190500 +0000" channel="117">
+    <title>Scary Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953951?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

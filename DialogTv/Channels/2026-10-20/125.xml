@@ -3,14 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261017113000 +0000" stop="20261017140500 +0000" channel="125">
-    <title>LIVE Champions Cup Sale v Glasgow Warriors</title>
-    <desc />
-  </programme>
-  <programme start="20261017140500 +0000" stop="20261017162000 +0000" channel="125">
-    <title>LIVE Champions Cup Stormers v Bristol</title>
-    <desc />
-  </programme>
   <programme start="20261017162000 +0000" stop="20261017184500 +0000" channel="125">
     <title>LIVE Champions Cup Connacht v Saracens</title>
     <desc />
@@ -480,5 +472,25 @@
     <title>Bledisloe Cup New Zealand v Australia</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022131000 +0000" stop="20261022150000 +0000" channel="125">
+    <title>Bledisloe Cup Australia v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1999 - Wales v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022153000 +0000" stop="20261022172000 +0000" channel="125">
+    <title>RLWC26 Australia v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959010?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022172000 +0000" stop="20261022191000 +0000" channel="125">
+    <title>RLWC26 Samoa v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959842?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

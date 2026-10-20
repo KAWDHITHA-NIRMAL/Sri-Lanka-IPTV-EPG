@@ -3,31 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261017110000 +0000" stop="20261017130000 +0000" channel="67">
-    <title>BWF World Tour Badminton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017130000 +0000" stop="20261017150000 +0000" channel="67">
-    <title>British Superbike Championship Series</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017150000 +0000" stop="20261017170000 +0000" channel="67">
-    <title>BWF World Tour Badminton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017170000 +0000" stop="20261017174500 +0000" channel="67">
-    <title>TNA Wrestling: Pehalwani Patakha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017174500 +0000" stop="20261017183000 +0000" channel="67">
-    <title>Eredivisie Soccer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017183000 +0000" stop="20261017194500 +0000" channel="67">
     <title>Eredivisie Soccer</title>
     <desc />
@@ -269,5 +244,20 @@
     <title>Test Cricket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022153000 +0000" stop="20261022173000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022183000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022183000 +0000" stop="20261022200000 +0000" channel="67">
+    <title>BWF World Tour Badminton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261017110000 +0000" stop="20261017140000 +0000" channel="90">
-    <title>Geet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017140000 +0000" stop="20261017170000 +0000" channel="90">
-    <title>Haisiyat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958090?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017170000 +0000" stop="20261017200000 +0000" channel="90">
     <title>Teri Kasam</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Powerfull Yoddha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954025?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022140000 +0000" stop="20261022170000 +0000" channel="90">
+    <title>Mera Karam Mera Dharam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959117?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022200000 +0000" channel="90">
+    <title>Mr. Natwarlal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261017090000 +0000" stop="20261017120000 +0000" channel="92">
-    <title>Saaho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017120000 +0000" stop="20261017150000 +0000" channel="92">
-    <title>Honeymoon Travels Pvt Ltd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956925?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017150000 +0000" stop="20261017180000 +0000" channel="92">
-    <title>Encounter Shankar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956926?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017180000 +0000" stop="20261017210000 +0000" channel="92">
     <title>Badal</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Raanjhanaa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959120?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022120000 +0000" stop="20261022150000 +0000" channel="92">
+    <title>Maanikya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959121?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022180000 +0000" channel="92">
+    <title>Zeher</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958597?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022210000 +0000" channel="92">
+    <title>Mission Majnu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958596?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,14 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261017113000 +0000" stop="20261017150000 +0000" channel="62">
-    <title>Live - Bangladesh v Zimbabwe - Match 01 - ODI Tri-Nation Series 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261017150000 +0000" stop="20261017183000 +0000" channel="62">
-    <title>Live - Bangladesh v Zimbabwe - Match 01 - ODI Tri-Nation Series 2026</title>
-    <desc />
-  </programme>
   <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="62">
     <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
     <desc />
@@ -292,5 +284,24 @@
   <programme start="20261022075000 +0000" stop="20261022123000 +0000" channel="62">
     <title>Live - Sri Lanka vs England - 3rd ODI - ODI Tri-Series</title>
     <desc />
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022173000 +0000" channel="62">
+    <title>Live - Sri Lanka vs England - 3rd ODI - ODI Tri-Series</title>
+    <desc />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="62">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022183000 +0000" channel="62">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022183000 +0000" stop="20261022193000 +0000" channel="62">
+    <title>Sports Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954666?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
