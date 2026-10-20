@@ -3,29 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261016183000 +0000" stop="20261016203000 +0000" channel="63">
-    <title>Highlights -  NEXT XV Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016203000 +0000" stop="20261017003000 +0000" channel="63">
-    <title>Repeat - ICC Men's T20 World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017003000 +0000" stop="20261017013000 +0000" channel="63">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/942799?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017013000 +0000" stop="20261017021500 +0000" channel="63">
-    <title>Highlights - Asia Rugby Emirates Sevens Series 2025</title>
-    <desc />
-  </programme>
-  <programme start="20261017021500 +0000" stop="20261017083000 +0000" channel="63">
-    <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
-    <desc />
-  </programme>
   <programme start="20261017083000 +0000" stop="20261017123000 +0000" channel="63">
     <title>Live - Asia Rugby Emirates Sevens Series - Round 2 - Day 01</title>
     <desc />
@@ -189,6 +166,7 @@
   <programme start="20261020033000 +0000" stop="20261020043000 +0000" channel="63">
     <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020043000 +0000" stop="20261020063000 +0000" channel="63">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -286,5 +264,37 @@
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021203000 +0000" stop="20261022003000 +0000" channel="63">
+    <title>Repeat - ICC Men's T20 World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022003000 +0000" stop="20261022020000 +0000" channel="63">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022020000 +0000" stop="20261022033000 +0000" channel="63">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="63">
+    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022040000 +0000" stop="20261022070000 +0000" channel="63">
+    <title>Live - Semi Final 1 - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261022070000 +0000" stop="20261022100000 +0000" channel="63">
+    <title>Live - Semi Final 1 - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022123000 +0000" channel="63">
+    <title>Live - Semi Final 1 - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
   </programme>
 </tv>

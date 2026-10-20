@@ -3,66 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261016180000 +0000" stop="20261016213000 +0000" channel="125">
-    <title>LIVE Champions Cup Gloucester v Bordeaux Begles</title>
-    <desc />
-  </programme>
-  <programme start="20261016213000 +0000" stop="20261016220000 +0000" channel="125">
-    <title>Top 14 Highlights Round 6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016220000 +0000" stop="20261016235000 +0000" channel="125">
-    <title>RLWC26 Australia v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959010?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016235000 +0000" stop="20261017001000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017001000 +0000" stop="20261017020000 +0000" channel="125">
-    <title>EPCR Challenge Cup Edinburgh v Toulon</title>
-    <desc />
-  </programme>
-  <programme start="20261017020000 +0000" stop="20261017041000 +0000" channel="125">
-    <title>Live Women's RLWC 2026 Papua New Guinea v France</title>
-    <desc />
-  </programme>
-  <programme start="20261017041000 +0000" stop="20261017042000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017042000 +0000" stop="20261017045000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2008 - Italy v Scotland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017045000 +0000" stop="20261017070000 +0000" channel="125">
-    <title>LIVE Bledisloe Cup Australia v New Zealand</title>
-    <desc />
-  </programme>
-  <programme start="20261017070000 +0000" stop="20261017073000 +0000" channel="125">
-    <title>Top 14 Highlights Round 6</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017073000 +0000" stop="20261017074500 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017074500 +0000" stop="20261017084500 +0000" channel="125">
-    <title>5 &amp; 6 Nations Classic Tries</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017084500 +0000" stop="20261017113000 +0000" channel="125">
-    <title>Live RLWC26 England v Tonga</title>
-    <desc />
-  </programme>
   <programme start="20261017113000 +0000" stop="20261017140500 +0000" channel="125">
     <title>LIVE Champions Cup Sale v Glasgow Warriors</title>
     <desc />
@@ -419,6 +359,7 @@
   <programme start="20261020232000 +0000" stop="20261021011000 +0000" channel="125">
     <title>Champions Cup Connacht v Saracens</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960015?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021011000 +0000" stop="20261021030000 +0000" channel="125">
     <title>Champions Cup Munster v Racing 92</title>
@@ -479,5 +420,65 @@
     <title>EPCR Challenge Cup Edinburgh v Toulon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021191000 +0000" stop="20261021210000 +0000" channel="125">
+    <title>EPCR Challenge Cup Harlequins v Vannes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2003 - Ireland v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/948767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021232000 +0000" channel="125">
+    <title>Champions Cup Gloucester v Bordeaux Begles</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959838?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021232000 +0000" stop="20261022011000 +0000" channel="125">
+    <title>Champions Cup Bulls v Stade Francais</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022011000 +0000" stop="20261022014000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1986 - Scotland v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959132?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022014000 +0000" stop="20261022033000 +0000" channel="125">
+    <title>Champions Cup Sale v Glasgow Warriors</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959839?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022033000 +0000" stop="20261022052000 +0000" channel="125">
+    <title>Champions Cup Stormers v Bristol</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959754?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022052000 +0000" stop="20261022071000 +0000" channel="125">
+    <title>Champions Cup Clermont Auvegne v Leinster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959840?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022071000 +0000" stop="20261022090000 +0000" channel="125">
+    <title>Champions Cup La Rochelle v Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959755?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022093000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2011 - Italy v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022093000 +0000" stop="20261022112000 +0000" channel="125">
+    <title>Champions Cup Connacht v Saracens</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022112000 +0000" stop="20261022131000 +0000" channel="125">
+    <title>Bledisloe Cup New Zealand v Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953936?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

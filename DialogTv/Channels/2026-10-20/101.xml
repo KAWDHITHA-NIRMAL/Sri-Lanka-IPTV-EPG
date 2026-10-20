@@ -3,46 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261016183000 +0000" stop="20261016193000 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016214200 +0000" channel="101">
-    <title>Samar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951042?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016214200 +0000" stop="20261016220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016220000 +0000" stop="20261017000000 +0000" channel="101">
-    <title>Captain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955778?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017000000 +0000" stop="20261017023000 +0000" channel="101">
-    <title>Bhairavakottai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957943?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017023000 +0000" stop="20261017045800 +0000" channel="101">
-    <title>Veetla Vishesham</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959250?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017045800 +0000" stop="20261017083400 +0000" channel="101">
-    <title>Kantara: A Legend Chapter-1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958976?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017083400 +0000" stop="20261017103300 +0000" channel="101">
-    <title>Dhuruvangal Pathinaaru</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951037?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017103300 +0000" stop="20261017130700 +0000" channel="101">
     <title>Maargan</title>
     <desc />
@@ -296,5 +256,40 @@
     <title>Free Ticket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021220000 +0000" channel="101">
+    <title>Ace</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="101">
+    <title>Raja Ranguski</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261022023000 +0000" channel="101">
+    <title>Junga</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959491?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022023000 +0000" stop="20261022050000 +0000" channel="101">
+    <title>Boomerang</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959492?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022080000 +0000" channel="101">
+    <title>Akhanda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959493?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022080000 +0000" stop="20261022100000 +0000" channel="101">
+    <title>Oru Pakka Kathai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022123000 +0000" channel="101">
+    <title>Cocktail</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959495?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

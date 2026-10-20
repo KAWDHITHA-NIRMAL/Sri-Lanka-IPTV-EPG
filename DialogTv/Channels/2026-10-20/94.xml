@@ -3,66 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261016163000 +0000" stop="20261016193000 +0000" channel="94">
-    <title>Parambarai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016203000 +0000" channel="94">
-    <title>Hit List</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016203000 +0000" stop="20261016233000 +0000" channel="94">
-    <title>Kannadi Pookkal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016233000 +0000" stop="20261017000000 +0000" channel="94">
-    <title>Suprabhatam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950808?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017000000 +0000" stop="20261017003000 +0000" channel="94">
-    <title>Kandhashastikavasam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017003000 +0000" stop="20261017010000 +0000" channel="94">
-    <title>Arul Neram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951639?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017010000 +0000" stop="20261017013000 +0000" channel="94">
-    <title>Ttd Navarathiri Brahmostvam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957744?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017013000 +0000" stop="20261017030000 +0000" channel="94">
-    <title>Kalakkal Kaalai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950809?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017030000 +0000" stop="20261017033000 +0000" channel="94">
-    <title>Pesum Padam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952448?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017033000 +0000" stop="20261017043000 +0000" channel="94">
-    <title>Sani Bhagavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017043000 +0000" stop="20261017073000 +0000" channel="94">
-    <title>Jannal Oram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957756?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017073000 +0000" stop="20261017103000 +0000" channel="94">
-    <title>Kakka Kakka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957757?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017103000 +0000" stop="20261017123000 +0000" channel="94">
     <title>Mazhai</title>
     <desc />
@@ -316,6 +256,7 @@
   <programme start="20261020013000 +0000" stop="20261020023000 +0000" channel="94">
     <title>Deviyar Mahimai</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960014?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020023000 +0000" stop="20261020033000 +0000" channel="94">
     <title>Sirappu Kalai Malar</title>
@@ -335,6 +276,7 @@
   <programme start="20261020073000 +0000" stop="20261020083000 +0000" channel="94">
     <title>Endrendrum Punnagai</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960019?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020083000 +0000" stop="20261020113000 +0000" channel="94">
     <title>Baahubali</title>
@@ -344,6 +286,7 @@
   <programme start="20261020113000 +0000" stop="20261020123000 +0000" channel="94">
     <title>Azhgiya Haiku</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960084?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261020123000 +0000" stop="20261020130000 +0000" channel="94">
     <title>News</title>
@@ -474,5 +417,65 @@
     <title>Namma Ooru Rasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959803?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021203000 +0000" stop="20261021233000 +0000" channel="94">
+    <title>Vietnam Colony</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959802?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021233000 +0000" stop="20261022000000 +0000" channel="94">
+    <title>Suprabhatam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950808?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="94">
+    <title>Kandhashastikavasam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951067?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022003000 +0000" stop="20261022013000 +0000" channel="94">
+    <title>Arul Neram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022013000 +0000" stop="20261022030000 +0000" channel="94">
+    <title>Kalakkal Kaalai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950809?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022030000 +0000" stop="20261022033000 +0000" channel="94">
+    <title>Pesum Padam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022033000 +0000" stop="20261022043000 +0000" channel="94">
+    <title>Thenkinnam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952098?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022043000 +0000" stop="20261022073000 +0000" channel="94">
+    <title>Aanazhagan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959804?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022073000 +0000" stop="20261022080000 +0000" channel="94">
+    <title>Enna Samaiyalo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953261?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022080000 +0000" stop="20261022113000 +0000" channel="94">
+    <title>Raja Durai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959805?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022113000 +0000" stop="20261022120000 +0000" channel="94">
+    <title>Kaimanam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952312?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

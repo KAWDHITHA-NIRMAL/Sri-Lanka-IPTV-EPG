@@ -3,50 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261016182500 +0000" stop="20261016200000 +0000" channel="117">
-    <title>Dracula Iii: Legacy</title>
-    <desc />
-  </programme>
-  <programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="117">
-    <title>M3Gan 2.0</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955366?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016220000 +0000" stop="20261016233500 +0000" channel="117">
-    <title>Starter For 10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955707?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016233500 +0000" stop="20261017005500 +0000" channel="117">
-    <title>Scary Movie 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954373?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017005500 +0000" stop="20261017022000 +0000" channel="117">
-    <title>A.C.O.D.</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017022000 +0000" stop="20261017042500 +0000" channel="117">
-    <title>Jurassic Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957060?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017042500 +0000" stop="20261017061000 +0000" channel="117">
-    <title>Wanted</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957811?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017061000 +0000" stop="20261017085000 +0000" channel="117">
-    <title>Path To War</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017085000 +0000" stop="20261017102500 +0000" channel="117">
-    <title>The Gathering Storm</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/884648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017102500 +0000" stop="20261017120000 +0000" channel="117">
     <title>Journey 2: The Mysterious Island</title>
     <desc />
@@ -351,5 +307,60 @@
     <title>The Ruins</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021191500 +0000" stop="20261021204000 +0000" channel="117">
+    <title>Scary Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953951?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021204000 +0000" stop="20261021220000 +0000" channel="117">
+    <title>Scary Movie 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954372?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021220000 +0000" stop="20261021234000 +0000" channel="117">
+    <title>The Late Shift</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955215?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021234000 +0000" stop="20261022012500 +0000" channel="117">
+    <title>Man With No Past</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958787?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022012500 +0000" stop="20261022030500 +0000" channel="117">
+    <title>Changing Lanes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954799?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022030500 +0000" stop="20261022045000 +0000" channel="117">
+    <title>Imagine That</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022045000 +0000" stop="20261022061500 +0000" channel="117">
+    <title>Jungleland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955038?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022061500 +0000" stop="20261022075500 +0000" channel="117">
+    <title>Game Night</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958786?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022075500 +0000" stop="20261022082000 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022082000 +0000" stop="20261022100000 +0000" channel="117">
+    <title>Too Big To Fail</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957810?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022121000 +0000" channel="117">
+    <title>61*</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

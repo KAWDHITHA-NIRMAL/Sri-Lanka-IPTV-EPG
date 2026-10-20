@@ -3,36 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261016180300 +0000" stop="20261016202000 +0000" channel="91">
-    <title>Dhoom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958973?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016202000 +0000" stop="20261016223000 +0000" channel="91">
-    <title>Roohi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958647?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016223000 +0000" stop="20261017023000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017023000 +0000" stop="20261017041900 +0000" channel="91">
-    <title>Lamhe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959223?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017041900 +0000" stop="20261017072300 +0000" channel="91">
-    <title>Jaisi Karni Waisi Bharni</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017072300 +0000" stop="20261017102900 +0000" channel="91">
-    <title>Tumse Acha Kaun Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959247?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017102900 +0000" stop="20261017142500 +0000" channel="91">
     <title>Mann</title>
     <desc />
@@ -138,72 +108,107 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261020033000 +0000" stop="20261020063000 +0000" channel="91">
+  <programme start="20261020033000 +0000" stop="20261020045400 +0000" channel="91">
+    <title>Yamla Pagla Deewana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959925?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020045400 +0000" stop="20261020080100 +0000" channel="91">
+    <title>Seetharamam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020080100 +0000" stop="20261020111600 +0000" channel="91">
+    <title>Kyo Kii Main Jhuth Nahin Bolta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020111600 +0000" stop="20261020142500 +0000" channel="91">
+    <title>Banjaran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020142500 +0000" stop="20261020184500 +0000" channel="91">
+    <title>Kabhi Khushi Kabhie Gham</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020184500 +0000" stop="20261020205800 +0000" channel="91">
+    <title>De De Pyaar De</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959974?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020205800 +0000" stop="20261020220000 +0000" channel="91">
+    <title>Team 5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959975?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020220000 +0000" stop="20261020233800 +0000" channel="91">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960107?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261020233800 +0000" stop="20261021015500 +0000" channel="91">
+    <title>Saathiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021015500 +0000" stop="20261021042200 +0000" channel="91">
+    <title>Stree</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957488?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021042200 +0000" stop="20261021072600 +0000" channel="91">
+    <title>Jamai Raja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959977?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021072600 +0000" stop="20261021105900 +0000" channel="91">
+    <title>Dil Hai Tumhaara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959978?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021105900 +0000" stop="20261021142500 +0000" channel="91">
+    <title>Mere Yaar Ki Shaadi Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021142500 +0000" stop="20261021173200 +0000" channel="91">
+    <title>Aaina</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959980?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021173200 +0000" stop="20261021201400 +0000" channel="91">
+    <title>Gunday</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021201400 +0000" stop="20261021213000 +0000" channel="91">
+    <title>Aksar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960108?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261022003000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261020063000 +0000" stop="20261020093000 +0000" channel="91">
+  <programme start="20261022003000 +0000" stop="20261022033000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261020093000 +0000" stop="20261020123000 +0000" channel="91">
+  <programme start="20261022033000 +0000" stop="20261022063000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261020123000 +0000" stop="20261020153000 +0000" channel="91">
+  <programme start="20261022063000 +0000" stop="20261022093000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261020153000 +0000" stop="20261020183000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261020183000 +0000" stop="20261020213000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261020213000 +0000" stop="20261021003000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021003000 +0000" stop="20261021033000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021033000 +0000" stop="20261021063000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021063000 +0000" stop="20261021093000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021093000 +0000" stop="20261021123000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021123000 +0000" stop="20261021153000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021153000 +0000" stop="20261021183000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021183000 +0000" stop="20261021213000 +0000" channel="91">
+  <programme start="20261022093000 +0000" stop="20261022123000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />

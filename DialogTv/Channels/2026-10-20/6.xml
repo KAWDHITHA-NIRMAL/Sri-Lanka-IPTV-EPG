@@ -3,61 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261016183000 +0000" stop="20261016230500 +0000" channel="6">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261016230500 +0000" stop="20261017005500 +0000" channel="6">
-    <title>Dahami Derana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017005500 +0000" stop="20261017020000 +0000" channel="6">
-    <title>Derana Aruna Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956760?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="6">
-    <title>Lokaya Saha Lokayo Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956293?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017023000 +0000" stop="20261017033000 +0000" channel="6">
-    <title>Boss Baby</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957178?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017033000 +0000" stop="20261017043000 +0000" channel="6">
-    <title>Bakery Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/69239?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017043000 +0000" stop="20261017053000 +0000" channel="6">
-    <title>Kolamba Kattiya Methek Kathawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017053000 +0000" stop="20261017063000 +0000" channel="6">
-    <title>Dishyum Dishyum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957974?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017063000 +0000" stop="20261017071000 +0000" channel="6">
-    <title>Mid-Day News Bulletin Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017071000 +0000" stop="20261017100000 +0000" channel="6">
-    <title>Kshama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017100000 +0000" stop="20261017112500 +0000" channel="6">
-    <title>Tea Party</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956765?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261017112500 +0000" stop="20261017122500 +0000" channel="6">
     <title>Movie</title>
     <desc />
@@ -602,5 +547,80 @@
     <title>Filler</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261021230500 +0000" stop="20261022005500 +0000" channel="6">
+    <title>Dahami Derana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022005500 +0000" stop="20261022020000 +0000" channel="6">
+    <title>Derana Aruna Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956760?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022020000 +0000" stop="20261022023000 +0000" channel="6">
+    <title>Lokaya Saha Lokayo Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956293?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022023000 +0000" stop="20261022033000 +0000" channel="6">
+    <title>Kollai Ballai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938983?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="6">
+    <title>Iskole</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022040000 +0000" stop="20261022043000 +0000" channel="6">
+    <title>Sangeethe S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957171?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022043000 +0000" stop="20261022050000 +0000" channel="6">
+    <title>Husmak Lagin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/754147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022053000 +0000" channel="6">
+    <title>Kolamba Kattiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="6">
+    <title>Man Adarei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956762?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022060000 +0000" stop="20261022063000 +0000" channel="6">
+    <title>Seda Mawatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/175540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022063000 +0000" stop="20261022071000 +0000" channel="6">
+    <title>Mid-Day News Bulletin Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/768122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022071000 +0000" stop="20261022103000 +0000" channel="6">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022103000 +0000" stop="20261022105500 +0000" channel="6">
+    <title>Soortin Martin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022105500 +0000" stop="20261022112500 +0000" channel="6">
+    <title>Zoom The White Dolphin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957168?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022112500 +0000" stop="20261022115500 +0000" channel="6">
+    <title>Amuthu Pasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956761?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
