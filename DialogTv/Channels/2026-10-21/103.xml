@@ -3,16 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="103">
-    <title>G6 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956951?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="103">
-    <title>G7 Science</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="103">
     <title>G8 Science</title>
     <desc />
@@ -692,5 +682,15 @@
     <title>G7 ICT</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023120000 +0000" channel="103">
+    <title>G8 ICT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="103">
+    <title>Nirmana kauluwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957456?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261018104600 +0000" stop="20261018114200 +0000" channel="55">
-    <title>Rainforest Rewild</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950588?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018114200 +0000" stop="20261018123800 +0000" channel="55">
     <title>Hot Life Africa</title>
     <desc />
@@ -701,5 +696,15 @@
     <title>Brotherhood Of Lions</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959085?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023111600 +0000" stop="20261023120800 +0000" channel="55">
+    <title>Wild Cats</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120800 +0000" stop="20261023123800 +0000" channel="55">
+    <title>Jewels Of The Natural World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952359?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

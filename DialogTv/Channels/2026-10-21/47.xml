@@ -3,11 +3,6 @@
   <channel id="47">
     <display-name>Channel 53</display-name>
   </channel>
-  <programme start="20261018093000 +0000" stop="20261018110000 +0000" channel="47">
-    <title>Ben 10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/70243?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018110000 +0000" stop="20261018123000 +0000" channel="47">
     <title>We Bare Bears</title>
     <desc />
@@ -617,5 +612,10 @@
     <title>Regular Show</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950055?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023123000 +0000" channel="47">
+    <title>Teen Titans Go</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950049?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

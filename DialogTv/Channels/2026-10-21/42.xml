@@ -3,11 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018110000 +0000" stop="20261018140000 +0000" channel="42">
     <title>Sunday Selection</title>
     <desc />
@@ -287,5 +282,10 @@
     <title>Hall Of Fame</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023150000 +0000" channel="42">
+    <title>Afternoon Overture</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956791?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

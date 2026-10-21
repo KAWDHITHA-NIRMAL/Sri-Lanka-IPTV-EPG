@@ -3,11 +3,6 @@
   <channel id="12">
     <display-name>Channel 26</display-name>
   </channel>
-  <programme start="20261018093000 +0000" stop="20261018113000 +0000" channel="12">
-    <title>Itin Itin Kohomada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958022?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018113000 +0000" stop="20261018123000 +0000" channel="12">
     <title>Gold Viral</title>
     <desc />
@@ -685,5 +680,15 @@
     <title>Horrid Henry - Kidz Cartoon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959399?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="12">
+    <title>Polly Pocket - Kidz Cartoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959400?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023123000 +0000" channel="12">
+    <title>The Most Dangerous Ways To School - Dayakatwa Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

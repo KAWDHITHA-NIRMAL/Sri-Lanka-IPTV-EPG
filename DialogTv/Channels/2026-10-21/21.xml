@@ -3,16 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="21">
-    <title>Fun &amp; Learning For Kids</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957298?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018113100 +0000" channel="21">
-    <title>Upandina Suba Pathum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957302?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018113100 +0000" stop="20261018123100 +0000" channel="21">
     <title>Sasuna</title>
     <desc />
@@ -807,5 +797,25 @@
     <title>Tec Evolution</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952114?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113200 +0000" stop="20261023113300 +0000" channel="21">
+    <title>Sirith Maldama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957928?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113300 +0000" stop="20261023113400 +0000" channel="21">
+    <title>Upandina Suba Pathum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957302?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113400 +0000" stop="20261023120400 +0000" channel="21">
+    <title>Fun &amp; Learning For Kids</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120400 +0000" stop="20261023123400 +0000" channel="21">
+    <title>Fun &amp; Learning For Kids</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957298?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

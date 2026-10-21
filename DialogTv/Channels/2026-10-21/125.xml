@@ -3,10 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261018094000 +0000" stop="20261018113000 +0000" channel="125">
-    <title>Champions Cup Clermont Auvegne v Leinster</title>
-    <desc />
-  </programme>
   <programme start="20261018113000 +0000" stop="20261018140500 +0000" channel="125">
     <title>LIVE Champions Cup Pau v Leicester</title>
     <desc />
@@ -480,5 +476,15 @@
   <programme start="20261023085000 +0000" stop="20261023110000 +0000" channel="125">
     <title>Live RLWC26 Tonga v Lebanon</title>
     <desc />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1975 - Wales v Ireland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023132000 +0000" channel="125">
+    <title>Champions Cup Northampton v Cardiff</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959835?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

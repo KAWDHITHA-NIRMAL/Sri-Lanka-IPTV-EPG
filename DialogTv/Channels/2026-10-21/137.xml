@@ -3,21 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018110000 +0000" channel="137">
-    <title>Beyond Borders</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953191?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018113000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="137">
-    <title>Inside America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="137">
     <title>News</title>
     <desc />
@@ -1157,5 +1142,20 @@
     <title>Just 2 Degrees</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="137">
+    <title>The Newsmakers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="137">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

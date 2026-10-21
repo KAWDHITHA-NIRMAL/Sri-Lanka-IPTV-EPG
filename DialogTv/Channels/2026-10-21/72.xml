@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261018100000 +0000" stop="20261018120000 +0000" channel="72">
-    <title>Foxter And Max</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018140000 +0000" channel="72">
     <title>Runner, Runner</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Unfinished Business</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023140000 +0000" channel="72">
+    <title>Crank 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959286?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

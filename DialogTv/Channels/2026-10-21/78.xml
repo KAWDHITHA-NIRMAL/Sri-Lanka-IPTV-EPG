@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="78">
-    <title>North And South Book II</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018113000 +0000" stop="20261018123000 +0000" channel="78">
     <title>North And South Book II</title>
     <desc />
@@ -732,5 +727,15 @@
     <title>ALF S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956853?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023120000 +0000" channel="78">
+    <title>Mission Impossible S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956855?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="78">
+    <title>The Twilight Zone S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956852?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

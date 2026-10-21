@@ -3,16 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="27">
-    <title>Sampasadhini</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018121000 +0000" channel="27">
-    <title>Punchi Ape Shraddha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952871?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018121000 +0000" stop="20261018130000 +0000" channel="27">
     <title>Sathbudhu Wandanawa</title>
     <desc />
@@ -602,5 +592,10 @@
     <title>Sampasadhini</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023122000 +0000" channel="27">
+    <title>Wesak Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

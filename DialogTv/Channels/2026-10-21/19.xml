@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261018083000 +0000" stop="20261018113000 +0000" channel="19">
-    <title>Dhawala Kadulla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018113000 +0000" stop="20261018143000 +0000" channel="19">
     <title>Mahogaya</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Rathriya Wee</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023143000 +0000" channel="19">
+    <title>Swetha Gantheera</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958209?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

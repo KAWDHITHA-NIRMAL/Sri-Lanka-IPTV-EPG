@@ -3,21 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018112500 +0000" channel="4">
-    <title>Funny World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957247?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018112500 +0000" stop="20261018113000 +0000" channel="4">
-    <title>News Update</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018121500 +0000" channel="4">
-    <title>Tom &amp; Jerry</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951973?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018121500 +0000" stop="20261018122500 +0000" channel="4">
     <title>Seda Harasara</title>
     <desc />
@@ -919,5 +904,25 @@
     <title>Rhythem Of India Rhy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023112500 +0000" channel="4">
+    <title>Gagana Piyawara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957236?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023112500 +0000" stop="20261023113000 +0000" channel="4">
+    <title>News Update</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="4">
+    <title>Prabashwara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023122500 +0000" channel="4">
+    <title>Denumai Wasanawai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952203?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

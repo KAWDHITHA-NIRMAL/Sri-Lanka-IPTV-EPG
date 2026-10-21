@@ -3,11 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261018105500 +0000" stop="20261018112500 +0000" channel="6">
-    <title>Hithaganna Bari Kathawak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956316?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018112500 +0000" stop="20261018122500 +0000" channel="6">
     <title>Movie</title>
     <desc />
@@ -657,5 +652,15 @@
     <title>Zoom The White Dolphin</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957168?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023112500 +0000" stop="20261023115500 +0000" channel="6">
+    <title>Amuthu Pasala</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023115500 +0000" stop="20261023122500 +0000" channel="6">
+    <title>Life With Derek</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954659?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

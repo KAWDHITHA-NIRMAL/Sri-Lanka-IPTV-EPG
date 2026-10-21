@@ -3,15 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261018093000 +0000" stop="20261018111000 +0000" channel="31">
-    <title>Wash My Soul In The River's Flow</title>
-    <desc />
-  </programme>
-  <programme start="20261018111000 +0000" stop="20261018120000 +0000" channel="31">
-    <title>Four Corners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="31">
     <title>Foreign Correspondent</title>
     <desc />
@@ -714,5 +705,15 @@
     <title>Girls Can't Surf</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959075?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023114000 +0000" stop="20261023121500 +0000" channel="31">
+    <title>Our Medicine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023121500 +0000" stop="20261023123000 +0000" channel="31">
+    <title>ABC Late News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956378?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

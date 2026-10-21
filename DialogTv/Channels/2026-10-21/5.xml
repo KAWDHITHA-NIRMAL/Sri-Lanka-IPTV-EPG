@@ -3,16 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="5">
-    <title>Aarokkiyam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="5">
-    <title>Aadukalam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957185?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="5">
     <title>Pon Maalai Pozhudu</title>
     <desc />
@@ -602,5 +592,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023123000 +0000" channel="5">
+    <title>Music X Press Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957094?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="140">
     <display-name>Channel 2381</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="140">
-    <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="140">
-    <title>Asian Games 2026 Cricket (W) Gold Medal Match - India vs Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="140">
     <title>Asian Games 2026 Cricket (M) Gold Medal Match - India vs Pakistan</title>
     <desc />
@@ -747,5 +737,14 @@
     <title>Asian Games 2026 Kabaddi (W) Gold Medal Match - India vs Iran Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954688?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023120000 +0000" channel="140">
+    <title>New Zealand vs India 2026 - 1st T20I Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="140">
+    <title>Asian Games 2026 Cricket (M) Gold Medal Match - India vs Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956818?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

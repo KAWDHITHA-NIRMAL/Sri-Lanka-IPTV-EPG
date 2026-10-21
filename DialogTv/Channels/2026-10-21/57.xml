@@ -3,11 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="57">
-    <title>Curse of the Bermuda Triangle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/871775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018113000 +0000" stop="20261018123000 +0000" channel="57">
     <title>Ancient Unexplained Files</title>
     <desc />
@@ -672,5 +667,10 @@
     <title>Expedition X</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023123000 +0000" channel="57">
+    <title>Houdini's Last Secrets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950280?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

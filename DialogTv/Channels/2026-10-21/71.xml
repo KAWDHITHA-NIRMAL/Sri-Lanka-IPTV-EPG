@@ -3,11 +3,6 @@
   <channel id="71">
     <display-name>Channel 78</display-name>
   </channel>
-  <programme start="20261018094000 +0000" stop="20261018110000 +0000" channel="71">
-    <title>The Rugrats Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958172?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018110000 +0000" stop="20261018122000 +0000" channel="71">
     <title>Rugrats In Paris: The Movie</title>
     <desc />
@@ -1227,5 +1222,10 @@
     <title>Despicable Me 3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954016?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023121000 +0000" stop="20261023140000 +0000" channel="71">
+    <title>Bad News Bears</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959294?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

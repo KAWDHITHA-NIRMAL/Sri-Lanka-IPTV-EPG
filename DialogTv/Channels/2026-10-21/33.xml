@@ -3,21 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261018101500 +0000" stop="20261018110000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="33">
-    <title>Zoom in</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958000?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018121500 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018121500 +0000" stop="20261018130000 +0000" channel="33">
     <title>China 24</title>
     <desc />
@@ -1137,5 +1122,25 @@
     <title>Africa Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023113000 +0000" channel="33">
+    <title>Asia Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956423?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="33">
+    <title>Dialogue</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956281?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023121500 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023121500 +0000" stop="20261023130000 +0000" channel="33">
+    <title>China 24</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956680?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

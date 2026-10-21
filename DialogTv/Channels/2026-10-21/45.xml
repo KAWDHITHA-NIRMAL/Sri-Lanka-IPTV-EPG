@@ -3,21 +3,6 @@
   <channel id="45">
     <display-name>Channel 51</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018110000 +0000" channel="45">
-    <title>Junior Vets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952731?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018110000 +0000" stop="20261018112400 +0000" channel="45">
-    <title>Becoming Xtraordinary Presented By Bear Grylls</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018112400 +0000" stop="20261018114800 +0000" channel="45">
-    <title>Becoming Xtraordinary Presented By Bear Grylls</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952728?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018114800 +0000" stop="20261018122100 +0000" channel="45">
     <title>Ice Stars</title>
     <desc />
@@ -2737,5 +2722,25 @@
     <title>Operation Ouch!</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952726?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023112400 +0000" stop="20261023112700 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956362?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023112700 +0000" stop="20261023113300 +0000" channel="45">
+    <title>ScienceXplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956362?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023113300 +0000" stop="20261023120000 +0000" channel="45">
+    <title>Gym Stars</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023122700 +0000" channel="45">
+    <title>Becoming Xtraordinary Presented By Bear Grylls</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952728?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

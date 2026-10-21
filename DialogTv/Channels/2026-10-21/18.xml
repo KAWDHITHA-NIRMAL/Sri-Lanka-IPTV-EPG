@@ -3,11 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261018093000 +0000" stop="20261018120000 +0000" channel="18">
-    <title>Kaala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952816?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="18">
     <title>Sabanda Pabiliss</title>
     <desc />
@@ -607,5 +602,10 @@
     <title>Dr Nawariyan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953140?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
