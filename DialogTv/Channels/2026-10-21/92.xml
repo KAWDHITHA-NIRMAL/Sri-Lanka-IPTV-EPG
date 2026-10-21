@@ -3,16 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261018120000 +0000" stop="20261018150000 +0000" channel="92">
-    <title>Love Hostel</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957041?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018150000 +0000" stop="20261018180000 +0000" channel="92">
-    <title>Talaash: The Answer Lies Within</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956922?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018180000 +0000" stop="20261018210000 +0000" channel="92">
     <title>Nafrat Ki Aandhi</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>God Tussi Great Ho</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959310?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023180000 +0000" channel="92">
+    <title>Jodi No.1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958766?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023210000 +0000" channel="92">
+    <title>Loafer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958765?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

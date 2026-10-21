@@ -3,41 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261018103000 +0000" stop="20261018123000 +0000" channel="94">
-    <title>En Aasai Machaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="94">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="94">
-    <title>Nalam Tharum Navarathiri</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018133000 +0000" stop="20261018143000 +0000" channel="94">
-    <title>En Aasai Machaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957763?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018143000 +0000" stop="20261018160000 +0000" channel="94">
-    <title>Jackpot</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951070?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="94">
-    <title>Show Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018163000 +0000" stop="20261018170000 +0000" channel="94">
-    <title>Palayathu Amman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957760?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="94">
     <title>Sachin</title>
     <desc />
@@ -487,5 +452,20 @@
     <title>Gamma Gamma Malai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952418?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023130000 +0000" channel="94">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023130000 +0000" stop="20261023163000 +0000" channel="94">
+    <title>Ullathai Allitha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959808?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023193000 +0000" channel="94">
+    <title>Manikuil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959807?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

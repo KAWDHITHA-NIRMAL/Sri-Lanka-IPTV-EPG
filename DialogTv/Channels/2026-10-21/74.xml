@@ -3,26 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261018102500 +0000" stop="20261018123400 +0000" channel="74">
-    <title>Godzilla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959039?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018123400 +0000" stop="20261018141000 +0000" channel="74">
-    <title>You Don'T Mess With The Zohan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018141000 +0000" stop="20261018153000 +0000" channel="74">
-    <title>Brightburn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958429?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018153000 +0000" stop="20261018170700 +0000" channel="74">
-    <title>Venom: The Last Dance</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952152?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018170700 +0000" stop="20261018191000 +0000" channel="74">
     <title>The Equalizer</title>
     <desc />
@@ -362,5 +342,20 @@
     <title>Bullet Train</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958428?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023153000 +0000" channel="74">
+    <title>Jumanji: The Next Level</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960137?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023173800 +0000" channel="74">
+    <title>Spider-Man: Homecoming</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957341?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023173800 +0000" stop="20261023192900 +0000" channel="74">
+    <title>The Pursuit Of Happyness</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959064?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

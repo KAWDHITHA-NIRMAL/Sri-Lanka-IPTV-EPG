@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261018110000 +0000" stop="20261018140000 +0000" channel="90">
-    <title>Mela</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956920?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018170000 +0000" channel="90">
-    <title>Antim Nyay</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="90">
     <title>Action Time</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Ek Se Bure Do</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959314?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023140000 +0000" stop="20261023170000 +0000" channel="90">
+    <title>Taqdeer Ka Tamasha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954737?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023200000 +0000" channel="90">
+    <title>Khakee: The Real Police</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959315?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

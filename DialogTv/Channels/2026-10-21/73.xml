@@ -3,15 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261018120000 +0000" stop="20261018141500 +0000" channel="73">
-    <title>Gone Baby Gone</title>
-    <desc />
-  </programme>
-  <programme start="20261018141500 +0000" stop="20261018163000 +0000" channel="73">
-    <title>The Frighteners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957519?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018163000 +0000" stop="20261018184500 +0000" channel="73">
     <title>The Ring</title>
     <desc />
@@ -273,5 +264,20 @@
     <title>A Place In The Sun</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023141500 +0000" stop="20261023163000 +0000" channel="73">
+    <title>Gone Baby Gone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959781?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023181500 +0000" channel="73">
+    <title>Xanadu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023181500 +0000" stop="20261023201500 +0000" channel="73">
+    <title>Tarantula</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959288?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

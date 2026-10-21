@@ -3,14 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261018113000 +0000" stop="20261018140500 +0000" channel="125">
-    <title>LIVE Champions Cup Pau v Leicester</title>
-    <desc />
-  </programme>
-  <programme start="20261018140500 +0000" stop="20261018163000 +0000" channel="125">
-    <title>LIVE Champions Cup Toulouse v Exeter</title>
-    <desc />
-  </programme>
   <programme start="20261018163000 +0000" stop="20261018191500 +0000" channel="125">
     <title>LIVE Champions Cup Northampton v Cardiff</title>
     <desc />
@@ -486,5 +478,28 @@
     <title>Champions Cup Northampton v Cardiff</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959835?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023132000 +0000" stop="20261023133000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023152000 +0000" channel="125">
+    <title>RLWC26 Tonga v Lebanon</title>
+    <desc />
+  </programme>
+  <programme start="20261023152000 +0000" stop="20261023171000 +0000" channel="125">
+    <title>Women's RLWC 2026 Samoa v Wales</title>
+    <desc />
+  </programme>
+  <programme start="20261023171000 +0000" stop="20261023181000 +0000" channel="125">
+    <title>URC in 60 Round 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023181000 +0000" stop="20261023184000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

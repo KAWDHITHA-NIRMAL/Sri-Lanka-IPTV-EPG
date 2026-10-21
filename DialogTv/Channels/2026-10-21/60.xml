@@ -3,41 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261018121200 +0000" stop="20261018125800 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018125800 +0000" stop="20261018134700 +0000" channel="60">
-    <title>War Of The Lions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018134700 +0000" stop="20261018144000 +0000" channel="60">
-    <title>Africa's Wild Geniuses</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/791188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018144000 +0000" stop="20261018153400 +0000" channel="60">
-    <title>Wild Botswana: Lion Brotherhood</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018153400 +0000" stop="20261018162100 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018162100 +0000" stop="20261018170700 +0000" channel="60">
-    <title>Tales From Wildlands</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018170700 +0000" stop="20261018175100 +0000" channel="60">
-    <title>Big Cat Odyssey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018175100 +0000" stop="20261018183600 +0000" channel="60">
     <title>Africa's Deadliest</title>
     <desc />
@@ -727,5 +692,45 @@
     <title>Kings Of The Wild</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023133000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023143000 +0000" channel="60">
+    <title>The Way Of The Cheetah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023143000 +0000" stop="20261023153000 +0000" channel="60">
+    <title>Lion Battle Zone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950484?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023163000 +0000" channel="60">
+    <title>Africa's Deadliest</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023170000 +0000" channel="60">
+    <title>Extreme Animal Transport</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023173000 +0000" channel="60">
+    <title>Life in the Animal Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955318?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023173000 +0000" stop="20261023180000 +0000" channel="60">
+    <title>Cheetahs Up Close With Bertie Gregory</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/916244?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023183100 +0000" channel="60">
+    <title>Killer Safari</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

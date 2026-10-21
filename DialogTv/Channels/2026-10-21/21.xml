@@ -3,46 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20261018113100 +0000" stop="20261018123100 +0000" channel="21">
-    <title>Sasuna</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/172600?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018123100 +0000" stop="20261018130100 +0000" channel="21">
-    <title>Buddha Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018130100 +0000" stop="20261018140100 +0000" channel="21">
-    <title>Sadaham Amadahara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956597?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018140100 +0000" stop="20261018150100 +0000" channel="21">
-    <title>Dharma Sakachchawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018150100 +0000" stop="20261018153800 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956526?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018153800 +0000" stop="20261018161500 +0000" channel="21">
-    <title>Mihikathage Daruwo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956526?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018161500 +0000" stop="20261018165500 +0000" channel="21">
-    <title>Gramerfone Song</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/61705?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018165500 +0000" stop="20261018183000 +0000" channel="21">
-    <title>Sarwa  Rathrika Prith Vikashaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957295?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018183000 +0000" stop="20261018213000 +0000" channel="21">
     <title>Sarwa  Rathrika Prith Vikashaya</title>
     <desc />
@@ -817,5 +777,40 @@
     <title>Fun &amp; Learning For Kids</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023123400 +0000" stop="20261023130400 +0000" channel="21">
+    <title>Buddha Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50445?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023130400 +0000" stop="20261023140400 +0000" channel="21">
+    <title>Sadaham Amadahara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956597?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023140400 +0000" stop="20261023143400 +0000" channel="21">
+    <title>Mihikathage Daruwo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956526?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023143400 +0000" stop="20261023150400 +0000" channel="21">
+    <title>Dhamma Padayen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958150?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023150400 +0000" stop="20261023170400 +0000" channel="21">
+    <title>Ninnadha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957816?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023170400 +0000" stop="20261023183000 +0000" channel="21">
+    <title>Sarwa  Rathrika Prith Vikashaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023183000 +0000" stop="20261023213000 +0000" channel="21">
+    <title>Sarwa  Rathrika Prith Vikashaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957295?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

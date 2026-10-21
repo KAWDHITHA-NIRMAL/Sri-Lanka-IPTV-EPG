@@ -3,31 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261018103500 +0000" stop="20261018122000 +0000" channel="75">
-    <title>Grey Gardens</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955861?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018122000 +0000" stop="20261018140000 +0000" channel="75">
-    <title>Wifelike</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957775?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018144500 +0000" channel="75">
-    <title>Dr. Death S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957019?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018144500 +0000" stop="20261018162500 +0000" channel="75">
-    <title>Splitsville</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018162500 +0000" stop="20261018181000 +0000" channel="75">
-    <title>Land Of Gold</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958032?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018181000 +0000" stop="20261018200000 +0000" channel="75">
     <title>Red Sonja</title>
     <desc />
@@ -427,5 +402,20 @@
     <title>American Made</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023140000 +0000" stop="20261023161500 +0000" channel="75">
+    <title>Jurassic World Rebirth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958749?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023161500 +0000" stop="20261023180500 +0000" channel="75">
+    <title>Red Sonja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957579?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023180500 +0000" stop="20261023195000 +0000" channel="75">
+    <title>Prime Minister</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950775?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,46 +3,6 @@
   <channel id="17">
     <display-name>Channel 23</display-name>
   </channel>
-  <programme start="20261018113000 +0000" stop="20261018123000 +0000" channel="17">
-    <title>Colour Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36921?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="17">
-    <title>Theruwan Namadimu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957109?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="17">
-    <title>English Class</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956795?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018133000 +0000" stop="20261018143000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018143000 +0000" stop="20261018153000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018153000 +0000" stop="20261018163000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018163000 +0000" stop="20261018173000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018173000 +0000" stop="20261018183000 +0000" channel="17">
-    <title>Maha Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018183000 +0000" stop="20261018213000 +0000" channel="17">
     <title>TBA</title>
     <desc />
@@ -577,5 +537,40 @@
     <title>Junior Sky</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023130000 +0000" channel="17">
+    <title>Theruwan Namadimu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957109?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023130000 +0000" stop="20261023133000 +0000" channel="17">
+    <title>English Class</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023143000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023143000 +0000" stop="20261023153000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023173000 +0000" channel="17">
+    <title>Nena Paura</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958058?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023173000 +0000" stop="20261023183000 +0000" channel="17">
+    <title>Maha Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023183000 +0000" stop="20261023213000 +0000" channel="17">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
