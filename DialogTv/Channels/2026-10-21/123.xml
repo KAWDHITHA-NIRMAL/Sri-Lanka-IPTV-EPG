@@ -3,48 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261017183000 +0000" stop="20261017203000 +0000" channel="123">
-    <title>UEFA Champions League 2026/27 LASK vs Liverpool</title>
-    <desc />
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017213000 +0000" channel="123">
-    <title>UEL 2026-27 Highlightss:League Phase MD2</title>
-    <desc />
-  </programme>
-  <programme start="20261017213000 +0000" stop="20261017223000 +0000" channel="123">
-    <title>UFC FIGHT O'CLOCK 2.0 - LIGHTWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017223000 +0000" stop="20261017233000 +0000" channel="123">
-    <title>UFC Fight Night - Allen vs Duncan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261017233000 +0000" stop="20261018000000 +0000" channel="123">
-    <title>UFC Connected</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018000000 +0000" stop="20261018030000 +0000" channel="123">
-    <title>Live UFC Fight Night - Buckley vs Malott</title>
-    <desc />
-  </programme>
-  <programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="123">
-    <title>UCL 2026-27 : League Phase MD 2 - MN Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 2 Atletico Madrid vs Man United Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956820?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261018043000 +0000" stop="20261018053000 +0000" channel="123">
-    <title>DP World Locker Room 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958910?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261018053000 +0000" stop="20261018110000 +0000" channel="123">
     <title>Live DP World Tour 2026 DP World India Championship</title>
     <desc />
@@ -388,9 +346,10 @@
   <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="123">
     <title>Countdown UFC 333 - Volkanovski vs Evloev</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960179?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="123">
-    <title>DP World Tour 2026 Highlights DP World India Championship (Delhi</title>
+    <title>DP World Tour 2026 Highlights DP World India Championship</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959931?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
@@ -402,6 +361,7 @@
   <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="123">
     <title>UCL 2026-27 League Phase MD 3 Man City vs AEK Athens Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960180?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="123">
     <title>UCL 2026-27 League Phase MD 3 Paris vs Barcelona Highlights</title>
@@ -409,9 +369,9 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959916?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021083000 +0000" stop="20261021093000 +0000" channel="123">
-    <title>UCL 2026-27  : League Phase MD 3- MN Highlights</title>
+    <title>UCL 2026-27 : League Phase MD 3- MN Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959751?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="123">
     <title>UEFA Champions League 2026/27 Paris vs Barcelona</title>
@@ -431,6 +391,7 @@
   <programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="123">
     <title>Live UEFA Youth League 2026/27 Inter Milan vs Shakhter Donetsk</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960181?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021160000 +0000" stop="20261021164500 +0000" channel="123">
     <title>UCL 2026-27 League Phase MD 3 Paris vs Barcelona Highlights</title>
@@ -440,6 +401,7 @@
   <programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="123">
     <title>Live UEFA Champions League 2026/27 Como vs Man United</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960182?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021184500 +0000" stop="20261021190000 +0000" channel="123">
     <title>Snippets</title>
@@ -453,11 +415,12 @@
   <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="123">
     <title>UCL 2026-27 League Phase MD 3 Man City vs AEK Athens Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960180?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021213000 +0000" stop="20261021223000 +0000" channel="123">
-    <title>UCL 2026-27  : League Phase MD 3- MN Highlights</title>
+    <title>UCL 2026-27 : League Phase MD 3- MN Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959751?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261021223000 +0000" stop="20261022003000 +0000" channel="123">
     <title>UEFA Champions League 2026/27 LASK vs Liverpool</title>
@@ -470,7 +433,7 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959579?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261022013000 +0000" stop="20261022020000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 3 Bayern Munchen vs Arsenal  Highlights</title>
+    <title>UCL 2026-27 League Phase MD 3 Bayern Munchen vs Arsenal Highlights</title>
     <desc />
   </programme>
   <programme start="20261022020000 +0000" stop="20261022023000 +0000" channel="123">
@@ -478,8 +441,9 @@
     <desc />
   </programme>
   <programme start="20261022023000 +0000" stop="20261022030000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 3 Como vs Man United  Highlights</title>
+    <title>UCL 2026-27 League Phase MD 3 Como vs Man United Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960183?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261022030000 +0000" stop="20261022080000 +0000" channel="123">
     <title>Live DP World Tour 2026 Genesis Championship</title>
@@ -490,9 +454,9 @@
     <desc />
   </programme>
   <programme start="20261022083000 +0000" stop="20261022093000 +0000" channel="123">
-    <title>UCL 2026-27  : League Phase MD 3 - MN Highlights</title>
+    <title>UCL 2026-27 : League Phase MD 3 - MN Highlights</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959751?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261022093000 +0000" stop="20261022113000 +0000" channel="123">
     <title>UEFA Champions League 2026/27 Real Madrid vs Leipzig</title>
@@ -513,9 +477,10 @@
   <programme start="20261022143000 +0000" stop="20261022150000 +0000" channel="123">
     <title>Countdown UFC 333 - Volkanovski vs Evloev</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960179?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="123">
-    <title>UCL 2026-27 League Phase MD 3 Bayern Munchen vs Arsenal  Highlights</title>
+    <title>UCL 2026-27 League Phase MD 3 Bayern Munchen vs Arsenal Highlights</title>
     <desc />
   </programme>
   <programme start="20261022153000 +0000" stop="20261022164500 +0000" channel="123">
@@ -525,6 +490,62 @@
   </programme>
   <programme start="20261022164500 +0000" stop="20261022184500 +0000" channel="123">
     <title>Live UEFA Europa League 2026/27 Juventus vs Rennes</title>
+    <desc />
+  </programme>
+  <programme start="20261022184500 +0000" stop="20261022190000 +0000" channel="123">
+    <title>Snippets</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022210000 +0000" channel="123">
+    <title>Live UEFA Europa League 2026/27 Bournemouth vs Milan</title>
+    <desc />
+  </programme>
+  <programme start="20261022210000 +0000" stop="20261022213000 +0000" channel="123">
+    <title>UCL 2026-27 League Phase MD 3 Inter vs Shakhtar Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261022213000 +0000" stop="20261022223000 +0000" channel="123">
+    <title>UCL 2026-27 : League Phase MD 3 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261022223000 +0000" stop="20261023003000 +0000" channel="123">
+    <title>UEFA Champions League 2026/27 Man City vs Paris</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958528?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023003000 +0000" stop="20261023013000 +0000" channel="123">
+    <title>UFC Fight Night - Moreno vs Kavanagh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261023013000 +0000" stop="20261023020000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 Juventus vs Rennes Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261023020000 +0000" stop="20261023023000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 OFI Crete vs Leverkusen Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261023023000 +0000" stop="20261023030000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 Juventus vs Rennes Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261023030000 +0000" stop="20261023080000 +0000" channel="123">
+    <title>Live DP World Tour 2026 Genesis Championship</title>
+    <desc />
+  </programme>
+  <programme start="20261023080000 +0000" stop="20261023083000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 Bournemouth vs Milan Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261023083000 +0000" stop="20261023093000 +0000" channel="123">
+    <title>UEL 2026-27 Highlightss :League Phase MD3</title>
+    <desc />
+  </programme>
+  <programme start="20261023093000 +0000" stop="20261023113000 +0000" channel="123">
+    <title>UEFA Europa League 2026/27 Juventus vs Rennes</title>
     <desc />
   </programme>
 </tv>
