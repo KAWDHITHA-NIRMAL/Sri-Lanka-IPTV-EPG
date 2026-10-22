@@ -3,11 +3,6 @@
   <channel id="140">
     <display-name>Channel 2381</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="140">
-    <title>DP World Asia Cup 2025: Super 4 India vs Pakistan Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="140">
     <title>Cricket's Wonder Women - Mandhana Magic</title>
     <desc />
@@ -756,5 +751,10 @@
   <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="140">
     <title>Live UFC 333 - Prelims</title>
     <desc />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024220000 +0000" channel="140">
+    <title>Live UFC 333 - Volkanovski vs Evloev</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960184?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

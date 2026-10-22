@@ -3,11 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="33">
-    <title>Africa Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="33">
     <title>Global Business</title>
     <desc />
@@ -1127,5 +1122,15 @@
     <title>Talk Africa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957742?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="33">
+    <title>Sports Scene</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956426?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="33">
+    <title>Biz Talk</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956573?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="15">
-    <title>Family Hits</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019203000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -561,5 +556,10 @@
     <title>Siyatha Tharu Piri Rea Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952539?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

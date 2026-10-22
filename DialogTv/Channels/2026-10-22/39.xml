@@ -3,16 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="39">
-    <title>Power Lunch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="39">
     <title>Power Lunch</title>
     <desc />
@@ -1062,5 +1052,15 @@
     <title>Late Night with Seth Meyers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="39">
+    <title>The Tech Download</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957582?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="39">
+    <title>CNBC Sport: On The Record</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956420?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

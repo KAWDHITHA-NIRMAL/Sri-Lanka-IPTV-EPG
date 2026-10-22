@@ -3,11 +3,6 @@
   <channel id="32">
     <display-name>Channel 38</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="32">
-    <title>BBC World News America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953063?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="32">
     <title>BBC News</title>
     <desc />
@@ -1302,5 +1297,15 @@
     <title>TBA</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="32">
+    <title>BBC News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952606?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="32">
+    <title>Tech Now</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/147288?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

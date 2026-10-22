@@ -3,11 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261019170000 +0000" stop="20261019181500 +0000" channel="135">
-    <title>Reazione A Catena</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019181500 +0000" stop="20261019184500 +0000" channel="135">
     <title>TG1 Ore 20.00</title>
     <desc />
@@ -722,5 +717,10 @@
     <title>Il Settimanale</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957875?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024184500 +0000" channel="135">
+    <title>L'Eredita Speciale Airc</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/702717?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

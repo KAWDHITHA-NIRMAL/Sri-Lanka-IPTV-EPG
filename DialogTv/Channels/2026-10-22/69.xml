@@ -3,16 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="69">
-    <title>Muthoot Fincorp 2nd ODI HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949508?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="69">
-    <title>TATA WPL Auction - Most Wanted</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959773?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="69">
     <title>Muthoot Fincorp 2nd ODI HLs IND v WI</title>
     <desc />
@@ -1425,5 +1415,24 @@
     <title>Game Plan:TATA WPL Auction Special</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960197?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024174500 +0000" stop="20261024180000 +0000" channel="69">
+    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024181500 +0000" channel="69">
+    <title>Muthoot Fincorp 1st ODI Women's HLs IND v ZIM</title>
+    <desc />
+  </programme>
+  <programme start="20261024181500 +0000" stop="20261024183000 +0000" channel="69">
+    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="69">
+    <title>Muthoot Fincorp 2nd ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949508?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

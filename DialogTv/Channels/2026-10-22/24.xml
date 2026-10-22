@@ -3,11 +3,6 @@
   <channel id="24">
     <display-name>Channel 30</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="24">
-    <title>Rathri Pirith Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957121?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019213000 +0000" channel="24">
     <title>Filler</title>
     <desc />
@@ -702,5 +697,10 @@
     <title>Rathri Pirith Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957121?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="24">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956519?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

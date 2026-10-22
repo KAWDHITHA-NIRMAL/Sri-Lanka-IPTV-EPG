@@ -3,16 +3,6 @@
   <channel id="65">
     <display-name>Channel 72</display-name>
   </channel>
-  <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="65">
-    <title>New Zealand vs Australia 2025 1st T20i Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="65">
-    <title>Sri Lanka vs Bangladesh 2025 1st ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="65">
     <title>Sri Lanka vs West Indies 2021 1st Test Highlights</title>
     <desc />
@@ -707,5 +697,15 @@
   <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="65">
     <title>New Zealand vs India 2026 - 2nd T20 Highlights</title>
     <desc />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="65">
+    <title>Sri Lanka vs Bangladesh 2025 3rd T20i Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959570?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="65">
+    <title>Sri Lanka vs New Zealand 2024-1st Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959569?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261019165700 +0000" stop="20261019175200 +0000" channel="110">
-    <title>Animal Attack Rate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019175200 +0000" stop="20261019184800 +0000" channel="110">
     <title>Big Cats Small World</title>
     <desc />
@@ -633,6 +628,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261024172800 +0000" stop="20261024182800 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024182800 +0000" stop="20261024192000 +0000" channel="110">
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />

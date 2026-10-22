@@ -3,11 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="14">
     <title>Nature-Englis</title>
     <desc />
@@ -922,5 +917,15 @@
     <title>Jeewitha Swara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956555?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="14">
+    <title>Late Night News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="14">
+    <title>Sewdesa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958027?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

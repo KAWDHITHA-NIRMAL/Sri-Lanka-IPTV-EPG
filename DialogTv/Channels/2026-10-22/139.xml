@@ -3,21 +3,6 @@
   <channel id="139">
     <display-name>Channel 1835</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="139">
-    <title>Financial Journal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019182700 +0000" channel="139">
-    <title>News on the Hour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019182700 +0000" stop="20261019183000 +0000" channel="139">
-    <title>Phoenix Weather Forecast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="139">
     <title>Phoenix Financial Daily Report</title>
     <desc />
@@ -1597,5 +1582,25 @@
     <title>News on the Hour</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024175700 +0000" stop="20261024180000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024182700 +0000" channel="139">
+    <title>News on the Hour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956354?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024182700 +0000" stop="20261024183000 +0000" channel="139">
+    <title>Phoenix Weather Forecast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33759?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="139">
+    <title>Mainland Q&amp;A IV</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957891?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

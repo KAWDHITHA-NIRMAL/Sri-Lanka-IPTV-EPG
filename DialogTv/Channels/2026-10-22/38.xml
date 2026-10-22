@@ -3,16 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="38">
-    <title>Bloomberg Markets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="38">
     <title>Bloomberg Markets</title>
     <desc />
@@ -602,5 +592,15 @@
     <title>Leaders with Lacqua</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="38">
+    <title>The David Rubenstein Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="38">
+    <title>Bloomberg Green</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956627?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

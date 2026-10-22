@@ -3,11 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="93">
-    <title>60 Vayathu Maaniram</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019203000 +0000" channel="93">
     <title>60 Vayathu Maaniram</title>
     <desc />
@@ -509,6 +504,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959517?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261024170000 +0000" stop="20261024183000 +0000" channel="93">
+    <title>Maanikya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024200000 +0000" channel="93">
     <title>Maanikya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959518?accessKey=WkVjNWNscFhORDBLCg==" />

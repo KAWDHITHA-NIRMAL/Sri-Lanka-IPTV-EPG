@@ -3,11 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="123">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="123">
     <title>UEL/UECL 2026-27 Magazine Programme</title>
     <desc />
@@ -506,5 +501,10 @@
   <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="123">
     <title>Live UFC 333 - Prelims</title>
     <desc />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024220000 +0000" channel="123">
+    <title>Live UFC 333 Volkanovski vs Evloev</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960184?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

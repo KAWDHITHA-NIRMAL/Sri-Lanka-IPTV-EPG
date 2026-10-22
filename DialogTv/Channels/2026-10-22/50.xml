@@ -3,16 +3,6 @@
   <channel id="50">
     <display-name>Channel 56</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="50">
-    <title>Sweet Dreams</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="50">
-    <title>Good Night Hugs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952767?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="50">
     <title>Dreamy Nights</title>
     <desc />
@@ -1182,5 +1172,15 @@
     <title>Sweet Dreams</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="50">
+    <title>Good Night Hugs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952767?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="50">
+    <title>Dreamy Nights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952768?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

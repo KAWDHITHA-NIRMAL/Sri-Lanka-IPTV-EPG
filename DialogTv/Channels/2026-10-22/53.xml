@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261019170100 +0000" stop="20261019173200 +0000" channel="53">
-    <title>Colors, Shapes &amp; Numbers!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762716?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019173200 +0000" stop="20261019180000 +0000" channel="53">
-    <title>A Magical Sky Adventure!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950313?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019183500 +0000" channel="53">
     <title>Underwater Problems &amp; Clever Fixes</title>
     <desc />
@@ -1177,5 +1167,15 @@
     <title>Gentle Lessons &amp; Bedtime</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/762717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024175900 +0000" stop="20261024182400 +0000" channel="53">
+    <title>Underwater Learning Adventures!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024182400 +0000" stop="20261024185800 +0000" channel="53">
+    <title>Underwater Problems &amp; Clever Fixes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950366?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

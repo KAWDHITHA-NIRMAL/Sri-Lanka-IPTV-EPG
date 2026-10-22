@@ -3,26 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019174500 +0000" channel="121">
-    <title>PL Highlights Man City v Ipswich</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959796?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019174500 +0000" stop="20261019180000 +0000" channel="121">
-    <title>PL Highlights Leeds United v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019181500 +0000" channel="121">
-    <title>PL Highlights Nottm Forest v Arsenal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019181500 +0000" stop="20261019183000 +0000" channel="121">
-    <title>PL Highlights Everton v Chelsea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019185000 +0000" channel="121">
     <title>Premier League Live</title>
     <desc />
@@ -1354,5 +1334,10 @@
   <programme start="20261024162000 +0000" stop="20261024183000 +0000" channel="121">
     <title>Live PL 2026-27 Chelsea v Tottenham Hotspur</title>
     <desc />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

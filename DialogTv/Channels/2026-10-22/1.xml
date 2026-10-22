@@ -3,11 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="1">
-    <title>World Wide</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956323?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="1">
     <title>Channel One Highway</title>
     <desc />
@@ -657,5 +652,10 @@
     <title>Me Wasantha Kalayai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="1">
+    <title>Channel One Highway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

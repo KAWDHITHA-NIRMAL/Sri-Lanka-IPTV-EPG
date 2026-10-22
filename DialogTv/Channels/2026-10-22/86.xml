@@ -3,11 +3,6 @@
   <channel id="86">
     <display-name>Channel 93</display-name>
   </channel>
-  <programme start="20261019141900 +0000" stop="20261019175800 +0000" channel="86">
-    <title>Tere Ishk Mein</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019175800 +0000" stop="20261019201000 +0000" channel="86">
     <title>Eleven</title>
     <desc />
@@ -239,6 +234,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261024153000 +0000" stop="20261024183000 +0000" channel="86">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="86">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950002?accessKey=WkVjNWNscFhORDBLCg==" />

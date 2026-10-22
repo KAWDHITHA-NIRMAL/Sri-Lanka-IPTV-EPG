@@ -3,11 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261019165700 +0000" stop="20261019175200 +0000" channel="55">
-    <title>Animal Attack Rate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019175200 +0000" stop="20261019184800 +0000" channel="55">
     <title>Big Cats Small World</title>
     <desc />
@@ -696,5 +691,15 @@
     <title>Lion: The Rise And Fall Of The Marsh Pride</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959427?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024181000 +0000" stop="20261024183000 +0000" channel="55">
+    <title>Battle of the Alphas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950597?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024183400 +0000" channel="55">
+    <title>Battle of the Alphas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950597?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

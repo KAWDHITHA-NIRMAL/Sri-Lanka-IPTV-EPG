@@ -3,11 +3,6 @@
   <channel id="107">
     <display-name>Channel 69</display-name>
   </channel>
-  <programme start="20261019172000 +0000" stop="20261019181000 +0000" channel="107">
-    <title>Selling Dubai S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019181000 +0000" stop="20261019190000 +0000" channel="107">
     <title>Sin City Rehab S1</title>
     <desc />
@@ -1032,5 +1027,10 @@
     <title>Lakefront Bargain Hunt Renovation S1</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024181000 +0000" stop="20261024183500 +0000" channel="107">
+    <title>Neighbourhood Watch S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/944642?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

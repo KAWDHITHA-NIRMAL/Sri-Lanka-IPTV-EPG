@@ -3,11 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="58">
-    <title>Match Me Abroad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="58">
     <title>Say Yes To The Dress</title>
     <desc />
@@ -676,5 +671,10 @@
     <title>90 Day: Hunt for Love</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="58">
+    <title>Say Yes To The Dress</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949721?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,26 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019174500 +0000" channel="120">
-    <title>Muthoot Fincorp 2nd T20I Women's HLs IND v ZIM</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959772?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019174500 +0000" stop="20261019180000 +0000" channel="120">
-    <title>IDFC FIRST Bank 2nd T20I HLTS IND v ENG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950333?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019182500 +0000" channel="120">
-    <title>Out - Not Out 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959756?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019182500 +0000" stop="20261019183000 +0000" channel="120">
-    <title>Cricket Fillers - Others</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="120">
     <title>IDFC FIRST Bank ODI Hls IND v AFG</title>
     <desc />
@@ -1586,5 +1566,19 @@
     <title>Game Plan:TATA WPL Auction Special</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959773?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024174500 +0000" stop="20261024180000 +0000" channel="120">
+    <title>Muthoot Fincorp 1st ODI Women's HLs IND v ZIM</title>
+    <desc />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="120">
+    <title>ICC CWC Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="120">
+    <title>SA v IND ODI 2023 - Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950418?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261019160000 +0000" stop="20261019180000 +0000" channel="72">
-    <title>Runner, Runner</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957931?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019200000 +0000" channel="72">
     <title>China Salesman</title>
     <desc />
@@ -307,5 +302,10 @@
     <title>Crank 2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024200000 +0000" channel="72">
+    <title>River Monster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959287?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

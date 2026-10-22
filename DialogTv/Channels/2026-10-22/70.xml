@@ -3,21 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="70">
-    <title>Cricket Countdown - IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950336?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019181500 +0000" channel="70">
-    <title>PL Highlights Leeds United v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959793?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019181500 +0000" stop="20261019183000 +0000" channel="70">
-    <title>PL Highlights Nottm Forest v Arsenal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959794?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019184500 +0000" channel="70">
     <title>ICC Men's T20 WC HLs IND v WI</title>
     <desc />
@@ -1747,5 +1732,10 @@
   <programme start="20261024161500 +0000" stop="20261024183000 +0000" channel="70">
     <title>Live PL 2026-27 Chelsea v Tottenham Hotspur</title>
     <desc />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024184500 +0000" channel="70">
+    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

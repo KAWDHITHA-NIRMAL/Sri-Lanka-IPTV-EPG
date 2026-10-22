@@ -3,11 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019175300 +0000" channel="61">
-    <title>Counting Cars S06</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950291?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019175300 +0000" stop="20261019183700 +0000" channel="61">
     <title>Forged In Fire S10</title>
     <desc />
@@ -1022,5 +1017,10 @@
     <title>World War Ii With Tom Hanks</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950298?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024175300 +0000" stop="20261024183700 +0000" channel="61">
+    <title>History's Greatest Escapes with Morgan Freeman S01</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950292?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

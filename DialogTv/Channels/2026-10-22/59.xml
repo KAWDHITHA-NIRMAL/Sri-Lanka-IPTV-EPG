@@ -3,16 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261019164700 +0000" stop="20261019173400 +0000" channel="59">
-    <title>Lost Treasures Of Egypt</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959614?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019173400 +0000" stop="20261019181900 +0000" channel="59">
-    <title>Airport Security Rome</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019181900 +0000" stop="20261019191500 +0000" channel="59">
     <title>Airport Security Madrid</title>
     <desc />
@@ -875,5 +865,10 @@
     <title>Snakes In The City</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/948057?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024184800 +0000" channel="59">
+    <title>Chilean Mine Rescue: Race Against Time</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955630?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

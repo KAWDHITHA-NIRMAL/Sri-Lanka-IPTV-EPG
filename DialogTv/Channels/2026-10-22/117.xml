@@ -3,11 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261019160500 +0000" stop="20261019174500 +0000" channel="117">
-    <title>Mortal Kombat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019174500 +0000" stop="20261019193500 +0000" channel="117">
     <title>Death Of A Unicorn</title>
     <desc />
@@ -367,5 +362,15 @@
     <title>The Matrix Revolutions</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959529?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024174000 +0000" stop="20261024181000 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024181000 +0000" stop="20261024200000 +0000" channel="117">
+    <title>Scream</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953950?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

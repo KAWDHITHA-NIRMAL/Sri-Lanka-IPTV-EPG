@@ -3,11 +3,6 @@
   <channel id="78">
     <display-name>Channel 82</display-name>
   </channel>
-  <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="78">
-    <title>Knight Rider S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956854?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="78">
     <title>CSI S7</title>
     <desc />
@@ -737,5 +732,15 @@
     <title>Married With Children S4</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="78">
+    <title>Married With Children S4</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="78">
+    <title>Agatha Christie's Marple S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959778?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

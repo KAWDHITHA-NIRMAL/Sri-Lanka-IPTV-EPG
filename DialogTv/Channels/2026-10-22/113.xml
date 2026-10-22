@@ -3,11 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="113">
-    <title>Hell's Kitchen S25</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957096?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019200000 +0000" channel="113">
     <title>Survivor S51</title>
     <desc />
@@ -637,5 +632,10 @@
     <title>Matlock S2 - The Before Times</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959852?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="113">
+    <title>Sheriff Country S2 - Family Trust</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959848?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261019153000 +0000" stop="20261019180800 +0000" channel="119">
-    <title>Pirates Of The Caribbean: Dead Man's Chest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959679?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019180800 +0000" stop="20261019193200 +0000" channel="119">
     <title>Madagascar</title>
     <desc />
@@ -319,6 +314,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261024153000 +0000" stop="20261024183000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />

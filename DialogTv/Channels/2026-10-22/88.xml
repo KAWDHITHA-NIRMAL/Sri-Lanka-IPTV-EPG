@@ -3,16 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="88">
-    <title>Mannat Harr Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="88">
     <title>Shayad Yahi Hai Pyaar</title>
     <desc />
@@ -1046,5 +1036,10 @@
     <title>Mannat Harr Khushi Paane Ki</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959043?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024193000 +0000" channel="88">
+    <title>Dhamaal With Pati Patni Aur Panga S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955863?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

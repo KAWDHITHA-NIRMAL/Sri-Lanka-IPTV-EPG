@@ -3,16 +3,6 @@
   <channel id="35">
     <display-name>Channel 41</display-name>
   </channel>
-  <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="35">
-    <title>Bharat Ki Baat Batata Hoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="35">
-    <title>Bharat Ki Baat Batata Hoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="35">
     <title>Mic ON Hai</title>
     <desc />
@@ -1206,5 +1196,15 @@
     <title>Bharat Ki Baat Batata Hoon</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950177?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="35">
+    <title>Bharat Ki Baat Batata Hoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950177?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="35">
+    <title>News NDTV India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950180?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
