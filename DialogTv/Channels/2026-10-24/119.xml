@@ -3,71 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261020170100 +0000" stop="20261020184700 +0000" channel="119">
-    <title>A Knight'S War</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/946545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261020184700 +0000" stop="20261020195800 +0000" channel="119">
-    <title>Catch The Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261020195800 +0000" stop="20261020212100 +0000" channel="119">
-    <title>Kunlun Battle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261020212100 +0000" stop="20261021003000 +0000" channel="119">
-    <title>Super Icyclone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021003000 +0000" stop="20261021033000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021033000 +0000" stop="20261021040500 +0000" channel="119">
-    <title>George And The Dragon (2004)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958715?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021040500 +0000" stop="20261021053100 +0000" channel="119">
-    <title>Gatlopp</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960195?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021053100 +0000" stop="20261021074100 +0000" channel="119">
-    <title>Dead Poets Society</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960196?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021074100 +0000" stop="20261021101700 +0000" channel="119">
-    <title>Ford V Ferrari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959258?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021101700 +0000" stop="20261021120900 +0000" channel="119">
-    <title>Journey To The West:Conquering The Demon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958690?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021120900 +0000" stop="20261021134000 +0000" channel="119">
-    <title>Gremlin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957791?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021134000 +0000" stop="20261021153000 +0000" channel="119">
-    <title>Raya And The Last Dragon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958961?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021153000 +0000" stop="20261021170600 +0000" channel="119">
-    <title>Ice Age The Meltdown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261021170600 +0000" stop="20261021183200 +0000" channel="119">
     <title>Bad Connection</title>
     <desc />
@@ -238,62 +173,162 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024063000 +0000" stop="20261024093000 +0000" channel="119">
+  <programme start="20261024063000 +0000" stop="20261024063900 +0000" channel="119">
+    <title>The Simpsons Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024063900 +0000" stop="20261024083500 +0000" channel="119">
+    <title>Alice In Wonderland (2010)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959016?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024083500 +0000" stop="20261024102600 +0000" channel="119">
+    <title>Raya And The Last Dragon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958961?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024102600 +0000" stop="20261024122200 +0000" channel="119">
+    <title>The Captain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024122200 +0000" stop="20261024135900 +0000" channel="119">
+    <title>Up (2009)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958511?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024135900 +0000" stop="20261024153000 +0000" channel="119">
+    <title>2025 Armageddon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024153000 +0000" stop="20261024163600 +0000" channel="119">
+    <title>Winnie The Pooh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024163600 +0000" stop="20261024183900 +0000" channel="119">
+    <title>Cosmoball</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957058?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024183900 +0000" stop="20261024202500 +0000" channel="119">
+    <title>Ferdinand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024202500 +0000" stop="20261024214700 +0000" channel="119">
+    <title>Kunlun Battle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024214700 +0000" stop="20261024215200 +0000" channel="119">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024215200 +0000" stop="20261024231300 +0000" channel="119">
+    <title>Ghost Shark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955596?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024231300 +0000" stop="20261024234000 +0000" channel="119">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/63200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261024234000 +0000" stop="20261025011600 +0000" channel="119">
+    <title>King Of Serpant</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025011600 +0000" stop="20261025024700 +0000" channel="119">
+    <title>Madagascar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959680?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025024700 +0000" stop="20261025042000 +0000" channel="119">
+    <title>Super Icyclone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025042000 +0000" stop="20261025060800 +0000" channel="119">
+    <title>Monsters University</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960972?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025060800 +0000" stop="20261025074500 +0000" channel="119">
+    <title>Guardians The Superheroes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025074500 +0000" stop="20261025092100 +0000" channel="119">
+    <title>Ice Age The Meltdown</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960201?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025092100 +0000" stop="20261025113100 +0000" channel="119">
+    <title>Dead Poets Society</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960196?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025113100 +0000" stop="20261025131500 +0000" channel="119">
+    <title>Finding Nemo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025131500 +0000" stop="20261025153000 +0000" channel="119">
+    <title>John Carter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960973?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025181200 +0000" channel="119">
+    <title>Indiana Jones And The Dial Of Destiny</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025181200 +0000" stop="20261025203100 +0000" channel="119">
+    <title>The Martian</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959389?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025203100 +0000" stop="20261025215700 +0000" channel="119">
+    <title>Gremlin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957791?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261025215700 +0000" stop="20261026003000 +0000" channel="119">
+    <title>Unbending Mr. Fang</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959391?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026033000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024093000 +0000" stop="20261024123000 +0000" channel="119">
+  <programme start="20261026033000 +0000" stop="20261026063000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024123000 +0000" stop="20261024153000 +0000" channel="119">
+  <programme start="20261026063000 +0000" stop="20261026093000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024153000 +0000" stop="20261024183000 +0000" channel="119">
+  <programme start="20261026093000 +0000" stop="20261026123000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="119">
+  <programme start="20261026123000 +0000" stop="20261026153000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261024213000 +0000" stop="20261025003000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025003000 +0000" stop="20261025033000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025033000 +0000" stop="20261025063000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025063000 +0000" stop="20261025093000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025093000 +0000" stop="20261025123000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025123000 +0000" stop="20261025153000 +0000" channel="119">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261025153000 +0000" stop="20261025183000 +0000" channel="119">
+  <programme start="20261026153000 +0000" stop="20261026183000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
