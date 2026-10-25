@@ -3,31 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261021173000 +0000" stop="20261021203000 +0000" channel="19">
-    <title>Tharu Piri Ahasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021203000 +0000" stop="20261021233000 +0000" channel="19">
-    <title>Dhawala Kadulla</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956418?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="19">
-    <title>Swetha Gantheera</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958209?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022013000 +0000" stop="20261022023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022023000 +0000" stop="20261022053000 +0000" channel="19">
-    <title>Samanaliyak Iki Binda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022053000 +0000" stop="20261022083000 +0000" channel="19">
     <title>Tharu Piri Ahasa</title>
     <desc />
@@ -232,5 +207,30 @@
     <title>Tharu Piri Ahasa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026203000 +0000" stop="20261026233000 +0000" channel="19">
+    <title>Mayura Asapuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027013000 +0000" channel="19">
+    <title>rawana horawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959393?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027013000 +0000" stop="20261027023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027053000 +0000" channel="19">
+    <title>Sodhuru Sithaththi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027053000 +0000" stop="20261027083000 +0000" channel="19">
+    <title>Maha Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960209?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

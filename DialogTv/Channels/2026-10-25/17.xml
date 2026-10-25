@@ -3,51 +3,6 @@
   <channel id="17">
     <display-name>Channel 23</display-name>
   </channel>
-  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="17">
-    <title>Maha Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021183000 +0000" stop="20261021213000 +0000" channel="17">
-    <title>TBA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261021233000 +0000" channel="17">
-    <title>TBA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021233000 +0000" stop="20261022003000 +0000" channel="17">
-    <title>Seth Piritha - Jayamangala Gatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022003000 +0000" stop="20261022013000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022013000 +0000" stop="20261022023000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022023000 +0000" stop="20261022033000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022033000 +0000" stop="20261022043000 +0000" channel="17">
-    <title>Jewana Geththama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/63271?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022043000 +0000" stop="20261022053000 +0000" channel="17">
-    <title>Dayakathwa Darma Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="17">
     <title>Buddha Pujawa</title>
     <desc />
@@ -572,5 +527,50 @@
     <title>Maha Piritha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026183000 +0000" stop="20261026213000 +0000" channel="17">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026233000 +0000" channel="17">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027003000 +0000" channel="17">
+    <title>Seth Piritha - Jayamangala Gatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027003000 +0000" stop="20261027013000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027013000 +0000" stop="20261027023000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027033000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027033000 +0000" stop="20261027043000 +0000" channel="17">
+    <title>Yathiwara Desana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958001?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027053000 +0000" channel="17">
+    <title>Dayakathwa Darma Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50442?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="17">
+    <title>Budda Pujawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956796?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

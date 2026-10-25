@@ -3,46 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261021172000 +0000" stop="20261021191000 +0000" channel="125">
-    <title>EPCR Challenge Cup Edinburgh v Toulon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021191000 +0000" stop="20261021210000 +0000" channel="125">
-    <title>EPCR Challenge Cup Harlequins v Vannes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959837?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2003 - Ireland v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/948767?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261021232000 +0000" channel="125">
-    <title>Champions Cup Gloucester v Bordeaux Begles</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021232000 +0000" stop="20261022011000 +0000" channel="125">
-    <title>Champions Cup Bulls v Stade Francais</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022011000 +0000" stop="20261022014000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 1986 - Scotland v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022014000 +0000" stop="20261022033000 +0000" channel="125">
-    <title>Champions Cup Sale v Glasgow Warriors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959839?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022033000 +0000" stop="20261022052000 +0000" channel="125">
-    <title>Champions Cup Stormers v Bristol</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959754?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022052000 +0000" stop="20261022071000 +0000" channel="125">
     <title>Champions Cup Clermont Auvegne v Leinster</title>
     <desc />
@@ -301,10 +261,12 @@
   <programme start="20261025075000 +0000" stop="20261025100000 +0000" channel="125">
     <title>Live RLWC26 Australia v Fiji</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961182?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025100000 +0000" stop="20261025115000 +0000" channel="125">
     <title>RLWC26 England v France</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961099?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025115000 +0000" stop="20261025120000 +0000" channel="125">
     <title>Premier Sports Extra Premier Sports Extra</title>
@@ -314,10 +276,12 @@
   <programme start="20261025120000 +0000" stop="20261025135500 +0000" channel="125">
     <title>Gallagher Premiership Bristol v Exeter</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961098?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025135500 +0000" stop="20261025160000 +0000" channel="125">
     <title>Live Gallagher Premiership Harlequins v Saracens</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960989?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="125">
     <title>5 and 6 Nations Classics 2004 - Ireland v Scotland</title>
@@ -337,6 +301,7 @@
   <programme start="20261025171000 +0000" stop="20261025190000 +0000" channel="125">
     <title>Top 14 Racing 92 v Montpellier</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960991?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025190000 +0000" stop="20261025210000 +0000" channel="125">
     <title>Live Top 14 La Rochelle v Bordeaux Begles</title>
@@ -426,6 +391,7 @@
   <programme start="20261026132000 +0000" stop="20261026151000 +0000" channel="125">
     <title>Gallagher Premiership Bristol v Exeter</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961098?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261026151000 +0000" stop="20261026170000 +0000" channel="125">
     <title>Gallagher Premiership Harlequins v Saracens</title>
@@ -439,5 +405,75 @@
     <title>AFLW Highlights Port Adelaide v Collingwood</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960086?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026174500 +0000" stop="20261026180000 +0000" channel="125">
+    <title>AFLW Highlights St Kilda v Brisbane</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026181500 +0000" channel="125">
+    <title>AFLW Highlights Geelong v Fremantle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960088?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026181500 +0000" stop="20261026183000 +0000" channel="125">
+    <title>AFLW Highlights Gold Coast v Richmond</title>
+    <desc />
+  </programme>
+  <programme start="20261026183000 +0000" stop="20261026184500 +0000" channel="125">
+    <title>AFLW Highlights Bulldogs v Melbourne</title>
+    <desc />
+  </programme>
+  <programme start="20261026184500 +0000" stop="20261026190000 +0000" channel="125">
+    <title>AFLW Highlights Sydney v West Coast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026191500 +0000" channel="125">
+    <title>AFLW Highlights North Melbourne v Adelaide</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026191500 +0000" stop="20261026193000 +0000" channel="125">
+    <title>AFLW Highlights Hawthorn v Essendon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026193000 +0000" stop="20261026195000 +0000" channel="125">
+    <title>AFLW Highlights Carlton v GWS Giants</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960092?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026195000 +0000" stop="20261026214000 +0000" channel="125">
+    <title>RLWC26 England v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961099?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026214000 +0000" stop="20261026233000 +0000" channel="125">
+    <title>RLWC26 Australia v Fiji</title>
+    <desc />
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="125">
+    <title>Top 14 Highlights Round 7</title>
+    <desc />
+  </programme>
+  <programme start="20261027000000 +0000" stop="20261027015000 +0000" channel="125">
+    <title>United Rugby Championship Cardiff v Sharks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960944?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027015000 +0000" stop="20261027034000 +0000" channel="125">
+    <title>United Rugby Championship Connacht v Zebre Parma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960962?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027034000 +0000" stop="20261027053000 +0000" channel="125">
+    <title>United Rugby Championship Edinburgh v Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961173?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="125">
+    <title>Top 14 Highlights Round 7</title>
+    <desc />
   </programme>
 </tv>

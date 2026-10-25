@@ -3,51 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="31">
-    <title>The World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021180000 +0000" stop="20261021210000 +0000" channel="31">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021210000 +0000" stop="20261022000000 +0000" channel="31">
-    <title>ABC News Mornings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="31">
-    <title>ABC News at Noon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956574?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="31">
-    <title>Landline</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022010000 +0000" stop="20261022014500 +0000" channel="31">
-    <title>Four Corners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022014500 +0000" stop="20261022021500 +0000" channel="31">
-    <title>Media Watch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953046?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022021500 +0000" stop="20261022031500 +0000" channel="31">
-    <title>Alone Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956613?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022031500 +0000" stop="20261022050000 +0000" channel="31">
-    <title>Girls Can't Surf</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="31">
     <title>ABC News with Joe O'Brien</title>
     <desc />
@@ -456,10 +411,12 @@
   <programme start="20261025010000 +0000" stop="20261025030000 +0000" channel="31">
     <title>AFLW Round 11 - St Kilda v Brisbane Lions</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960980?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025030000 +0000" stop="20261025050000 +0000" channel="31">
     <title>AFLW round 11 - Geelong Cats v Fremantle</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960981?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025050000 +0000" stop="20261025070000 +0000" channel="31">
     <title>Girls Can't Surf</title>
@@ -489,6 +446,7 @@
   <programme start="20261025092500 +0000" stop="20261025111000 +0000" channel="31">
     <title>Midnight Oil: 1984</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960995?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025111000 +0000" stop="20261025120000 +0000" channel="31">
     <title>Four Corners</title>
@@ -687,5 +645,50 @@
     <title>Offsiders</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956587?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026210000 +0000" channel="31">
+    <title>News Breakfast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026210000 +0000" stop="20261027000000 +0000" channel="31">
+    <title>ABC News Mornings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956723?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="31">
+    <title>ABC News at Noon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027013000 +0000" channel="31">
+    <title>Foreign Correspondent</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956435?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027013000 +0000" stop="20261027023000 +0000" channel="31">
+    <title>Portrait Artist Of The Year</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027030000 +0000" channel="31">
+    <title>When The War Is Over</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957922?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027043000 +0000" channel="31">
+    <title>Midnight Oil: 1984</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960995?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027050000 +0000" channel="31">
+    <title>Pacific Break Live from Fiji</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954897?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027060000 +0000" channel="31">
+    <title>ABC News with Joe O'Brien</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956408?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

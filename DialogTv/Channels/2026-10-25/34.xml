@@ -3,61 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="34">
-    <title>Amanpour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="34">
-    <title>Isa Soares Tonight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021200000 +0000" channel="34">
-    <title>What We Know With Max Foster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261021213000 +0000" channel="34">
-    <title>Quest Means Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956565?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="34">
-    <title>World Sport</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950042?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261021230000 +0000" channel="34">
-    <title>The Brief With Jim Sciutto</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952480?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022000000 +0000" channel="34">
-    <title>Erin Burnett OutFront</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="34">
-    <title>Anderson Cooper 360</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="34">
-    <title>The Source with Kaitlan Collins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952686?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022030000 +0000" channel="34">
-    <title>Cnn Newsnight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62030?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022030000 +0000" stop="20261022040000 +0000" channel="34">
-    <title>Laura Coates Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952712?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="34">
     <title>The Story Is With Elex Michaelson</title>
     <desc />
@@ -562,5 +507,60 @@
     <title>One World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="34">
+    <title>Isa Soares Tonight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952834?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="34">
+    <title>What We Know With Max Foster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261026213000 +0000" channel="34">
+    <title>Quest Means Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956565?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="34">
+    <title>World Sport</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950042?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="34">
+    <title>The Brief With Jim Sciutto</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952480?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="34">
+    <title>Erin Burnett OutFront</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="34">
+    <title>Anderson Cooper 360</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952845?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="34">
+    <title>The Source with Kaitlan Collins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952686?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027030000 +0000" channel="34">
+    <title>Cnn Newsnight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62030?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="34">
+    <title>Laura Coates Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952712?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027060000 +0000" channel="34">
+    <title>The Story Is With Elex Michaelson</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952713?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

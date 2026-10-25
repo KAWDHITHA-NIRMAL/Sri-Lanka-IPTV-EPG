@@ -3,36 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261021170000 +0000" stop="20261021183000 +0000" channel="63">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="63">
-    <title>Repeat -Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021203000 +0000" stop="20261022003000 +0000" channel="63">
-    <title>Repeat - ICC Men's T20 World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949653?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022003000 +0000" stop="20261022020000 +0000" channel="63">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022033000 +0000" channel="63">
-    <title>Highlights - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="63">
-    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022040000 +0000" stop="20261022070000 +0000" channel="63">
     <title>Live - Fairfirst Insurance vs Colombo Aces - 33rd Singer MCA Super Premier League 2026</title>
     <desc />
@@ -207,6 +177,7 @@
   <programme start="20261025093000 +0000" stop="20261025123000 +0000" channel="63">
     <title>Live - Renown SC vs Blue Star SC - Dialog Play Super League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960984?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025123000 +0000" stop="20261025133000 +0000" channel="63">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -216,6 +187,7 @@
   <programme start="20261025133000 +0000" stop="20261025183000 +0000" channel="63">
     <title>Live - Vancouver Guardians vs Mississauga Skyhawks - NCL GT20 Canada 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960993?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025183000 +0000" stop="20261025203000 +0000" channel="63">
     <title>Repeat - NEXT XV Rugby League 2026</title>
@@ -262,6 +234,34 @@
   </programme>
   <programme start="20261026133000 +0000" stop="20261026183000 +0000" channel="63">
     <title>Live - Toronto Kings vs Montreal Warriors - NCL GT20 Canada 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="63">
+    <title>Repeat - NEXT XV Rugby League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960968?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261027003000 +0000" channel="63">
+    <title>Live - Mississauga Skyhawks vs Brampton Blazers - NCL GT20 Canada 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261027003000 +0000" stop="20261027020000 +0000" channel="63">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027033000 +0000" channel="63">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959746?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="63">
+    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027123000 +0000" channel="63">
+    <title>Live - Hayles A vs BBK Partnership - 33rd Singer MCA Super Premier League 2026</title>
     <desc />
   </programme>
 </tv>

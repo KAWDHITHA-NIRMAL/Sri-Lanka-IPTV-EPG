@@ -3,36 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261021161500 +0000" stop="20261021183000 +0000" channel="73">
-    <title>The Frighteners</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957519?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021183000 +0000" stop="20261021211500 +0000" channel="73">
-    <title>Sweet Charity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958281?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021211500 +0000" stop="20261021233000 +0000" channel="73">
-    <title>The Ring</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="73">
-    <title>Resident Evil: Afterlife</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955590?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022013000 +0000" stop="20261022031500 +0000" channel="73">
-    <title>Xanadu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959089?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022031500 +0000" stop="20261022053000 +0000" channel="73">
-    <title>The Ring</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="73">
     <title>Resident Evil: Afterlife</title>
     <desc />
@@ -216,7 +186,7 @@
   <programme start="20261025120000 +0000" stop="20261025143000 +0000" channel="73">
     <title>Shooter</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961089?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261025143000 +0000" stop="20261025164500 +0000" channel="73">
     <title>The Ring</title>
@@ -236,7 +206,7 @@
   <programme start="20261025213000 +0000" stop="20261026000000 +0000" channel="73">
     <title>Shooter</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959626?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961089?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261026000000 +0000" stop="20261026021500 +0000" channel="73">
     <title>The Ring</title>
@@ -282,5 +252,30 @@
     <title>Inside Man</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959434?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026193000 +0000" stop="20261026213000 +0000" channel="73">
+    <title>Kung Fu Panda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026234500 +0000" channel="73">
+    <title>Gung Ho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026234500 +0000" stop="20261027023000 +0000" channel="73">
+    <title>Contact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960051?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027043000 +0000" channel="73">
+    <title>Kung Fu Panda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027064500 +0000" channel="73">
+    <title>Gung Ho</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960050?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

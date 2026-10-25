@@ -3,36 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261021142500 +0000" stop="20261021173200 +0000" channel="91">
-    <title>Aaina</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959980?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021173200 +0000" stop="20261021201400 +0000" channel="91">
-    <title>Gunday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959981?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021201400 +0000" stop="20261021213000 +0000" channel="91">
-    <title>Aksar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960108?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261022003000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022003000 +0000" stop="20261022033000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022033000 +0000" stop="20261022050100 +0000" channel="91">
-    <title>Bang Bang!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960323?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022050100 +0000" stop="20261022082200 +0000" channel="91">
     <title>Sanam Bewafa</title>
     <desc />
@@ -232,5 +202,30 @@
     <title>Beta</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026174200 +0000" stop="20261026195900 +0000" channel="91">
+    <title>Krishna Cottage</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960921?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026195900 +0000" stop="20261026215800 +0000" channel="91">
+    <title>Ajnabee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261026215800 +0000" stop="20261027003000 +0000" channel="91">
+    <title>Ek Aur Singham - The Real Police Cop</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959363?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027003000 +0000" stop="20261027033000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027033000 +0000" stop="20261027063000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
