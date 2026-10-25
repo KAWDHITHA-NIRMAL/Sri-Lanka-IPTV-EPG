@@ -3,31 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="73">
-    <title>Resident Evil: Afterlife</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955590?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022073000 +0000" stop="20261022100000 +0000" channel="73">
-    <title>Apollo 13</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953758?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022120000 +0000" channel="73">
-    <title>Out Of Time</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959090?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022143000 +0000" channel="73">
-    <title>The Matrix Revolutions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959091?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022143000 +0000" stop="20261022164500 +0000" channel="73">
-    <title>Sands Of Iwo Jima</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022164500 +0000" stop="20261022191500 +0000" channel="73">
     <title>Sweet Charity</title>
     <desc />
@@ -277,5 +252,30 @@
     <title>Gung Ho</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960050?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027064500 +0000" stop="20261027093000 +0000" channel="73">
+    <title>Contact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960051?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027093000 +0000" stop="20261027120000 +0000" channel="73">
+    <title>Ocean's Twelve</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960243?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027141500 +0000" channel="73">
+    <title>Gone Baby Gone</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959781?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027141500 +0000" stop="20261027161500 +0000" channel="73">
+    <title>Love Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960244?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027161500 +0000" stop="20261027181500 +0000" channel="73">
+    <title>The Fast And The Furious</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959625?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

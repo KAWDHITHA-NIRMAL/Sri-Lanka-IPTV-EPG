@@ -3,26 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261022050800 +0000" stop="20261022082200 +0000" channel="90">
-    <title>Saajan Ki Saheli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022082200 +0000" stop="20261022110000 +0000" channel="90">
-    <title>Nazar Ke Samne</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953984?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022140000 +0000" channel="90">
-    <title>Powerfull Yoddha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954025?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022170000 +0000" channel="90">
-    <title>Mera Karam Mera Dharam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959117?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022170000 +0000" stop="20261022200000 +0000" channel="90">
     <title>Mr. Natwarlal</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Majaal (1987)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957042?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027110000 +0000" channel="90">
+    <title>Falak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960265?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027110000 +0000" stop="20261027141300 +0000" channel="90">
+    <title>Jungle (2000)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955885?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027141300 +0000" stop="20261027171000 +0000" channel="90">
+    <title>Keemat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960266?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027171000 +0000" stop="20261027200000 +0000" channel="90">
+    <title>Arundhati (2009)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957588?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

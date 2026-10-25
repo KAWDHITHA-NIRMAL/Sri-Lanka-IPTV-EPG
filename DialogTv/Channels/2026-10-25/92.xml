@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261022030000 +0000" stop="20261022060000 +0000" channel="92">
-    <title>Jodi No.1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958766?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022060000 +0000" stop="20261022090000 +0000" channel="92">
-    <title>Crook</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022090000 +0000" stop="20261022120000 +0000" channel="92">
-    <title>Raanjhanaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022150000 +0000" channel="92">
-    <title>Maanikya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261022150000 +0000" stop="20261022180000 +0000" channel="92">
     <title>Zeher</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Rashtra Kavach OM</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960066?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027090000 +0000" channel="92">
+    <title>Commando 2: The Black Money Trail</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027120000 +0000" channel="92">
+    <title>Kasoor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027150000 +0000" channel="92">
+    <title>Kahaani 2: Durga Rani Singh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027180000 +0000" channel="92">
+    <title>Rahu Ketu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960986?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
