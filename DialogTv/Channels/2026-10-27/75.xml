@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261024171500 +0000" stop="20261024185500 +0000" channel="75">
-    <title>Angus, Thongs And Perfect Snogging</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959450?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024185500 +0000" stop="20261024212000 +0000" channel="75">
     <title>Eddington</title>
     <desc />
@@ -422,5 +417,10 @@
     <title>Novocaine</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029184500 +0000" stop="20261029210000 +0000" channel="75">
+    <title>Shutter Island</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959092?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

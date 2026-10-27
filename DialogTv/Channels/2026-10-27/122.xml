@@ -3,16 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="122">
-    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="122">
-    <title>PL Highlights Tottenham Hotspur v Chelsea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="122">
     <title>PL 2026-27 Coventry City v Brighton</title>
     <desc />
@@ -1230,5 +1220,20 @@
   <programme start="20261029173000 +0000" stop="20261029174500 +0000" channel="122">
     <title>Muthoot Fincorp 3rd ODI Women's HLs IND v ZIM</title>
     <desc />
+  </programme>
+  <programme start="20261029174500 +0000" stop="20261029180000 +0000" channel="122">
+    <title>Muthoot Fincorp 2nd ODI Women's HLs IND v ZIM</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959776?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="122">
+    <title>PL Classic Match Chelsea v Arsenal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029203000 +0000" channel="122">
+    <title>PL 2026-27 Tottenham Hotspur v Aston villa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961798?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

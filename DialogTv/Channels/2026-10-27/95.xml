@@ -3,11 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024200000 +0000" channel="95">
-    <title>Oru Thai Makkal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959725?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024223000 +0000" channel="95">
     <title>Thalaippu Seithigal</title>
     <desc />
@@ -212,5 +207,10 @@
     <title>Sarigamapathani</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029223000 +0000" channel="95">
+    <title>Siva Sakthi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961729?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

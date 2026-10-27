@@ -3,16 +3,6 @@
   <channel id="56">
     <display-name>Channel 62</display-name>
   </channel>
-  <programme start="20261024172100 +0000" stop="20261024181400 +0000" channel="56">
-    <title>Naked And Afraid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024181400 +0000" stop="20261024195000 +0000" channel="56">
-    <title>Naked and Afraid Apocalypse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960194?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024195000 +0000" stop="20261024205000 +0000" channel="56">
     <title>Naked And Afraid</title>
     <desc />
@@ -717,5 +707,20 @@
     <title>Naked And Afraid</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029174300 +0000" stop="20261029183400 +0000" channel="56">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183400 +0000" stop="20261029193400 +0000" channel="56">
+    <title>Naked And Afraid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193400 +0000" stop="20261029203400 +0000" channel="56">
+    <title>Naked And Afraid XL</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950259?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

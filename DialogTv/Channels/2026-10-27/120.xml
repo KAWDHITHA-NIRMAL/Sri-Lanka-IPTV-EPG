@@ -3,41 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024174500 +0000" channel="120">
-    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024174500 +0000" stop="20261024180000 +0000" channel="120">
-    <title>Muthoot Fincorp 1st ODI Women's HLs IND v ZIM</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959776?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="120">
-    <title>ICC CWC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="120">
-    <title>SA v IND ODI 2023 - Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950418?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="120">
-    <title>ICC Men's T20 WC HLs IND v USA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957828?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="120">
-    <title>ICC CWC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024200000 +0000" stop="20261024201500 +0000" channel="120">
-    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024201500 +0000" stop="20261024203000 +0000" channel="120">
     <title>IND v NZ T20I HLs</title>
     <desc />
@@ -1553,5 +1518,39 @@
     <title>IND v NZ T20I HLs</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950315?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029174500 +0000" stop="20261029181500 +0000" channel="120">
+    <title>ICC Men's ODI WC 2023 hlts. IND v ENG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958245?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029181500 +0000" stop="20261029183000 +0000" channel="120">
+    <title>Top Knocks</title>
+    <desc />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="120">
+    <title>BKT Tyres 3rd ODI HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952558?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029193000 +0000" channel="120">
+    <title>ICC Men's T20I World Cup Hlts SA v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956999?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029200000 +0000" channel="120">
+    <title>ICC CWC Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950329?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029201500 +0000" channel="120">
+    <title>IDFC FIRST Bank India v Australia 2nd T20I HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950975?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201500 +0000" stop="20261029203000 +0000" channel="120">
+    <title>IDFC FIRST Bank IND v SA T20I 2025 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950024?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

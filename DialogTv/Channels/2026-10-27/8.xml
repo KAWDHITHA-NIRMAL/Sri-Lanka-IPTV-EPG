@@ -3,11 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024183000 +0000" channel="8">
-    <title>Yak Bandi Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024232900 +0000" channel="8">
     <title>Yak Bandi Gedara</title>
     <desc />
@@ -717,5 +712,10 @@
     <title>Mawatha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

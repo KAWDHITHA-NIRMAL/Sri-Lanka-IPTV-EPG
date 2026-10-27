@@ -3,21 +3,6 @@
   <channel id="108">
     <display-name>Channel 59</display-name>
   </channel>
-  <programme start="20261024172400 +0000" stop="20261024181200 +0000" channel="108">
-    <title>Jose Andres &amp; Family In Spain S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953641?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024181200 +0000" stop="20261024190000 +0000" channel="108">
-    <title>Beachside Brawl S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957690?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024195000 +0000" channel="108">
-    <title>Bobby And Sophie On The Coast S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955683?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024195000 +0000" stop="20261024210500 +0000" channel="108">
     <title>Halloween Wars S16</title>
     <desc />
@@ -982,5 +967,30 @@
     <title>Unwrapped 2.0 S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956709?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029174800 +0000" stop="20261029181200 +0000" channel="108">
+    <title>Unwrapped 2.0 S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956709?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029181200 +0000" stop="20261029190000 +0000" channel="108">
+    <title>Jose Andres &amp; Family In Spain S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953641?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029192500 +0000" channel="108">
+    <title>Good Eats: Reloaded S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029192500 +0000" stop="20261029195000 +0000" channel="108">
+    <title>Good Eats: Reloaded S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953639?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029195000 +0000" stop="20261029204000 +0000" channel="108">
+    <title>Beachside Brawl S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957690?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

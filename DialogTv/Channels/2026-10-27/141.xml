@@ -3,21 +3,6 @@
   <channel id="141">
     <display-name>Channel 2082</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="141">
-    <title>New Zealand vs India 2026 - 2nd T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960840?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="141">
-    <title>Sri Lanka vs Bangladesh 2025 3rd T20i Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="141">
-    <title>Sri Lanka vs New Zealand 2024-1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959569?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024213000 +0000" channel="141">
     <title>Sri Lanka V South Africa 2018 2nd Test Highlights</title>
     <desc />
@@ -772,5 +757,15 @@
     <title>New Zealand vs India 2026 - 1st T20 Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="141">
+    <title>Sri Lanka vs Bangladesh 2019 1st ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="141">
+    <title>New Zealand vs India 2026 - 3rd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961665?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

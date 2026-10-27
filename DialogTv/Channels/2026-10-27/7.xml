@@ -3,26 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261024163000 +0000" stop="20261024183000 +0000" channel="7">
-    <title>Maathra - Rahal Bulathsinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960777?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024191000 +0000" channel="7">
-    <title>Swarnavahini News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024191000 +0000" stop="20261024194000 +0000" channel="7">
-    <title>Jaffnadaraya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957056?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024194000 +0000" stop="20261024201000 +0000" channel="7">
-    <title>Weli Kadadahi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959869?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024201000 +0000" stop="20261024204000 +0000" channel="7">
     <title>Sith Athara Histhen</title>
     <desc />
@@ -892,5 +872,30 @@
     <title>Rathu Ira</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="7">
+    <title>Rathu Ira</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952981?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029191000 +0000" stop="20261029194000 +0000" channel="7">
+    <title>Bolt Anayak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029194000 +0000" stop="20261029201000 +0000" channel="7">
+    <title>Hiri Poda Wessa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201000 +0000" stop="20261029204000 +0000" channel="7">
+    <title>Amuthu Kalliya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961401?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

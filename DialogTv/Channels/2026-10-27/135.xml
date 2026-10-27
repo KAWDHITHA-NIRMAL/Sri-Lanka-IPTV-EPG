@@ -3,21 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="135">
-    <title>Il Settimanale</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024184500 +0000" channel="135">
-    <title>L'Eredita Speciale Airc</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/702717?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024184500 +0000" stop="20261024193000 +0000" channel="135">
-    <title>O Anche No Estate</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957876?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024211500 +0000" channel="135">
     <title>Kilimangiaro 2025/26 16a Puntata Riedizione</title>
     <desc />
@@ -697,5 +682,25 @@
     <title>Reazione A Catena</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029181500 +0000" stop="20261029184500 +0000" channel="135">
+    <title>TG1 Ore 20.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029184500 +0000" stop="20261029194500 +0000" channel="135">
+    <title>Elisir 2025/26 60a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956684?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029194500 +0000" stop="20261029201500 +0000" channel="135">
+    <title>Fiction 1atv: Nathan K 2a E Ultima Puntata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956682?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201500 +0000" stop="20261029210000 +0000" channel="135">
+    <title>Geo 2026 15a Puntata Sottotitolata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957125?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

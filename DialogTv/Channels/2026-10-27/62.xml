@@ -3,11 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="62">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="62">
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
@@ -303,5 +298,10 @@
     <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029203000 +0000" channel="62">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961451?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

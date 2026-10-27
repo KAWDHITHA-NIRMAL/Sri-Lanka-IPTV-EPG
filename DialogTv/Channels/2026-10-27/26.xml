@@ -3,16 +3,6 @@
   <channel id="26">
     <display-name>Channel 32</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="26">
-    <title>Special Dharmadeshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="26">
-    <title>Special Dharmadeshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/799549?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024203000 +0000" channel="26">
     <title>Special Dharmadeshanawa</title>
     <desc />
@@ -682,5 +672,15 @@
     <title>Soothra Dham Desuma</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956546?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="26">
+    <title>Sasarin Niwanata By Ven.Thapowanaye Ariyadaja Thero</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/698978?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="26">
+    <title>Wibhajja Wada Discussion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957773?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

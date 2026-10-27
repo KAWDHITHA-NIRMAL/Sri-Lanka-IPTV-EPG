@@ -3,11 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261024165000 +0000" stop="20261024193000 +0000" channel="133">
-    <title>The Hateful Eight</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959538?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024211000 +0000" channel="133">
     <title>Vampire Wars: Battle For The Universe</title>
     <desc />
@@ -322,5 +317,15 @@
     <title>Blood On The Crown</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955716?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029185500 +0000" stop="20261029202000 +0000" channel="133">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029202000 +0000" stop="20261029215500 +0000" channel="133">
+    <title>Moby Dick Part 1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960433?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="137">
-    <title>Africa Matters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953214?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="137">
-    <title>Inside America</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952789?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="137">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024194500 +0000" channel="137">
-    <title>Scoreline</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024194500 +0000" stop="20261024200000 +0000" channel="137">
-    <title>Debrief</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953203?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="137">
     <title>News</title>
     <desc />
@@ -1162,5 +1132,30 @@
     <title>Strait Talk</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956360?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029181500 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029181500 +0000" stop="20261029183000 +0000" channel="137">
+    <title>Newsfeed</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="137">
+    <title>Nexus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961574?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="137">
+    <title>Newshour - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="137">
+    <title>News - London</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

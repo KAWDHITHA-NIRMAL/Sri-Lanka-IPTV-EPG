@@ -3,11 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024200000 +0000" channel="94">
-    <title>Veera Padhakkam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959810?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="94">
     <title>Hit List</title>
     <desc />
@@ -512,5 +507,10 @@
     <title>Attagasam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961758?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

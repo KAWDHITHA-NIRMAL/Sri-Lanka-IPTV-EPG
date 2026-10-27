@@ -3,16 +3,6 @@
   <channel id="112">
     <display-name>Channel 118</display-name>
   </channel>
-  <programme start="20261024170500 +0000" stop="20261024183000 +0000" channel="112">
-    <title>The Curse Of King Tut's Tomb Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959342?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024195500 +0000" channel="112">
-    <title>The Curse Of King Tut's Tomb Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959342?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024195500 +0000" stop="20261024215000 +0000" channel="112">
     <title>Race For The Yankee Zephyr</title>
     <desc />
@@ -672,5 +662,25 @@
     <title>Late Night With Seth Meyers S14</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029175500 +0000" stop="20261029184000 +0000" channel="112">
+    <title>Accident, Suicide, Or Murder S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957508?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029184000 +0000" stop="20261029192500 +0000" channel="112">
+    <title>Accident, Suicide, Or Murder S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957508?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029192500 +0000" stop="20261029200000 +0000" channel="112">
+    <title>Cobra Kai S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960422?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029204500 +0000" channel="112">
+    <title>Cobra Kai S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960422?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

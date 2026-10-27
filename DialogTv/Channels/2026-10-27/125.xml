@@ -3,11 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261024161500 +0000" stop="20261024200000 +0000" channel="125">
-    <title>Live United Rugby Championship Leinster v Munster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960961?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024215000 +0000" channel="125">
     <title>United Rugby Championship Edinburgh v Lions</title>
     <desc />
@@ -567,5 +562,15 @@
     <title>Top 14 Racing 92 v Montpellier</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960991?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029202000 +0000" channel="125">
+    <title>United Rugby Championship Bulls v Ulster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960421?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029202000 +0000" stop="20261029221000 +0000" channel="125">
+    <title>United Rugby Championship Benetton v Glasgow Warriors</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961333?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

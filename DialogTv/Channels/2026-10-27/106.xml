@@ -3,31 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="106">
-    <title>G5 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958312?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="106">
-    <title>G2 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958305?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="106">
-    <title>G2 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958306?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="106">
-    <title>G3 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="106">
-    <title>G3 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958308?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="106">
     <title>G4 Tamil</title>
     <desc />
@@ -780,5 +755,15 @@
     <title>G7 History</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955450?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="106">
+    <title>G8 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956737?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="106">
+    <title>G9 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957464?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

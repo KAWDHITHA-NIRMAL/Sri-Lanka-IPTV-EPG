@@ -3,11 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261024171000 +0000" stop="20261024183000 +0000" channel="6">
-    <title>Champion Stars Unlimited</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949444?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024230500 +0000" channel="6">
     <title>Filler</title>
     <desc />
@@ -647,5 +642,10 @@
     <title>Re Build Sri Lanka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957312?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029230500 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

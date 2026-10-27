@@ -3,11 +3,6 @@
   <channel id="40">
     <display-name>Channel 46</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="40">
-    <title>Awaaz De Kahan Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="40">
     <title>Bajao</title>
     <desc />
@@ -572,5 +567,10 @@
     <title>Awaaz De Kahan Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029203000 +0000" channel="40">
+    <title>Bajao</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950029?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

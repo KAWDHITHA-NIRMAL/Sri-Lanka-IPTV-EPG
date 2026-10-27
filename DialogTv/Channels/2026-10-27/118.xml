@@ -3,16 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261024150000 +0000" stop="20261024174500 +0000" channel="118">
-    <title>Transformers: Age Of Extinction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959139?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024174500 +0000" stop="20261024194000 +0000" channel="118">
-    <title>The Huntsman: Winter'S War</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959142?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024194000 +0000" stop="20261024211000 +0000" channel="118">
     <title>Aztec Batman: Clash Of Empires</title>
     <desc />
@@ -342,5 +332,10 @@
     <title>Just Like Heaven</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960674?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029175500 +0000" stop="20261029203000 +0000" channel="118">
+    <title>Superman Returns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960671?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

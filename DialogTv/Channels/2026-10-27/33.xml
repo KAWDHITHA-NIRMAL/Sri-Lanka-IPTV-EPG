@@ -3,31 +3,6 @@
   <channel id="33">
     <display-name>Channel 39</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="33">
-    <title>Talk Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957742?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="33">
-    <title>Sports Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956426?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="33">
-    <title>Biz Talk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956573?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="33">
-    <title>The World Today</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956282?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="33">
-    <title>Travelogue</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="33">
     <title>The World Today</title>
     <desc />
@@ -1127,5 +1102,25 @@
     <title>Africa Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956659?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="33">
+    <title>Global Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956340?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029193000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029200000 +0000" channel="33">
+    <title>World Insight with Tian Wei</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956452?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="33">
+    <title>The World Today</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961420?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

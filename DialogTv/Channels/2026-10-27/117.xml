@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261024153000 +0000" stop="20261024174000 +0000" channel="117">
-    <title>The Matrix Revolutions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959529?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024174000 +0000" stop="20261024181000 +0000" channel="117">
-    <title>Hollywood On Set S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024181000 +0000" stop="20261024200000 +0000" channel="117">
-    <title>Scream</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="117">
     <title>Scream 2</title>
     <desc />
@@ -362,5 +347,10 @@
     <title>It Chapter Two</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957812?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201500 +0000" stop="20261029220000 +0000" channel="117">
+    <title>Sleepy Hollow</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960668?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

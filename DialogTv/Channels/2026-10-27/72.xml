@@ -3,16 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="72">
-    <title>Crank 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959286?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024200000 +0000" channel="72">
-    <title>River Monster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959287?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="72">
     <title>Mayhem</title>
     <desc />
@@ -307,5 +297,15 @@
     <title>Uncaged</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961471?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029200000 +0000" channel="72">
+    <title>Acts Of Violence</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029220000 +0000" channel="72">
+    <title>The Warrior'S Gate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960598?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

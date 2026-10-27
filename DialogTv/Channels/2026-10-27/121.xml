@@ -3,21 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261024162000 +0000" stop="20261024183000 +0000" channel="121">
-    <title>Live PL 2026-27 Chelsea v Tottenham Hotspur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960791?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="121">
-    <title>Premier League Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="121">
-    <title>Live Saturday Wrap</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954875?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="121">
     <title>PL Netbusters</title>
     <desc />
@@ -1444,5 +1429,15 @@
     <title>PL 2026-27 Ipswich v Liverpool</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029200000 +0000" channel="121">
+    <title>Muthoot Fincorp 3rd T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="121">
+    <title>PL Netbusters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951410?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

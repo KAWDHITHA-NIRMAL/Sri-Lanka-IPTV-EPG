@@ -3,11 +3,6 @@
   <channel id="21">
     <display-name>Channel 27</display-name>
   </channel>
-  <programme start="20261024163000 +0000" stop="20261024183000 +0000" channel="21">
-    <title>Sarwa  Rrathrika Prith Vikashaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958086?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="21">
     <title>Sarwa  Rathrika Prith Vikashaya</title>
     <desc />
@@ -807,5 +802,10 @@
     <title>Sarwa  Rathrika Prith Vikashaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029213000 +0000" channel="21">
+    <title>Sarwa  Rrathrika Prith Vikashaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961428?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

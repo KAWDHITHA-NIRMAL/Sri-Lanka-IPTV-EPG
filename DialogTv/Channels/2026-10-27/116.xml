@@ -3,16 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261024164000 +0000" stop="20261024182000 +0000" channel="116">
-    <title>Diana's Wedding</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024182000 +0000" stop="20261024200500 +0000" channel="116">
-    <title>Summer Rebels</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959531?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200500 +0000" stop="20261024220000 +0000" channel="116">
     <title>The Real Sister</title>
     <desc />
@@ -372,5 +362,15 @@
     <title>Flying Fish</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957635?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029182000 +0000" stop="20261029195500 +0000" channel="116">
+    <title>Almost Entirely A Slight Disaster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959348?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029195500 +0000" stop="20261029220000 +0000" channel="116">
+    <title>Bad Investigate</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959346?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

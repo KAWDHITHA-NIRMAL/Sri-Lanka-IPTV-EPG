@@ -3,16 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261024164500 +0000" stop="20261024183500 +0000" channel="114">
-    <title>Mortal Kombat Ii</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183500 +0000" stop="20261024202500 +0000" channel="114">
-    <title>Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959535?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024202500 +0000" stop="20261024220500 +0000" channel="114">
     <title>Winter Spring Summer Or Fall</title>
     <desc />
@@ -340,5 +330,15 @@
     <title>Blood Diamond</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960675?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029174000 +0000" stop="20261029193000 +0000" channel="114">
+    <title>Mortal Kombat Ii</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029205000 +0000" channel="114">
+    <title>The Final Destination</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956130?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

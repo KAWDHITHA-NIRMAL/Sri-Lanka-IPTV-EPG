@@ -3,16 +3,6 @@
   <channel id="119">
     <display-name>Channel 125</display-name>
   </channel>
-  <programme start="20261024163600 +0000" stop="20261024183900 +0000" channel="119">
-    <title>Cosmoball</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957058?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183900 +0000" stop="20261024202500 +0000" channel="119">
-    <title>Ferdinand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959675?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024202500 +0000" stop="20261024214700 +0000" channel="119">
     <title>Kunlun Battle</title>
     <desc />
@@ -304,6 +294,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261029153000 +0000" stop="20261029183000 +0000" channel="119">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029213000 +0000" channel="119">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950714?accessKey=WkVjNWNscFhORDBLCg==" />

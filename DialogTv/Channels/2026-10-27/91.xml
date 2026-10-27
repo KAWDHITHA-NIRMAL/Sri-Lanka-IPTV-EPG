@@ -3,11 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261024172200 +0000" stop="20261024200500 +0000" channel="91">
-    <title>Bichhoo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960812?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200500 +0000" stop="20261024221600 +0000" channel="91">
     <title>Love Ke Liye Kuch Bhi Karega</title>
     <desc />
@@ -229,6 +224,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261029153000 +0000" stop="20261029183000 +0000" channel="91">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029213000 +0000" channel="91">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />

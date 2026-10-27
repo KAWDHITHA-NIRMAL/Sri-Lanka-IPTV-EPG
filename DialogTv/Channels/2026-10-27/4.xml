@@ -3,16 +3,6 @@
   <channel id="4">
     <display-name>Channel 14</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024190000 +0000" channel="4">
-    <title>Wolfs</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024190600 +0000" channel="4">
-    <title>Jaya Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949583?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024190600 +0000" stop="20261024233000 +0000" channel="4">
     <title>Close Of Transmission</title>
     <desc />
@@ -912,5 +902,15 @@
     <title>Karaliya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029183600 +0000" channel="4">
+    <title>Jaya Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949583?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183600 +0000" stop="20261029233500 +0000" channel="4">
+    <title>Close Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949554?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

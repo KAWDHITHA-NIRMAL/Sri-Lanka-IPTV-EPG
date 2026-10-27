@@ -3,11 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024200000 +0000" channel="90">
-    <title>Chalte Chalte</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959470?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024230000 +0000" channel="90">
     <title>Apartment</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Koyelaanchal</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029230000 +0000" channel="90">
+    <title>Drishyam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960644?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20261024164500 +0000" stop="20261024184500 +0000" channel="111">
-    <title>Seraphim Falls</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956137?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024184500 +0000" stop="20261024191500 +0000" channel="111">
-    <title>Cyril: Simply Magic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957099?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024191500 +0000" stop="20261024201000 +0000" channel="111">
-    <title>The Rookie S8</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951436?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024201000 +0000" stop="20261024210500 +0000" channel="111">
     <title>The Rookie S8</title>
     <desc />
@@ -682,5 +667,20 @@
     <title>Sight Unseen S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958341?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029182000 +0000" stop="20261029191500 +0000" channel="111">
+    <title>NCIS: Sydney S3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029191500 +0000" stop="20261029201000 +0000" channel="111">
+    <title>S.W.A.T. S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201000 +0000" stop="20261029210500 +0000" channel="111">
+    <title>Elsbeth S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958783?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,31 +3,6 @@
   <channel id="136">
     <display-name>Channel 1836</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024183400 +0000" channel="136">
-    <title>Sentinelle Sud</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952978?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183400 +0000" stop="20261024190000 +0000" channel="136">
-    <title>Anushan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953254?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024192600 +0000" channel="136">
-    <title>64' Actu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024192600 +0000" stop="20261024195000 +0000" channel="136">
-    <title>64' Debat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024195000 +0000" stop="20261024200100 +0000" channel="136">
-    <title>L'Invite</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952717?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200100 +0000" stop="20261024210000 +0000" channel="136">
     <title>Partir Autrement Entre Amis</title>
     <desc />
@@ -1167,5 +1142,35 @@
     <title>Plus Qu'Hier, Moins Que Demain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029182400 +0000" stop="20261029184000 +0000" channel="136">
+    <title>En Voiture Clara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/947670?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029184000 +0000" stop="20261029190000 +0000" channel="136">
+    <title>La Nourrice</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029192600 +0000" channel="136">
+    <title>64' Actu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952795?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029192600 +0000" stop="20261029195000 +0000" channel="136">
+    <title>64' Debat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952590?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029195000 +0000" stop="20261029200000 +0000" channel="136">
+    <title>L'Invite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952717?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="136">
+    <title>Championnat Du Monde D'Endurance Wec 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953349?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

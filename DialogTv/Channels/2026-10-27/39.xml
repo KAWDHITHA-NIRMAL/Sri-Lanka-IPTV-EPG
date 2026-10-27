@@ -3,26 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="39">
-    <title>Late Night with Seth Meyers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="39">
-    <title>The Tech Download</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957582?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="39">
-    <title>CNBC Sport: On The Record</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956420?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="39">
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/179294?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="39">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc />
@@ -1037,5 +1017,30 @@
     <title>The Exchange</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029193000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029200000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029203000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

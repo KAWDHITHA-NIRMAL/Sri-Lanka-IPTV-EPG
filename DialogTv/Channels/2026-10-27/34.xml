@@ -3,21 +3,6 @@
   <channel id="34">
     <display-name>Channel 40</display-name>
   </channel>
-  <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="34">
-    <title>Cnn Newsroom Saturday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="34">
-    <title>Cnn Newsroom Saturday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="34">
-    <title>Cnn Newsroom Saturday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952835?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="34">
     <title>Cnn Newsroom Saturday</title>
     <desc />
@@ -577,5 +562,15 @@
     <title>One World</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/61988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="34">
+    <title>What We Know With Max Foster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951892?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029213000 +0000" channel="34">
+    <title>Quest Means Business</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

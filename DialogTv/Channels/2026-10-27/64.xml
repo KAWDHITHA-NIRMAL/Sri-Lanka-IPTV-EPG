@@ -3,11 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="64">
-    <title>Live UFC 333 - Prelims</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024180000 +0000" stop="20261024220000 +0000" channel="64">
     <title>Live UFC 333 - Volkanovski vs Evloev</title>
     <desc />
@@ -802,5 +797,20 @@
     <title>Asian Games 2026 Cricket (M) Gold Medal Match - India vs Pakistan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="64">
+    <title>New Zealand vs India 2026 - 3rd T20I Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960306?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="64">
+    <title>New Zealand Vs India 2020 2nd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="64">
+    <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

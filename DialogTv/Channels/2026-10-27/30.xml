@@ -3,26 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="30">
-    <title>The Listening Post</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="30">
     <title>Witness</title>
     <desc />
@@ -892,5 +872,20 @@
     <title>Inside Story</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="30">
+    <title>Silenced: The War On Journalism</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960568?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

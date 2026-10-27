@@ -3,16 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="57">
-    <title>Ghost Adventures</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="57">
-    <title>Haunted Towns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024203000 +0000" channel="57">
     <title>You Have Been Warned</title>
     <desc />
@@ -702,5 +692,15 @@
     <title>Ghost Adventures</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/740836?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="57">
+    <title>Haunted Towns</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="57">
+    <title>You Have Been Warned Again</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960375?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

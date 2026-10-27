@@ -3,21 +3,6 @@
   <channel id="76">
     <display-name>Channel 83</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="76">
-    <title>Food Wars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="76">
-    <title>Temptation Island S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="76">
-    <title>When The Weather Is Fine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958911?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="76">
     <title>Made In America</title>
     <desc />
@@ -803,5 +788,20 @@
     <title>Food Wars S04</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960242?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="76">
+    <title>Temptation Island S04</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="76">
+    <title>When The Weather Is Fine</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="76">
+    <title>Pretty Little Liars S06</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959295?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

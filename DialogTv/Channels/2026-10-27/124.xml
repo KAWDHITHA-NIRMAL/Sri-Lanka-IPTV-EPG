@@ -3,21 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="124">
-    <title>New Zealand A vs. India A - 1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960841?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="124">
-    <title>A G 2026 -Hockey(M) - Final  INDIA vs MALAYSIA Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960547?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="124">
-    <title>New Zealand vs India - 2nd T20I</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960901?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="124">
     <title>England vs India 2025 4th Test Highlights</title>
     <desc />
@@ -689,5 +674,15 @@
     <title>UEL 2026-27 Highlights :League Phase MD3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="124">
+    <title>DP World Asia Cup 2025 Highlights - Super Four - India vs Pakistan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955042?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="124">
+    <title>Cricket Classics: Australia v India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961320?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

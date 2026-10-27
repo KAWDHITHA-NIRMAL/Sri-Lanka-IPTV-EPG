@@ -3,16 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="67">
-    <title>BWF World Tour Badminton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="67">
-    <title>BWF World Tour Badminton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193000 +0000" stop="20261024210000 +0000" channel="67">
     <title>Hexagone MMA 2026</title>
     <desc />
@@ -330,5 +320,15 @@
     <title>AEW Dynamite</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="67">
+    <title>TNA British Boot Camp</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029203000 +0000" channel="67">
+    <title>WTT Champions Table Tennis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961235?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

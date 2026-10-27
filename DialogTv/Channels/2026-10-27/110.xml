@@ -3,21 +3,6 @@
   <channel id="110">
     <display-name>Channel 116</display-name>
   </channel>
-  <programme start="20261024163700 +0000" stop="20261024173700 +0000" channel="110">
-    <title>My Jaguar Life</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960692?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024173700 +0000" stop="20261024183700 +0000" channel="110">
-    <title>Wild Africa: Rivers Of Life</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958805?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261024183700 +0000" stop="20261024193600 +0000" channel="110">
-    <title>Nature's Greatest Survivors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960684?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261024193600 +0000" stop="20261024203400 +0000" channel="110">
     <title>Wild Fighters</title>
     <desc />
@@ -687,5 +672,20 @@
     <title>The Zoo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029182800 +0000" stop="20261029192000 +0000" channel="110">
+    <title>The Zoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951467?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029192000 +0000" stop="20261029201000 +0000" channel="110">
+    <title>River Monsters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951469?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261029201000 +0000" stop="20261029210000 +0000" channel="110">
+    <title>River Monsters</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951469?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
