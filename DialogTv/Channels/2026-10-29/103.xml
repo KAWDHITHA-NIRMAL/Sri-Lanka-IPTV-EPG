@@ -3,16 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="103">
-    <title>G7 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="103">
-    <title>G8 Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957051?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="103">
     <title>G9 Sinhala</title>
     <desc />
@@ -687,5 +677,15 @@
     <title>G8 Mathematics</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956704?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="103">
+    <title>G9 Mathematics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956950?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="103">
+    <title>G7 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956713?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

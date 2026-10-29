@@ -3,16 +3,6 @@
   <channel id="102">
     <display-name>Channel 109</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="102">
-    <title>G 12 Economics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956639?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="102">
-    <title>G 12 Accounting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957729?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="102">
     <title>G 13 Business Studies</title>
     <desc />
@@ -712,5 +702,15 @@
     <title>G 13 Chemistry</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="102">
+    <title>G 12 Biology</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957696?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031213000 +0000" channel="102">
+    <title>G 12 Physics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957459?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

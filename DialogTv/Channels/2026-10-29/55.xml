@@ -3,21 +3,6 @@
   <channel id="55">
     <display-name>Channel 61</display-name>
   </channel>
-  <programme start="20261026173100 +0000" stop="20261026183200 +0000" channel="55">
-    <title>The Secret World of Snakes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026183200 +0000" stop="20261026193000 +0000" channel="55">
-    <title>Pride Rules</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026202800 +0000" channel="55">
-    <title>Wild Spain - A tale of two brothers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026202800 +0000" stop="20261026212600 +0000" channel="55">
     <title>Wild Battleground</title>
     <desc />
@@ -696,5 +681,15 @@
     <title>Big Beasts: Last Of The Giants</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962304?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190800 +0000" stop="20261031200800 +0000" channel="55">
+    <title>Wild Kingdoms</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962305?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200800 +0000" stop="20261031210300 +0000" channel="55">
+    <title>Japan's Wild Side</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962306?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

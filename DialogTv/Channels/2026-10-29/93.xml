@@ -3,11 +3,6 @@
   <channel id="93">
     <display-name>Channel 100</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026203000 +0000" channel="93">
-    <title>Nee Enge En Anbe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026233000 +0000" channel="93">
     <title>Eli</title>
     <desc />
@@ -522,5 +517,10 @@
     <title>Appatha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962133?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031233000 +0000" channel="93">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961096?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

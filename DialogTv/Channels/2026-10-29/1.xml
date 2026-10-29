@@ -3,21 +3,6 @@
   <channel id="1">
     <display-name>Channel 11</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="1">
-    <title>Channel One Highway</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/683753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="1">
-    <title>Me Wasantha Kalayai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956392?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="1">
-    <title>Api Api Wage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957035?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="1">
     <title>Mathaka</title>
     <desc />
@@ -654,6 +639,14 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961394?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="1">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="1">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="1">
     <title>Program</title>
     <desc />
   </programme>

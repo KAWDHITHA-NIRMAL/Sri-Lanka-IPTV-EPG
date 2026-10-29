@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261026181600 +0000" stop="20261026201900 +0000" channel="79">
-    <title>Big Brother</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026201900 +0000" stop="20261026213000 +0000" channel="79">
     <title>George Reddy</title>
     <desc />
@@ -258,6 +253,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261031180000 +0000" stop="20261031195900 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031195900 +0000" stop="20261031214400 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />

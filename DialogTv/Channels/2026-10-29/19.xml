@@ -3,11 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261026173000 +0000" stop="20261026203000 +0000" channel="19">
-    <title>Tharu Piri Ahasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026233000 +0000" channel="19">
     <title>Mayura Asapuwa</title>
     <desc />
@@ -232,5 +227,10 @@
     <title>Gagulen Etharata</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961004?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031233000 +0000" channel="19">
+    <title>Mathi Nathi Da</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961005?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

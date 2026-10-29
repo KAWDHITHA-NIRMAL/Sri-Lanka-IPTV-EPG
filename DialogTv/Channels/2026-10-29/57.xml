@@ -3,16 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="57">
-    <title>Haunted Towns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="57">
-    <title>You Have Been Warned</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954144?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="57">
     <title>Food Factory</title>
     <desc />
@@ -737,5 +727,15 @@
     <title>Haunted Towns</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="57">
+    <title>You Have Been Warned</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031213000 +0000" channel="57">
+    <title>Crime Scene Confidential</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957516?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

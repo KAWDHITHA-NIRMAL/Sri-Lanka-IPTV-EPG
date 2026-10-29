@@ -3,11 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026190000 +0000" stop="20261026220000 +0000" channel="42">
     <title>Evening Encore</title>
     <desc />
@@ -594,6 +589,14 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="42">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="42">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="42">
     <title>Program</title>
     <desc />
   </programme>

@@ -3,16 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="124">
-    <title>DP World Asia Cup 2025 Highlights - India vs United Arab Emirates</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="124">
-    <title>Cricket Classics: Pakistan v Sri Lanka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026223000 +0000" channel="124">
     <title>England vs India 2025 2nd Test Highlights</title>
     <desc />
@@ -641,5 +631,15 @@
     <title>DP World Asia Cup 2025 Highlights - Super Four - India vs Sri Lanka</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956167?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="124">
+    <title>Cricket Classics: New Zealand v Sri Lanka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955781?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031223000 +0000" channel="124">
+    <title>Sri Lanka v India 2008 - 3rd ODI Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957006?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261026160500 +0000" stop="20261026184500 +0000" channel="114">
-    <title>One Battle After Another</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026184500 +0000" stop="20261026201500 +0000" channel="114">
-    <title>Four Christmases</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026201500 +0000" stop="20261026221000 +0000" channel="114">
     <title>Regretting You</title>
     <desc />
@@ -332,5 +322,10 @@
     <title>Final Destination 5</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959692?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031195500 +0000" stop="20261101003000 +0000" channel="114">
+    <title>He's Just Not That into You</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957765?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

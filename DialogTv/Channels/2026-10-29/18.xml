@@ -3,16 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261026173000 +0000" stop="20261026200000 +0000" channel="18">
-    <title>Face To Face</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="18">
-    <title>Sabanda Pabiliss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="18">
     <title>Sabanda Pabiliss</title>
     <desc />
@@ -581,5 +571,15 @@
     <title>Aladin Saha Puduma Pahana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950547?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="18">
+    <title>Sabanda Pabiliss</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957321?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

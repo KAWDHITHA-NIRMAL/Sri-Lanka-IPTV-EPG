@@ -3,16 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="64">
-    <title>Lords of England HITMAN'S ENGLAND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959571?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="64">
-    <title>UFC 333 - Volkanovski vs Evloev Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960277?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="64">
     <title>New Zealand Vs India 2019 2nd T20 Highlights</title>
     <desc />
@@ -790,5 +780,19 @@
     <title>New Zealand Vs India 2020 3rd T20 Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952264?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="64">
+    <title>New Zealand Vs India 2020 4th T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="64">
+    <title>New Zealand A vs India A 2026 - 2nd Test  Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="64">
+    <title>New Zealand Vs India 2020 4th T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950521?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

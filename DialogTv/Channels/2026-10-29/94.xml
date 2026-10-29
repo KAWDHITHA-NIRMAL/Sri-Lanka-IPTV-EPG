@@ -3,11 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261026173000 +0000" stop="20261026203000 +0000" channel="94">
-    <title>Kaththi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959786?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026233000 +0000" channel="94">
     <title>36 Vayathinile</title>
     <desc />
@@ -487,5 +482,15 @@
     <title>Azhagar Sami</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961763?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="94">
+    <title>Hit List</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951939?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031233000 +0000" channel="94">
+    <title>144</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961762?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

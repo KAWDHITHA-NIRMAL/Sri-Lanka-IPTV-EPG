@@ -3,11 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261026172000 +0000" stop="20261026191500 +0000" channel="133">
-    <title>47 Ronin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026191500 +0000" stop="20261026212500 +0000" channel="133">
     <title>The Hunger Games: Mockingjay Part 2</title>
     <desc />
@@ -331,5 +326,9 @@
     <title>Mr. &amp; Mrs. Smith</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031194500 +0000" stop="20261031212500 +0000" channel="133">
+    <title>China 9, Liberty 37</title>
+    <desc />
   </programme>
 </tv>

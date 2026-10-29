@@ -3,26 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="88">
-    <title>Shayad Yahi Hai Pyaar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956292?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="88">
-    <title>Dr. Aarambhi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956343?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="88">
-    <title>Mannat Harr Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="88">
-    <title>Seher Hone Ko Hai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/748307?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="88">
     <title>Tuu Juliet Jatt Di</title>
     <desc />
@@ -1052,5 +1032,25 @@
     <title>Shayad Yahi Hai Pyaar</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956292?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="88">
+    <title>Dr. Aarambhi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="88">
+    <title>Mannat 2: Har Khushi Paane Ki</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961895?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="88">
+    <title>Bareilly Ki Bacchan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952061?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="88">
+    <title>Tuu Juliet Jatt Di</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961445?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

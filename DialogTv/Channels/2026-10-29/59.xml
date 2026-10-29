@@ -3,21 +3,6 @@
   <channel id="59">
     <display-name>Channel 2</display-name>
   </channel>
-  <programme start="20261026181700 +0000" stop="20261026190100 +0000" channel="59">
-    <title>Airport Security Madrid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950540?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190100 +0000" stop="20261026194500 +0000" channel="59">
-    <title>Trafficked With Mariana Van Zeller</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026194500 +0000" stop="20261026203000 +0000" channel="59">
-    <title>Air Crash Investigation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026211400 +0000" channel="59">
     <title>Air Crash Investigation</title>
     <desc />
@@ -867,5 +852,25 @@
     <title>Chilean Mine Rescue: Race Against Time</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/955630?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031184700 +0000" stop="20261031192800 +0000" channel="59">
+    <title>Trafficked With Mariana Van Zeller</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031192800 +0000" stop="20261031201200 +0000" channel="59">
+    <title>Airport Security Rome</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031201200 +0000" stop="20261031205600 +0000" channel="59">
+    <title>To Catch A Smuggler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950535?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031205600 +0000" stop="20261031214100 +0000" channel="59">
+    <title>Air Crash Investigation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950537?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

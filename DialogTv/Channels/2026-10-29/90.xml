@@ -3,11 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261026170000 +0000" stop="20261026200000 +0000" channel="90">
-    <title>Sikka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957925?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026200000 +0000" stop="20261026230000 +0000" channel="90">
     <title>Blood Relation</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Guddu Ki Gun</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961152?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="90">
+    <title>Ek Lahoo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961153?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

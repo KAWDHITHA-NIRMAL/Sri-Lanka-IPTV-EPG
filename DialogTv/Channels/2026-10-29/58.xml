@@ -3,16 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="58">
-    <title>Say Yes To The Dress: The Big Day</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960106?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="58">
-    <title>Halloween Baking Championship</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958468?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="58">
     <title>For the Love of Kitchens</title>
     <desc />
@@ -707,5 +697,15 @@
     <title>Say Yes to the Dress America</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961349?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="58">
+    <title>Outrageous Pumpkins</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960586?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031213000 +0000" channel="58">
+    <title>Restaurant Impossible: Last Call</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960851?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

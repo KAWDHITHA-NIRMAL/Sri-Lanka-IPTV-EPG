@@ -3,26 +3,6 @@
   <channel id="98">
     <display-name>Channel 105</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="98">
-    <title>Vaagai Sooda Vaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950510?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="98">
-    <title>Ayali</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="98">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="98">
     <title>Free Ticket</title>
     <desc />
@@ -1087,5 +1067,25 @@
     <title>Vaagai Sooda Vaa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950510?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="98">
+    <title>Ayali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="98">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951217?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20261026153000 +0000" stop="20261026190000 +0000" channel="97">
-    <title>Maaya Kannadi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026203000 +0000" channel="97">
-    <title>Inthavaara Kalakalappu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026230000 +0000" channel="97">
     <title>Muruga</title>
     <desc />
@@ -627,5 +617,15 @@
     <title>Thirumagan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="97">
+    <title>Inthavaara Kalakalappu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950245?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031230000 +0000" channel="97">
+    <title>Pidichirukku</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961587?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

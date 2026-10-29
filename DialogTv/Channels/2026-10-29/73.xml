@@ -3,11 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261026170000 +0000" stop="20261026193000 +0000" channel="73">
-    <title>Inside Man</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959434?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026193000 +0000" stop="20261026213000 +0000" channel="73">
     <title>Kung Fu Panda</title>
     <desc />
@@ -262,5 +257,15 @@
     <title>Coach Carter</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031184500 +0000" stop="20261031204500 +0000" channel="73">
+    <title>Kung Fu Panda</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031204500 +0000" stop="20261031224500 +0000" channel="73">
+    <title>Rings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961090?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

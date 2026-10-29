@@ -3,16 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026203000 +0000" channel="122">
-    <title>PL 2026-27 Man Utd v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960550?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026203000 +0000" stop="20261026204500 +0000" channel="122">
-    <title>PL Highlights Arsenal v Leeds United</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952559?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026204500 +0000" stop="20261026210000 +0000" channel="122">
     <title>PL Highlights Chelsea v Bournemouth</title>
     <desc />
@@ -1129,5 +1119,10 @@
   <programme start="20261031183000 +0000" stop="20261031203000 +0000" channel="122">
     <title>PL 2026-27 Crystal Palace v Nottm Forest</title>
     <desc />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

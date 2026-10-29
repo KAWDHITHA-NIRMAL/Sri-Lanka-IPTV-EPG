@@ -3,21 +3,6 @@
   <channel id="137">
     <display-name>Channel 1831</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="137">
-    <title>Across The Balkans</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953201?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="137">
-    <title>Newshour - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952732?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="137">
-    <title>News - London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="137">
     <title>Markets Of The World</title>
     <desc />
@@ -1157,5 +1142,30 @@
     <title>Inside America</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952789?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031194500 +0000" channel="137">
+    <title>Scoreline</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953420?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031194500 +0000" stop="20261031200000 +0000" channel="137">
+    <title>Debrief</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953203?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="137">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="137">
+    <title>Money Talks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961555?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

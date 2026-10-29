@@ -3,11 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026203000 +0000" channel="62">
-    <title>Repeat -Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261027003000 +0000" channel="62">
     <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
     <desc />
@@ -383,6 +378,14 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954666?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="62">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="62">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="62">
     <title>Program</title>
     <desc />
   </programme>

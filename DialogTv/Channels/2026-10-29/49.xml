@@ -3,36 +3,6 @@
   <channel id="49">
     <display-name>Channel 55</display-name>
   </channel>
-  <programme start="20261026182500 +0000" stop="20261026185000 +0000" channel="49">
-    <title>The Thundermans: Undercover S02</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/706599?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026185000 +0000" stop="20261026191500 +0000" channel="49">
-    <title>Henry Danger S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026191500 +0000" stop="20261026193500 +0000" channel="49">
-    <title>Henry Danger S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193500 +0000" stop="20261026200000 +0000" channel="49">
-    <title>Danger Force S01</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953051?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026202500 +0000" channel="49">
-    <title>Icarly S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960022?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026202500 +0000" stop="20261026205000 +0000" channel="49">
-    <title>Icarly S03</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960022?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026205000 +0000" stop="20261026211500 +0000" channel="49">
     <title>Victorious S03</title>
     <desc />
@@ -1670,5 +1640,30 @@
   <programme start="20261031180000 +0000" stop="20261031192000 +0000" channel="49">
     <title>My Weird School</title>
     <desc />
+  </programme>
+  <programme start="20261031192000 +0000" stop="20261031194500 +0000" channel="49">
+    <title>Henry Danger</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961018?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031194500 +0000" stop="20261031201000 +0000" channel="49">
+    <title>Danger Force</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031201000 +0000" stop="20261031203500 +0000" channel="49">
+    <title>iCarly</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203500 +0000" stop="20261031205500 +0000" channel="49">
+    <title>iCarly</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961023?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031205500 +0000" stop="20261031212000 +0000" channel="49">
+    <title>Victorious</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961024?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

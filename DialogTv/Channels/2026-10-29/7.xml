@@ -3,26 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026191000 +0000" channel="7">
-    <title>Swarnavahini News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026191000 +0000" stop="20261026194000 +0000" channel="7">
-    <title>Bolt Anayak</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956792?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026194000 +0000" stop="20261026201000 +0000" channel="7">
-    <title>Hiri Poda Wessa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949509?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026201000 +0000" stop="20261026204000 +0000" channel="7">
-    <title>Amuthu Kalliya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956348?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026204000 +0000" stop="20261026211000 +0000" channel="7">
     <title>Aluth Sir</title>
     <desc />
@@ -862,5 +842,25 @@
     <title>Swarnavahini News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031191000 +0000" stop="20261031194000 +0000" channel="7">
+    <title>Jaffnadaraya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957056?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031194000 +0000" stop="20261031201000 +0000" channel="7">
+    <title>Weli Kadadahi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031201000 +0000" stop="20261031204000 +0000" channel="7">
+    <title>Sith Athara Histhen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956390?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031204000 +0000" stop="20261031214000 +0000" channel="7">
+    <title>Filler Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956391?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

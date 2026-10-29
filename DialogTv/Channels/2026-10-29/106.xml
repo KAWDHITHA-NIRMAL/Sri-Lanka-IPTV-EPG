@@ -3,16 +3,6 @@
   <channel id="106">
     <display-name>Channel 113</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="106">
-    <title>G7Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954752?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="106">
-    <title>G8 Tamil</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954753?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="106">
     <title>G9 Tamil</title>
     <desc />
@@ -634,6 +624,14 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="106">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="106">
+    <title>Program</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="106">
     <title>Program</title>
     <desc />
   </programme>

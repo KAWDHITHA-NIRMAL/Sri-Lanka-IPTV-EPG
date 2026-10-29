@@ -3,11 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261026182300 +0000" stop="20261026194200 +0000" channel="74">
-    <title>Brightburn</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958429?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026194200 +0000" stop="20261026211200 +0000" channel="74">
     <title>The Cable Guy</title>
     <desc />
@@ -347,5 +342,10 @@
     <title>The Pope'S Exorcist</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/954953?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031195300 +0000" stop="20261031212200 +0000" channel="74">
+    <title>Insidious: The Last Key</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962073?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

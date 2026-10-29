@@ -3,11 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="66">
-    <title>UCL 2026-27 : League Phase MD 3- MN Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026193000 +0000" stop="20261026223000 +0000" channel="66">
     <title>UFC Reloaded 2026 UFC 329 - McGregor vs Holloway 2</title>
     <desc />
@@ -574,5 +569,14 @@
     <title>UCL 2026-27 Magazine Programme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="66">
+    <title>ISL 2026-27 MD 1 - NorthEast United FC vs Bengaluru FC Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031223000 +0000" channel="66">
+    <title>UFC Reloaded 2026 UFC 325 Volkanovski vs Lopes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961199?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

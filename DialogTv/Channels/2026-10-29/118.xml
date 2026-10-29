@@ -3,16 +3,6 @@
   <channel id="118">
     <display-name>Channel 124</display-name>
   </channel>
-  <programme start="20261026171500 +0000" stop="20261026185500 +0000" channel="118">
-    <title>A Christmas Story Christmas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950955?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026185500 +0000" stop="20261026204500 +0000" channel="118">
-    <title>Final Destination Bloodlines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959143?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026204500 +0000" stop="20261026211500 +0000" channel="118">
     <title>Hollywood On Set S1</title>
     <desc />
@@ -347,5 +337,10 @@
     <title>Allied</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960937?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031194000 +0000" stop="20261031213500 +0000" channel="118">
+    <title>Reminders Of Him</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962205?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

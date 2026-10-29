@@ -3,16 +3,6 @@
   <channel id="76">
     <display-name>Channel 83</display-name>
   </channel>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="76">
-    <title>Temptation Island S04</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="76">
-    <title>When The Weather Is Fine</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958911?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="76">
     <title>Pretty Little Liars S06</title>
     <desc />
@@ -794,5 +784,14 @@
     <title>Temptation Island S04</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031200000 +0000" channel="76">
+    <title>Cheat Me If You Can</title>
+    <desc />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="76">
+    <title>Fit Fab Feast</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

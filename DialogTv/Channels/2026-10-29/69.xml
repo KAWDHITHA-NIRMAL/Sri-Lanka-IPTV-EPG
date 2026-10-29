@@ -3,26 +3,6 @@
   <channel id="69">
     <display-name>Channel 76</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="69">
-    <title>3RD ODI HLTS. AUS v IND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="69">
-    <title>ICC Men's ODI WC 2023 hlts. IND v AUS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954689?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="69">
-    <title>ICC Men's T20I World Cup Hlts SA v BAN</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959938?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="69">
-    <title>3RD T20 HLTS AUS v IND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951751?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="69">
     <title>2013 ICC Champions Trophy - Hlts</title>
     <desc />
@@ -1348,5 +1328,25 @@
     <title>ICC Men's T20I World Cup Hlts SA v IND</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961870?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="69">
+    <title>3RD T20 HLTS AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951751?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="69">
+    <title>AUS v IND ODI Series 2019 Hlts AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961718?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031203000 +0000" channel="69">
+    <title>ICC World T20 2007 Hlts.</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950322?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="69">
+    <title>ICC T20 WC 2021 Hlts WI v BAN</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960780?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

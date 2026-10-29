@@ -3,16 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="113">
-    <title>Hell's Kitchen S25</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957096?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026203000 +0000" channel="113">
-    <title>Survivor S51</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="113">
     <title>Sheriff Country S2 - Family Trust</title>
     <desc />
@@ -660,5 +650,20 @@
     <title>Sheriff Country S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961785?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="113">
+    <title>Fire Country S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="113">
+    <title>The Killer Nanny: Did She Do It?</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959338?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031213000 +0000" channel="113">
+    <title>Hotel Costiera - Richard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962204?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20261026182000 +0000" stop="20261026191500 +0000" channel="111">
-    <title>NCIS: Sydney S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959349?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026191500 +0000" stop="20261026201000 +0000" channel="111">
-    <title>S.W.A.T. S8</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026201000 +0000" stop="20261026210500 +0000" channel="111">
     <title>Elsbeth S2</title>
     <desc />
@@ -672,5 +662,15 @@
     <title>White House Down</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959689?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031191000 +0000" stop="20261031200500 +0000" channel="111">
+    <title>The Rookie S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951436?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031200500 +0000" stop="20261031210500 +0000" channel="111">
+    <title>The Rookie S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951436?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

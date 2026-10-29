@@ -3,16 +3,6 @@
   <channel id="141">
     <display-name>Channel 2082</display-name>
   </channel>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="141">
-    <title>Sri Lanka vs India 2021 - 2nd T20I Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/947087?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="141">
-    <title>New Zealand vs India 2026 - 2nd T20 Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960840?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="141">
     <title>Sri Lanka vs Afghanistan 2024 2nd T20I Highlights</title>
     <desc />
@@ -753,5 +743,15 @@
     <title>Sri Lanka vs India 2021 - 2nd T20I Highlights</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/947087?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="141">
+    <title>New Zealand vs India 2026 - 3rd T20 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961665?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031203000 +0000" stop="20261031210000 +0000" channel="141">
+    <title>Sri Lanka vs Afghanistan 2024 1st T20I Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961458?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

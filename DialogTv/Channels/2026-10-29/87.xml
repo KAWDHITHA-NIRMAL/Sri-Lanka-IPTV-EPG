@@ -3,11 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261026170000 +0000" stop="20261026185000 +0000" channel="87">
-    <title>1920 London</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961340?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026185000 +0000" stop="20261026215000 +0000" channel="87">
     <title>Darr</title>
     <desc />
@@ -277,5 +272,10 @@
     <title>Bhool Bhulaiyaa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961059?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031193000 +0000" stop="20261101000500 +0000" channel="87">
+    <title>Housefull 5A</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961261?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261026170500 +0000" stop="20261026184500 +0000" channel="117">
-    <title>Pet Sematary</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960095?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261026184500 +0000" stop="20261026202000 +0000" channel="117">
-    <title>Wes Craven Presents: Dracula 2000</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959330?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261026202000 +0000" stop="20261026220000 +0000" channel="117">
     <title>The Highest Stakes</title>
     <desc />
@@ -357,5 +347,10 @@
     <title>Death Of A Unicorn</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/958336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261031201500 +0000" stop="20261031223000 +0000" channel="117">
+    <title>Heatwave</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961171?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
