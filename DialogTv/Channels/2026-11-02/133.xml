@@ -3,36 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261029171500 +0000" stop="20261029185500 +0000" channel="133">
-    <title>Blood On The Crown</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955716?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029185500 +0000" stop="20261029202000 +0000" channel="133">
-    <title>Jumper</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029202000 +0000" stop="20261029215500 +0000" channel="133">
-    <title>Moby Dick Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029215500 +0000" stop="20261029233500 +0000" channel="133">
-    <title>Moby Dick Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029233500 +0000" stop="20261030014000 +0000" channel="133">
-    <title>Twelve Monkeys</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953819?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030014000 +0000" stop="20261030035000 +0000" channel="133">
-    <title>The Hunger Games: Mockingjay Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951492?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030035000 +0000" stop="20261030053000 +0000" channel="133">
     <title>John Wick</title>
     <desc />
@@ -327,5 +297,35 @@
     <title>Mr. &amp; Mrs. Smith</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103181500 +0000" stop="20261103195000 +0000" channel="133">
+    <title>P.O.W. The Escape</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960950?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103195000 +0000" stop="20261103221000 +0000" channel="133">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962237?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103221000 +0000" stop="20261104000500 +0000" channel="133">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962237?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104000500 +0000" stop="20261104013000 +0000" channel="133">
+    <title>Jumper</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104013000 +0000" stop="20261104032500 +0000" channel="133">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962237?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104032500 +0000" stop="20261104053500 +0000" channel="133">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962237?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

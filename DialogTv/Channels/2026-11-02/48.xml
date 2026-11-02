@@ -3,46 +3,6 @@
   <channel id="48">
     <display-name>Channel 54</display-name>
   </channel>
-  <programme start="20261029173000 +0000" stop="20261029180000 +0000" channel="48">
-    <title>Kids Fashion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956602?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="48">
-    <title>Jam Room</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956603?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029233000 +0000" channel="48">
-    <title>Baby Relaxation</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029233000 +0000" stop="20261030003000 +0000" channel="48">
-    <title>Back To Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956599?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030003000 +0000" stop="20261030013000 +0000" channel="48">
-    <title>Rhyme Doo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030013000 +0000" stop="20261030020000 +0000" channel="48">
-    <title>Kids House</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030020000 +0000" stop="20261030030000 +0000" channel="48">
-    <title>Mr. World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956605?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030030000 +0000" stop="20261030033000 +0000" channel="48">
-    <title>Plus Toon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961444?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030033000 +0000" stop="20261030043000 +0000" channel="48">
     <title>Maya Lokaya</title>
     <desc />
@@ -697,5 +657,40 @@
     <title>A Plus Mix</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956629?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103183000 +0000" stop="20261103233000 +0000" channel="48">
+    <title>Baby Relaxation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957413?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103233000 +0000" stop="20261104003000 +0000" channel="48">
+    <title>Back To Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956599?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104003000 +0000" stop="20261104013000 +0000" channel="48">
+    <title>Rhyme Doo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104013000 +0000" stop="20261104020000 +0000" channel="48">
+    <title>Kids House</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956604?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="48">
+    <title>Mr. World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956605?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104033000 +0000" channel="48">
+    <title>Plus Toon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961444?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104033000 +0000" stop="20261104043000 +0000" channel="48">
+    <title>Maya Lokaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956601?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

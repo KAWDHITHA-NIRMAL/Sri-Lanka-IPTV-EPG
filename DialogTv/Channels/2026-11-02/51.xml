@@ -3,31 +3,6 @@
   <channel id="51">
     <display-name>Channel 57</display-name>
   </channel>
-  <programme start="20261029173000 +0000" stop="20261029213000 +0000" channel="51">
-    <title>Lion Guard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950047?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029213000 +0000" stop="20261030003000 +0000" channel="51">
-    <title>Mickey Mouse Clubhouse</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950239?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030003000 +0000" stop="20261030013000 +0000" channel="51">
-    <title>PJ Masks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030013000 +0000" stop="20261030023000 +0000" channel="51">
-    <title>The Lion Guard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030023000 +0000" stop="20261030030000 +0000" channel="51">
-    <title>The Lion Guard</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030030000 +0000" stop="20261030050000 +0000" channel="51">
     <title>The Lion Guard</title>
     <desc />
@@ -332,5 +307,30 @@
     <title>Lion Guard</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950047?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103213000 +0000" stop="20261104003000 +0000" channel="51">
+    <title>Mickey Mouse Clubhouse</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950239?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104003000 +0000" stop="20261104013000 +0000" channel="51">
+    <title>PJ Masks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950043?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104013000 +0000" stop="20261104023000 +0000" channel="51">
+    <title>The Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104023000 +0000" stop="20261104030000 +0000" channel="51">
+    <title>The Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104050000 +0000" channel="51">
+    <title>The Lion Guard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950044?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

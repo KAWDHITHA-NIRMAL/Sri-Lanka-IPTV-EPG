@@ -3,46 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261029164000 +0000" stop="20261029183000 +0000" channel="125">
-    <title>Top 14 Racing 92 v Montpellier</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960991?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029202000 +0000" channel="125">
-    <title>United Rugby Championship Bulls v Ulster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960421?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029202000 +0000" stop="20261029221000 +0000" channel="125">
-    <title>United Rugby Championship Benetton v Glasgow Warriors</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961333?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029221000 +0000" stop="20261030000000 +0000" channel="125">
-    <title>United Rugby Championship Leinster v Munster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960085?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261030002000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030002000 +0000" stop="20261030005000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2008 - Italy v Scotland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030005000 +0000" stop="20261030025000 +0000" channel="125">
-    <title>Live Wheelchair RLWC26 Ireland v USA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030025000 +0000" stop="20261030032000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2014 - France v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030032000 +0000" stop="20261030052000 +0000" channel="125">
     <title>Live Wheelchair RLWC26 England vs Wales</title>
     <desc />
@@ -522,6 +482,44 @@
   </programme>
   <programme start="20261103155000 +0000" stop="20261103174000 +0000" channel="125">
     <title>Top 14 Clermont Auvergne v Racing 92</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963257?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103174000 +0000" stop="20261103193000 +0000" channel="125">
+    <title>Top 14 Stade Francais v La Rochelle</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963275?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103193000 +0000" stop="20261103200000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2013 - Wales v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103215000 +0000" channel="125">
+    <title>RLWC26 Lebanon v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103215000 +0000" stop="20261103234000 +0000" channel="125">
+    <title>RLWC26 Tonga v Samoa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963276?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103234000 +0000" stop="20261104001000 +0000" channel="125">
+    <title>Top 14 Highlights Round 8</title>
+    <desc />
+  </programme>
+  <programme start="20261104001000 +0000" stop="20261104020000 +0000" channel="125">
+    <title>United Rugby Championship Connacht v Leinster</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962642?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104020000 +0000" stop="20261104035000 +0000" channel="125">
+    <title>United Rugby Championship Stormers v Ulster</title>
+    <desc />
+  </programme>
+  <programme start="20261104035000 +0000" stop="20261104054000 +0000" channel="125">
+    <title>Gallagher Premiership Bath v Sale</title>
     <desc />
   </programme>
 </tv>

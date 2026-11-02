@@ -3,46 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20261029170000 +0000" stop="20261029183000 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029213000 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029213000 +0000" stop="20261030005900 +0000" channel="10">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030005900 +0000" stop="20261030010000 +0000" channel="10">
-    <title>Station Opening</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030010000 +0000" stop="20261030013000 +0000" channel="10">
-    <title>English News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030013000 +0000" stop="20261030020000 +0000" channel="10">
-    <title>7.30 NEWS</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030020000 +0000" stop="20261030023000 +0000" channel="10">
-    <title>Pathikada</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956589?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030023000 +0000" stop="20261030033000 +0000" channel="10">
-    <title>News Breakfast</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030033000 +0000" stop="20261030043000 +0000" channel="10">
     <title>ABC News with Joe O'Brien</title>
     <desc />
@@ -536,5 +496,44 @@
     <title>End Of Transmission</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103183000 +0000" stop="20261103213000 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103213000 +0000" stop="20261104005900 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104005900 +0000" stop="20261104010000 +0000" channel="10">
+    <title>Station Opening</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/36188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104010000 +0000" stop="20261104013000 +0000" channel="10">
+    <title>English News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956844?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104013000 +0000" stop="20261104020000 +0000" channel="10">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104020000 +0000" stop="20261104023000 +0000" channel="10">
+    <title>Pathikada</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956589?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104023000 +0000" stop="20261104033000 +0000" channel="10">
+    <title>The World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957106?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104033000 +0000" stop="20261104043000 +0000" channel="10">
+    <title>Gardening Australia - Gardening For Wildlife And Biodiversity</title>
+    <desc />
   </programme>
 </tv>

@@ -3,51 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261029173000 +0000" stop="20261029183000 +0000" channel="123">
-    <title>UFC FIGHT O'CLOCK 2.0 - WELTERWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="123">
-    <title>ISL 2026-27 MD 3 - FC Goa vs Sporting Club Delhi Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962158?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029190000 +0000" stop="20261029193000 +0000" channel="123">
-    <title>ISL 2026-27 MD 3 - Mohun Bagan Super Giant vs CFC Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029193000 +0000" stop="20261029223000 +0000" channel="123">
-    <title>UFC Reloaded 2026 UFC327 - Prochazka vs Ulberg</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962344?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029223000 +0000" stop="20261030003000 +0000" channel="123">
-    <title>UEFA Champions League 2026/27 Paris vs Barcelona</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959932?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030003000 +0000" stop="20261030004500 +0000" channel="123">
-    <title>Snippets</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/938486?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030004500 +0000" stop="20261030014500 +0000" channel="123">
-    <title>Live HK SIXES 2026 AUSTRALIA vs HONG KONG, CHINA</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962345?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030014500 +0000" stop="20261030024500 +0000" channel="123">
-    <title>Live HK SIXES 2026 BANGLADESH vs SCOTLAND</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962346?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030024500 +0000" stop="20261030033000 +0000" channel="123">
-    <title>Live HK SIXES 2026 PAKISTAN vs UAE</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962332?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030033000 +0000" stop="20261030043000 +0000" channel="123">
     <title>Live HK SIXES 2026 SOUTH AFRICA vs OMAN</title>
     <desc />
@@ -526,5 +481,49 @@
     <title>UCL 2026-27 Magazine Programme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103174500 +0000" stop="20261103183000 +0000" channel="123">
+    <title>Live UEFA Champions League 2026/27 Galatasaray vs VfB Stuttgart</title>
+    <desc />
+  </programme>
+  <programme start="20261103183000 +0000" stop="20261103193000 +0000" channel="123">
+    <title>UCL 2026-27 : League Phase MD 3 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103193000 +0000" stop="20261103223000 +0000" channel="123">
+    <title>UFC Reloaded 2026 UFC Freedom 250 - Topuria vs Gaethje</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959924?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103223000 +0000" stop="20261104003000 +0000" channel="123">
+    <title>UEFA Champions League 2026/27 Real Madrid vs Leipzig</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960305?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104003000 +0000" stop="20261104013000 +0000" channel="123">
+    <title>UFC Fight Night - Rosas Jr. vs Barcelos</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104013000 +0000" stop="20261104023000 +0000" channel="123">
+    <title>UFC FIGHT O'CLOCK 2.0 - WELTERWEIGHT</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104023000 +0000" stop="20261104030000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 OFI Crete vs Lever kusen Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960542?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104033000 +0000" channel="123">
+    <title>UEL 2026-27 League Phase MD 3 Bournemouth vs Milan Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960543?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104033000 +0000" stop="20261104043000 +0000" channel="123">
+    <title>UEL 2026-27 Highlightss :League Phase MD3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960545?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

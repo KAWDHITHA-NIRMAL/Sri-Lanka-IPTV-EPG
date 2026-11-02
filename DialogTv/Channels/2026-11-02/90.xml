@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261029170000 +0000" stop="20261029200000 +0000" channel="90">
-    <title>Koyelaanchal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029200000 +0000" stop="20261029230000 +0000" channel="90">
-    <title>Drishyam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029230000 +0000" stop="20261030020000 +0000" channel="90">
-    <title>The Real Hunter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960885?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030020000 +0000" stop="20261030050000 +0000" channel="90">
     <title>Alag</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Ghatak</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="90">
+    <title>Zindagi Gulzar Hai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962200?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104020000 +0000" channel="90">
+    <title>Azad Desh Ka Andha Kanoon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959312?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104020000 +0000" stop="20261104050000 +0000" channel="90">
+    <title>Rustum</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962277?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

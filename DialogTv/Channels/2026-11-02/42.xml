@@ -3,26 +3,6 @@
   <channel id="42">
     <display-name>Channel 48</display-name>
   </channel>
-  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="42">
-    <title>Tenors &amp; Divas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956790?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="42">
-    <title>Hall Of Fame</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029190000 +0000" stop="20261029220000 +0000" channel="42">
-    <title>Evening Encore</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261030040000 +0000" channel="42">
-    <title>Moonlight Melodies</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030040000 +0000" stop="20261030080000 +0000" channel="42">
     <title>Dawn Chorus</title>
     <desc />
@@ -727,5 +707,25 @@
     <title>Tenors &amp; Divas</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956790?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103180000 +0000" stop="20261103190000 +0000" channel="42">
+    <title>Hall Of Fame</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957668?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103190000 +0000" stop="20261103220000 +0000" channel="42">
+    <title>Evening Encore</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961532?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261103220000 +0000" stop="20261104040000 +0000" channel="42">
+    <title>Moonlight Melodies</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104080000 +0000" channel="42">
+    <title>Dawn Chorus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950000?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
