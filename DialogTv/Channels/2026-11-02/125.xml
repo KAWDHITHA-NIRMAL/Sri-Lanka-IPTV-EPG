@@ -3,61 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261030032000 +0000" stop="20261030052000 +0000" channel="125">
-    <title>Live Wheelchair RLWC26 England vs Wales</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962465?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030052000 +0000" stop="20261030053000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030053000 +0000" stop="20261030074500 +0000" channel="125">
-    <title>Live Women's RLWC26 England v Samoa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962471?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030074500 +0000" stop="20261030103000 +0000" channel="125">
-    <title>Live RLWC26 England v Papua New Guinea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962482?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030103000 +0000" stop="20261030110000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2004 - France v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030110000 +0000" stop="20261030113000 +0000" channel="125">
-    <title>Top 14 Highlights Round 4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030113000 +0000" stop="20261030123000 +0000" channel="125">
-    <title>URC in 60 Round 4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959019?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030123000 +0000" stop="20261030130000 +0000" channel="125">
-    <title>Gallagher Premiership Gallagher Premiership</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030130000 +0000" stop="20261030133000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2010 - Wales v Scotland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030133000 +0000" stop="20261030152000 +0000" channel="125">
-    <title>Women's RLWC26 England v Samoa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962466?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030152000 +0000" stop="20261030171000 +0000" channel="125">
-    <title>RLWC26 England v Papua New Guinea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962467?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030171000 +0000" stop="20261030181000 +0000" channel="125">
     <title>URC in 60 Round 4</title>
     <desc />
@@ -520,6 +465,50 @@
   </programme>
   <programme start="20261104035000 +0000" stop="20261104054000 +0000" channel="125">
     <title>Gallagher Premiership Bath v Sale</title>
+    <desc />
+  </programme>
+  <programme start="20261104054000 +0000" stop="20261104073000 +0000" channel="125">
+    <title>Gallagher Premiership Northampton v Gloucester</title>
+    <desc />
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104092000 +0000" channel="125">
+    <title>Bledisloe Cup Australia v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961576?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104092000 +0000" stop="20261104095000 +0000" channel="125">
+    <title>Top 14 Highlights Round 8</title>
+    <desc />
+  </programme>
+  <programme start="20261104095000 +0000" stop="20261104102000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104102000 +0000" stop="20261104112000 +0000" channel="125">
+    <title>URC in 60 Round 5</title>
+    <desc />
+  </programme>
+  <programme start="20261104112000 +0000" stop="20261104131000 +0000" channel="125">
+    <title>Top 14 Perpignan v Toulon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963259?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104131000 +0000" stop="20261104150000 +0000" channel="125">
+    <title>Top 14 Pau v Toulouse</title>
+    <desc />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="125">
+    <title>Gallagher Premiership Gallagher Premiership</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956993?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="125">
+    <title>URC in 60 Round 5</title>
+    <desc />
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104182000 +0000" channel="125">
+    <title>Women's RLWC 2026 New Zealand v Papua New Guinea</title>
     <desc />
   </programme>
 </tv>

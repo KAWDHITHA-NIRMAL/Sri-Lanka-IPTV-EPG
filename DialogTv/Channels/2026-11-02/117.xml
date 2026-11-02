@@ -3,46 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261030031000 +0000" stop="20261030050000 +0000" channel="117">
-    <title>London Calling</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953804?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030050000 +0000" stop="20261030070500 +0000" channel="117">
-    <title>The Lost World: Jurassic Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951340?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030070500 +0000" stop="20261030090000 +0000" channel="117">
-    <title>Recount</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030090000 +0000" stop="20261030103500 +0000" channel="117">
-    <title>Hostile Waters</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957814?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030103500 +0000" stop="20261030122500 +0000" channel="117">
-    <title>Morning Glory</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030122500 +0000" stop="20261030140000 +0000" channel="117">
-    <title>Dracula Untold</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960951?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030140000 +0000" stop="20261030152000 +0000" channel="117">
-    <title>Significant Other</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960952?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030152000 +0000" stop="20261030170500 +0000" channel="117">
-    <title>Wild Wild West</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960953?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030170500 +0000" stop="20261030190000 +0000" channel="117">
     <title>M3Gan 2.0</title>
     <desc />
@@ -347,5 +307,40 @@
     <title>Wifelike</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104055500 +0000" stop="20261104080000 +0000" channel="117">
+    <title>Maverick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962880?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104083000 +0000" stop="20261104100500 +0000" channel="117">
+    <title>Pu-239</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954369?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104100500 +0000" stop="20261104121500 +0000" channel="117">
+    <title>61*</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962885?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104121500 +0000" stop="20261104140000 +0000" channel="117">
+    <title>The Truman Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104160000 +0000" channel="117">
+    <title>Joker</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104174500 +0000" channel="117">
+    <title>Man With No Past</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962887?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

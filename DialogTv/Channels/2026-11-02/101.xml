@@ -3,26 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261030040000 +0000" stop="20261030073000 +0000" channel="101">
-    <title>Stalin</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960894?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030073000 +0000" stop="20261030095300 +0000" channel="101">
-    <title>Taana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960895?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030095300 +0000" stop="20261030130000 +0000" channel="101">
-    <title>Bhagamathie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960896?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030130000 +0000" stop="20261030160000 +0000" channel="101">
-    <title>Nilavuku En Mel Ennadi Kobam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962427?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030160000 +0000" stop="20261030174000 +0000" channel="101">
     <title>Kozhipannai Chelladurai</title>
     <desc />
@@ -267,5 +247,25 @@
     <title>Bhagavanth Kesari</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962281?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104100000 +0000" channel="101">
+    <title>Sattam En Kayil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962282?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104130000 +0000" channel="101">
+    <title>Virupaksha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960634?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104160000 +0000" channel="101">
+    <title>Officer On Duty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104183000 +0000" channel="101">
+    <title>Dd Next Level</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

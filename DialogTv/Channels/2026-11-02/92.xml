@@ -3,26 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261030030000 +0000" stop="20261030060000 +0000" channel="92">
-    <title>Real Tevar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962474?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030060000 +0000" stop="20261030090000 +0000" channel="92">
-    <title>Double Dhamaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960924?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030090000 +0000" stop="20261030120000 +0000" channel="92">
-    <title>Holiday: A Soldier Is Never Off Duty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960925?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030120000 +0000" stop="20261030150000 +0000" channel="92">
-    <title>Sam Bahadur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960926?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030150000 +0000" stop="20261030180000 +0000" channel="92">
     <title>Kesari</title>
     <desc />
@@ -207,5 +187,25 @@
     <title>Chandu Champion</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962017?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="92">
+    <title>Shandaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="92">
+    <title>Mrs Chatterjee Vs Norway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="92">
+    <title>Shakti - The Power</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="92">
+    <title>Jawan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961750?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

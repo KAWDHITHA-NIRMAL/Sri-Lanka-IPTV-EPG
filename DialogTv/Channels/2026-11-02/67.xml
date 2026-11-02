@@ -3,36 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261030030000 +0000" stop="20261030050000 +0000" channel="67">
-    <title>AEW Collision</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030050000 +0000" stop="20261030060000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030060000 +0000" stop="20261030070000 +0000" channel="67">
-    <title>Dutch League Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030070000 +0000" stop="20261030080000 +0000" channel="67">
-    <title>PFL Africa: Morocco</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030080000 +0000" stop="20261030160000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030160000 +0000" stop="20261030170000 +0000" channel="67">
-    <title>Impact In 60</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="67">
     <title>TNA Wrestling: Pehalwani Patakha</title>
     <desc />
@@ -376,5 +346,45 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104043000 +0000" stop="20261104063000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104063000 +0000" stop="20261104073000 +0000" channel="67">
+    <title>TNA Xplosion</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104080000 +0000" channel="67">
+    <title>TNA British Boot Camp</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104114500 +0000" channel="67">
+    <title>Women's Big Bash League Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104114500 +0000" stop="20261104120000 +0000" channel="67">
+    <title>Showtime With Rohit Sharma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958363?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104140000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104154500 +0000" channel="67">
+    <title>WTT Champions Table Tennis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961235?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104154500 +0000" stop="20261104174500 +0000" channel="67">
+    <title>TNA Impact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957431?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

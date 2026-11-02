@@ -3,36 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261030033000 +0000" stop="20261030043000 +0000" channel="127">
-    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030043000 +0000" stop="20261030063000 +0000" channel="127">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030063000 +0000" stop="20261030083000 +0000" channel="127">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030083000 +0000" stop="20261030093000 +0000" channel="127">
-    <title>Highlights - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030093000 +0000" stop="20261030123000 +0000" channel="127">
-    <title>Live - Sea Hawks FC vs Renown SC - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962469?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030123000 +0000" stop="20261030160000 +0000" channel="127">
-    <title>Live - HYLO Open 2026 - QF</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030160000 +0000" stop="20261030183000 +0000" channel="127">
     <title>Live - HYLO Open 2026 - QF</title>
     <desc />
@@ -289,5 +259,39 @@
     <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104043000 +0000" stop="20261104063000 +0000" channel="127">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104063000 +0000" stop="20261104083000 +0000" channel="127">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104083000 +0000" stop="20261104123000 +0000" channel="127">
+    <title>Repeat -West Indies tour of India 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104143000 +0000" channel="127">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104153000 +0000" channel="127">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104170000 +0000" channel="127">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104183000 +0000" channel="127">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

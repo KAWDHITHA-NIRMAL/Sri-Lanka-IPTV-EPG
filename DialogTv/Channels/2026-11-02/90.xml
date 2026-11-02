@@ -3,31 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261030020000 +0000" stop="20261030050000 +0000" channel="90">
-    <title>Alag</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960886?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030050000 +0000" stop="20261030080000 +0000" channel="90">
-    <title>Hatya: The Murder</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960887?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030080000 +0000" stop="20261030110000 +0000" channel="90">
-    <title>Farz</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960888?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030110000 +0000" stop="20261030140000 +0000" channel="90">
-    <title>Majaal (1987)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957042?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030140000 +0000" stop="20261030170000 +0000" channel="90">
-    <title>Sahadev</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960889?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261030170000 +0000" stop="20261030200000 +0000" channel="90">
     <title>Ek Aur Bhool Bhulaiyaa</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Rustum</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962277?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104050000 +0000" stop="20261104080000 +0000" channel="90">
+    <title>Pyar Ke Kabil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959651?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104110000 +0000" channel="90">
+    <title>Barah Aana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104140000 +0000" channel="90">
+    <title>Krishna Arjun</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104170000 +0000" channel="90">
+    <title>Mafia Raaj</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104200000 +0000" channel="90">
+    <title>Mela</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956920?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
