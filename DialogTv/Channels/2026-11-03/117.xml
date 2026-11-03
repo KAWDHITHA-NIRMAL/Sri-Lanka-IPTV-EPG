@@ -3,36 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261031074500 +0000" stop="20261031081500 +0000" channel="117">
-    <title>Hollywood On Set S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031081500 +0000" stop="20261031095500 +0000" channel="117">
-    <title>The Late Shift</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955215?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031095500 +0000" stop="20261031115000 +0000" channel="117">
-    <title>Recount</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031115000 +0000" stop="20261031140000 +0000" channel="117">
-    <title>Shazam!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959528?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031140000 +0000" stop="20261031161500 +0000" channel="117">
-    <title>The Exorcist: The Version You'Ve Never Seen Before</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961169?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031161500 +0000" stop="20261031182500 +0000" channel="117">
-    <title>The Suicide Squad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961170?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031182500 +0000" stop="20261031201500 +0000" channel="117">
     <title>Death Of A Unicorn</title>
     <desc />
@@ -347,5 +317,35 @@
     <title>61*</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962885?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105084500 +0000" stop="20261105103500 +0000" channel="117">
+    <title>Something The Lord Made</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953802?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105103500 +0000" stop="20261105122000 +0000" channel="117">
+    <title>The Truman Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962886?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105122000 +0000" stop="20261105140000 +0000" channel="117">
+    <title>Brother Nature</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962889?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105140000 +0000" stop="20261105160000 +0000" channel="117">
+    <title>Jurassic World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962890?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105181000 +0000" channel="117">
+    <title>Jurassic World: Fallen Kingdom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962891?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105181000 +0000" stop="20261105200500 +0000" channel="117">
+    <title>Blade</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962888?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

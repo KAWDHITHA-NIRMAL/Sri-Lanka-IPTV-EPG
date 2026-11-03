@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261031073000 +0000" stop="20261031103000 +0000" channel="95">
-    <title>Meenava Nanban</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961741?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031133000 +0000" channel="95">
-    <title>Poi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961742?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031133000 +0000" stop="20261031170000 +0000" channel="95">
-    <title>Priyamudan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961743?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031170000 +0000" stop="20261031200000 +0000" channel="95">
     <title>Kadalora Kavithaigal</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Senathipathi</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963294?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105103000 +0000" stop="20261105133000 +0000" channel="95">
+    <title>Album</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963295?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105133000 +0000" stop="20261105170000 +0000" channel="95">
+    <title>Idhu Namma Aalu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963296?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105200000 +0000" channel="95">
+    <title>Maya Bazaar 1995</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963293?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,36 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261031045900 +0000" stop="20261031083300 +0000" channel="101">
-    <title>Veerame Vaagai Soodum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961115?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031083300 +0000" stop="20261031110200 +0000" channel="101">
-    <title>Deiva Machan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961116?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031110200 +0000" stop="20261031133000 +0000" channel="101">
-    <title>Mirugaa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961117?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031133000 +0000" stop="20261031160000 +0000" channel="101">
-    <title>Thamizharasan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961118?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031160000 +0000" stop="20261031181700 +0000" channel="101">
-    <title>Meymarandhen Paaraayo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961119?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031181700 +0000" stop="20261031183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -272,5 +242,25 @@
     <title>Mohini</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962505?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105100000 +0000" stop="20261105130000 +0000" channel="101">
+    <title>Thirunaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962506?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105160000 +0000" channel="101">
+    <title>House Mates</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960513?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105183000 +0000" channel="101">
+    <title>Akhanda 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959666?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

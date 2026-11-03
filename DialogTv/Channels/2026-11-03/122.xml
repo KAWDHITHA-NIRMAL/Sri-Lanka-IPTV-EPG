@@ -3,71 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261031063000 +0000" stop="20261031083000 +0000" channel="122">
-    <title>Live NPL 2026 Lions v Rhinos</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962646?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031083000 +0000" stop="20261031100000 +0000" channel="122">
-    <title>Live NPL 2026 Lions v Rhinos</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962646?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="122">
-    <title>PL Highlights Nottm Forest v Arsenal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031104500 +0000" channel="122">
-    <title>NPL 2026 HLs Bolts v Gurkhas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031104500 +0000" stop="20261031110000 +0000" channel="122">
-    <title>NPL 2026 HLs Yaks v Kings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962360?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031110000 +0000" stop="20261031130000 +0000" channel="122">
-    <title>Live NPL 2026 Royals v Kings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031130000 +0000" stop="20261031143000 +0000" channel="122">
-    <title>Live NPL 2026 Royals v Kings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962622?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031143000 +0000" stop="20261031144500 +0000" channel="122">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031144500 +0000" stop="20261031170000 +0000" channel="122">
-    <title>Live PL 2026-27 Brentford v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="122">
-    <title>PL Highlights Chelsea v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959998?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031173000 +0000" stop="20261031174500 +0000" channel="122">
-    <title>NPL 2026 HLs Bolts v Gurkhas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962359?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031174500 +0000" stop="20261031180000 +0000" channel="122">
-    <title>NPL 2026 HLs Yaks v Kings</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962360?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031180000 +0000" stop="20261031183000 +0000" channel="122">
-    <title>PL Highlights Man Utd v Chelsea</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960358?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031183000 +0000" stop="20261031203000 +0000" channel="122">
     <title>PL 2026-27 Crystal Palace v Nottm Forest</title>
     <desc />
@@ -656,10 +591,12 @@
   <programme start="20261103180000 +0000" stop="20261103181500 +0000" channel="122">
     <title>NPL 2026 HLs Royals v Rhinos</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963830?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103181500 +0000" stop="20261103183000 +0000" channel="122">
     <title>NPL 2026 HLs Gurkhas v Yaks</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963831?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103183000 +0000" stop="20261103203000 +0000" channel="122">
     <title>PL 2026-27 Coventry City v Newcastle</title>
@@ -734,6 +671,7 @@
   <programme start="20261104033000 +0000" stop="20261104034500 +0000" channel="122">
     <title>NPL 2026 HLs Kings v Bolts</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963818?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104034500 +0000" stop="20261104040000 +0000" channel="122">
     <title>NPL 2026 HLs Lions v Avengers</title>
@@ -757,6 +695,7 @@
   <programme start="20261104053000 +0000" stop="20261104054500 +0000" channel="122">
     <title>NPL 2026 HLs Kings v Bolts</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963818?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104054500 +0000" stop="20261104060000 +0000" channel="122">
     <title>NPL 2026 HLs Lions v Avengers</title>
@@ -765,6 +704,7 @@
   <programme start="20261104060000 +0000" stop="20261104061500 +0000" channel="122">
     <title>WTA Chennai Open 2026 HLs</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104061500 +0000" stop="20261104063000 +0000" channel="122">
     <title>PL Highlights Sunderland v Arsenal</title>
@@ -839,6 +779,7 @@
   <programme start="20261104103000 +0000" stop="20261104104500 +0000" channel="122">
     <title>WTA Chennai Open 2026 HLs</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104104500 +0000" stop="20261104110000 +0000" channel="122">
     <title>NPL 2026 HLs Lions v Avengers</title>
@@ -892,6 +833,7 @@
   <programme start="20261104143000 +0000" stop="20261104144500 +0000" channel="122">
     <title>WTA Chennai Open 2026 HLs</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104144500 +0000" stop="20261104150000 +0000" channel="122">
     <title>PL Highlights Liverpool v Arsenal</title>
@@ -936,6 +878,7 @@
   <programme start="20261104180000 +0000" stop="20261104181500 +0000" channel="122">
     <title>NPL 2026 HLs Kings v Bolts</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963818?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104181500 +0000" stop="20261104183000 +0000" channel="122">
     <title>NPL 2026 HLs Lions v Avengers</title>
@@ -1042,6 +985,7 @@
   <programme start="20261105060000 +0000" stop="20261105061500 +0000" channel="122">
     <title>WTA Chennai Open 2026 HLs</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261105061500 +0000" stop="20261105063000 +0000" channel="122">
     <title>NPL 2026 HLs Bolts v Avengers</title>
@@ -1050,6 +994,92 @@
   </programme>
   <programme start="20261105063000 +0000" stop="20261105083000 +0000" channel="122">
     <title>Live NPL 2026 Lions v Bolts</title>
+    <desc />
+  </programme>
+  <programme start="20261105083000 +0000" stop="20261105100000 +0000" channel="122">
+    <title>Live NPL 2026 Lions v Bolts</title>
+    <desc />
+  </programme>
+  <programme start="20261105100000 +0000" stop="20261105103000 +0000" channel="122">
+    <title>PL Rewind 2026-27</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105103000 +0000" stop="20261105104500 +0000" channel="122">
+    <title>WTA Chennai Open 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105104500 +0000" stop="20261105110000 +0000" channel="122">
+    <title>NPL 2026 HLs Bolts v Avengers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105110000 +0000" stop="20261105130000 +0000" channel="122">
+    <title>Live NPL 2026 Gurkhas v Kings</title>
+    <desc />
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105143000 +0000" channel="122">
+    <title>Live NPL 2026 Gurkhas v Kings</title>
+    <desc />
+  </programme>
+  <programme start="20261105143000 +0000" stop="20261105144500 +0000" channel="122">
+    <title>WTA Chennai Open 2026 HLs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963819?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105144500 +0000" stop="20261105150000 +0000" channel="122">
+    <title>PL Highlights Liverpool v Brighton</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960355?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105150000 +0000" stop="20261105153000 +0000" channel="122">
+    <title>Ligue 1 Highlights 2026-27</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955713?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105154500 +0000" channel="122">
+    <title>PL Highlights Chelsea v Bournemouth</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954876?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105154500 +0000" stop="20261105160000 +0000" channel="122">
+    <title>PL Highlights Everton v Chelsea</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957844?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="122">
+    <title>Ligue 1 Highlights 2026-27</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955713?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105163000 +0000" stop="20261105170000 +0000" channel="122">
+    <title>Muthoot Fincorp 1st ODI HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949541?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="122">
+    <title>Ligue 1 Highlights 2026-27</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955713?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="122">
+    <title>ONE : Championship Classics</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105180000 +0000" stop="20261105181500 +0000" channel="122">
+    <title>NPL 2026 HLs Royals v Kings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962971?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105181500 +0000" stop="20261105183000 +0000" channel="122">
+    <title>NPL 2026 HLs Bolts v Avengers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963683?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105203000 +0000" channel="122">
+    <title>PL 2026-27 Brentford v Liverpool</title>
     <desc />
   </programme>
 </tv>

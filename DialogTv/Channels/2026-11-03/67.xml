@@ -3,26 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261031080000 +0000" stop="20261031160000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031160000 +0000" stop="20261031170000 +0000" channel="67">
-    <title>PFL Africa: Morocco</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031170000 +0000" stop="20261031180000 +0000" channel="67">
-    <title>WWE LFG</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951970?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031180000 +0000" stop="20261031183000 +0000" channel="67">
-    <title>BWF World Tour Badminton</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953517?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031183000 +0000" stop="20261031210000 +0000" channel="67">
     <title>BWF World Tour Badminton</title>
     <desc />
@@ -367,5 +347,35 @@
     <title>Women's Big Bash League Cricket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105114500 +0000" stop="20261105120000 +0000" channel="67">
+    <title>Showtime With Munaf Patel</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961663?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105140000 +0000" channel="67">
+    <title>TNA Impact</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957431?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105140000 +0000" stop="20261105153000 +0000" channel="67">
+    <title>WTT Champions Table Tennis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961235?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="67">
+    <title>One-Day International Cricket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950247?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105183000 +0000" channel="67">
+    <title>AEW Dynamite</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105203000 +0000" channel="67">
+    <title>WTT Champions Table Tennis</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961235?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

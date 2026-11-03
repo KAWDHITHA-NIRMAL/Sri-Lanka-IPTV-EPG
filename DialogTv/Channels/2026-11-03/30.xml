@@ -3,86 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261031080000 +0000" stop="20261031083000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031083000 +0000" stop="20261031090000 +0000" channel="30">
-    <title>Counting The Cost</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952757?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031090000 +0000" stop="20261031093000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="30">
-    <title>UpFront</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960823?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031120000 +0000" stop="20261031130000 +0000" channel="30">
-    <title>Al Jazeera World</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031130000 +0000" stop="20261031140000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031140000 +0000" stop="20261031143000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="30">
-    <title>101 East</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953043?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031150000 +0000" stop="20261031160000 +0000" channel="30">
-    <title>Newshour</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031160000 +0000" stop="20261031163000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031163000 +0000" stop="20261031170000 +0000" channel="30">
-    <title>Fault Lines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953070?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031173000 +0000" stop="20261031180000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031180000 +0000" stop="20261031190000 +0000" channel="30">
     <title>Newshour</title>
     <desc />
@@ -897,5 +817,80 @@
     <title>News Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105083000 +0000" stop="20261105090000 +0000" channel="30">
+    <title>The Bottom Line</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953045?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105093000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105093000 +0000" stop="20261105100000 +0000" channel="30">
+    <title>Fault Lines</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105100000 +0000" stop="20261105110000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105110000 +0000" stop="20261105113000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105113000 +0000" stop="20261105120000 +0000" channel="30">
+    <title>Inside Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105130000 +0000" channel="30">
+    <title>Let's Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958013?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105140000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105140000 +0000" stop="20261105143000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105143000 +0000" stop="20261105150000 +0000" channel="30">
+    <title>Al Jazeera Explains</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957643?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105150000 +0000" stop="20261105160000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105170000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="30">
+    <title>Inside Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105180000 +0000" stop="20261105190000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

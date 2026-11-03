@@ -3,26 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261031061500 +0000" stop="20261031083000 +0000" channel="87">
-    <title>Zanjeer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961055?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031083000 +0000" stop="20261031105500 +0000" channel="87">
-    <title>Ram Setu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961056?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031105500 +0000" stop="20261031140000 +0000" channel="87">
-    <title>Kal Ho Naa Ho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961057?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031140000 +0000" stop="20261031170000 +0000" channel="87">
-    <title>Rocky Aur Rani Kii Prem Kahaani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961058?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031170000 +0000" stop="20261031193000 +0000" channel="87">
     <title>Bhool Bhulaiyaa</title>
     <desc />
@@ -178,12 +158,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962012?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261103170000 +0000" stop="20261103193000 +0000" channel="87">
+  <programme start="20261103170000 +0000" stop="20261103192900 +0000" channel="87">
     <title>Golmaal: Fun Unlimited</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960041?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261103193000 +0000" stop="20261103221000 +0000" channel="87">
+  <programme start="20261103192900 +0000" stop="20261103221000 +0000" channel="87">
     <title>Aavesham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959298?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -262,5 +242,25 @@
     <title>Action Replayy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962494?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105092000 +0000" stop="20261105114000 +0000" channel="87">
+    <title>Ladies Vs Ricky Bahl</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105114000 +0000" stop="20261105141500 +0000" channel="87">
+    <title>Hungama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962496?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105141500 +0000" stop="20261105170000 +0000" channel="87">
+    <title>Rab Ne Bana Di Jodi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959303?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105193000 +0000" channel="87">
+    <title>Welcome Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962497?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

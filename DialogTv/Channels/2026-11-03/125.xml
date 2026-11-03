@@ -3,46 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261031075500 +0000" stop="20261031100500 +0000" channel="125">
-    <title>Live RLWC26 Australia v Cook Islands</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031100500 +0000" stop="20261031101500 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031101500 +0000" stop="20261031111500 +0000" channel="125">
-    <title>URC in 60 Round 4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959019?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031111500 +0000" stop="20261031134500 +0000" channel="125">
-    <title>Live United Rugby Championship Stormers v Ulster</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962644?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031134500 +0000" stop="20261031140000 +0000" channel="125">
-    <title>Premier Sports Extra Premier Sports Extra</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031140000 +0000" stop="20261031160000 +0000" channel="125">
-    <title>Live Gallagher Premiership Bath v Sale</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962670?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031160000 +0000" stop="20261031162500 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2014 - France v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960945?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031162500 +0000" stop="20261031183000 +0000" channel="125">
-    <title>Live Gallagher Premiership Northampton v Gloucester</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962671?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031183000 +0000" stop="20261031211500 +0000" channel="125">
     <title>Live United Rugby Championship Ospreys v Cardiff</title>
     <desc />
@@ -513,5 +473,45 @@
     <title>RLWC26 Australia v Cook Islands</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963652?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105082000 +0000" stop="20261105085000 +0000" channel="125">
+    <title>Top 14 Highlights Round 8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963542?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105085000 +0000" stop="20261105104000 +0000" channel="125">
+    <title>Gallagher Premiership Bristol v Leicester</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963538?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105104000 +0000" stop="20261105123000 +0000" channel="125">
+    <title>Gallagher Premiership Northampton v Gloucester</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963661?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105123000 +0000" stop="20261105130000 +0000" channel="125">
+    <title>Top 14 Highlights Round 8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963542?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105145000 +0000" channel="125">
+    <title>United Rugby Championship Dragons v Zebre Parma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963277?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105145000 +0000" stop="20261105164000 +0000" channel="125">
+    <title>United Rugby Championship Ospreys v Cardiff</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963278?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105164000 +0000" stop="20261105171000 +0000" channel="125">
+    <title>Top 14 Highlights Round 8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963542?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105171000 +0000" stop="20261105190000 +0000" channel="125">
+    <title>Gallagher Premiership Bath v Sale</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963561?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

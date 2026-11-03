@@ -3,31 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261031070000 +0000" stop="20261031123000 +0000" channel="15">
-    <title>7th ODI Rti- Series Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031123000 +0000" stop="20261031133000 +0000" channel="15">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031133000 +0000" stop="20261031153000 +0000" channel="15">
-    <title>7th ODI Rti- Series Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031153000 +0000" stop="20261031163000 +0000" channel="15">
-    <title>Siyatha News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961649?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031163000 +0000" stop="20261031183000 +0000" channel="15">
-    <title>Siyatha Tharu Piri Rea Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952539?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031183000 +0000" stop="20261031203000 +0000" channel="15">
     <title>End Of Transmission</title>
     <desc />
@@ -504,5 +479,30 @@
     <title>6th ODI Rti- Series Live</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961647?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105123000 +0000" stop="20261105133000 +0000" channel="15">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105133000 +0000" stop="20261105153000 +0000" channel="15">
+    <title>6th ODI Rti- Series Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961647?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105163000 +0000" channel="15">
+    <title>Siyatha News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961649?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105163000 +0000" stop="20261105183000 +0000" channel="15">
+    <title>Ravana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/915602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
