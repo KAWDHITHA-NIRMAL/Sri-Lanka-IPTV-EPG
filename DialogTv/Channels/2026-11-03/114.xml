@@ -3,41 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261030172500 +0000" stop="20261030190000 +0000" channel="114">
-    <title>Arcadian</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960956?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030190000 +0000" stop="20261030210500 +0000" channel="114">
-    <title>Oblivion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959135?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030210500 +0000" stop="20261030232000 +0000" channel="114">
-    <title>Van Helsing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957809?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030232000 +0000" stop="20261031014500 +0000" channel="114">
-    <title>Wonder Woman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031014500 +0000" stop="20261031032000 +0000" channel="114">
-    <title>The Astronaut</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/944149?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031032000 +0000" stop="20261031053000 +0000" channel="114">
-    <title>Superman</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959691?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031053000 +0000" stop="20261031073500 +0000" channel="114">
-    <title>Oblivion</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959135?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031073500 +0000" stop="20261031100500 +0000" channel="114">
     <title>Wonder Woman 1984</title>
     <desc />
@@ -191,11 +156,12 @@
   <programme start="20261103094000 +0000" stop="20261103113500 +0000" channel="114">
     <title>Juror #2</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963512?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103113500 +0000" stop="20261103130000 +0000" channel="114">
     <title>Dr. Seuss' The Cat In The Hat</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963564?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103130000 +0000" stop="20261103145000 +0000" channel="114">
     <title>Green Lantern</title>
@@ -265,7 +231,7 @@
   <programme start="20261104101500 +0000" stop="20261104114000 +0000" channel="114">
     <title>Dr. Seuss' The Cat In The Hat</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963564?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104114000 +0000" stop="20261104140000 +0000" channel="114">
     <title>King Richard</title>
@@ -285,6 +251,51 @@
   <programme start="20261104164000 +0000" stop="20261104174000 +0000" channel="114">
     <title>The Gilded Age S4</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104174000 +0000" stop="20261104191000 +0000" channel="114">
+    <title>Paranormal Activity 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104191000 +0000" stop="20261104212500 +0000" channel="114">
+    <title>Shutter Island</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963473?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104212500 +0000" stop="20261104230500 +0000" channel="114">
+    <title>The Moment</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104230500 +0000" stop="20261105010500 +0000" channel="114">
+    <title>Father Of The Bride</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963469?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105010500 +0000" stop="20261105025500 +0000" channel="114">
+    <title>Pacific Rim: Uprising</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963470?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105025500 +0000" stop="20261105043000 +0000" channel="114">
+    <title>Epic: Elvis Presley In Concert</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963475?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105043000 +0000" stop="20261105061000 +0000" channel="114">
+    <title>The Moment</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963474?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105061000 +0000" stop="20261105073500 +0000" channel="114">
+    <title>Old School</title>
+    <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105073500 +0000" stop="20261105095500 +0000" channel="114">
+    <title>King Richard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963403?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261030160000 +0000" stop="20261030183000 +0000" channel="127">
-    <title>Live - HYLO Open 2026 - QF</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030183000 +0000" stop="20261030203000 +0000" channel="127">
-    <title>Live - HYLO Open 2026 - QF</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962242?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030203000 +0000" stop="20261031003000 +0000" channel="127">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031003000 +0000" stop="20261031020000 +0000" channel="127">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031020000 +0000" stop="20261031033000 +0000" channel="127">
-    <title>Highlights - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031033000 +0000" stop="20261031040000 +0000" channel="127">
-    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031040000 +0000" stop="20261031063000 +0000" channel="127">
-    <title>Live - Central Finance vs Nation Trust Bank - MCA Challengers League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962608?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031063000 +0000" stop="20261031093000 +0000" channel="127">
     <title>Live - Central Finance vs Nation Trust Bank - MCA Challengers League 2026</title>
     <desc />
@@ -214,6 +179,7 @@
   <programme start="20261103080000 +0000" stop="20261103123000 +0000" channel="127">
     <title>Live - HNB vs Hayles Group - 33rd Singer MCA Super Premier T20 League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963563?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103123000 +0000" stop="20261103143000 +0000" channel="127">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -273,6 +239,7 @@
   <programme start="20261104083000 +0000" stop="20261104123000 +0000" channel="127">
     <title>Repeat -West Indies tour of India 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104123000 +0000" stop="20261104143000 +0000" channel="127">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -293,5 +260,40 @@
     <title>Highlights - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104203000 +0000" channel="127">
+    <title>Repeat -Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261105003000 +0000" channel="127">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105003000 +0000" stop="20261105020000 +0000" channel="127">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105033000 +0000" channel="127">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105033000 +0000" stop="20261105040000 +0000" channel="127">
+    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105070000 +0000" channel="127">
+    <title>Live - Hayles A vs HNB A - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962244?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105070000 +0000" stop="20261105100000 +0000" channel="127">
+    <title>Live - Hayles A vs HNB A - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962244?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

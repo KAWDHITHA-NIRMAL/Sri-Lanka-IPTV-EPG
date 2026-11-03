@@ -3,31 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261030170000 +0000" stop="20261030200000 +0000" channel="95">
-    <title>Dhaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961736?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030200000 +0000" stop="20261030223000 +0000" channel="95">
-    <title>Chithiram Pesuthadi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961733?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030223000 +0000" stop="20261031013000 +0000" channel="95">
-    <title>Saavi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961738?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031013000 +0000" stop="20261031043000 +0000" channel="95">
-    <title>Karuppu Nila</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961739?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031043000 +0000" stop="20261031073000 +0000" channel="95">
-    <title>Kadalora Kavithaigal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961740?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031073000 +0000" stop="20261031103000 +0000" channel="95">
     <title>Meenava Nanban</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Rajali</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963289?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104223000 +0000" channel="95">
+    <title>Chinna Marumagal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104223000 +0000" stop="20261105013000 +0000" channel="95">
+    <title>Oru Kai Parpom</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963291?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105013000 +0000" stop="20261105043000 +0000" channel="95">
+    <title>Alexander</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963292?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105043000 +0000" stop="20261105073000 +0000" channel="95">
+    <title>Maya Bazaar 1995</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963293?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105073000 +0000" stop="20261105103000 +0000" channel="95">
+    <title>Senathipathi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963294?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

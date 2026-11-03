@@ -3,60 +3,6 @@
   <channel id="15">
     <display-name>Channel 21</display-name>
   </channel>
-  <programme start="20261030170000 +0000" stop="20261030183000 +0000" channel="15">
-    <title>Siyatha Sadde</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957970?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030183000 +0000" stop="20261030203000 +0000" channel="15">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030203000 +0000" stop="20261030232400 +0000" channel="15">
-    <title>End Of Transmission</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030232400 +0000" stop="20261031003000 +0000" channel="15">
-    <title>Religious Program</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/677254?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031003000 +0000" stop="20261031004500 +0000" channel="15">
-    <title>Morning Back To Back</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956843?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031004500 +0000" stop="20261031020000 +0000" channel="15">
-    <title>Siyatha Paththare Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/728818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031020000 +0000" stop="20261031023000 +0000" channel="15">
-    <title>Soba</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/188656?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031023000 +0000" stop="20261031043000 +0000" channel="15">
-    <title>Voice Of Family</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956838?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031043000 +0000" stop="20261031053000 +0000" channel="15">
-    <title>Sonduru Piyasa</title>
-    <desc />
-  </programme>
-  <programme start="20261031053000 +0000" stop="20261031063000 +0000" channel="15">
-    <title>Studio One Weekend</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952502?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="15">
-    <title>Siyatha News-Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956837?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031070000 +0000" stop="20261031123000 +0000" channel="15">
     <title>7th ODI Rti- Series Live</title>
     <desc />
@@ -493,5 +439,70 @@
     <title>Threekonaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104203000 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261104232400 +0000" channel="15">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104232400 +0000" stop="20261105003000 +0000" channel="15">
+    <title>Religious Program</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/677254?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105003000 +0000" stop="20261105004500 +0000" channel="15">
+    <title>Morning Back To Back</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105004500 +0000" stop="20261105020000 +0000" channel="15">
+    <title>Siyatha Paththare Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/728818?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="15">
+    <title>Soba</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/188656?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105023000 +0000" stop="20261105043000 +0000" channel="15">
+    <title>Adaraneeya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105043000 +0000" stop="20261105050000 +0000" channel="15">
+    <title>Ola Mola Pure</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956839?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105050000 +0000" stop="20261105053000 +0000" channel="15">
+    <title>Eyath Lassanayi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956840?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105053000 +0000" stop="20261105060000 +0000" channel="15">
+    <title>Doovili</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957252?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105063000 +0000" channel="15">
+    <title>Sanda Hangila</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961646?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105063000 +0000" stop="20261105070000 +0000" channel="15">
+    <title>Siyatha News-Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956837?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105070000 +0000" stop="20261105123000 +0000" channel="15">
+    <title>6th ODI Rti- Series Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961647?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

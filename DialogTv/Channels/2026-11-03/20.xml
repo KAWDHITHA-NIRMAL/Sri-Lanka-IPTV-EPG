@@ -3,46 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20261030170000 +0000" stop="20261030183000 +0000" channel="20">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030183000 +0000" stop="20261030203000 +0000" channel="20">
-    <title>Repeat - Dialog Schools Rugby League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962524?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030203000 +0000" stop="20261031003000 +0000" channel="20">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031003000 +0000" stop="20261031020000 +0000" channel="20">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031020000 +0000" stop="20261031033000 +0000" channel="20">
-    <title>Highlights - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031033000 +0000" stop="20261031043000 +0000" channel="20">
-    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031043000 +0000" stop="20261031063000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="20">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031070000 +0000" stop="20261031123000 +0000" channel="20">
     <title>Live - South Africa vs Australia - Day 05 - 3rd Test  - Australia tour of South Africa 2026</title>
     <desc />
@@ -210,15 +170,14 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261103103000 +0000" stop="20261103123000 +0000" channel="20">
+  <programme start="20261103103000 +0000" stop="20261103110000 +0000" channel="20">
     <title>Repeat -Dialog Play Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261103123000 +0000" stop="20261103143000 +0000" channel="20">
-    <title>Highlights - West Indies tour of India 2026</title>
+  <programme start="20261103110000 +0000" stop="20261103143000 +0000" channel="20">
+    <title>Live - Player Auction - Afghanistan Premier League 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103143000 +0000" stop="20261103153000 +0000" channel="20">
     <title>Highlights - Dialog Play Super League 2026</title>
@@ -273,6 +232,7 @@
   <programme start="20261104080000 +0000" stop="20261104123000 +0000" channel="20">
     <title>Live - Melbourne Stars vs Perth Scorchers - Womens Big Bash League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963550?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261104123000 +0000" stop="20261104143000 +0000" channel="20">
     <title>Highlights - West Indies tour of India 2026</title>
@@ -293,5 +253,41 @@
     <title>Highlights - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104203000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261105003000 +0000" channel="20">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105003000 +0000" stop="20261105013000 +0000" channel="20">
+    <title>Highlights - Under 13 Schools Basketball Championship 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261105013000 +0000" stop="20261105020000 +0000" channel="20">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105033000 +0000" channel="20">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105033000 +0000" stop="20261105043000 +0000" channel="20">
+    <title>Highlights - Zimbabwe Tour of Afghanistan 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261105043000 +0000" stop="20261105080000 +0000" channel="20">
+    <title>Live - Adelaide Strikers vs Brisbane Heat - Womens Big Bash League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261105080000 +0000" stop="20261105123000 +0000" channel="20">
+    <title>Live - Sydney Thunder vs Perth Scorchers - Womens Big Bash League 2026</title>
+    <desc />
   </programme>
 </tv>

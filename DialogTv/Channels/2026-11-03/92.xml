@@ -3,31 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261030150000 +0000" stop="20261030180000 +0000" channel="92">
-    <title>Kesari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960414?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030180000 +0000" stop="20261030210000 +0000" channel="92">
-    <title>Aranmanai 4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960413?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030210000 +0000" stop="20261031000000 +0000" channel="92">
-    <title>Holiday - A Soldier Is Never Off Duty</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960927?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031000000 +0000" stop="20261031030000 +0000" channel="92">
-    <title>Sam Bahadur</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960926?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031030000 +0000" stop="20261031060000 +0000" channel="92">
-    <title>Go Goa Gone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961092?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031060000 +0000" stop="20261031090000 +0000" channel="92">
     <title>Zindagi Na Milegi Dobara</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Jawan</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961750?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104220000 +0000" channel="92">
+    <title>Pardes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961749?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261105020000 +0000" channel="92">
+    <title>Shandaar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962285?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="92">
+    <title>Mrs Chatterjee Vs Norway</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962286?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="92">
+    <title>Shakti - The Power</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962287?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105090000 +0000" channel="92">
+    <title>Dil Ka Kya Kasoor</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962500?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

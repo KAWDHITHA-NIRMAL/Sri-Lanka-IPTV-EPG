@@ -3,56 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261030173000 +0000" stop="20261030183000 +0000" channel="62">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030183000 +0000" stop="20261030203000 +0000" channel="62">
-    <title>Repeat -Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261030203000 +0000" stop="20261031003000 +0000" channel="62">
-    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031003000 +0000" stop="20261031013000 +0000" channel="62">
-    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031013000 +0000" stop="20261031023000 +0000" channel="62">
-    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031023000 +0000" stop="20261031040000 +0000" channel="62">
-    <title>Highlights - West Indies tour of India 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031040000 +0000" stop="20261031043000 +0000" channel="62">
-    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031043000 +0000" stop="20261031063000 +0000" channel="62">
-    <title>Live - Perth Scorchers vs Melbourne Renegades - Womens Big Bash League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962596?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031063000 +0000" stop="20261031071500 +0000" channel="62">
-    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261031071500 +0000" stop="20261031075000 +0000" channel="62">
-    <title>Live - Pakistan vs Sri Lanka - Final - Dialog Play Cricket Chat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962597?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261031075000 +0000" stop="20261031123000 +0000" channel="62">
     <title>Live - Pakistan vs Sri Lanka - Final - ODI Tri-Series</title>
     <desc />
@@ -197,6 +147,7 @@
   <programme start="20261103080000 +0000" stop="20261103123000 +0000" channel="62">
     <title>Live - BBK Partnership vs Amzet Lanka - 33rd Singer MCA Super Premier T20 League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963531?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261103123000 +0000" stop="20261103133000 +0000" channel="62">
     <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
@@ -276,5 +227,55 @@
     <title>Highlights - West Indies tour of India 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104203000 +0000" channel="62">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261105003000 +0000" channel="62">
+    <title>Repeat - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105003000 +0000" stop="20261105013000 +0000" channel="62">
+    <title>Highlights - Major Club T20 Cricket Tournement 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943401?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105013000 +0000" stop="20261105023000 +0000" channel="62">
+    <title>Highlights - 33rd Singer MCA Super Premier League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956227?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105023000 +0000" stop="20261105040000 +0000" channel="62">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="62">
+    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105050000 +0000" stop="20261105063000 +0000" channel="62">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956943?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105063000 +0000" stop="20261105071500 +0000" channel="62">
+    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105071500 +0000" stop="20261105075000 +0000" channel="62">
+    <title>Live - Dialog Play Cricket Chat  - 6th ODI - ODI Tri-Series</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962241?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261105075000 +0000" stop="20261105105000 +0000" channel="62">
+    <title>Live - Sri Lanka vs England - 6th ODI - ODI Tri-Series</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962240?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
