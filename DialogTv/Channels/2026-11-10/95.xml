@@ -3,46 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261106170000 +0000" stop="20261106200000 +0000" channel="95">
-    <title>Poruthathu Podhum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963297?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261106200000 +0000" stop="20261106223000 +0000" channel="95">
-    <title>Senathipathi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963294?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261106223000 +0000" stop="20261107013000 +0000" channel="95">
-    <title>Vetri Thirumagan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963299?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107013000 +0000" stop="20261107043000 +0000" channel="95">
-    <title>Pandinattu Thangam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963300?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107043000 +0000" stop="20261107073000 +0000" channel="95">
-    <title>Muppozhuthum Un Karpanaigal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963301?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107073000 +0000" stop="20261107103000 +0000" channel="95">
-    <title>Priyasagi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963302?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107103000 +0000" stop="20261107133000 +0000" channel="95">
-    <title>Kaaval</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963303?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107133000 +0000" stop="20261107170000 +0000" channel="95">
-    <title>Yennai Arinthal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963304?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261107170000 +0000" stop="20261107200000 +0000" channel="95">
     <title>Muppozhuthum Un Karpanaigal</title>
     <desc />
@@ -212,5 +172,45 @@
     <title>Theertha Karaiyinile</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965139?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111223000 +0000" channel="95">
+    <title>Veera Padhakkam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965136?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261111223000 +0000" stop="20261112013000 +0000" channel="95">
+    <title>Jai India</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965141?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112013000 +0000" stop="20261112043000 +0000" channel="95">
+    <title>Jaisurya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965142?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112043000 +0000" stop="20261112073000 +0000" channel="95">
+    <title>Asuran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965143?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112073000 +0000" stop="20261112103000 +0000" channel="95">
+    <title>Karpura Mullai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112103000 +0000" stop="20261112133000 +0000" channel="95">
+    <title>Sigappu Thali</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965145?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112133000 +0000" stop="20261112170000 +0000" channel="95">
+    <title>En Aasai Machaan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112200000 +0000" channel="95">
+    <title>Asuran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965143?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

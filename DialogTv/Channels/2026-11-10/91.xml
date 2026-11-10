@@ -3,51 +3,6 @@
   <channel id="91">
     <display-name>Channel 98</display-name>
   </channel>
-  <programme start="20261106172100 +0000" stop="20261106183000 +0000" channel="91">
-    <title>Hello Brother</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964142?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261106183000 +0000" stop="20261106213000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261106213000 +0000" stop="20261107003000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107003000 +0000" stop="20261107033000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107033000 +0000" stop="20261107063000 +0000" channel="91">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951021?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107063000 +0000" stop="20261107072400 +0000" channel="91">
-    <title>Mann</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964553?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107072400 +0000" stop="20261107111900 +0000" channel="91">
-    <title>Kal Ho Naa Ho</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964554?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107111900 +0000" stop="20261107142500 +0000" channel="91">
-    <title>Mujhse Dosti Karoge!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964555?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261107142500 +0000" stop="20261107172300 +0000" channel="91">
-    <title>Chennai Express</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964556?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261107172300 +0000" stop="20261107202800 +0000" channel="91">
     <title>Rocky Aur Rani Kii Prem Kahaani</title>
     <desc />
@@ -232,5 +187,45 @@
     <title>Jab Pyaar Kisi Se Hota Hai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/964638?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261111200300 +0000" stop="20261111230000 +0000" channel="91">
+    <title>Hasee Toh Phasee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261112014500 +0000" channel="91">
+    <title>Swarg Se Sunder</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112014500 +0000" stop="20261112054500 +0000" channel="91">
+    <title>M.S. Dhoni: The Untold Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965090?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112054500 +0000" stop="20261112083000 +0000" channel="91">
+    <title>Ek Villain</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965091?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112083000 +0000" stop="20261112111500 +0000" channel="91">
+    <title>Ishaqzaade</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965092?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112111500 +0000" stop="20261112143000 +0000" channel="91">
+    <title>Ready</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965093?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112143000 +0000" stop="20261112181500 +0000" channel="91">
+    <title>Dil</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965094?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112181500 +0000" stop="20261112204500 +0000" channel="91">
+    <title>Band Baaja Baaraat</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960864?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
