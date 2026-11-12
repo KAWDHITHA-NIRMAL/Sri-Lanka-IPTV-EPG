@@ -3,66 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261108185500 +0000" stop="20261108203000 +0000" channel="117">
-    <title>Armor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962960?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261108203000 +0000" stop="20261108220500 +0000" channel="117">
-    <title>Old Guy</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960955?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261108220500 +0000" stop="20261108235500 +0000" channel="117">
-    <title>Stop-Loss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261108235500 +0000" stop="20261109002500 +0000" channel="117">
-    <title>Hollywood On Set S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109002500 +0000" stop="20261109022000 +0000" channel="117">
-    <title>American Made</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962882?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109042000 +0000" channel="117">
-    <title>The Brothers Grimm</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962868?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109042000 +0000" stop="20261109060000 +0000" channel="117">
-    <title>Drop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/954368?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109075000 +0000" channel="117">
-    <title>The Good Liar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963657?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109075000 +0000" stop="20261109094000 +0000" channel="117">
-    <title>In Pursuit Of Honor</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951331?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109094000 +0000" stop="20261109112500 +0000" channel="117">
-    <title>El Diablo</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957441?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109112500 +0000" stop="20261109140000 +0000" channel="117">
-    <title>Transformers: Dark Of The Moon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963265?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109164000 +0000" channel="117">
-    <title>Transformers: Age Of Extinction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261109164000 +0000" stop="20261109191000 +0000" channel="117">
     <title>Transformers: The Last Knight</title>
     <desc />
@@ -347,5 +287,75 @@
     <title>Ninja Assassin</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965705?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113202000 +0000" stop="20261113220500 +0000" channel="117">
+    <title>Dirty Angels</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113220500 +0000" stop="20261114000000 +0000" channel="117">
+    <title>Kiss The Girls</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965706?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114023500 +0000" channel="117">
+    <title>Jurassic World</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965899?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114023500 +0000" stop="20261114043000 +0000" channel="117">
+    <title>Bumblebee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966060?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114061000 +0000" channel="117">
+    <title>Brother Nature</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965957?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114061000 +0000" stop="20261114074000 +0000" channel="117">
+    <title>Jungleland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964679?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114074000 +0000" stop="20261114092000 +0000" channel="117">
+    <title>Pu-239</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954369?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114092000 +0000" stop="20261114095000 +0000" channel="117">
+    <title>Hollywood On Set S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956730?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114095000 +0000" stop="20261114121000 +0000" channel="117">
+    <title>Transformers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114121000 +0000" stop="20261114140000 +0000" channel="117">
+    <title>American Made</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965708?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114161000 +0000" channel="117">
+    <title>Se7En</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114161000 +0000" stop="20261114181500 +0000" channel="117">
+    <title>No Country For Old Men</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965907?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114181500 +0000" stop="20261114201500 +0000" channel="117">
+    <title>The Many Saints Of Newark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965709?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

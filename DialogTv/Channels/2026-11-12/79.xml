@@ -3,51 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261108194200 +0000" stop="20261108212200 +0000" channel="79">
-    <title>Antim Yudh</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261108212200 +0000" stop="20261108234300 +0000" channel="79">
-    <title>Superstar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964526?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261108234300 +0000" stop="20261109000800 +0000" channel="79">
-    <title>Filler</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961015?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109000800 +0000" stop="20261109022000 +0000" channel="79">
-    <title>Meri Jaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964527?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109052800 +0000" channel="79">
-    <title>Mufti</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964528?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109052800 +0000" stop="20261109080000 +0000" channel="79">
-    <title>Mawali Raaj</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964529?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109111400 +0000" channel="79">
-    <title>Blast Zone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964530?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109111400 +0000" stop="20261109150100 +0000" channel="79">
-    <title>De Dana Dan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964531?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261109150100 +0000" stop="20261109180100 +0000" channel="79">
-    <title>Rajini The Jailer</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964532?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261109180100 +0000" stop="20261109202600 +0000" channel="79">
     <title>Kabali</title>
     <desc />
@@ -203,47 +158,92 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966200?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261112200700 +0000" stop="20261112223000 +0000" channel="79">
+  <programme start="20261112200700 +0000" stop="20261112214700 +0000" channel="79">
     <title>Ek Zakhmi Romeo</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966201?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261112223000 +0000" stop="20261113003000 +0000" channel="79">
+  <programme start="20261112214700 +0000" stop="20261112225600 +0000" channel="79">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961015?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261112225600 +0000" stop="20261113012800 +0000" channel="79">
+    <title>Kannum Kannum Kollaiyadithaal</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966393?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113012800 +0000" stop="20261113041500 +0000" channel="79">
+    <title>Daring Gundaraaj</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966394?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113041500 +0000" stop="20261113074100 +0000" channel="79">
+    <title>Om Shanti Om</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966395?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113074100 +0000" stop="20261113102600 +0000" channel="79">
+    <title>Fidaa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966396?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113102600 +0000" stop="20261113130000 +0000" channel="79">
+    <title>Buddy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966397?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="79">
+    <title>Zombie Reddy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966398?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113170400 +0000" channel="79">
+    <title>Bhairadevi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113170400 +0000" stop="20261113201200 +0000" channel="79">
+    <title>Surya's Saturday</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966423?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113201200 +0000" stop="20261113213000 +0000" channel="79">
+    <title>Jigarbaaz Khiladi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966424?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261113213000 +0000" stop="20261114003000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113003000 +0000" stop="20261113033000 +0000" channel="79">
+  <programme start="20261114003000 +0000" stop="20261114033000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113033000 +0000" stop="20261113063000 +0000" channel="79">
+  <programme start="20261114033000 +0000" stop="20261114063000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113063000 +0000" stop="20261113093000 +0000" channel="79">
+  <programme start="20261114063000 +0000" stop="20261114093000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113093000 +0000" stop="20261113123000 +0000" channel="79">
+  <programme start="20261114093000 +0000" stop="20261114123000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113123000 +0000" stop="20261113153000 +0000" channel="79">
+  <programme start="20261114123000 +0000" stop="20261114153000 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261113153000 +0000" stop="20261113194200 +0000" channel="79">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261113194200 +0000" stop="20261113214600 +0000" channel="79">
+  <programme start="20261114153000 +0000" stop="20261114193400 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
