@@ -3,76 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261110160000 +0000" stop="20261110181700 +0000" channel="101">
-    <title>Bhagavanth Kesari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962281?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110181700 +0000" stop="20261110183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110183000 +0000" stop="20261110192800 +0000" channel="101">
-    <title>Free Ticket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110192800 +0000" stop="20261110214200 +0000" channel="101">
-    <title>Virupaksha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960634?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110214200 +0000" stop="20261110220000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110220000 +0000" stop="20261111010000 +0000" channel="101">
-    <title>Yaan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964261?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111010000 +0000" stop="20261111040000 +0000" channel="101">
-    <title>Acharya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965604?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111073000 +0000" channel="101">
-    <title>En Peru Surya En Veedu India</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964263?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111073000 +0000" stop="20261111100000 +0000" channel="101">
-    <title>Rajamahal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965664?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111100000 +0000" stop="20261111130000 +0000" channel="101">
-    <title>Karumegangal Kalaigindrana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965665?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111130000 +0000" stop="20261111154800 +0000" channel="101">
-    <title>Pongaluku Varugirom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965666?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111154800 +0000" stop="20261111160000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111160000 +0000" stop="20261111181200 +0000" channel="101">
-    <title>Sarkarin Elam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962710?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111181200 +0000" stop="20261111183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261111183000 +0000" stop="20261111192700 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -228,25 +158,40 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/964949?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261114143000 +0000" stop="20261114163000 +0000" channel="101">
+  <programme start="20261114143000 +0000" stop="20261114160900 +0000" channel="101">
     <title>Kuttrame Thandanai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965847?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261114163000 +0000" stop="20261114190000 +0000" channel="101">
+  <programme start="20261114160900 +0000" stop="20261114163000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114163000 +0000" stop="20261114184700 +0000" channel="101">
     <title>Uttama Villain</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962942?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="101">
+  <programme start="20261114184700 +0000" stop="20261114190000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114190000 +0000" stop="20261114192900 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261114193000 +0000" stop="20261114220000 +0000" channel="101">
+  <programme start="20261114192900 +0000" stop="20261114214300 +0000" channel="101">
     <title>Pathu Thala</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965848?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261114214300 +0000" stop="20261114220000 +0000" channel="101">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261114220000 +0000" stop="20261115013000 +0000" channel="101">
     <title>Pyaar Prema Kadhal</title>
@@ -282,5 +227,55 @@
     <title>Pattathu Yaanai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963230?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261115193000 +0000" stop="20261115220000 +0000" channel="101">
+    <title>Officer On Duty</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261116010000 +0000" channel="101">
+    <title>Panirendu</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="101">
+    <title>Gandeevadhari Arjuna</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966459?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116073000 +0000" channel="101">
+    <title>Dinosaurs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116073000 +0000" stop="20261116100000 +0000" channel="101">
+    <title>Ayodhi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966461?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116130000 +0000" channel="101">
+    <title>Sindhubadh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966462?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116160000 +0000" channel="101">
+    <title>Vikram Vedha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966463?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116183000 +0000" channel="101">
+    <title>Vetrivel</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964250?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="101">
+    <title>Free Ticket</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956927?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,46 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261110170000 +0000" stop="20261110200000 +0000" channel="90">
-    <title>Demon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110200000 +0000" stop="20261110230000 +0000" channel="90">
-    <title>Race (2019)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960891?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261110230000 +0000" stop="20261111020000 +0000" channel="90">
-    <title>Ek Aur Prem Deewani</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964053?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111020000 +0000" stop="20261111050000 +0000" channel="90">
-    <title>Kaali Topi Laal Roomaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111050000 +0000" stop="20261111080000 +0000" channel="90">
-    <title>Kahtey Hain Mujhko Raja</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960263?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111080000 +0000" stop="20261111110000 +0000" channel="90">
-    <title>Mera Karam Mera Dharam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111110000 +0000" stop="20261111140000 +0000" channel="90">
-    <title>Wafadaar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957903?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111140000 +0000" stop="20261111170000 +0000" channel="90">
-    <title>Koyelaanchal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960643?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261111170000 +0000" stop="20261111200000 +0000" channel="90">
     <title>Katilon Ke Kaatil</title>
     <desc />
@@ -207,5 +167,45 @@
     <title>Rustum</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962277?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261115200000 +0000" stop="20261115230000 +0000" channel="90">
+    <title>Apartment</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964247?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="90">
+    <title>Dharmyudh</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965260?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="90">
+    <title>Kab? Kyoon?Aur Kahan?</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965976?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116080000 +0000" channel="90">
+    <title>Anokhi Ada (1973)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965883?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116110000 +0000" channel="90">
+    <title>Daraar</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959653?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116140000 +0000" channel="90">
+    <title>Aakhri Ghulam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965263?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116170000 +0000" channel="90">
+    <title>Mela</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956920?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116200000 +0000" channel="90">
+    <title>Pardesi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965264?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
