@@ -3,86 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="39">
-    <title>Power Lunch</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="39">
-    <title>Closing Bell</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="39">
-    <title>Closing Bell: Overtime</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="39">
-    <title>Fast Money</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261111230000 +0000" stop="20261112020000 +0000" channel="39">
-    <title>Squawk Box Asia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="39">
-    <title>U.S. Markets Edition</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957248?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="39">
-    <title>Closing Bell: Overtime</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="39">
-    <title>Access Middle East</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956715?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="39">
-    <title>Fast Money</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="39">
-    <title>U.S. Markets Edition</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957248?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112070000 +0000" stop="20261112100000 +0000" channel="39">
-    <title>Squawk Box Europe</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="39">
-    <title>Morning Call</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112110000 +0000" stop="20261112140000 +0000" channel="39">
-    <title>US Squawk Box</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112140000 +0000" stop="20261112160000 +0000" channel="39">
-    <title>Squawk on the Street</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="39">
-    <title>Squawk on the Street</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="39">
     <title>Halftime Report</title>
     <desc />
@@ -333,18 +253,22 @@
   <programme start="20261115010000 +0000" stop="20261115013000 +0000" channel="39">
     <title>Managing MEast 10</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966895?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="39">
     <title>Conversation 264</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966894?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="39">
     <title>Exec. Decisions 33</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966896?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="39">
     <title>On The Record 306</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="39">
     <title>American Greed 84</title>
@@ -376,14 +300,17 @@
   <programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="39">
     <title>On The Record 306</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="39">
     <title>Managing MEast 10</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966895?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="39">
     <title>Conversation 264</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966894?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115120000 +0000" stop="20261115140000 +0000" channel="39">
     <title>The Tonight Show Starring Jimmy Fallon</title>
@@ -393,10 +320,12 @@
   <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="39">
     <title>Exec. Decisions 33</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966896?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="39">
     <title>On The Record 306</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966897?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261115150000 +0000" stop="20261115183000 +0000" channel="39">
     <title>American Greed 84</title>
@@ -626,5 +555,215 @@
     <title>The Exchange</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="39">
+    <title>Power Lunch</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189378?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116203000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="39">
+    <title>Closing Bell</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/112412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="39">
+    <title>Fast Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="39">
+    <title>Fast Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117003000 +0000" stop="20261117010000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117013000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="39">
+    <title>Squawk Box Asia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965884?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117020000 +0000" stop="20261117030000 +0000" channel="39">
+    <title>U.S. Markets Edition</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957248?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="39">
+    <title>Closing Bell: Overtime</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189379?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117040000 +0000" stop="20261117043000 +0000" channel="39">
+    <title>Access Middle East</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117043000 +0000" stop="20261117050000 +0000" channel="39">
+    <title>Access Middle East</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956715?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="39">
+    <title>Fast Money</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189380?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="39">
+    <title>U.S. Markets Edition</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957248?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117070000 +0000" stop="20261117073000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117073000 +0000" stop="20261117080000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117080000 +0000" stop="20261117083000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117083000 +0000" stop="20261117090000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117090000 +0000" stop="20261117093000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117093000 +0000" stop="20261117100000 +0000" channel="39">
+    <title>Squawk Box Europe</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956487?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117100000 +0000" stop="20261117103000 +0000" channel="39">
+    <title>Morning Call</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117103000 +0000" stop="20261117110000 +0000" channel="39">
+    <title>Morning Call</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956357?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117110000 +0000" stop="20261117113000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117113000 +0000" stop="20261117120000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117130000 +0000" stop="20261117133000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117133000 +0000" stop="20261117140000 +0000" channel="39">
+    <title>US Squawk Box</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/154702?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117140000 +0000" stop="20261117143000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117143000 +0000" stop="20261117150000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117150000 +0000" stop="20261117153000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117153000 +0000" stop="20261117160000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117160000 +0000" stop="20261117163000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117163000 +0000" stop="20261117170000 +0000" channel="39">
+    <title>Squawk on the Street</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189374?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117170000 +0000" stop="20261117173000 +0000" channel="39">
+    <title>Halftime Report</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189376?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="39">
+    <title>Halftime Report</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/189376?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
