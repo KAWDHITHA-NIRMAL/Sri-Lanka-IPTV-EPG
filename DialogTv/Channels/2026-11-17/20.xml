@@ -3,56 +3,6 @@
   <channel id="20">
     <display-name>Channel 18</display-name>
   </channel>
-  <programme start="20261113173000 +0000" stop="20261113183000 +0000" channel="20">
-    <title>Highlights - Tecno SAFF Championship 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965460?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261113183000 +0000" stop="20261113203000 +0000" channel="20">
-    <title>Repeat - Dialog Play Super League 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261113203000 +0000" stop="20261114003000 +0000" channel="20">
-    <title>Repeat - FIFA World Cup 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261114003000 +0000" stop="20261114013000 +0000" channel="20">
-    <title>Highlights - Under 13 Schools Basketball Championship 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261114013000 +0000" stop="20261114023000 +0000" channel="20">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261114023000 +0000" stop="20261114040000 +0000" channel="20">
-    <title>Highlights - MCA Challengers League 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261114040000 +0000" stop="20261114063000 +0000" channel="20">
-    <title>Replay - Mercentile Rugby 7s' 2024</title>
-    <desc />
-  </programme>
-  <programme start="20261114063000 +0000" stop="20261114093000 +0000" channel="20">
-    <title>Live - 54th Mercantile Rugby Sevens 2026 - Day 02</title>
-    <desc />
-  </programme>
-  <programme start="20261114093000 +0000" stop="20261114123000 +0000" channel="20">
-    <title>Live - 54th Mercantile Rugby Sevens 2026 - Day 02</title>
-    <desc />
-  </programme>
-  <programme start="20261114123000 +0000" stop="20261114163000 +0000" channel="20">
-    <title>Live - 54th Mercantile Rugby Sevens 2026 - Day 02</title>
-    <desc />
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114173000 +0000" channel="20">
-    <title>Highlights - Australia tour of South Africa 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261114173000 +0000" stop="20261114183000 +0000" channel="20">
     <title>Highlights - Tecno SAFF Championship 2026</title>
     <desc />
@@ -185,10 +135,12 @@
   <programme start="20261117010000 +0000" stop="20261117023000 +0000" channel="20">
     <title>Highlights - Sri Lanka tour of Pakistan T20 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967291?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261117023000 +0000" stop="20261117060000 +0000" channel="20">
     <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967395?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="20">
     <title>Highlights - Sri Lanka tour of Pakistan 2026 - Test</title>
@@ -228,14 +180,17 @@
   <programme start="20261117203000 +0000" stop="20261118003000 +0000" channel="20">
     <title>Repeat- Sri Lanka tour of Pakistan T20 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967292?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261118003000 +0000" stop="20261118040000 +0000" channel="20">
     <title>Highlights - Pak vs SL vs ENG - ODI Tri Series 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967395?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261118040000 +0000" stop="20261118053000 +0000" channel="20">
     <title>Highlights - Sri Lanka tour of Pakistan T20 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967291?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261118053000 +0000" stop="20261118063000 +0000" channel="20">
     <title>Highlights - Sri Lanka tour of Pakistan 2026 - Test</title>
@@ -262,5 +217,85 @@
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261118183000 +0000" stop="20261118203000 +0000" channel="20">
+    <title>Repeat - Tecno SAFF Championship 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261118203000 +0000" stop="20261119003000 +0000" channel="20">
+    <title>Repeat - FIFA World Cup 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960967?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119003000 +0000" stop="20261119013000 +0000" channel="20">
+    <title>Highlights - Under 13 Schools Basketball Championship 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964175?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="20">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119020000 +0000" stop="20261119033000 +0000" channel="20">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119033000 +0000" stop="20261119043000 +0000" channel="20">
+    <title>Highlights - Zimbabwe Tour of Afghanistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965449?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119043000 +0000" stop="20261119063000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119063000 +0000" stop="20261119073000 +0000" channel="20">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119073000 +0000" stop="20261119090000 +0000" channel="20">
+    <title>Highlights - Tecno SAFF Championship 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965460?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119090000 +0000" stop="20261119113000 +0000" channel="20">
+    <title>Repeat - Tecno SAFF Championship 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965283?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119113000 +0000" stop="20261119130000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="20">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119140000 +0000" stop="20261119150000 +0000" channel="20">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="20">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119160000 +0000" stop="20261119173000 +0000" channel="20">
+    <title>Highlights - Zimbabwe Tour of Afghanistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965449?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119173000 +0000" stop="20261119183000 +0000" channel="20">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956490?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
