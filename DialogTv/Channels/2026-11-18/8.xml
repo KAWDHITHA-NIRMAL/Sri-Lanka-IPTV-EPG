@@ -3,46 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261115100000 +0000" stop="20261115130000 +0000" channel="8">
-    <title>Sirasa Tharu Irida</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962896?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="8">
-    <title>Double Trouble</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="8">
-    <title>Sirasa Lakshapathi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952939?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="8">
-    <title>Sirasa Dancing Star</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="8">
-    <title>Yak Bandi Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961400?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="8">
-    <title>News 1St</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115183000 +0000" channel="8">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115183000 +0000" stop="20261115232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -772,5 +732,80 @@
     <title>Pink Panther</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965448?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="8">
+    <title>Garfield</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50764?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="8">
+    <title>Giripura Aththo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/50760?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="8">
+    <title>Tara Duncan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952934?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="8">
+    <title>Sammy Boy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/203826?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="8">
+    <title>The Y Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/706552?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="8">
+    <title>Dawasa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="8">
+    <title>Neela Samanalie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952814?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="8">
+    <title>Aaley</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957191?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="8">
+    <title>Mayavee</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957192?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="8">
+    <title>Ahankara Adare</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/759788?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="8">
+    <title>Prema Dadayama</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/753049?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="8">
+    <title>News 1St</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952832?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120183000 +0000" channel="8">
+    <title>Imorich Movie Night</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962899?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120183000 +0000" stop="20261120232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

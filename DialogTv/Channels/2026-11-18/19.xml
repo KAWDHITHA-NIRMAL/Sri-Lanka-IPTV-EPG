@@ -3,21 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261115083000 +0000" stop="20261115113000 +0000" channel="19">
-    <title>Rathriya Wee</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115113000 +0000" stop="20261115143000 +0000" channel="19">
-    <title>rawana horawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115143000 +0000" stop="20261115173000 +0000" channel="19">
-    <title>Yaddehi Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115173000 +0000" stop="20261115203000 +0000" channel="19">
     <title>Tharu Piri Ahasa</title>
     <desc />
@@ -232,5 +217,20 @@
     <title>Awul Haraya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960806?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120143000 +0000" channel="19">
+    <title>Sihinayaki Oba</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960807?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120143000 +0000" stop="20261120173000 +0000" channel="19">
+    <title>Athkanda Lihini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960556?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120173000 +0000" stop="20261120203000 +0000" channel="19">
+    <title>Paththara Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960557?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261115083400 +0000" stop="20261115121300 +0000" channel="79">
-    <title>Devara: Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966697?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115121300 +0000" stop="20261115150000 +0000" channel="79">
-    <title>Maragathananayam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966698?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115172800 +0000" channel="79">
-    <title>Gatta Kusthi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115172800 +0000" stop="20261115195100 +0000" channel="79">
     <title>Tanhaji The Unsung Warrior</title>
     <desc />
@@ -178,40 +163,50 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967724?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261118212300 +0000" stop="20261119003000 +0000" channel="79">
+  <programme start="20261118212300 +0000" stop="20261118234400 +0000" channel="79">
     <title>I Love You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967725?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119003000 +0000" stop="20261119033000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261118234400 +0000" stop="20261119022000 +0000" channel="79">
+    <title>Indra Shakti</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967943?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119033000 +0000" stop="20261119063000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261119022000 +0000" stop="20261119045400 +0000" channel="79">
+    <title>Sangili Bungili Darwaza Khol</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967944?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119063000 +0000" stop="20261119093000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261119045400 +0000" stop="20261119074000 +0000" channel="79">
+    <title>Maa</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967945?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119093000 +0000" stop="20261119123000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261119074000 +0000" stop="20261119100900 +0000" channel="79">
+    <title>Alluri</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967946?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119123000 +0000" stop="20261119153000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261119100900 +0000" stop="20261119122600 +0000" channel="79">
+    <title>Sangharsh Aur Vijay</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967947?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261119153000 +0000" stop="20261119183000 +0000" channel="79">
-    <title>Movie</title>
+  <programme start="20261119122600 +0000" stop="20261119150000 +0000" channel="79">
+    <title>Nagashaurya'S Aswathama</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119150000 +0000" stop="20261119174900 +0000" channel="79">
+    <title>Dashing CM Bharath</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119174900 +0000" stop="20261119183000 +0000" channel="79">
+    <title>Prince No. 1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967950?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261119183000 +0000" stop="20261119213000 +0000" channel="79">
     <title>Movie</title>
@@ -239,6 +234,16 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261120093000 +0000" stop="20261120123000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120123000 +0000" stop="20261120153000 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120153000 +0000" stop="20261120201200 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />

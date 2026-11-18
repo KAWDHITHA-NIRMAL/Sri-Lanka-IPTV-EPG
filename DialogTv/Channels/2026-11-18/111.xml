@@ -3,41 +3,6 @@
   <channel id="111">
     <display-name>Channel 117</display-name>
   </channel>
-  <programme start="20261115102000 +0000" stop="20261115111500 +0000" channel="111">
-    <title>Elsbeth S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958783?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115111500 +0000" stop="20261115121000 +0000" channel="111">
-    <title>S.W.A.T. S8</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115121000 +0000" stop="20261115130000 +0000" channel="111">
-    <title>S.W.A.T. S8</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115130000 +0000" stop="20261115153000 +0000" channel="111">
-    <title>Ambulance (2022)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965045?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115153000 +0000" stop="20261115162000 +0000" channel="111">
-    <title>NCIS: Sydney S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959349?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115162000 +0000" stop="20261115171000 +0000" channel="111">
-    <title>NCIS: Sydney S3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959349?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115171000 +0000" stop="20261115174000 +0000" channel="111">
-    <title>Cyril: Simply Magic</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965046?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115174000 +0000" stop="20261115183500 +0000" channel="111">
     <title>Elsbeth S2</title>
     <desc />
@@ -677,5 +642,47 @@
     <title>Hudson &amp; Rex S6</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965979?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120110000 +0000" stop="20261120115500 +0000" channel="111">
+    <title>Coroner S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120115500 +0000" stop="20261120125000 +0000" channel="111">
+    <title>FBI: Most Wanted S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960664?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120125000 +0000" stop="20261120134500 +0000" channel="111">
+    <title>Private Eyes 1</title>
+    <desc />
+  </programme>
+  <programme start="20261120134500 +0000" stop="20261120144000 +0000" channel="111">
+    <title>S.W.A.T. S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120144000 +0000" stop="20261120153500 +0000" channel="111">
+    <title>Private Eyes 1</title>
+    <desc />
+  </programme>
+  <programme start="20261120153500 +0000" stop="20261120163000 +0000" channel="111">
+    <title>S.W.A.T. S8</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120163000 +0000" stop="20261120172500 +0000" channel="111">
+    <title>FBI: Most Wanted S6</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960664?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120172500 +0000" stop="20261120182000 +0000" channel="111">
+    <title>Coroner S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964307?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120182000 +0000" stop="20261120191500 +0000" channel="111">
+    <title>Private Eyes 1</title>
+    <desc />
   </programme>
 </tv>

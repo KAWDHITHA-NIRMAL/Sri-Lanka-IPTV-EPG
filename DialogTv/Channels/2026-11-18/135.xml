@@ -3,36 +3,6 @@
   <channel id="135">
     <display-name>Channel 1834</display-name>
   </channel>
-  <programme start="20261115093000 +0000" stop="20261115120000 +0000" channel="135">
-    <title>Splendida Cornice 2025/26 6a Puntata Riedizione Crawl</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957128?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="135">
-    <title>TG1 Ore 13.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956642?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115123000 +0000" stop="20261115141500 +0000" channel="135">
-    <title>Fiction: Che Dio Ci Aiuti 7 1a Puntata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957880?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115141500 +0000" stop="20261115143000 +0000" channel="135">
-    <title>TG1 Ore 16.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956650?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115143000 +0000" stop="20261115170000 +0000" channel="135">
-    <title>Vita In Diretta</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956711?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115181500 +0000" channel="135">
-    <title>Reazione A Catena</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115181500 +0000" stop="20261115184500 +0000" channel="135">
     <title>TG1 Ore 20.00</title>
     <desc />
@@ -697,5 +667,60 @@
     <title>Kilimangiaro Estate 2025 4a Puntata Riedizione</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120111500 +0000" stop="20261120114500 +0000" channel="135">
+    <title>TG2 Giorno</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940556?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120114500 +0000" stop="20261120121500 +0000" channel="135">
+    <title>TG2 Week-End</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120121500 +0000" stop="20261120123000 +0000" channel="135">
+    <title>Tg Sport Giorno</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956693?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120123000 +0000" stop="20261120134500 +0000" channel="135">
+    <title>Kilimangiaro 2025/26 17a Puntata Riedizione</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957865?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120134500 +0000" stop="20261120140000 +0000" channel="135">
+    <title>Doc. Riedizione (Ev.)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958117?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="135">
+    <title>Rimini, Papa Leone Xiv Al Meeting Dell'Amicizia Fra I Popoli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957862?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120151500 +0000" channel="135">
+    <title>TG1 Ore 16.50</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956650?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120151500 +0000" stop="20261120161500 +0000" channel="135">
+    <title>Navigando Lungocosta</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957584?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120161500 +0000" stop="20261120170000 +0000" channel="135">
+    <title>Musica Mia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957863?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120181500 +0000" channel="135">
+    <title>Reazione A Catena Weekend</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/816614?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120181500 +0000" stop="20261120184500 +0000" channel="135">
+    <title>TG1 Ore 20.00</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/135350?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

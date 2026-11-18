@@ -3,32 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261115082000 +0000" stop="20261115105000 +0000" channel="125">
-    <title>Live RLWC26 Final</title>
-    <desc />
-  </programme>
-  <programme start="20261115105000 +0000" stop="20261115112000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 1999 - Wales v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115112000 +0000" stop="20261115131000 +0000" channel="125">
-    <title>Nations Championship France v South Africa</title>
-    <desc />
-  </programme>
-  <programme start="20261115131000 +0000" stop="20261115150000 +0000" channel="125">
-    <title>Nations Championship Ireland v Fiji</title>
-    <desc />
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115171000 +0000" channel="125">
-    <title>Live Nations Championship Scotland v Australia</title>
-    <desc />
-  </programme>
-  <programme start="20261115171000 +0000" stop="20261115174000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2012 - France v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960946?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115174000 +0000" stop="20261115193000 +0000" channel="125">
     <title>Nations Championship Italy v Argentina</title>
     <desc />
@@ -416,5 +390,30 @@
     <title>Nations Championship Ireland v Fiji</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967144?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120120000 +0000" stop="20261120135000 +0000" channel="125">
+    <title>Nations Championship Scotland v Australia</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120135000 +0000" stop="20261120142000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2001 - Ireland v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966624?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120142000 +0000" stop="20261120161000 +0000" channel="125">
+    <title>Women's RLWC 2026 Australia v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967464?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120161000 +0000" stop="20261120180000 +0000" channel="125">
+    <title>RLWC26 Final</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967138?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="125">
+    <title>5 &amp; 6 Nations Legends</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966841?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
