@@ -3,36 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261114173000 +0000" stop="20261114203000 +0000" channel="19">
-    <title>Gagulen Etharata</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961004?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="19">
-    <title>Mathi Nathi Da</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961005?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261114233000 +0000" stop="20261115013000 +0000" channel="19">
-    <title>Ada Sihinaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961006?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115013000 +0000" stop="20261115023000 +0000" channel="19">
-    <title>Rathana Suthra Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115023000 +0000" stop="20261115053000 +0000" channel="19">
-    <title>Yaddehi Gedara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959601?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261115053000 +0000" stop="20261115083000 +0000" channel="19">
-    <title>Tharu Piri Ahasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261115083000 +0000" stop="20261115113000 +0000" channel="19">
     <title>Rathriya Wee</title>
     <desc />
@@ -232,5 +202,35 @@
     <title>Paththara Gedara</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119203000 +0000" stop="20261119233000 +0000" channel="19">
+    <title>Subha Saha Prbha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960567?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261119233000 +0000" stop="20261120013000 +0000" channel="19">
+    <title>Sisila Ima</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960371?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120013000 +0000" stop="20261120023000 +0000" channel="19">
+    <title>Rathana Suthra Deshanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957062?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120023000 +0000" stop="20261120053000 +0000" channel="19">
+    <title>Athkanda Lihini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960556?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120053000 +0000" stop="20261120083000 +0000" channel="19">
+    <title>Paththara Gedara</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960557?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120083000 +0000" stop="20261120113000 +0000" channel="19">
+    <title>Awul Haraya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960806?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
