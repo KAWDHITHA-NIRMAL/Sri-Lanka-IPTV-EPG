@@ -3,70 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261115174000 +0000" stop="20261115193000 +0000" channel="125">
-    <title>Nations Championship Italy v Argentina</title>
-    <desc />
-  </programme>
-  <programme start="20261115193000 +0000" stop="20261115212000 +0000" channel="125">
-    <title>Nations Championship Wales v New Zealand</title>
-    <desc />
-  </programme>
-  <programme start="20261115212000 +0000" stop="20261115231000 +0000" channel="125">
-    <title>Nations Championship Scotland v Australia</title>
-    <desc />
-  </programme>
-  <programme start="20261115231000 +0000" stop="20261116010000 +0000" channel="125">
-    <title>Women's RLWC 2026 Australia v New Zealand</title>
-    <desc />
-  </programme>
-  <programme start="20261116010000 +0000" stop="20261116025000 +0000" channel="125">
-    <title>RLWC26 Final</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967138?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116025000 +0000" stop="20261116032000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 1982 - Wales v Scotland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962735?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116032000 +0000" stop="20261116051000 +0000" channel="125">
-    <title>Nations Championship Ireland v Fiji</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967144?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116051000 +0000" stop="20261116070000 +0000" channel="125">
-    <title>Nations Championship France v South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="125">
-    <title>AFLW Geelong v Sydney</title>
-    <desc />
-  </programme>
-  <programme start="20261116090000 +0000" stop="20261116105000 +0000" channel="125">
-    <title>Women's RLWC 2026 Australia v New Zealand</title>
-    <desc />
-  </programme>
-  <programme start="20261116105000 +0000" stop="20261116124000 +0000" channel="125">
-    <title>RLWC26 Final</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967138?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116124000 +0000" stop="20261116131000 +0000" channel="125">
-    <title>Top 14 Highlights Round 9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966103?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116131000 +0000" stop="20261116150000 +0000" channel="125">
-    <title>Nations Championship France v South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967146?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261116150000 +0000" stop="20261116165000 +0000" channel="125">
-    <title>Nations Championship Italy v Argentina</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967145?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261116165000 +0000" stop="20261116175000 +0000" channel="125">
     <title>5 &amp; 6 Nations Golden Moments</title>
     <desc />
@@ -356,12 +292,12 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966624?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261120015000 +0000" stop="20261120034000 +0000" channel="125">
+  <programme start="20261120015000 +0000" stop="20261120034500 +0000" channel="125">
     <title>Nations Championship France v South Africa</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967146?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261120034000 +0000" stop="20261120053000 +0000" channel="125">
+  <programme start="20261120034500 +0000" stop="20261120053000 +0000" channel="125">
     <title>Nations Championship Italy v Argentina</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967145?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -401,19 +337,110 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966624?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261120142000 +0000" stop="20261120161000 +0000" channel="125">
+  <programme start="20261120142000 +0000" stop="20261120160000 +0000" channel="125">
     <title>Women's RLWC 2026 Australia v New Zealand</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967464?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261120161000 +0000" stop="20261120180000 +0000" channel="125">
-    <title>RLWC26 Final</title>
+  <programme start="20261120160000 +0000" stop="20261120180000 +0000" channel="125">
+    <title>RLWC26 Australia v New Zealand</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967138?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968218?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="125">
     <title>5 &amp; 6 Nations Legends</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120190000 +0000" stop="20261120205500 +0000" channel="125">
+    <title>Nations Championship France v South Africa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967146?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120205500 +0000" stop="20261120224000 +0000" channel="125">
+    <title>Nations Championship Italy v Argentina</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967145?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120224000 +0000" stop="20261120231000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2002 - Wales v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261120231000 +0000" stop="20261121010000 +0000" channel="125">
+    <title>Nations Championship Wales v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1983 - Wales v Ireland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967008?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="125">
+    <title>Top 14 Highlights Round 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966103?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121041000 +0000" channel="125">
+    <title>Live AFLW North Melbourne v Sydney</title>
+    <desc />
+  </programme>
+  <programme start="20261121041000 +0000" stop="20261121043000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2004 - Italy v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967009?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121071000 +0000" channel="125">
+    <title>Live AFLW Melbourne v Carlton</title>
+    <desc />
+  </programme>
+  <programme start="20261121071000 +0000" stop="20261121072000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121072000 +0000" stop="20261121075000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2001 - Ireland v France</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968219?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121075000 +0000" stop="20261121095000 +0000" channel="125">
+    <title>RLWC26 Australia v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968218?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121095000 +0000" stop="20261121102000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 2001 - Wales v England</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953933?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121102000 +0000" stop="20261121120500 +0000" channel="125">
+    <title>Nations Championship England v Japan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967147?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121120500 +0000" stop="20261121140000 +0000" channel="125">
+    <title>Nations Championship Wales v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967148?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121140000 +0000" stop="20261121161000 +0000" channel="125">
+    <title>LIVE Nations Championship England v New Zealand</title>
+    <desc />
+  </programme>
+  <programme start="20261121161000 +0000" stop="20261121163000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261121163000 +0000" stop="20261121184000 +0000" channel="125">
+    <title>LIVE Nations Championship Ireland v South Africa</title>
+    <desc />
   </programme>
 </tv>
