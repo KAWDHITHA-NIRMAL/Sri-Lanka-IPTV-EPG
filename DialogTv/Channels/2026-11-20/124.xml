@@ -3,10 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="124">
-    <title>ACC Men's U19 Asia Cup 2026 -Final-Pak vs Ind Highlights</title>
-    <desc />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="124">
     <title>UNL 2026-27 MD6 MN2 Matchnight Highlights</title>
     <desc />
@@ -488,5 +484,9 @@
     <title>Extraaa Innings</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/959699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="124">
+    <title>ACC Men's Asia Cup Rising Stars 2026 Sri Lanka vs Hong Kong Highlights</title>
+    <desc />
   </programme>
 </tv>

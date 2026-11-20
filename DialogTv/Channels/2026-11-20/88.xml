@@ -3,11 +3,6 @@
   <channel id="88">
     <display-name>Channel 95</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="88">
-    <title>Mannat 2: Har Khushi Paane Ki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965489?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117183500 +0000" channel="88">
     <title>Queen</title>
     <desc />
@@ -982,5 +977,10 @@
     <title>Mannat 2: Har Khushi Paane Ki</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965489?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122193000 +0000" channel="88">
+    <title>Dhamaal With Pati Patni Aur Panga S02</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955863?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="64">
     <display-name>Channel 71</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="64">
-    <title>New Zealand vs India 2026 - 4th ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966663?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="64">
-    <title>New Zealand vs India 2026 - 5th ODI Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966663?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="64">
     <title>New Zealand vs India 2026 - 3rd T20I Highlights</title>
     <desc />
@@ -596,5 +586,15 @@
   <programme start="20261122141500 +0000" stop="20261122180000 +0000" channel="64">
     <title>Live DP World Men's Asia Cup Rising Stars 2026 India A vs Pakistan A</title>
     <desc />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="64">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="64">
+    <title>NZ vs IND 2026 -1st Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

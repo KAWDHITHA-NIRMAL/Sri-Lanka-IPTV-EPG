@@ -3,21 +3,6 @@
   <channel id="122">
     <display-name>Channel 128</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="122">
-    <title>ONE : Championship Classics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951367?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117181500 +0000" channel="122">
-    <title>NPL 2026 HLs Kings v Avengers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966476?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117181500 +0000" stop="20261117183000 +0000" channel="122">
-    <title>NPL 2026 HLs Yaks v Lions</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117203000 +0000" channel="122">
     <title>PL 2026-27 Coventry City v Fulham</title>
     <desc />
@@ -1206,5 +1191,15 @@
   <programme start="20261122160000 +0000" stop="20261122181500 +0000" channel="122">
     <title>Live Ligue1 2026-27 FCL v REN</title>
     <desc />
+  </programme>
+  <programme start="20261122181500 +0000" stop="20261122183000 +0000" channel="122">
+    <title>Muthoot Fincorp 1st T20I HLs IND v WI</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954518?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122184500 +0000" channel="122">
+    <title>PL Highlights Aston villa v Man City</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960352?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

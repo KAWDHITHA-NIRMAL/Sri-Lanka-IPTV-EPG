@@ -3,16 +3,6 @@
   <channel id="83">
     <display-name>Channel 90</display-name>
   </channel>
-  <programme start="20261117164700 +0000" stop="20261117173300 +0000" channel="83">
-    <title>Inside The Factory S9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963616?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117173300 +0000" stop="20261117181600 +0000" channel="83">
-    <title>Life Below Zero S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959233?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117181600 +0000" stop="20261117190400 +0000" channel="83">
     <title>Secret Cities S1</title>
     <desc />
@@ -952,5 +942,10 @@
     <title>Chasing Monsters S3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966965?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180200 +0000" stop="20261122184700 +0000" channel="83">
+    <title>Spy In The Wild S1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966966?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

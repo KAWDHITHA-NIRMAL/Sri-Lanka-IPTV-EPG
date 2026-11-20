@@ -3,21 +3,6 @@
   <channel id="70">
     <display-name>Channel 85</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="70">
-    <title>ICC Men's ODI WC 2023 hlts. IND v PAK</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966355?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117180500 +0000" channel="70">
-    <title>Follow The Blues</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180500 +0000" stop="20261117183000 +0000" channel="70">
-    <title>BGT Countdown - Best Knocks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967101?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117184500 +0000" channel="70">
     <title>South Africa vs India T20I HLs</title>
     <desc />
@@ -1499,5 +1484,10 @@
   <programme start="20261122161500 +0000" stop="20261122183000 +0000" channel="70">
     <title>Live PL 2026-27 Liverpool v Man Utd</title>
     <desc />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122184500 +0000" channel="70">
+    <title>BKT Tyres 3rd T20I HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/943883?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

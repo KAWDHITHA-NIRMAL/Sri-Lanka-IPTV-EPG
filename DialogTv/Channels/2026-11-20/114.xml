@@ -3,16 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261117151500 +0000" stop="20261117173500 +0000" channel="114">
-    <title>A.I. Artificial Intelligence</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965968?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117173500 +0000" stop="20261117182500 +0000" channel="114">
-    <title>The Pitt S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117182500 +0000" stop="20261117195500 +0000" channel="114">
     <title>Paranormal Activity 2</title>
     <desc />
@@ -365,5 +355,10 @@
     <title>He's Just Not That into You</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965843?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122182500 +0000" stop="20261122203000 +0000" channel="114">
+    <title>The Bride!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965824?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

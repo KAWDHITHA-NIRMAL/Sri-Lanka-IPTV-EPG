@@ -3,11 +3,6 @@
   <channel id="61">
     <display-name>Channel 67</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117175300 +0000" channel="61">
-    <title>Counting Cars S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950291?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117175300 +0000" stop="20261117183700 +0000" channel="61">
     <title>The Unbelievable With Dan Aykroyd S2</title>
     <desc />
@@ -1030,5 +1025,10 @@
     <title>American Pickers S15</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/939296?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122175300 +0000" stop="20261122183700 +0000" channel="61">
+    <title>Forged In Fire S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950060?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

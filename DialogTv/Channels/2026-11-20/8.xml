@@ -3,11 +3,6 @@
   <channel id="8">
     <display-name>Channel 5</display-name>
   </channel>
-  <programme start="20261117170000 +0000" stop="20261117183000 +0000" channel="8">
-    <title>World Watch 360</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962898?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117232900 +0000" channel="8">
     <title>End Of Transmission</title>
     <desc />
@@ -697,5 +692,10 @@
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122232900 +0000" channel="8">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

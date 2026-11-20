@@ -3,11 +3,6 @@
   <channel id="7">
     <display-name>Channel 3</display-name>
   </channel>
-  <programme start="20261117163000 +0000" stop="20261117183000 +0000" channel="7">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117191000 +0000" channel="7">
     <title>Swarnavahini News</title>
     <desc />
@@ -797,5 +792,10 @@
     <title>Hitha Illana Tharu</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949528?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122191000 +0000" channel="7">
+    <title>Swarnavahini News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949539?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="17">
     <display-name>Channel 23</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="17">
-    <title>Maha Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117213000 +0000" channel="17">
     <title>TBA</title>
     <desc />
@@ -572,5 +567,10 @@
     <title>Maha Piritha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/50949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122213000 +0000" channel="17">
+    <title>TBA</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956448?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

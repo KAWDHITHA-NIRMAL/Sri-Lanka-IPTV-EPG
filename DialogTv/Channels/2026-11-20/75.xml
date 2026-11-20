@@ -3,11 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261117163000 +0000" stop="20261117180000 +0000" channel="75">
-    <title>Kimi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963221?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="75">
     <title>Dune: Prophecy S1</title>
     <desc />
@@ -407,5 +402,10 @@
     <title>Allied</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122181500 +0000" stop="20261122195500 +0000" channel="75">
+    <title>Paterno</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962793?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

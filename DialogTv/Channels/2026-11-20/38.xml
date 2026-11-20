@@ -3,11 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="38">
     <title>Bloomberg Businessweek Daily</title>
     <desc />
@@ -617,5 +612,15 @@
     <title>Best Of The Bloomberg Women, Money &amp; Power Event</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="38">
+    <title>Bloomberg Investigates</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965504?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="38">
+    <title>Posthuman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965491?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

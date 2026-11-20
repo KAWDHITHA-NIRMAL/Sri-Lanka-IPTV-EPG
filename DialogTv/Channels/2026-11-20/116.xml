@@ -3,11 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261117163000 +0000" stop="20261117181500 +0000" channel="116">
-    <title>Until Tomorrow</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966048?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117181500 +0000" stop="20261117201000 +0000" channel="116">
     <title>Margherita Hack - The Lady Of The Stars</title>
     <desc />
@@ -355,5 +350,10 @@
     <title>Rival</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963670?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122175500 +0000" stop="20261122195000 +0000" channel="116">
+    <title>Celeste</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967244?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

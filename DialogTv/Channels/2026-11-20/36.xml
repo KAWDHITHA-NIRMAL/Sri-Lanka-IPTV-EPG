@@ -3,26 +3,6 @@
   <channel id="36">
     <display-name>Channel 42</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117174500 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117174500 +0000" stop="20261117175100 +0000" channel="36">
-    <title>Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952781?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117175100 +0000" stop="20261117180000 +0000" channel="36">
-    <title>Sports Soir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117181000 +0000" channel="36">
-    <title>News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117181000 +0000" stop="20261117185300 +0000" channel="36">
     <title>The Debate</title>
     <desc />
@@ -2962,5 +2942,30 @@
     <title>News</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122174500 +0000" stop="20261122180000 +0000" channel="36">
+    <title>Global Grid</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/707176?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122181300 +0000" channel="36">
+    <title>News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951916?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122181300 +0000" stop="20261122181500 +0000" channel="36">
+    <title>Introduction</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122181500 +0000" stop="20261122183000 +0000" channel="36">
+    <title>Tete A Tete</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/61193?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122184300 +0000" channel="36">
+    <title>Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952592?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,16 +3,6 @@
   <channel id="53">
     <display-name>Channel 68</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117175900 +0000" channel="53">
-    <title>Joyful Nature November Park Days!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950308?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117175900 +0000" stop="20261117182800 +0000" channel="53">
-    <title>Colors, Shapes &amp; Numbers!</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/762716?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117182800 +0000" stop="20261117185900 +0000" channel="53">
     <title>Super Creative Day Of Play</title>
     <desc />
@@ -1132,5 +1122,15 @@
     <title>A Fun Day of Games &amp; Construction</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950353?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122175900 +0000" stop="20261122182800 +0000" channel="53">
+    <title>Underwater Learning Adventures!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122182800 +0000" stop="20261122185900 +0000" channel="53">
+    <title>A Big Ocean Clean Up Day!</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950352?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

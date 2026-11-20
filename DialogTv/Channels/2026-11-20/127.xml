@@ -3,16 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261117153000 +0000" stop="20261117180000 +0000" channel="127">
-    <title>Highlights - Tecno SAFF Championship 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="127">
-    <title>Repeat - Tecno SAFF Championship 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965283?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117203000 +0000" channel="127">
     <title>Repeat - Tecno SAFF Championship 2026</title>
     <desc />
@@ -283,5 +273,10 @@
     <title>Repeat - Dialog Play Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122203000 +0000" channel="127">
+    <title>Highlights - Australia tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

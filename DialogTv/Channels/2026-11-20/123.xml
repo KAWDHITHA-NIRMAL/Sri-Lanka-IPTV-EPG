@@ -3,11 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="123">
-    <title>UFC FIGHT O'CLOCK 2.0 - LIGHTHEAVYWEIGHT</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967070?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117190000 +0000" channel="123">
     <title>UEFA Nations League 2026-27 MD 6 Belgium vs Italy Highlights</title>
     <desc />
@@ -424,5 +419,9 @@
     <title>UEL/UECL 2026-27 Magazine Programme</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967161?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122193000 +0000" channel="123">
+    <title>UFC Fight Night - Prochazka vs Stirling</title>
+    <desc />
   </programme>
 </tv>

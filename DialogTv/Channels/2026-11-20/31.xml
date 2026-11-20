@@ -3,21 +3,6 @@
   <channel id="31">
     <display-name>Channel 37</display-name>
   </channel>
-  <programme start="20261117172500 +0000" stop="20261117175000 +0000" channel="31">
-    <title>Extraordinary Animals</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956369?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117175000 +0000" stop="20261117180000 +0000" channel="31">
-    <title>Culture By Design Shorts</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966244?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="31">
-    <title>Abc National News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956433?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117190000 +0000" channel="31">
     <title>7.30</title>
     <desc />
@@ -825,5 +810,15 @@
     <title>Recipe of the Year</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967150?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="31">
+    <title>Abc National News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="31">
+    <title>Stuff The British Stole</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957909?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

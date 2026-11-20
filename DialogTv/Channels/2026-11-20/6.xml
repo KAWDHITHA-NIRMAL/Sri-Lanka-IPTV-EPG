@@ -3,11 +3,6 @@
   <channel id="6">
     <display-name>Channel 16</display-name>
   </channel>
-  <programme start="20261117171000 +0000" stop="20261117183000 +0000" channel="6">
-    <title>Vaada Pitiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967385?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117230500 +0000" channel="6">
     <title>Filler</title>
     <desc />
@@ -607,5 +602,10 @@
     <title>Sparsha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122230500 +0000" channel="6">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34284?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

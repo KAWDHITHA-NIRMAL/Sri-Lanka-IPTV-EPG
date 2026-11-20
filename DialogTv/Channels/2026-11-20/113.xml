@@ -3,11 +3,6 @@
   <channel id="113">
     <display-name>Channel 119</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="113">
-    <title>Matlock S2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961784?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="113">
     <title>Sheriff Country S2</title>
     <desc />
@@ -582,5 +577,15 @@
     <title>Matlock S2</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961784?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="113">
+    <title>Family Feud</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965731?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="113">
+    <title>Ghosts S5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963495?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

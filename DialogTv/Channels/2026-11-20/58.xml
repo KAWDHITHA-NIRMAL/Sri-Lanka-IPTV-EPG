@@ -3,11 +3,6 @@
   <channel id="58">
     <display-name>Channel 64</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="58">
-    <title>90 Day: Hunt for Love</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950505?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="58">
     <title>MasterChef Asia</title>
     <desc />
@@ -745,5 +740,10 @@
     <title>You, Me &amp; My Ex</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962758?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="58">
+    <title>Beat Bobby Flay</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950499?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

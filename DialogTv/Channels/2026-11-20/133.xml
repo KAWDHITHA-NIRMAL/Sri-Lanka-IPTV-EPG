@@ -3,11 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261117161500 +0000" stop="20261117180000 +0000" channel="133">
-    <title>Maximum Risk</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117195000 +0000" channel="133">
     <title>Wanted: Dead Or Alive</title>
     <desc />
@@ -352,5 +347,10 @@
     <title>Jumper</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122182500 +0000" stop="20261122200500 +0000" channel="133">
+    <title>The Dark Tower</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965326?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

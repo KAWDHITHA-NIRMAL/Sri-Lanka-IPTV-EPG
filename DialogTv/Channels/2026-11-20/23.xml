@@ -3,11 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20261117163000 +0000" stop="20261117183000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117213000 +0000" channel="23">
     <title>Dayakathawa Anumodana</title>
     <desc />
@@ -677,5 +672,15 @@
     <title>Borella</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122213000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

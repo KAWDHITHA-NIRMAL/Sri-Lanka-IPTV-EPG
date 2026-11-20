@@ -3,11 +3,6 @@
   <channel id="76">
     <display-name>Channel 83</display-name>
   </channel>
-  <programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="76">
-    <title>Welcome To Waikiki</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="76">
     <title>Dance With Me</title>
     <desc />
@@ -658,5 +653,9 @@
     <title>Welcome To Waikiki</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="76">
+    <title>Dance With Me S02</title>
+    <desc />
   </programme>
 </tv>

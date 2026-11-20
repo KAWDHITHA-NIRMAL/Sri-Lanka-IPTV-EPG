@@ -3,11 +3,6 @@
   <channel id="109">
     <display-name>Channel 8</display-name>
   </channel>
-  <programme start="20261117164200 +0000" stop="20261117174000 +0000" channel="109">
-    <title>Naked And Afraid</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950260?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117174000 +0000" stop="20261117183800 +0000" channel="109">
     <title>Naked And Afraid</title>
     <desc />
@@ -629,5 +624,10 @@
   <programme start="20261122173000 +0000" stop="20261122183000 +0000" channel="109">
     <title>DSC</title>
     <desc />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122193000 +0000" channel="109">
+    <title>Man vs. Wild</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951023?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

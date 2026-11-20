@@ -3,11 +3,6 @@
   <channel id="79">
     <display-name>Channel 86</display-name>
   </channel>
-  <programme start="20261117150100 +0000" stop="20261117181200 +0000" channel="79">
-    <title>Chhaava</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964025?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117181200 +0000" stop="20261117192700 +0000" channel="79">
     <title>Ek Aur Mrityu Pujan</title>
     <desc />
@@ -234,6 +229,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261122150000 +0000" stop="20261122174200 +0000" channel="79">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122174200 +0000" stop="20261122200300 +0000" channel="79">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949439?accessKey=WkVjNWNscFhORDBLCg==" />

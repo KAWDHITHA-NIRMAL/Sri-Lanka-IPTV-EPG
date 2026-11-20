@@ -3,16 +3,6 @@
   <channel id="39">
     <display-name>Channel 45</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="39">
-    <title>Halftime Report</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/189376?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="39">
-    <title>The Exchange</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956404?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117190000 +0000" channel="39">
     <title>The Exchange</title>
     <desc />
@@ -996,5 +986,15 @@
     <title>Late Night with Seth Meyers</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/401162?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="39">
+    <title>CNBC Originals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956419?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="39">
+    <title>CNBC Originals</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956419?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

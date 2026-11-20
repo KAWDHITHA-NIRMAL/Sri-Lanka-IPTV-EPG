@@ -3,11 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="72">
-    <title>Drone</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965974?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="72">
     <title>Nefarious</title>
     <desc />
@@ -297,5 +292,10 @@
     <title>White House Down</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966955?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122200000 +0000" channel="72">
+    <title>Rogue Agent</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966956?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

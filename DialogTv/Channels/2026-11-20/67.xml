@@ -3,11 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261117173000 +0000" stop="20261117183000 +0000" channel="67">
-    <title>Impact In 60</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951723?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117213000 +0000" channel="67">
     <title>Big Cricket League</title>
     <desc />
@@ -287,5 +282,10 @@
     <title>AEW Collision</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122203000 +0000" channel="67">
+    <title>FIM Speedway Grand Prix Series</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962389?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

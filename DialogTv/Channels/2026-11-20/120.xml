@@ -3,10 +3,6 @@
   <channel id="120">
     <display-name>Channel 126</display-name>
   </channel>
-  <programme start="20261117171500 +0000" stop="20261117183000 +0000" channel="120">
-    <title>Live Abu Dhabi T10 2026 Bulls v Champions</title>
-    <desc />
-  </programme>
   <programme start="20261117183000 +0000" stop="20261117185500 +0000" channel="120">
     <title>3RD ODI HLTS. AUS v IND</title>
     <desc />
@@ -1300,5 +1296,20 @@
     <title>Follow The Blues</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950321?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122173500 +0000" stop="20261122180000 +0000" channel="120">
+    <title>ICC World T20 2007 Hlts.</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950322?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="120">
+    <title>BGT Countdown - Best Knocks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967101?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="120">
+    <title>BKT Tyres 3rd ODI HLs AUS v IND</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952558?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

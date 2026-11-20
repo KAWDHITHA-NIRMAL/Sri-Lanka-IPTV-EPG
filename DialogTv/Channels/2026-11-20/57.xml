@@ -3,11 +3,6 @@
   <channel id="57">
     <display-name>Channel 63</display-name>
   </channel>
-  <programme start="20261117165100 +0000" stop="20261117175100 +0000" channel="57">
-    <title>Haunted Towns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117175100 +0000" stop="20261117185100 +0000" channel="57">
     <title>You Have Been Warned</title>
     <desc />
@@ -727,5 +722,10 @@
     <title>Haunted Towns</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/707122?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261122175100 +0000" stop="20261122184900 +0000" channel="57">
+    <title>You Have Been Warned</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/954144?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,11 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261117164000 +0000" stop="20261117174000 +0000" channel="125">
-    <title>URC in 60 Round 5</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963930?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261117174000 +0000" stop="20261117193000 +0000" channel="125">
     <title>Top 14 Vannes v Bordeaux Begles</title>
     <desc />
@@ -431,5 +426,10 @@
   <programme start="20261122162000 +0000" stop="20261122181000 +0000" channel="125">
     <title>Nations Championship Wales v Australia</title>
     <desc />
+  </programme>
+  <programme start="20261122181000 +0000" stop="20261122184000 +0000" channel="125">
+    <title>5 and 6 Nations Classics 1986 - England v Ireland</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967242?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
