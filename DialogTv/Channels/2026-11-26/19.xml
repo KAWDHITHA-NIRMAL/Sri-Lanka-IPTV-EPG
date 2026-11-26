@@ -3,21 +3,6 @@
   <channel id="19">
     <display-name>Channel 25</display-name>
   </channel>
-  <programme start="20261123083000 +0000" stop="20261123113000 +0000" channel="19">
-    <title>Mayura Asapuwa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960018?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123113000 +0000" stop="20261123143000 +0000" channel="19">
-    <title>rawana horawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123173000 +0000" channel="19">
-    <title>Thriweel Malli</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123173000 +0000" stop="20261123203000 +0000" channel="19">
     <title>Tharu Piri Ahasa</title>
     <desc />
@@ -232,5 +217,20 @@
     <title>Mathi Nathi Da</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961005?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128143000 +0000" channel="19">
+    <title>Ada Sihinaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961006?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128143000 +0000" stop="20261128173000 +0000" channel="19">
+    <title>Westhattuwa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961003?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128203000 +0000" channel="19">
+    <title>Gagulen Etharata</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961004?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

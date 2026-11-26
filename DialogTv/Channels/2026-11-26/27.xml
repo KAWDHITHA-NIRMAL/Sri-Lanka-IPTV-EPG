@@ -3,56 +3,6 @@
   <channel id="27">
     <display-name>Channel 33</display-name>
   </channel>
-  <programme start="20261123093000 +0000" stop="20261123103000 +0000" channel="27">
-    <title>Asirimath Maggama Nikaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965467?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123103000 +0000" stop="20261123113000 +0000" channel="27">
-    <title>Sampasadhini</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123113000 +0000" stop="20261123122000 +0000" channel="27">
-    <title>Wesak Deshanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952893?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123122000 +0000" stop="20261123130000 +0000" channel="27">
-    <title>Sawasa Wandanawa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953008?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="27">
-    <title>Shraddha News 6.30</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123133000 +0000" stop="20261123143000 +0000" channel="27">
-    <title>Ama Damrasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965469?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123153000 +0000" channel="27">
-    <title>Asirimath Damsaka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37726?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123153000 +0000" stop="20261123160000 +0000" channel="27">
-    <title>Milinda Prashnaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952746?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123160000 +0000" stop="20261123173000 +0000" channel="27">
-    <title>Special Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123173000 +0000" stop="20261123183000 +0000" channel="27">
-    <title>Pirith Chanting</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123183000 +0000" stop="20261123190000 +0000" channel="27">
     <title>Sathyakriyawa</title>
     <desc />
@@ -617,5 +567,50 @@
     <title>Nuwanesa Padana Siri Sadhaham</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/769603?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128103000 +0000" stop="20261128113000 +0000" channel="27">
+    <title>Sampasadhini</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952905?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128121000 +0000" channel="27">
+    <title>Punchi Ape Shraddha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952871?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128121000 +0000" stop="20261128130000 +0000" channel="27">
+    <title>Sathbudhu Wandanawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965472?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="27">
+    <title>Shraddha News 6.30</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952745?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128150000 +0000" channel="27">
+    <title>Dham Saba Mandapaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953403?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="27">
+    <title>Special Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/131598?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="27">
+    <title>Fillers</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128183000 +0000" channel="27">
+    <title>Pirith Chanting</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956451?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="27">
+    <title>Sathyakriyawa</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952858?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

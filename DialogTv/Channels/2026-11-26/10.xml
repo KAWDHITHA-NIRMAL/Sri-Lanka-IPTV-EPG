@@ -3,40 +3,6 @@
   <channel id="10">
     <display-name>Channel 7</display-name>
   </channel>
-  <programme start="20261123100000 +0000" stop="20261123130000 +0000" channel="10">
-    <title>Tamil Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962780?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="10">
-    <title>Dawasa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956440?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="10">
-    <title>Stuff The British Stole - Australia'S Egyptian Mystery</title>
-    <desc />
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123153000 +0000" channel="10">
-    <title>Jathiak Mehewara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957107?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123153000 +0000" stop="20261123161500 +0000" channel="10">
-    <title>News 1st</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123161500 +0000" stop="20261123173000 +0000" channel="10">
-    <title>Landline</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/815052?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123173000 +0000" stop="20261124005900 +0000" channel="10">
     <title>End Of Transmission</title>
     <desc />
@@ -535,5 +501,40 @@
     <title>Tamil Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962780?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="10">
+    <title>That Pacific Sports Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968830?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="10">
+    <title>Brain Buster with Sliit</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962904?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128153000 +0000" channel="10">
+    <title>Auto Vision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958134?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128161500 +0000" channel="10">
+    <title>News 1st</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128161500 +0000" stop="20261128173000 +0000" channel="10">
+    <title>Legends Of Music</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/964919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261129005900 +0000" channel="10">
+    <title>End Of Transmission</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952779?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

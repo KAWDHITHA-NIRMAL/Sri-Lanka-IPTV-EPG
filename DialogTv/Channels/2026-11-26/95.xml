@@ -3,21 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261123073000 +0000" stop="20261123103000 +0000" channel="95">
-    <title>Kadavul Amaitha Medai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969175?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123103000 +0000" stop="20261123133000 +0000" channel="95">
-    <title>Ner Ethir</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969176?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123133000 +0000" stop="20261123170000 +0000" channel="95">
-    <title>Chanakya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969177?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123170000 +0000" stop="20261123200000 +0000" channel="95">
     <title>Sishya</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Oru Kaidhiyin Diary</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969211?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128103000 +0000" stop="20261128133000 +0000" channel="95">
+    <title>Jannal Oram</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969212?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128170000 +0000" channel="95">
+    <title>Ullathai Allitha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969213?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="95">
+    <title>Idhaya Veenai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969210?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,23 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261123093000 +0000" stop="20261123123000 +0000" channel="63">
-    <title>Live - St Benedict's Collegevs St. Joseph Vaz College - Final- U19 Division 1 Tier 'B' Limited Overs Tournament 2026/27</title>
-    <desc />
-  </programme>
-  <programme start="20261123123000 +0000" stop="20261123140000 +0000" channel="63">
-    <title>Highlights - Tecno SAFF Championship - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966067?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123163000 +0000" channel="63">
-    <title>Live - Sharjah Warriorz vs Desert Vipers - DP World ILT20 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123163000 +0000" stop="20261123183000 +0000" channel="63">
-    <title>Live - Sharjah Warriorz vs Desert Vipers - DP World ILT20 2026</title>
-    <desc />
-  </programme>
   <programme start="20261123183000 +0000" stop="20261123203000 +0000" channel="63">
     <title>Repeat - Dialog Play Super League - 2026</title>
     <desc />
@@ -289,5 +272,14 @@
   <programme start="20261128093000 +0000" stop="20261128140000 +0000" channel="63">
     <title>Live - MI Emirates vs Desert Vipers - DP World ILT20 2026</title>
     <desc />
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128183000 +0000" channel="63">
+    <title>Live - Gulf Giants vs Dubai Capitals - DP World ILT20 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128203000 +0000" channel="63">
+    <title>Repeat - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

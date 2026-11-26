@@ -3,21 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261123090000 +0000" stop="20261123120000 +0000" channel="92">
-    <title>Gangster: A Love Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123120000 +0000" stop="20261123150000 +0000" channel="92">
-    <title>Bhoot Returns</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967546?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123150000 +0000" stop="20261123180000 +0000" channel="92">
-    <title>Kisna: The Warrior Poet</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968429?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123180000 +0000" stop="20261123220000 +0000" channel="92">
     <title>Singh Is King</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>RRR</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968960?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128150000 +0000" channel="92">
+    <title>Amavas</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968961?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128180000 +0000" channel="92">
+    <title>Aparichit - The Stranger</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968432?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128210000 +0000" channel="92">
+    <title>Chup: Revenge Of The Artist</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968431?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

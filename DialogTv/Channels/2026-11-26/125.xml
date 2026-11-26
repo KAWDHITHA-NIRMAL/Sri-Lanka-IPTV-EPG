@@ -3,36 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261123101000 +0000" stop="20261123120000 +0000" channel="125">
-    <title>Nations Championship Ireland v South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969263?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123120000 +0000" stop="20261123135000 +0000" channel="125">
-    <title>Nations Championship Italy v Fiji</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969266?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123135000 +0000" stop="20261123142000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2009 - Wales v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961335?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123142000 +0000" stop="20261123161000 +0000" channel="125">
-    <title>Nations Championship France v Argentina</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969264?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123161000 +0000" stop="20261123180000 +0000" channel="125">
-    <title>Nations Championship Wales v Australia</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969265?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2004 - Italy v England</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967009?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123183000 +0000" stop="20261123202000 +0000" channel="125">
     <title>RLWC26 Australia v New Zealand</title>
     <desc />
@@ -442,5 +412,29 @@
   <programme start="20261128092000 +0000" stop="20261128111000 +0000" channel="125">
     <title>Nations Championship Fiji v Italy</title>
     <desc />
+  </programme>
+  <programme start="20261128111000 +0000" stop="20261128130000 +0000" channel="125">
+    <title>Nations Championship Ireland v Australia</title>
+    <desc />
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128151000 +0000" channel="125">
+    <title>Live Nations Championship Wales v Japan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969540?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128151000 +0000" stop="20261128153000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128163000 +0000" channel="125">
+    <title>5 &amp; 6 Nations Golden Moments</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962519?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128184000 +0000" channel="125">
+    <title>LIVE Nations Championship England v New Zealand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969541?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

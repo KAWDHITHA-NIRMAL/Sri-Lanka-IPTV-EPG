@@ -3,21 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261123080000 +0000" stop="20261123110000 +0000" channel="90">
-    <title>International Crook</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965029?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123110000 +0000" stop="20261123140000 +0000" channel="90">
-    <title>Sikka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965028?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123170000 +0000" channel="90">
-    <title>Ajab Gazabb Love</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123170000 +0000" stop="20261123200000 +0000" channel="90">
     <title>Guddu Ki Gun</title>
     <desc />
@@ -207,5 +192,20 @@
     <title>Geet</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968944?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128140000 +0000" channel="90">
+    <title>Antim Nyay</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128170000 +0000" channel="90">
+    <title>Laila</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968946?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="90">
+    <title>Race (2019)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968947?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

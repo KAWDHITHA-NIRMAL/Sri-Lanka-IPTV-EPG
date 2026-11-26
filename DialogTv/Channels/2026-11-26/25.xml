@@ -3,56 +3,6 @@
   <channel id="25">
     <display-name>Channel 31</display-name>
   </channel>
-  <programme start="20261123100000 +0000" stop="20261123103000 +0000" channel="25">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957273?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123103000 +0000" stop="20261123113000 +0000" channel="25">
-    <title>Abhidarma Deshana Mulasita</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34362?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123113000 +0000" stop="20261123123000 +0000" channel="25">
-    <title>Senkadagala Deshana/ Suthra Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34367?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123123000 +0000" stop="20261123134300 +0000" channel="25">
-    <title>Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34365?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123134300 +0000" stop="20261123143000 +0000" channel="25">
-    <title>Thathagatha Shri Saddarmaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956458?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123153000 +0000" channel="25">
-    <title>Dayakathwa Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/34357?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123153000 +0000" stop="20261123163000 +0000" channel="25">
-    <title>Prathyaweksha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33390?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123163000 +0000" stop="20261123173000 +0000" channel="25">
-    <title>Sathishbodhipakshika Deshana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/37623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123173000 +0000" stop="20261123181000 +0000" channel="25">
-    <title>Night Maha Piritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/35648?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123181000 +0000" stop="20261123183000 +0000" channel="25">
-    <title>Fill With Gatha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/33391?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123183000 +0000" stop="20261123233000 +0000" channel="25">
     <title>National Anthem</title>
     <desc />
@@ -632,5 +582,60 @@
     <title>Senkadagala Deshana</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/37602?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128103000 +0000" stop="20261128113000 +0000" channel="25">
+    <title>Abhidharama Deshana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956486?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128123000 +0000" channel="25">
+    <title>Seva Niyukthika Bana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/958131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128133000 +0000" channel="25">
+    <title>Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34365?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="25">
+    <title>Fill With Songs</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/799544?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128150000 +0000" channel="25">
+    <title>Dharma Vinishya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/34945?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="25">
+    <title>Jeevithayata Neethiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="25">
+    <title>Aloka</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128173000 +0000" channel="25">
+    <title>Gnanartha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35473?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128181000 +0000" channel="25">
+    <title>Night Maha Piritha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/35648?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128181000 +0000" stop="20261128183000 +0000" channel="25">
+    <title>Fill With Gatha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/33391?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128233000 +0000" channel="25">
+    <title>National Anthem</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956856?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

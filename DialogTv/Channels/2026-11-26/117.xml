@@ -3,26 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261123094000 +0000" stop="20261123122500 +0000" channel="117">
-    <title>Transformers: Age Of Extinction</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963658?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123122500 +0000" stop="20261123140000 +0000" channel="117">
-    <title>Nacho Libre</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967571?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123154000 +0000" channel="117">
-    <title>Daddy'S Home</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967572?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123154000 +0000" stop="20261123172500 +0000" channel="117">
-    <title>Gremlins</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967573?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123172500 +0000" stop="20261123185500 +0000" channel="117">
     <title>Scary Movie</title>
     <desc />
@@ -352,5 +332,25 @@
     <title>Space Jam: A New Legacy</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968577?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128115000 +0000" stop="20261128140000 +0000" channel="117">
+    <title>Van Helsing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968578?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128153500 +0000" channel="117">
+    <title>Ninja Assassin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128153500 +0000" stop="20261128173500 +0000" channel="117">
+    <title>M3Gan 2.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173500 +0000" stop="20261128193000 +0000" channel="117">
+    <title>American Made</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965708?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

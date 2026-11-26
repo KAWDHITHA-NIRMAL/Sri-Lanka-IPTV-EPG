@@ -3,31 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261123093000 +0000" stop="20261123111000 +0000" channel="133">
-    <title>The Dark Tower</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123111000 +0000" stop="20261123125500 +0000" channel="133">
-    <title>Across The Tracks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123125500 +0000" stop="20261123150000 +0000" channel="133">
-    <title>Godzilla Minus One</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963699?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123150000 +0000" stop="20261123163500 +0000" channel="133">
-    <title>Behind Enemy Lines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965324?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123163500 +0000" stop="20261123181000 +0000" channel="133">
-    <title>Tin Man Part 1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123181000 +0000" stop="20261123194000 +0000" channel="133">
     <title>Tin Man Part 2</title>
     <desc />
@@ -342,5 +317,29 @@
     <title>Ghost Rider</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963935?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128102500 +0000" stop="20261128125500 +0000" channel="133">
+    <title>Apocalypto</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967248?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128125500 +0000" stop="20261128143500 +0000" channel="133">
+    <title>7500</title>
+    <desc />
+  </programme>
+  <programme start="20261128143500 +0000" stop="20261128161000 +0000" channel="133">
+    <title>Tin Man Part 1</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128161000 +0000" stop="20261128174000 +0000" channel="133">
+    <title>Tin Man Part 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128174000 +0000" stop="20261128191000 +0000" channel="133">
+    <title>Tin Man Part 3</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

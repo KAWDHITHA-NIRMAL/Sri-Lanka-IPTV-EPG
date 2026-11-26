@@ -3,31 +3,6 @@
   <channel id="67">
     <display-name>Channel 74</display-name>
   </channel>
-  <programme start="20261123073000 +0000" stop="20261123153000 +0000" channel="67">
-    <title>Test Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/955314?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123153000 +0000" stop="20261123163000 +0000" channel="67">
-    <title>MotoGP Racing</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="67">
-    <title>WWE's Greatest Moments</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951500?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="67">
-    <title>T20 Cricket</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967268?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123173000 +0000" stop="20261123183000 +0000" channel="67">
-    <title>TNA Unfinished Business</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966506?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123183000 +0000" stop="20261123203000 +0000" channel="67">
     <title>FIM Speedway Grand Prix Series</title>
     <desc />
@@ -296,5 +271,30 @@
     <title>Women's Big Bash League Cricket</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/962157?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128114500 +0000" stop="20261128144500 +0000" channel="67">
+    <title>MotoGP Racing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951575?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128144500 +0000" stop="20261128163000 +0000" channel="67">
+    <title>AEW Collision</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957433?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128173000 +0000" channel="67">
+    <title>WWE LFG</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951970?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128183000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128193000 +0000" channel="67">
+    <title>Eredivisie Soccer</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/151253?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
