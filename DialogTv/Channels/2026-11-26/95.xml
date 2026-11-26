@@ -3,31 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261122170000 +0000" stop="20261122200000 +0000" channel="95">
-    <title>Dheva</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967211?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261122200000 +0000" stop="20261122223000 +0000" channel="95">
-    <title>Parambarai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261122223000 +0000" stop="20261123013000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123013000 +0000" stop="20261123043000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123043000 +0000" stop="20261123073000 +0000" channel="95">
-    <title>Movie</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949621?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123073000 +0000" stop="20261123103000 +0000" channel="95">
     <title>Kadavul Amaitha Medai</title>
     <desc />
@@ -207,5 +182,30 @@
     <title>Priyam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969206?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261127223000 +0000" channel="95">
+    <title>Kumbakkarai Thangaiah</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969204?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261127223000 +0000" stop="20261128013000 +0000" channel="95">
+    <title>Success</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969208?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128013000 +0000" stop="20261128043000 +0000" channel="95">
+    <title>Poonthotta Kavalkaran</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969209?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128073000 +0000" channel="95">
+    <title>Idhaya Veenai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969210?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128073000 +0000" stop="20261128103000 +0000" channel="95">
+    <title>Oru Kaidhiyin Diary</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969211?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,31 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261122180000 +0000" stop="20261122210000 +0000" channel="92">
-    <title>Vanvaas</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966862?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261122210000 +0000" stop="20261123000000 +0000" channel="92">
-    <title>Vivah - Journey From Engagement To Marriage</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967223?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123000000 +0000" stop="20261123030000 +0000" channel="92">
-    <title>Hum Saath Saath Hain</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967224?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123030000 +0000" stop="20261123060000 +0000" channel="92">
-    <title>Kuruthi Attam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950792?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123090000 +0000" channel="92">
-    <title>Main Prem Ki Diwani Hoon</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967544?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261123090000 +0000" stop="20261123120000 +0000" channel="92">
     <title>Gangster: A Love Story</title>
     <desc />
@@ -163,17 +138,17 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967826?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261126180000 +0000" stop="20261126220000 +0000" channel="92">
+  <programme start="20261126180000 +0000" stop="20261126210000 +0000" channel="92">
     <title>Kanjoos Makhichoos</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967825?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127020000 +0000" channel="92">
+  <programme start="20261126210000 +0000" stop="20261127000000 +0000" channel="92">
     <title>Judgementall Hai Kya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968430?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="92">
+  <programme start="20261127000000 +0000" stop="20261127030000 +0000" channel="92">
     <title>Chup: Revenge Of The Artist</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968431?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -203,9 +178,34 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968131?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261127180000 +0000" stop="20261127220000 +0000" channel="92">
+  <programme start="20261127180000 +0000" stop="20261127210000 +0000" channel="92">
     <title>Satyaprem Ki Katha</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261128000000 +0000" channel="92">
+    <title>Toilet: Ek Prem Katha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968694?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128030000 +0000" channel="92">
+    <title>Gadar: Ek Prem Katha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968695?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128060000 +0000" channel="92">
+    <title>Raazi</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128090000 +0000" channel="92">
+    <title>Ramaiya Vastavaiya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968959?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128120000 +0000" channel="92">
+    <title>RRR</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968960?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

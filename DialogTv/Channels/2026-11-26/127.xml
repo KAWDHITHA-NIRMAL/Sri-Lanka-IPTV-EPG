@@ -3,34 +3,6 @@
   <channel id="127">
     <display-name>Channel 133</display-name>
   </channel>
-  <programme start="20261122183000 +0000" stop="20261122203000 +0000" channel="127">
-    <title>Repeat - Dialog Play Super League - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261122203000 +0000" stop="20261123010000 +0000" channel="127">
-    <title>Repeat - FIFA World Cup - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123010000 +0000" stop="20261123023000 +0000" channel="127">
-    <title>Highlights - Zimbabwe Tour of Afghanistan - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123023000 +0000" stop="20261123033000 +0000" channel="127">
-    <title>Highlights - Major Clubs 50 Over Tournament - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123033000 +0000" stop="20261123043000 +0000" channel="127">
-    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123043000 +0000" stop="20261123083000 +0000" channel="127">
-    <title>Live - Zimbabwe vs Scotland - Super Six - ICC Women's Emerging Nations Trophy 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="127">
-    <title>Highlights - Dialog Play Super League  - 2026</title>
-    <desc />
-  </programme>
   <programme start="20261123090000 +0000" stop="20261123103000 +0000" channel="127">
     <title>Highlights - Sri Lanka tour of Pakistan 2026 - 2026</title>
     <desc />
@@ -291,6 +263,7 @@
   <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="127">
     <title>Highlights - 34th MSBA League 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969071?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127020000 +0000" stop="20261127033000 +0000" channel="127">
     <title>Highlights - England tour of Australia 2026</title>
@@ -303,7 +276,7 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967395?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127053000 +0000" stop="20261127063000 +0000" channel="127">
-    <title>Highlights - Major Clubs 50 Over Tournament 2026</title>
+    <title>Highlights -  Major Clubs 50 Over Tournament 2026</title>
     <desc />
   </programme>
   <programme start="20261127063000 +0000" stop="20261127080000 +0000" channel="127">
@@ -321,7 +294,7 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127130000 +0000" stop="20261127143000 +0000" channel="127">
-    <title>Highlights - ICC Women's Emerging Nations Trophy - 2026</title>
+    <title>Highlights -  ICC Women's Emerging Nations Trophy - 2026</title>
     <desc />
   </programme>
   <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="127">
@@ -343,9 +316,40 @@
     <title>Highlights - 31st inter International Schools' Swimming Championship 2026</title>
     <desc />
   </programme>
-  <programme start="20261127183000 +0000" stop="20261127193000 +0000" channel="127">
-    <title>Sports Program</title>
+  <programme start="20261127183000 +0000" stop="20261127203000 +0000" channel="127">
+    <title>Repeat - Dialog Play Super League 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966839?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970010?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261127203000 +0000" stop="20261128003000 +0000" channel="127">
+    <title>Highlights - 31st inter International Schools Swimming Champion Trophy 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="127">
+    <title>Highlights - Wurth Drag Wars Car Race 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="127">
+    <title>Highlights - 34th MSBA League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969071?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128023000 +0000" channel="127">
+    <title>Highlights - SLC Tier B T20 Tournament 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="127">
+    <title>Segment - Sports Bulletin</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965383?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="127">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128120000 +0000" channel="127">
+    <title>Live - QF 01 - MCA Challengers League 2026</title>
+    <desc />
   </programme>
 </tv>
