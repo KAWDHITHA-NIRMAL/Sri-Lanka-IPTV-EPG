@@ -3,56 +3,6 @@
   <channel id="121">
     <display-name>Channel 127</display-name>
   </channel>
-  <programme start="20261124134500 +0000" stop="20261124140000 +0000" channel="121">
-    <title>PL Highlights Nottm Forest v Arsenal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958521?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="121">
-    <title>PL Highlights Arsenal v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124144500 +0000" channel="121">
-    <title>PL Highlights Liverpool v Man Utd</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963685?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124144500 +0000" stop="20261124150000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Bournemouth</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960351?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Brentford</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968373?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124154500 +0000" channel="121">
-    <title>PL Highlights Liverpool v Nottm Forest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950982?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124154500 +0000" stop="20261124161500 +0000" channel="121">
-    <title>PL Match Highlights 2024/25 Everton v Liverpool</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968374?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124161500 +0000" stop="20261124163000 +0000" channel="121">
-    <title>PL Highlights Man Utd v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963497?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="121">
-    <title>PL Highlights Arsenal v Man City</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="121">
-    <title>ICC Men's T20I World Cup Hlts SA v BAN</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968268?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124173000 +0000" stop="20261124193000 +0000" channel="121">
     <title>PL 2026-27 Newcastle v Arsenal</title>
     <desc />
@@ -1249,5 +1199,28 @@
   <programme start="20261129115000 +0000" stop="20261129140000 +0000" channel="121">
     <title>Live PL 2026-27 Everton v Liverpool</title>
     <desc />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129140500 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140500 +0000" stop="20261129160500 +0000" channel="121">
+    <title>Live PL 2026-27 Sunderland v Tottenham Hotspur</title>
+    <desc />
+  </programme>
+  <programme start="20261129160500 +0000" stop="20261129162000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967481?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129162000 +0000" stop="20261129183000 +0000" channel="121">
+    <title>Live PL 2026-27 Arsenal v Man City</title>
+    <desc />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="121">
+    <title>Premier League Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967481?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

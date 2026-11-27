@@ -3,19 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261124123000 +0000" stop="20261124140000 +0000" channel="63">
-    <title>Highlights - Afghanistan ODI Tri-Nation Series - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124153000 +0000" channel="63">
-    <title>Live - Gulf Giants vs MI Emirates- DP World ILT20 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124183000 +0000" channel="63">
-    <title>Live - Gulf Giants vs MI Emirates- DP World ILT20 2026</title>
-    <desc />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124203000 +0000" channel="63">
     <title>Repeat - Dialog Play Super League - 2026</title>
     <desc />
@@ -292,5 +279,17 @@
     <title>Highlights - Dialog Play Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129153000 +0000" channel="63">
+    <title>Live - Desert Vipers vs Gulf Giants - DP World ILT20 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129183000 +0000" channel="63">
+    <title>Live - Desert Vipers vs Gulf Giants - DP World ILT20 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129203000 +0000" channel="63">
+    <title>Highlights - 31st inter International Schools Swimming Champion Trophy 2026</title>
+    <desc />
   </programme>
 </tv>

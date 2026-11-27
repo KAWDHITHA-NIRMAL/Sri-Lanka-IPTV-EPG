@@ -3,11 +3,6 @@
   <channel id="95">
     <display-name>Channel 102</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124170000 +0000" channel="95">
-    <title>Brahmma</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969198?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124170000 +0000" stop="20261124200000 +0000" channel="95">
     <title>Kounder Veetu Maapillai</title>
     <desc />
@@ -207,5 +202,10 @@
     <title>Attagasam</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969217?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129200000 +0000" channel="95">
+    <title>Kochadaiyaan</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969214?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

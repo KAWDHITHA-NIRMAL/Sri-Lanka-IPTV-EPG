@@ -3,16 +3,6 @@
   <channel id="87">
     <display-name>Channel 94</display-name>
   </channel>
-  <programme start="20261124115000 +0000" stop="20261124144500 +0000" channel="87">
-    <title>Baghban</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967817?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124144500 +0000" stop="20261124170000 +0000" channel="87">
-    <title>Humpty Sharma Ki Dulhania</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967818?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124170000 +0000" stop="20261124190500 +0000" channel="87">
     <title>Munjya</title>
     <desc />
@@ -267,5 +257,15 @@
     <title>Partner</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969163?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143500 +0000" stop="20261129170000 +0000" channel="87">
+    <title>Queen</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969164?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129195500 +0000" channel="87">
+    <title>War 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969165?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

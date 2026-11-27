@@ -3,36 +3,6 @@
   <channel id="60">
     <display-name>Channel 60</display-name>
   </channel>
-  <programme start="20261124134200 +0000" stop="20261124142900 +0000" channel="60">
-    <title>Africa's Deadliest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950455?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124142900 +0000" stop="20261124151600 +0000" channel="60">
-    <title>Killer Safari</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950442?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124151600 +0000" stop="20261124160100 +0000" channel="60">
-    <title>Animal Fight Club</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160100 +0000" stop="20261124165200 +0000" channel="60">
-    <title>Cheetah Speed Trap</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967094?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124165200 +0000" stop="20261124173800 +0000" channel="60">
-    <title>Leopard Kingdom</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952525?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124173800 +0000" stop="20261124182500 +0000" channel="60">
-    <title>Predator V Prey</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950447?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124182500 +0000" stop="20261124191000 +0000" channel="60">
     <title>The Pack</title>
     <desc />
@@ -727,5 +697,30 @@
     <title>Cheetah Price Of Speed</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/951525?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129153000 +0000" channel="60">
+    <title>Predator V Prey</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950447?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129163000 +0000" channel="60">
+    <title>War Of The Lions</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967503?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129173000 +0000" channel="60">
+    <title>Tales From Wildlands</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/953835?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129183000 +0000" channel="60">
+    <title>Eye Of The Leopard</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960743?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129193000 +0000" channel="60">
+    <title>Animal Fight Club</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950443?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

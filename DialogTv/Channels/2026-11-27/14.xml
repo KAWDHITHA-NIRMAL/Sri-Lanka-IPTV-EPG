@@ -3,46 +3,6 @@
   <channel id="14">
     <display-name>Channel 20</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="14">
-    <title>The Public Square</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957929?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="14">
-    <title>The Public Square</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957929?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124153000 +0000" channel="14">
-    <title>Prime Time News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124160500 +0000" channel="14">
-    <title>First At 9</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956554?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160500 +0000" stop="20261124163000 +0000" channel="14">
-    <title>World News - English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957271?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124171000 +0000" channel="14">
-    <title>Ada Derana @ 10.00</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/949924?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124171000 +0000" stop="20261124173000 +0000" channel="14">
-    <title>Nightly Business Report - Sinhala</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/146472?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="14">
-    <title>Late Night News</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="14">
     <title>The Public Square</title>
     <desc />
@@ -952,5 +912,45 @@
     <title>State Of The Nation</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956558?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129143000 +0000" channel="14">
+    <title>State Of The Nation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956558?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129153000 +0000" channel="14">
+    <title>Prime Time News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129160500 +0000" channel="14">
+    <title>First At 9</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956554?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160500 +0000" stop="20261129163000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129173000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129180000 +0000" channel="14">
+    <title>Ada Derana 24 DocumentarySpecial</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957068?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129183000 +0000" channel="14">
+    <title>Late Night News</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957069?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="14">
+    <title>Mojo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965807?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

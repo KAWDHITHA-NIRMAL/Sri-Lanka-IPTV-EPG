@@ -3,16 +3,6 @@
   <channel id="74">
     <display-name>Channel 81</display-name>
   </channel>
-  <programme start="20261124134800 +0000" stop="20261124153000 +0000" channel="74">
-    <title>Welcome To The Jungle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960134?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124171700 +0000" channel="74">
-    <title>Drunken Master</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965627?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124171700 +0000" stop="20261124192800 +0000" channel="74">
     <title>Spider-Man 3</title>
     <desc />
@@ -347,5 +337,15 @@
     <title>Bad Boys: Ride Or Die</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963792?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129173600 +0000" channel="74">
+    <title>Gran Turismo</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960131?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173600 +0000" stop="20261129191800 +0000" channel="74">
+    <title>Ghost Rider</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967738?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

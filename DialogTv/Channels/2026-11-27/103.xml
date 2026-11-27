@@ -3,31 +3,6 @@
   <channel id="103">
     <display-name>Channel 110</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="103">
-    <title>Suwa Nenasa-Jpu/OD</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957741?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="103">
-    <title>G9 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956950?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="103">
-    <title>G7 English</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956713?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="103">
-    <title>G7 Drama</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957724?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="103">
-    <title>G6 Mathematics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956948?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="103">
     <title>G7 Mathematics</title>
     <desc />
@@ -672,5 +647,30 @@
     <title>G9 Science</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/957457?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129150000 +0000" channel="103">
+    <title>G8 English</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957453?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129160000 +0000" channel="103">
+    <title>G8 Art</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957727?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129170000 +0000" channel="103">
+    <title>G6 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956720?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129180000 +0000" channel="103">
+    <title>G7 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956952?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129190000 +0000" channel="103">
+    <title>G8 History</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956954?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

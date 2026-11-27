@@ -3,26 +3,6 @@
   <channel id="23">
     <display-name>Channel 29</display-name>
   </channel>
-  <programme start="20261124123000 +0000" stop="20261124140000 +0000" channel="23">
-    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951707?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124153000 +0000" channel="23">
-    <title>Ven. Wanduramba Sangananda Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952861?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124163000 +0000" channel="23">
-    <title>Ven. Aluthgama Pannasara Thero - Dharma Deshanaya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953017?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124183000 +0000" channel="23">
-    <title>Dayakathawa Anumodana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124213000 +0000" channel="23">
     <title>Dayakathawa Anumodana</title>
     <desc />
@@ -667,5 +647,40 @@
     <title>Ven. Hingure Pannasekara Thero - Dharma Deshanaya</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/952877?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129143500 +0000" channel="23">
+    <title>Borella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143500 +0000" stop="20261129150000 +0000" channel="23">
+    <title>Ven. Hasalaka Seelawimala Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951707?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129154000 +0000" channel="23">
+    <title>Borella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129154000 +0000" stop="20261129160000 +0000" channel="23">
+    <title>Ven. Hingure Pannasekara Thero - Dharma Deshanaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952877?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129180000 +0000" channel="23">
+    <title>Borella</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952747?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129183000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129213000 +0000" channel="23">
+    <title>Dayakathawa Anumodana</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965462?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

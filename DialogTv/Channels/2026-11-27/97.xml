@@ -3,21 +3,6 @@
   <channel id="97">
     <display-name>Channel 104</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="97">
-    <title>Priyamanaval</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951139?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="97">
-    <title>Kannethirey Thondrinaal</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950919?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="97">
-    <title>Thendral</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951136?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124153000 +0000" stop="20261124190000 +0000" channel="97">
     <title>Angaadi Theru</title>
     <desc />
@@ -590,6 +575,11 @@
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950914?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261129123000 +0000" stop="20261129160000 +0000" channel="97">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965036?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129193000 +0000" channel="97">
     <title>Movie</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965036?accessKey=WkVjNWNscFhORDBLCg==" />

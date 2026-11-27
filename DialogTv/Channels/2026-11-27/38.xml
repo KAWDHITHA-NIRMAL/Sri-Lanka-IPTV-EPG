@@ -3,26 +3,6 @@
   <channel id="38">
     <display-name>Channel 44</display-name>
   </channel>
-  <programme start="20261124130000 +0000" stop="20261124150000 +0000" channel="38">
-    <title>Bloomberg Open Interest</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965498?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="38">
-    <title>Bloomberg Tech</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965544?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="38">
-    <title>Bloomberg Crypto</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966004?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="38">
-    <title>Bloomberg: Balance Of Power</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957940?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="38">
     <title>Bloomberg Businessweek Daily</title>
     <desc />
@@ -602,5 +582,45 @@
     <title>Bloomberg This Weekend</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/965503?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129143000 +0000" channel="38">
+    <title>The Mishal Husain Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965500?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129150000 +0000" channel="38">
+    <title>The David Rubenstein Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129160000 +0000" channel="38">
+    <title>The Circuit</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965499?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129170000 +0000" channel="38">
+    <title>Bloomberg Wall Street Week</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956538?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129173000 +0000" channel="38">
+    <title>The David Rubenstein Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956911?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129180000 +0000" channel="38">
+    <title>Best Of The Bloomberg Women, Money &amp; Power Event</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129183000 +0000" channel="38">
+    <title>Bloomberg Investigates</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965504?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="38">
+    <title>Posthuman</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965491?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

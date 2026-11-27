@@ -3,31 +3,6 @@
   <channel id="123">
     <display-name>Channel 129</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="123">
-    <title>UFC Fight Night - Prochazka vs Stirling</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="123">
-    <title>UCL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="123">
-    <title>UEL/UECL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="123">
-    <title>NZ vs IND 2026 -1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124173000 +0000" channel="123">
-    <title>Extraaa Innings - Post Show</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968377?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124173000 +0000" stop="20261124213000 +0000" channel="123">
     <title>UFC 334 Gane vs Hokit</title>
     <desc />
@@ -459,6 +434,25 @@
   </programme>
   <programme start="20261129133000 +0000" stop="20261129160000 +0000" channel="123">
     <title>Live Indian Super League 2026-27 East Bengal FC vs Mohun Bagan Super Giant</title>
+    <desc />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129163000 +0000" channel="123">
+    <title>NZ vs IND 2026 -2nd Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129173000 +0000" channel="123">
+    <title>Extraaa Innings - Post Show</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968377?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129180000 +0000" channel="123">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129190000 +0000" channel="123">
+    <title>UEL 2026-27 Highlightss :League Phase MD5</title>
     <desc />
   </programme>
 </tv>

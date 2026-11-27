@@ -3,26 +3,6 @@
   <channel id="125">
     <display-name>Channel 131</display-name>
   </channel>
-  <programme start="20261124121000 +0000" stop="20261124140000 +0000" channel="125">
-    <title>Nations Championship England v New Zealand</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968988?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124155000 +0000" channel="125">
-    <title>Nations Championship Scotland v Japan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969262?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124155000 +0000" stop="20261124162000 +0000" channel="125">
-    <title>5 and 6 Nations Classics 2009 - Italy v Ireland</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966623?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124162000 +0000" stop="20261124181000 +0000" channel="125">
-    <title>Nations Championship Ireland v South Africa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969263?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124181000 +0000" stop="20261124200000 +0000" channel="125">
     <title>Nations Championship Italy v Fiji</title>
     <desc />
@@ -443,6 +423,20 @@
   </programme>
   <programme start="20261129130000 +0000" stop="20261129151000 +0000" channel="125">
     <title>Live Nations Championship Scotland v Argentina</title>
+    <desc />
+  </programme>
+  <programme start="20261129151000 +0000" stop="20261129153000 +0000" channel="125">
+    <title>Premier Sports Extra Premier Sports Extra</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/714028?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129163000 +0000" channel="125">
+    <title>5 &amp; 6 Nations Legends</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966841?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129184000 +0000" channel="125">
+    <title>Live Nations Championship South Africa v France</title>
     <desc />
   </programme>
 </tv>

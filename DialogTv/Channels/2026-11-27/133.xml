@@ -3,21 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261124125500 +0000" stop="20261124144500 +0000" channel="133">
-    <title>Wanted: Dead Or Alive</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124144500 +0000" stop="20261124162500 +0000" channel="133">
-    <title>Doomsday</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966324?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124162500 +0000" stop="20261124180500 +0000" channel="133">
-    <title>The Dark Tower</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180500 +0000" stop="20261124195000 +0000" channel="133">
     <title>Across The Tracks</title>
     <desc />
@@ -337,5 +322,15 @@
     <title>The Tomorrow War</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/970359?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129152000 +0000" stop="20261129165500 +0000" channel="133">
+    <title>The Bodyguard From Beijing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129165500 +0000" stop="20261129184500 +0000" channel="133">
+    <title>Ghost Rider</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963935?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

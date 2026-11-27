@@ -3,28 +3,6 @@
   <channel id="140">
     <display-name>Channel 2381</display-name>
   </channel>
-  <programme start="20261124101500 +0000" stop="20261124140000 +0000" channel="140">
-    <title>Live ACC Men's Asia Cup Rising Stars 2026 India vs UAE</title>
-    <desc />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="140">
-    <title>NZ vs IND 2026 -1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="140">
-    <title>DP World Men's Asia Cup Rising Stars 2026 : India vs UAE Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124164500 +0000" channel="140">
-    <title>DP World Men's Asia Cup Rising Stars 2026 : India A vs Pakistan A Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969407?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124164500 +0000" stop="20261124174500 +0000" channel="140">
-    <title>DP World Men's Asia Cup Rising Stars 2026 : India vs UAE Highlights</title>
-    <desc />
-  </programme>
   <programme start="20261124174500 +0000" stop="20261124194500 +0000" channel="140">
     <title>Live UEFA Champions League 2026/27 Bodo/Glimt vs LASK</title>
     <desc />
@@ -604,5 +582,19 @@
     <title>Live Extraaa Innings</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129141500 +0000" stop="20261129180000 +0000" channel="140">
+    <title>Live ACC Men's Asia Cup Rising Stars 2026 Final</title>
+    <desc />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129183000 +0000" channel="140">
+    <title>Live Extraaa Innings</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967089?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="140">
+    <title>NZ vs IND 2026 -2nd Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969624?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

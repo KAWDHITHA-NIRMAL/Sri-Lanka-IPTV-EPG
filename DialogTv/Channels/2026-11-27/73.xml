@@ -3,21 +3,6 @@
   <channel id="73">
     <display-name>Channel 80</display-name>
   </channel>
-  <programme start="20261124120000 +0000" stop="20261124140000 +0000" channel="73">
-    <title>Passenger 57</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966973?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124161500 +0000" channel="73">
-    <title>The Ring Two</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967803?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124161500 +0000" stop="20261124183000 +0000" channel="73">
-    <title>The Bounty Hunter</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967801?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124201500 +0000" channel="73">
     <title>Ultraviolet</title>
     <desc />
@@ -272,5 +257,15 @@
     <title>Ice Castles</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/970182?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129170000 +0000" channel="73">
+    <title>The English Patient</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968900?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129190000 +0000" channel="73">
+    <title>Megamind</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968901?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,21 +3,6 @@
   <channel id="114">
     <display-name>Channel 120</display-name>
   </channel>
-  <programme start="20261124130000 +0000" stop="20261124143000 +0000" channel="114">
-    <title>Old School</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965889?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124160000 +0000" channel="114">
-    <title>Him</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965897?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124165000 +0000" channel="114">
-    <title>The Pitt S1</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958542?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124165000 +0000" stop="20261124190500 +0000" channel="114">
     <title>Wuthering Heights</title>
     <desc />
@@ -350,6 +335,20 @@
   </programme>
   <programme start="20261129130000 +0000" stop="20261129143500 +0000" channel="114">
     <title>Jurassic Park Iii</title>
+    <desc />
+  </programme>
+  <programme start="20261129143500 +0000" stop="20261129163000 +0000" channel="114">
+    <title>Red Sonja</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969255?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129180500 +0000" channel="114">
+    <title>Paranormal Activity 2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/966116?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180500 +0000" stop="20261129195500 +0000" channel="114">
+    <title>XXX: Return Of Xander Cage</title>
     <desc />
   </programme>
 </tv>

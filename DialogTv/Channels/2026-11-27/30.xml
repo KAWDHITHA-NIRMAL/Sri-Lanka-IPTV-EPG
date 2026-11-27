@@ -3,46 +3,6 @@
   <channel id="30">
     <display-name>Channel 36</display-name>
   </channel>
-  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="30">
-    <title>Newshour: The World Now</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967084?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="30">
-    <title>The Listening Post</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="30">
-    <title>Newshour: The Wider Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967495?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="30">
-    <title>News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="30">
-    <title>The Bottom Line</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953045?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="30">
-    <title>News 30Min: Lives In Focus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967085?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="30">
-    <title>Inside Story</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="30">
     <title>Newshour</title>
     <desc />
@@ -932,5 +892,45 @@
     <title>Newshour: The World Now</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967084?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129143000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129150000 +0000" channel="30">
+    <title>Making Peace</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961563?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129160000 +0000" channel="30">
+    <title>Newshour: The Wider Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967495?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129163000 +0000" channel="30">
+    <title>News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956437?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129170000 +0000" channel="30">
+    <title>The Art Of Negotiation</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968596?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129173000 +0000" channel="30">
+    <title>News 30Min: Lives In Focus</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967085?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129180000 +0000" channel="30">
+    <title>Inside Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956405?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129190000 +0000" channel="30">
+    <title>Newshour</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956438?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

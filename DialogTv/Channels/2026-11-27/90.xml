@@ -3,16 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261124110000 +0000" stop="20261124140000 +0000" channel="90">
-    <title>Zakhmi Aurat</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965961?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124170000 +0000" channel="90">
-    <title>Mera Karam Mera Dharam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964054?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124170000 +0000" stop="20261124200000 +0000" channel="90">
     <title>Ranbanka</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Ek Se Bure Do</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969187?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129170000 +0000" channel="90">
+    <title>Falak</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969188?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129200000 +0000" channel="90">
+    <title>Mera Faisla (1984)</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969189?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

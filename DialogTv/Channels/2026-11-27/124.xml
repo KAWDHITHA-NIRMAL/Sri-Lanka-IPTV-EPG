@@ -3,20 +3,6 @@
   <channel id="124">
     <display-name>Channel 130</display-name>
   </channel>
-  <programme start="20261124123000 +0000" stop="20261124170000 +0000" channel="124">
-    <title>Live Test Twenty Qualifier 1</title>
-    <desc />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="124">
-    <title>Best of the Test-NZ v IND 2026 1st Test</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969478?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124173000 +0000" stop="20261124183000 +0000" channel="124">
-    <title>New Zealand vs India 2026 - 1st Test Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="124">
     <title>Men's Asia Cup Rising Stars 2026 India vs Pakistan Highlights</title>
     <desc />
@@ -481,6 +467,19 @@
   </programme>
   <programme start="20261129083000 +0000" stop="20261129170000 +0000" channel="124">
     <title>Live Test Twenty Final</title>
+    <desc />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129173000 +0000" channel="124">
+    <title>New Zealand vs India 2026 - 2nd Test Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129183000 +0000" channel="124">
+    <title>New Zealand vs India 2026 - 1st Test Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968234?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="124">
+    <title>New Zealand vs India 2026 - 2nd Test Highlights</title>
     <desc />
   </programme>
 </tv>

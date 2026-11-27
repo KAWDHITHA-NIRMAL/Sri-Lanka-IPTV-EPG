@@ -3,21 +3,6 @@
   <channel id="117">
     <display-name>Channel 123</display-name>
   </channel>
-  <programme start="20261124122500 +0000" stop="20261124140000 +0000" channel="117">
-    <title>Daddy'S Home</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967572?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124154000 +0000" channel="117">
-    <title>Daddy'S Home 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967844?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124154000 +0000" stop="20261124174000 +0000" channel="117">
-    <title>Spin The Bottle</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967845?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124174000 +0000" stop="20261124190000 +0000" channel="117">
     <title>Scary Movie 2</title>
     <desc />
@@ -347,5 +332,20 @@
     <title>The Brothers Grimm</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969258?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129160500 +0000" channel="117">
+    <title>M3Gan 2.0</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955366?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160500 +0000" stop="20261129175500 +0000" channel="117">
+    <title>Death Of A Unicorn</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969259?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129175500 +0000" stop="20261129195500 +0000" channel="117">
+    <title>The Many Saints Of Newark</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969260?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

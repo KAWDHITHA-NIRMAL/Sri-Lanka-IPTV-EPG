@@ -3,46 +3,6 @@
   <channel id="96">
     <display-name>Channel 103</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="96">
-    <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951192?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="96">
-    <title>Azhagae Azhagu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/768188?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="96">
-    <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952785?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="96">
-    <title>Ayyanar Thunai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="96">
-    <title>Siragadikka Aasai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950958?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10 Plus</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/951193?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124173000 +0000" stop="20261124183000 +0000" channel="96">
-    <title>Bigg Boss Tamil S10</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/959007?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124190000 +0000" channel="96">
     <title>Azhagae Azhagu</title>
     <desc />
@@ -892,5 +852,30 @@
     <title>Super Singer S12</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968919?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129150000 +0000" channel="96">
+    <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/952785?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129153000 +0000" channel="96">
+    <title>Ayyanar Thunai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951189?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129160000 +0000" channel="96">
+    <title>Siragadikka Aasai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950958?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129173000 +0000" channel="96">
+    <title>Bigg Boss Tamil S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959007?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129190000 +0000" channel="96">
+    <title>Bigg Boss Tamil S10</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959007?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

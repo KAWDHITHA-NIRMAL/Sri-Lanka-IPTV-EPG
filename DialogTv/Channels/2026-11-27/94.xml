@@ -3,31 +3,6 @@
   <channel id="94">
     <display-name>Channel 101</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="94">
-    <title>Enge Brahamanan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953249?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="94">
-    <title>Sani Bhagavan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952120?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="94">
-    <title>Simran Thirai</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968132?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="94">
-    <title>Sahana</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/952918?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124163000 +0000" channel="94">
-    <title>Katha Kelu Katha Kelu</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/961570?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124163000 +0000" stop="20261124193000 +0000" channel="94">
     <title>Veluchamy</title>
     <desc />
@@ -501,5 +476,20 @@
   <programme start="20261129130000 +0000" stop="20261129143000 +0000" channel="94">
     <title>Vijay Asin</title>
     <desc />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129160000 +0000" channel="94">
+    <title>Jackpot</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/951070?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129170000 +0000" channel="94">
+    <title>Mic Test 123</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961756?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129200000 +0000" channel="94">
+    <title>Thiru Moorthy</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969244?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

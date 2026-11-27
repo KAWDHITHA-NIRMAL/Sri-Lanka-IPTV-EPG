@@ -3,16 +3,6 @@
   <channel id="92">
     <display-name>Channel 99</display-name>
   </channel>
-  <programme start="20261124120000 +0000" stop="20261124150000 +0000" channel="92">
-    <title>Manikarnika: The Queen of Jhansi</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124180000 +0000" channel="92">
-    <title>Kuruthi Attam</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969183?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124220000 +0000" channel="92">
     <title>Hum Saath Saath Hain</title>
     <desc />
@@ -207,5 +197,15 @@
     <title>Velle</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969194?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129180000 +0000" channel="92">
+    <title>Gadar: Ek Prem Katha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968695?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129210000 +0000" channel="92">
+    <title>Toilet: Ek Prem Katha</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968694?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

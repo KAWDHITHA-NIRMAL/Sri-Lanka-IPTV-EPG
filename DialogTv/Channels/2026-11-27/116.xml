@@ -3,21 +3,6 @@
   <channel id="116">
     <display-name>Channel 122</display-name>
   </channel>
-  <programme start="20261124130000 +0000" stop="20261124144000 +0000" channel="116">
-    <title>The Vanishing Soldier</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963035?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124144000 +0000" stop="20261124162000 +0000" channel="116">
-    <title>Margherita Hack - The Lady Of The Stars</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124162000 +0000" stop="20261124173500 +0000" channel="116">
-    <title>Europa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965874?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124173500 +0000" stop="20261124193000 +0000" channel="116">
     <title>To My Beloved</title>
     <desc />
@@ -361,5 +346,20 @@
   <programme start="20261129130000 +0000" stop="20261129144000 +0000" channel="116">
     <title>The Volunteer</title>
     <desc />
+  </programme>
+  <programme start="20261129144000 +0000" stop="20261129162500 +0000" channel="116">
+    <title>Running On Sand</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965962?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129162500 +0000" stop="20261129175500 +0000" channel="116">
+    <title>Ave</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967566?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129175500 +0000" stop="20261129193500 +0000" channel="116">
+    <title>Midnight At The Paradise</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967565?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

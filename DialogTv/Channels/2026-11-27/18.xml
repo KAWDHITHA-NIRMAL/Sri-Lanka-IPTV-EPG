@@ -3,26 +3,6 @@
   <channel id="18">
     <display-name>Channel 24</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124160000 +0000" channel="18">
-    <title>Wesathuru Siritha</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967628?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="18">
-    <title>Panduwasnuwara Rajamaha Viharaya - Paduwasnuwara</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967771?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="18">
-    <title>Botale Rajamaha Viharaya - Abeepussa</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967772?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="18">
-    <title>Alutepola Rajamaha Viharaya - Menuwangoda</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967773?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124173000 +0000" stop="20261124200000 +0000" channel="18">
     <title>Wesathuru Siritha</title>
     <desc />
@@ -603,5 +583,25 @@
     <title>Sonduru Wasanthe</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969115?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129163000 +0000" channel="18">
+    <title>Guru Geethaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129170000 +0000" channel="18">
+    <title>Guru Geethaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129173000 +0000" channel="18">
+    <title>Guru Geethaya</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968593?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129200000 +0000" channel="18">
+    <title>Siril Malli</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968594?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

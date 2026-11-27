@@ -3,16 +3,6 @@
   <channel id="44">
     <display-name>Channel 50</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="44">
-    <title>Pyaar Tune Kya Kiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950081?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124163000 +0000" channel="44">
-    <title>Fomo Tunes</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124163000 +0000" stop="20261124185200 +0000" channel="44">
     <title>Fear Files</title>
     <desc />
@@ -541,5 +531,25 @@
     <title>Fomo Tunes</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129143000 +0000" channel="44">
+    <title>Fomo Tunes</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950077?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129163000 +0000" channel="44">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/955124?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129173000 +0000" channel="44">
+    <title>Fear Files</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129173000 +0000" stop="20261129185400 +0000" channel="44">
+    <title>Fear Files</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/62279?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

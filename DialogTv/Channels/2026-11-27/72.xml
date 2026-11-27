@@ -3,21 +3,6 @@
   <channel id="72">
     <display-name>Channel 79</display-name>
   </channel>
-  <programme start="20261124120000 +0000" stop="20261124140000 +0000" channel="72">
-    <title>Renegades (The Lake)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967807?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124160000 +0000" channel="72">
-    <title>Shinjuku Incident</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967808?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124180000 +0000" channel="72">
-    <title>Jackdaw</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967520?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124180000 +0000" stop="20261124200000 +0000" channel="72">
     <title>Mayhem</title>
     <desc />
@@ -307,5 +292,20 @@
     <title>Iron Claw</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/966035?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129160000 +0000" channel="72">
+    <title>Flashbacks Of A Fool</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969169?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129180000 +0000" channel="72">
+    <title>Dragged Across Concrete</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968914?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129200000 +0000" channel="72">
+    <title>A Chinese Tall Story</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968915?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

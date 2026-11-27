@@ -3,21 +3,6 @@
   <channel id="101">
     <display-name>Channel 108</display-name>
   </channel>
-  <programme start="20261124130000 +0000" stop="20261124160000 +0000" channel="101">
-    <title>Kalki 2898 Ad</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124181800 +0000" channel="101">
-    <title>Identity</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966592?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124181800 +0000" stop="20261124183000 +0000" channel="101">
-    <title>Fillers</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957701?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124192700 +0000" channel="101">
     <title>Free Ticket</title>
     <desc />
@@ -267,5 +252,15 @@
     <title>Sirai</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969222?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129163000 +0000" channel="101">
+    <title>Kurangu Bommai</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969223?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129190000 +0000" channel="101">
+    <title>CBI 5</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967219?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,41 +3,6 @@
   <channel id="5">
     <display-name>Channel 15</display-name>
   </channel>
-  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="5">
-    <title>Super Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="5">
-    <title>Iniya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957093?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="5">
-    <title>Main News Live</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956338?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="5">
-    <title>Chandraleka</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956757?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="5">
-    <title>Ilakkiya</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957172?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="5">
-    <title>On Air Politics</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/958189?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124183000 +0000" channel="5">
-    <title>Super Scene</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957174?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124183000 +0000" stop="20261124213000 +0000" channel="5">
     <title>Filler</title>
     <desc />
@@ -597,5 +562,25 @@
     <title>M Studio</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/949468?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129150000 +0000" channel="5">
+    <title>Main News Live</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956338?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129160000 +0000" channel="5">
+    <title>Sutrivarum Bhoomi - Thoduvanam</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/940572?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129183000 +0000" channel="5">
+    <title>Movie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956336?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129183000 +0000" stop="20261129213000 +0000" channel="5">
+    <title>Filler</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957175?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

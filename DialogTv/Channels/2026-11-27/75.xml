@@ -3,21 +3,6 @@
   <channel id="75">
     <display-name>Channel 77</display-name>
   </channel>
-  <programme start="20261124122500 +0000" stop="20261124140000 +0000" channel="75">
-    <title>Drop</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967523?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="75">
-    <title>The Gilded Age S4</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/963545?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124150000 +0000" stop="20261124170500 +0000" channel="75">
-    <title>Jurassic Park</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967822?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124170500 +0000" stop="20261124185000 +0000" channel="75">
     <title>Practical Magic</title>
     <desc />
@@ -387,5 +372,25 @@
     <title>The Gilded Age S4</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963545?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129150000 +0000" channel="75">
+    <title>Dr. Death S2</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/957019?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129163000 +0000" channel="75">
+    <title>The Stepford Wives</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/962797?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129181500 +0000" channel="75">
+    <title>No Reservations</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/959104?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129181500 +0000" stop="20261129200000 +0000" channel="75">
+    <title>Coma</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963604?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>
