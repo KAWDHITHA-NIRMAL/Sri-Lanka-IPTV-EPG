@@ -3,61 +3,6 @@
   <channel id="133">
     <display-name>Channel 2383</display-name>
   </channel>
-  <programme start="20261123181000 +0000" stop="20261123194000 +0000" channel="133">
-    <title>Tin Man Part 2</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123194000 +0000" stop="20261123211000 +0000" channel="133">
-    <title>Tin Man Part 3</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123211000 +0000" stop="20261123223500 +0000" channel="133">
-    <title>Jumper</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123223500 +0000" stop="20261124010500 +0000" channel="133">
-    <title>Apocalypto</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967248?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124010500 +0000" stop="20261124024000 +0000" channel="133">
-    <title>Behind Enemy Lines</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965324?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124024000 +0000" stop="20261124040500 +0000" channel="133">
-    <title>Jumper</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/950761?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124040500 +0000" stop="20261124054500 +0000" channel="133">
-    <title>The Dark Tower</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965326?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124054500 +0000" stop="20261124073000 +0000" channel="133">
-    <title>Across The Tracks</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967012?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124073000 +0000" stop="20261124094000 +0000" channel="133">
-    <title>White House Down</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957513?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124094000 +0000" stop="20261124111500 +0000" channel="133">
-    <title>Rambo: First Blood Part II</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966323?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124111500 +0000" stop="20261124125500 +0000" channel="133">
-    <title>The Big Boss</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966322?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124125500 +0000" stop="20261124144500 +0000" channel="133">
     <title>Wanted: Dead Or Alive</title>
     <desc />
@@ -326,6 +271,7 @@
   <programme start="20261128125500 +0000" stop="20261128143500 +0000" channel="133">
     <title>7500</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970360?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261128143500 +0000" stop="20261128161000 +0000" channel="133">
     <title>Tin Man Part 1</title>
@@ -341,5 +287,55 @@
     <title>Tin Man Part 3</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/967247?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128191000 +0000" stop="20261128205500 +0000" channel="133">
+    <title>Across The Tracks</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967012?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128205500 +0000" stop="20261128223500 +0000" channel="133">
+    <title>The Dark Tower</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965326?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128223500 +0000" stop="20261129001000 +0000" channel="133">
+    <title>The Bodyguard From Beijing</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967580?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129001000 +0000" stop="20261129021500 +0000" channel="133">
+    <title>Godzilla Minus One</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/963699?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129021500 +0000" stop="20261129044000 +0000" channel="133">
+    <title>Gone Girl</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969274?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129044000 +0000" stop="20261129064000 +0000" channel="133">
+    <title>Gods Of Egypt</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967246?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129064000 +0000" stop="20261129091000 +0000" channel="133">
+    <title>Apocalypto</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/967248?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129091000 +0000" stop="20261129110500 +0000" channel="133">
+    <title>The Chronicles Of Riddick</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965047?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129110500 +0000" stop="20261129125500 +0000" channel="133">
+    <title>Daylight</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965881?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129125500 +0000" stop="20261129152000 +0000" channel="133">
+    <title>The Tomorrow War</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970359?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

@@ -3,42 +3,6 @@
   <channel id="62">
     <display-name>Channel 2126</display-name>
   </channel>
-  <programme start="20261123183000 +0000" stop="20261123203000 +0000" channel="62">
-    <title>Highlights - International Schools' Swimming Championship - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123203000 +0000" stop="20261124010000 +0000" channel="62">
-    <title>Repeat - Tecno SAFF Championship - 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124030000 +0000" channel="62">
-    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="62">
-    <title>Highlights - MCA Super Premier League - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969126?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124053000 +0000" channel="62">
-    <title>Highlights - Zimbabwe Tour of Afghanistan - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965449?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124053000 +0000" stop="20261124073000 +0000" channel="62">
-    <title>Live - South Asian Technologies vs David Pieris Group - MCA Contenders League T20 Cricket Tournament 2027</title>
-    <desc />
-  </programme>
-  <programme start="20261124073000 +0000" stop="20261124093000 +0000" channel="62">
-    <title>Live - South Africa vs Bangladesh - Day 02 - 2nd Test - Bangladesh tour of South Africa 2026</title>
-    <desc />
-  </programme>
-  <programme start="20261124093000 +0000" stop="20261124123000 +0000" channel="62">
-    <title>Live - South Africa vs Bangladesh - Day 02 - 2nd Test - Bangladesh tour of South Africa 2026</title>
-    <desc />
-  </programme>
   <programme start="20261124123000 +0000" stop="20261124163000 +0000" channel="62">
     <title>Live - South Africa vs Bangladesh - Day 02 - 2nd Test - Bangladesh tour of South Africa 2026</title>
     <desc />
@@ -202,18 +166,24 @@
   <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="62">
     <title>Highlights - ICC Women's Emerging Nations Trophy - 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970168?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127060000 +0000" stop="20261127073000 +0000" channel="62">
     <title>Highlights - Australia tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/956943?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261127073000 +0000" stop="20261127113000 +0000" channel="62">
+  <programme start="20261127073000 +0000" stop="20261127103000 +0000" channel="62">
     <title>Live - South Africa vs Bangladesh - Day 05 - 2nd Test - Bangladesh tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969949?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261127113000 +0000" stop="20261127163000 +0000" channel="62">
+  <programme start="20261127103000 +0000" stop="20261127123000 +0000" channel="62">
+    <title>Live - South Africa vs Bangladesh - Day 05 - 2nd Test - Bangladesh tour of South Africa 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969949?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127163000 +0000" channel="62">
     <title>Live - South Africa vs Bangladesh - Day 05 - 2nd Test - Bangladesh tour of South Africa 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969949?accessKey=WkVjNWNscFhORDBLCg==" />
@@ -249,12 +219,16 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/969980?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128080000 +0000" channel="62">
-    <title>Live - QF 01 - MCA Challengers League 2026</title>
+  <programme start="20261128040000 +0000" stop="20261128063000 +0000" channel="62">
+    <title>Live - Dialog Axiata vs Central Finance - QF 01 - MCA Challengers League 2026</title>
     <desc />
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128120000 +0000" channel="62">
-    <title>Live - QF 01 - MCA Challengers League 2026</title>
+  <programme start="20261128063000 +0000" stop="20261128093000 +0000" channel="62">
+    <title>Live - Dialog Axiata vs Central Finance - QF 01 - MCA Challengers League 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128093000 +0000" stop="20261128120000 +0000" channel="62">
+    <title>Live - Dialog Axiata vs Central Finance - QF 01 - MCA Challengers League 2026</title>
     <desc />
   </programme>
   <programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="62">
@@ -280,5 +254,39 @@
     <title>Highlights - FIFA World Cup 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/963969?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128233000 +0000" channel="62">
+    <title>Repeat - ICC Women's Emerging Nations Trophy - 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970170?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129010000 +0000" channel="62">
+    <title>Highlights - England tour of Australia 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129020000 +0000" channel="62">
+    <title>Highlights - Major Clubs 50 Over Tournament 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129020000 +0000" stop="20261129030000 +0000" channel="62">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129063000 +0000" channel="62">
+    <title>Live - Dinking Divas Season Finale</title>
+    <desc />
+  </programme>
+  <programme start="20261129063000 +0000" stop="20261129093000 +0000" channel="62">
+    <title>Live - Dinking Divas Season Finale</title>
+    <desc />
+  </programme>
+  <programme start="20261129093000 +0000" stop="20261129123000 +0000" channel="62">
+    <title>Live - Dinking Divas Season Finale</title>
+    <desc />
+  </programme>
+  <programme start="20261129123000 +0000" stop="20261129150000 +0000" channel="62">
+    <title>Live - Dinking Divas Season Finale</title>
+    <desc />
   </programme>
 </tv>

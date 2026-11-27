@@ -3,45 +3,6 @@
   <channel id="63">
     <display-name>Channel 70</display-name>
   </channel>
-  <programme start="20261123183000 +0000" stop="20261123203000 +0000" channel="63">
-    <title>Repeat - Dialog Play Super League - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969324?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123203000 +0000" stop="20261124003000 +0000" channel="63">
-    <title>Highlights - International Schools' Swimming Championship - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969075?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124003000 +0000" stop="20261124013000 +0000" channel="63">
-    <title>Highlights - 34th MSBA League - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969071?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124013000 +0000" stop="20261124030000 +0000" channel="63">
-    <title>Highlights - Sri Lanka tour of Pakistan - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/968778?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124043000 +0000" channel="63">
-    <title>Highlights - Afghanistan ODI Tri-Nation Series - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969325?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124043000 +0000" stop="20261124063000 +0000" channel="63">
-    <title>Highlights - Pak vs SL vs ENG - ODI Tri Series - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/960826?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124063000 +0000" stop="20261124080000 +0000" channel="63">
-    <title>Highlights - Australia tour of South Africa - 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/953703?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124123000 +0000" channel="63">
-    <title>Live - Australia vs England - 2nd T20I - England tour of Australia 2026</title>
-    <desc />
-  </programme>
   <programme start="20261124123000 +0000" stop="20261124140000 +0000" channel="63">
     <title>Highlights - Afghanistan ODI Tri-Nation Series - 2026</title>
     <desc />
@@ -218,8 +179,13 @@
   <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="63">
     <title>Highlights -  ICC Women's Emerging Nations Trophy - 2026</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970168?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261127140000 +0000" stop="20261127183000 +0000" channel="63">
+  <programme start="20261127140000 +0000" stop="20261127153000 +0000" channel="63">
+    <title>Live - Sharjah Warriorz vs Dubai Capitals - DP World ILT20 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261127153000 +0000" stop="20261127183000 +0000" channel="63">
     <title>Live - Sharjah Warriorz vs Dubai Capitals - DP World ILT20 2026</title>
     <desc />
   </programme>
@@ -255,25 +221,23 @@
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128073000 +0000" channel="63">
-    <title>Live - McLarens Group vs EXPO Lanka - MCA Contenders League T20 Cricket Tournament 2027</title>
+  <programme start="20261128040000 +0000" stop="20261128063000 +0000" channel="63">
+    <title>Live - Kekirawa Central College vs President College, Embilipitiya - Final - U17 Division III Tournament 2026</title>
     <desc />
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="63">
-    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+  <programme start="20261128063000 +0000" stop="20261128093000 +0000" channel="63">
+    <title>Live - Kekirawa Central College vs President College, Embilipitiya - Final - U17 Division III Tournament 2026</title>
     <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128093000 +0000" channel="63">
-    <title>Highlights - Tecno SAFF Championship 2026</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/966067?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261128093000 +0000" stop="20261128140000 +0000" channel="63">
     <title>Live - MI Emirates vs Desert Vipers - DP World ILT20 2026</title>
     <desc />
   </programme>
-  <programme start="20261128140000 +0000" stop="20261128183000 +0000" channel="63">
+  <programme start="20261128140000 +0000" stop="20261128153000 +0000" channel="63">
+    <title>Live - Gulf Giants vs Dubai Capitals - DP World ILT20 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128183000 +0000" channel="63">
     <title>Live - Gulf Giants vs Dubai Capitals - DP World ILT20 2026</title>
     <desc />
   </programme>
@@ -281,5 +245,52 @@
     <title>Repeat - Dialog Play Super League 2026</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/960990?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261129000500 +0000" channel="63">
+    <title>Repeat- Sri Lanka tour of Pakistan 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129000500 +0000" stop="20261129003000 +0000" channel="63">
+    <title>Highlights - Sri Lanka Tour of Pakistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/956798?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129003000 +0000" stop="20261129013000 +0000" channel="63">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129030000 +0000" channel="63">
+    <title>Highlights - ICC Women's Emerging Nations Trophy - 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970168?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129040000 +0000" channel="63">
+    <title>Highlights - West Indies tour of India 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969988?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129073000 +0000" channel="63">
+    <title>Live - Emarpharma vs David Pieris Group - MCA Contenders League T20 Cricket Tournament 2027</title>
+    <desc />
+  </programme>
+  <programme start="20261129073000 +0000" stop="20261129080000 +0000" channel="63">
+    <title>Highlights - England tour of Australia 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969327?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129123000 +0000" channel="63">
+    <title>Live - Australia vs England - 4th T20I - England tour of Australia 2026</title>
+    <desc />
+  </programme>
+  <programme start="20261129123000 +0000" stop="20261129130000 +0000" channel="63">
+    <title>Highlights - Zimbabwe Tour of Afghanistan 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/965449?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129130000 +0000" stop="20261129140000 +0000" channel="63">
+    <title>Highlights - Dialog Play Super League 2026</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/961536?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

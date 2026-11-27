@@ -3,36 +3,6 @@
   <channel id="90">
     <display-name>Channel 97</display-name>
   </channel>
-  <programme start="20261123170000 +0000" stop="20261123200000 +0000" channel="90">
-    <title>Guddu Ki Gun</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/964833?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123200000 +0000" stop="20261123230000 +0000" channel="90">
-    <title>Pithamagan</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967543?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123230000 +0000" stop="20261124020000 +0000" channel="90">
-    <title>Rustum</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962277?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124050000 +0000" channel="90">
-    <title>Anokhi Ada (1973)</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/965883?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124080000 +0000" channel="90">
-    <title>Avinash</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/962196?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124110000 +0000" channel="90">
-    <title>Wafadaar</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/957903?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124110000 +0000" stop="20261124140000 +0000" channel="90">
     <title>Zakhmi Aurat</title>
     <desc />
@@ -207,5 +177,35 @@
     <title>Race (2019)</title>
     <desc />
     <icon src="https://api1.viu.lk/api/client/v1/global/images/968947?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128230000 +0000" channel="90">
+    <title>Demon</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968948?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129020000 +0000" channel="90">
+    <title>The Real Hunter</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/960885?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129020000 +0000" stop="20261129050000 +0000" channel="90">
+    <title>Blackmail</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969184?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129050000 +0000" stop="20261129080000 +0000" channel="90">
+    <title>Khel</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969185?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129110000 +0000" channel="90">
+    <title>Kaun Kare Kurbanie</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969186?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129140000 +0000" channel="90">
+    <title>Ek Se Bure Do</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969187?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
 </tv>

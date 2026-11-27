@@ -3,62 +3,6 @@
   <channel id="66">
     <display-name>Channel 73</display-name>
   </channel>
-  <programme start="20261123173000 +0000" stop="20261123213000 +0000" channel="66">
-    <title>UFC 334 Gane vs Hokit</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967415?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123213000 +0000" stop="20261123223000 +0000" channel="66">
-    <title>UEL/UECL 2026-27 Magazine Programme</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967161?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261123223000 +0000" stop="20261124003000 +0000" channel="66">
-    <title>Indian Super League 2026-27 Chennaiyin FC vs Punjab FC</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969040?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124003000 +0000" stop="20261124013000 +0000" channel="66">
-    <title>UFC 324 - Gaethje vs Pimblett</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969041?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="66">
-    <title>ISL 2026-27 MD 6 - Churchill Brothers FC vs Mohun Bagan Super Giant Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="66">
-    <title>Men's Asia Cup Rising Stars 2026 India vs Pakistan Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261124023000 +0000" stop="20261124033000 +0000" channel="66">
-    <title>ELMS 2026 Highlights</title>
-    <desc />
-  </programme>
-  <programme start="20261124033000 +0000" stop="20261124053000 +0000" channel="66">
-    <title>Indian Super League 2026-27 Churchill Brothers FC vs Mohun Bagan Super Giant</title>
-    <desc />
-  </programme>
-  <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="66">
-    <title>Men's Asia Cup Rising Stars 2026 India vs Pakistan Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969393?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124060000 +0000" stop="20261124093000 +0000" channel="66">
-    <title>Live ACC Men's Asia Cup Rising Stars 2026 Afghanistan vs Hong Kong, China</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124093000 +0000" stop="20261124100000 +0000" channel="66">
-    <title>ACC Men's U19 Asia Cup 2026 -Final Highlights</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/967049?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
-  <programme start="20261124100000 +0000" stop="20261124133000 +0000" channel="66">
-    <title>Live ACC Men's Asia Cup Rising Stars 2026 Afghanistan vs Hong Kong, China</title>
-    <desc />
-    <icon src="https://api1.viu.lk/api/client/v1/global/images/969411?accessKey=WkVjNWNscFhORDBLCg==" />
-  </programme>
   <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="66">
     <title>UFC Fight Night - Prochazka vs Stirling</title>
     <desc />
@@ -354,10 +298,12 @@
   <programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="66">
     <title>UEL 2026-27 League Phase MD 5 FC Viktoria Plzen vs SL Benfica Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970363?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="66">
     <title>UCL 2026-27 : League Phase MD 5 - MN Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970228?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261127190000 +0000" stop="20261127220000 +0000" channel="66">
     <title>UFC Reloaded 2026 UFC 329 - McGregor vs Holloway 2</title>
@@ -381,6 +327,7 @@
   <programme start="20261128013000 +0000" stop="20261128023000 +0000" channel="66">
     <title>UCL 2026-27 : League Phase MD 5 - MN Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970228?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="66">
     <title>ISL 2026-27 MD 7 - KSHI vs Churchill Brothers FC Highlights</title>
@@ -389,6 +336,7 @@
   <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="66">
     <title>UEL 2026-27 League Phase MD 5 Olympiacos FC vs AC Milan Highlights</title>
     <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970337?accessKey=WkVjNWNscFhORDBLCg==" />
   </programme>
   <programme start="20261128033000 +0000" stop="20261128043000 +0000" channel="66">
     <title>Sail GP 2026 (S6) Highlights Emirates Dubai Sail Grand Prix Dubai</title>
@@ -433,6 +381,84 @@
   </programme>
   <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="66">
     <title>UCL 2026-27 : League Phase MD 5 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970228?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="66">
+    <title>UFC Reloaded 2026 UFC Freedom 250 - Topuria vs Gaethje</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/968616?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128223000 +0000" channel="66">
+    <title>UCL 2026-27 League Phase MD 5 Club Brugge vs Liverpool Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970229?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261128223000 +0000" stop="20261129003000 +0000" channel="66">
+    <title>Indian Super League 2026-27 KSHI vs Churchill Brothers FC</title>
+    <desc />
+  </programme>
+  <programme start="20261129003000 +0000" stop="20261129013000 +0000" channel="66">
+    <title>UFC Fight Night - Emmett vs Vallejos</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129013000 +0000" stop="20261129023000 +0000" channel="66">
+    <title>UCL 2026-27 : League Phase MD 5 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970228?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129023000 +0000" stop="20261129033000 +0000" channel="66">
+    <title>UEL 2026-27 Highlightss :League Phase MD5</title>
+    <desc />
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129040000 +0000" channel="66">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129043000 +0000" channel="66">
+    <title>ISL 2026-27 MD 7 - KSHI vs Churchill Brothers FC Highlights</title>
+    <desc />
+  </programme>
+  <programme start="20261129043000 +0000" stop="20261129053000 +0000" channel="66">
+    <title>Sail GP 2026 (S6) Highlights Emirates Dubai Sail Grand Prix Dubai</title>
+    <desc />
+  </programme>
+  <programme start="20261129053000 +0000" stop="20261129063000 +0000" channel="66">
+    <title>ELMS 2026 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129063000 +0000" stop="20261129073000 +0000" channel="66">
+    <title>UCL 2026-27 : League Phase MD 5 - MN Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/970228?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129073000 +0000" stop="20261129080000 +0000" channel="66">
+    <title>UCL 2026-27 Magazine Programme</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/950123?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129090000 +0000" channel="66">
+    <title>Sail GP 2026 (S6) Highlights Emirates Dubai Sail Grand Prix Dubai</title>
+    <desc />
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129100000 +0000" channel="66">
+    <title>ELMS 2026 Highlights</title>
+    <desc />
+    <icon src="https://api1.viu.lk/api/client/v1/global/images/969412?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+  <programme start="20261129100000 +0000" stop="20261129113000 +0000" channel="66">
+    <title>Live Mubadala Abu Dhabi Sail GP</title>
+    <desc />
+  </programme>
+  <programme start="20261129113000 +0000" stop="20261129133000 +0000" channel="66">
+    <title>Live Indian Super League 2026-27 FC GOA vs Kerala Blasters FC</title>
+    <desc />
+  </programme>
+  <programme start="20261129133000 +0000" stop="20261129160000 +0000" channel="66">
+    <title>Live Indian Super League 2026-27 East Bengal FC vs Mohun Bagan Super Giant</title>
     <desc />
   </programme>
 </tv>
